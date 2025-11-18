@@ -31,47 +31,51 @@ if 'form_version' not in st.session_state:
 
 st.title('Gestion des Œuvres')
 
-if st.button("Git Pull"):
-    try:
-        result = subprocess.run(["git", "pull"], check=True, capture_output=True, text=True)
-        st.success("✅ Git pull effectué avec succès !")
-        st.text(result.stdout)
-    except subprocess.CalledProcessError as e:
-        st.error(f"⚠️ Erreur lors du git pull : {e.stderr}")
+colA, colB = st.columns([1, 1])
 
-# État pour afficher ou non la zone de commit
-if "show_commit_box" not in st.session_state:
-    st.session_state.show_commit_box = False
-
-# Premier bouton pour afficher la zone de commit
-if st.button("Git Commit & Push"):
-    st.session_state.show_commit_box = True
-
-# Affiche la zone de commit si le bouton a été cliqué
-if st.session_state.show_commit_box:
-    commit_message = st.text_input(
-        "Message de commit", 
-        f"Update {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
-    )
-    
-    if st.button("Valider Commit & Push"):
+with colA:
+    if st.button("⤵️ Télécharger les données (Git Pull)"):
         try:
-            # git add .
-            subprocess.run(["git", "add", "."], check=True)
-            
-            # git commit -m "message"
-            subprocess.run(["git", "commit", "-m", commit_message], check=True)
-            
-            # git push
-            subprocess.run(["git", "push"], check=True)
-            
-            st.success("✅ Repository mis à jour et push effectué !")
-            
-            # Réinitialiser l'affichage de la zone de commit
-            st.session_state.show_commit_box = False
-            
+            result = subprocess.run(["git", "pull"], check=True, capture_output=True, text=True)
+            st.success("✅ Git pull effectué avec succès !")
+            st.text(result.stdout)
         except subprocess.CalledProcessError as e:
-            st.error(f"⚠️ Erreur lors du git operation : {e}")
+            st.error(f"⚠️ Erreur lors du git pull : {e.stderr}")
+
+    # État pour afficher ou non la zone de commit
+    if "show_commit_box" not in st.session_state:
+        st.session_state.show_commit_box = False
+
+    # Premier bouton pour afficher la zone de commit
+    if st.button("⤴️ Ajouter les données sur GitHub (Git Commit & Push)"):
+        st.session_state.show_commit_box = True
+
+with colB:
+# Affiche la zone de commit si le bouton a été cliqué
+    if st.session_state.show_commit_box:
+        commit_message = st.text_input(
+            "Entrer le message de commit", 
+            f"Ajouts {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
+        )
+        
+        if st.button("Valider (Commit et Push)"):
+            try:
+                # git add .
+                subprocess.run(["git", "add", "."], check=True)
+                
+                # git commit -m "message"
+                subprocess.run(["git", "commit", "-m", commit_message], check=True)
+                
+                # git push
+                subprocess.run(["git", "push"], check=True)
+                
+                st.success("✅ Repository mis à jour et push effectué !")
+                
+                # Réinitialiser l'affichage de la zone de commit
+                st.session_state.show_commit_box = False
+                
+            except subprocess.CalledProcessError as e:
+                st.error(f"⚠️ Erreur lors du git operation : {e}")
 
 
 col1, col2 = st.columns([1, 2])
