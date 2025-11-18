@@ -1,0 +1,59 @@
+{
+  "oeuvres": [
+    {
+      "id": "VeroneseNocesCana",
+      "type_oeuvre": "Peinture",
+      "artiste": "Paul Véronèse",
+      "titre": "Noces",
+      "date": "1563",
+      "technique": "huile sur toile",
+      "ville": "Paris",
+      "institution": "Musée du Louvre",
+      "inventaire": "INV 142, MR 384"
+    },
+    {
+      "id": "LeonardJoconde",
+      "type_oeuvre": "Fresque",
+      "artiste": "Léonard de Vinci",
+      "titre": "La Joconde",
+      "date": "1503-1517",
+      "technique": "huile sur bois (peuplier)",
+      "ville": "Paris",
+      "institution": "Musée du Louvre",
+      "inventaire": "INV 779, MNR 265"
+    },
+    {
+      "id": "BotticelliNaissanceVenus",
+      "type_oeuvre": "Peinture",
+      "artiste": "Botticelli",
+      "titre": "Naissance de Venus",
+      "date": "vers 1485",
+      "technique": "tempera sur toile",
+      "ville": "Florence",
+      "institution": "Musée des Offices",
+      "inventaire": "INV 00158551"
+    },
+    {
+      "id": "",
+      "type_oeuvre": "Peinture",
+      "artiste": "Caravage",
+      "titre": "Caravage",
+      "date": "Caravage",
+      "technique": "huile sur bois (peuplier)",
+      "ville": "Florence",
+      "institution": "Musée des Offices",
+      "inventaire": ""
+    },
+    {
+      "id": "DurerPaysage",
+      "type_oeuvre": "Gravure",
+      "artiste": "AlbrechtDurer",
+      "titre": "Paysage",
+      "date": "1518",
+      "technique": "fresque",
+      "ville": "Paris",
+      "institution": "BnF",
+      "inventaire": ""
+    }
+  ]
+}
