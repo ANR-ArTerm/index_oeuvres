@@ -1,7 +1,11 @@
 {
       "id": "VeroneseNocesCana",
       "type_oeuvre": "Peinture",
-      "artiste": "Paul Véronèse",
+      "artistes": [
+        {"xml:id":"Veronese",
+        "role":"peintre"
+      }
+    ],
       "titre": "Noces",
       "date": "1563",
       "technique": "huile sur toile",

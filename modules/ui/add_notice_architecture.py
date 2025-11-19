@@ -7,19 +7,19 @@ import uuid
 
 from modules.data_loader import load_all_notices, save_notice, exist_notice
 
-def render_add_notice():
+def render_add_notice_architecture():
     # Ajout d'une form_key qui est incrémentée à chaque ajout pour vider le formulaire
-    if 'form_key' not in st.session_state:
-        st.session_state.form_key = 0
+    if 'form_key_architecture' not in st.session_state:
+        st.session_state.form_key_architecture = 0
 
     """
     Affiche le formulaire d'ajout de notice (réutilisable dans app.py ou pages/1_ajout_notice.py).
     """
 
-    st.header("➕ Ajouter une nouvelle notice")
+    st.header("➕ Ajouter une nouvelle notice Architecture")
 
     # Le formulaire
-    with st.form(key=f"form_new_notice_inline_{st.session_state.form_key}"):
+    with st.form(key=f"form_new_notice_architecture_{st.session_state.form_key_architecture}"):
         st.subheader("Informations générales")
         id_input = st.text_input("XML:ID de l'œuvre *", help="Champ obligatoire")
         lien_wikidata = st.text_input("Lien de la notice Wikidata")
@@ -101,9 +101,9 @@ def render_add_notice():
                 # Sauvegarde
                 path = save_notice(new_oeuvre)
                 st.success(f"✅ Notice ajoutée avec succès !\n\n📁 Fichier créé : `{path}`")
-                st.balloons()
+                st.snow()
 
                 #Incrémenter la session key
-                st.session_state.form_key += 1
+                st.session_state.form_key_architecture += 1
                 time.sleep(3)
                 st.rerun()

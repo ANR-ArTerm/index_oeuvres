@@ -2,8 +2,8 @@
       "id": "LeonardJoconde",
       "type_oeuvre": "Peinture",
       "lien_wikidata": "https://www.wikidata.org/wiki/Q151047",
-      "artiste": [
-        {"xml:id":"Léonard de Vinci",
+      "artistes": [
+        {"xml:id":"LeonardDeVinci",
         "role":"peintre"
       }
     ],
