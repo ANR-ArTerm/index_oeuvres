@@ -1,0 +1,125 @@
+import json
+import os
+
+DATA_DIR = "notices"
+
+import os
+import json
+
+import os
+import json
+
+def load_all_notices():
+    """
+    Charge tous les fichiers JSON du dossier DATA_DIR.
+    
+    Renvoie :
+        - oeuvres : liste des œuvres (dict)
+        - filenames : liste des chemins de fichiers correspondants
+        - existing_type : liste des types d'œuvres existants
+        - existing_artist : liste des xml:id des artistes existants
+        - existing_role : liste des rôles existants dans les artistes
+        - existing_technique : liste des techniques existantes
+        - existing_city : liste des villes existantes
+        - existing_institution : liste des institutions existantes
+    """
+    oeuvres = []
+    filenames = []
+
+    if not os.path.exists(DATA_DIR):
+        os.makedirs(DATA_DIR)
+
+    # --- Chargement JSON ---
+    for file in os.listdir(DATA_DIR):
+        if file.endswith(".json"):
+            path = os.path.join(DATA_DIR, file)
+            try:
+                with open(path, "r", encoding="utf-8") as f:
+                    data = json.load(f)
+                    oeuvres.append(data)
+                    filenames.append(path)
+            except (json.JSONDecodeError, FileNotFoundError) as e:
+                print(f"⚠️ Impossible de charger {path} : {e}")
+
+    # --- Fonctions utilitaires ---
+    def flatten_to_set(field):
+        """Renvoie un set des valeurs uniques pour un champ simple"""
+        result = set()
+        for o in oeuvres:
+            val = o.get(field)
+            if isinstance(val, list):
+                result.update([str(v) for v in val])
+            elif val:
+                result.add(str(val))
+        return sorted(result)
+
+    def flatten_artistes(oeuvres):
+        """Renvoie 2 sets : xml:id et roles"""
+        artists_set = set()
+        roles_set = set()
+        for o in oeuvres:
+            artistes = o.get("artistes", [])
+            for a in artistes:
+                if isinstance(a, dict):
+                    if "xml:id" in a:
+                        artists_set.add(a["xml:id"])
+                    if "role" in a:
+                        roles_set.add(a["role"])
+                elif isinstance(a, str):
+                    artists_set.add(a)
+        return sorted(artists_set), sorted(roles_set)
+
+    # --- Champs simples ---
+    existing_type = flatten_to_set("type_oeuvre")
+    existing_technique = flatten_to_set("technique")
+    existing_city = flatten_to_set("ville")
+    existing_institution = flatten_to_set("institution")
+
+    # --- Artistes & rôles ---
+    existing_artist, existing_role = flatten_artistes(oeuvres)
+
+    return (
+        oeuvres,
+        filenames,
+        existing_type,
+        existing_artist,
+        existing_role,
+        existing_technique,
+        existing_city,
+        existing_institution,
+    )
+
+def load_notice(path):
+    """
+    Charge un seul fichier JSON.
+    """
+    with open(path, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+
+def save_notice(oeuvre, path=None):
+    """
+    Sauvegarde une œuvre dans un fichier JSON.
+    Si path est None → utilise oeuvre['id'] comme nom de fichier.
+    """
+    if not os.path.exists(DATA_DIR):
+        os.makedirs(DATA_DIR)
+
+    if path is None:
+        id_oeuvre = oeuvre.get("id", "nouvelle_notice")
+        path = os.path.join(DATA_DIR, f"{id_oeuvre}.json")
+
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(oeuvre, f, ensure_ascii=False, indent=2)
+
+    return path
+
+def exist_notice(id):
+    path = os.path.join(DATA_DIR, f"{id}.json")
+    presence_notice = os.path.exists(path)
+    return presence_notice
+
+def delete_notice(path):
+    """Supprime définitivement une œuvre."""
+    if os.path.exists(path):
+        os.remove(path)

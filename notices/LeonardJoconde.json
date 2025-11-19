@@ -1,0 +1,16 @@
+{
+      "id": "LeonardJoconde",
+      "type_oeuvre": "Peinture",
+      "lien_wikidata": "https://www.wikidata.org/wiki/Q151047",
+      "artiste": [
+        {"xml:id":"Léonard de Vinci",
+        "role":"peintre"
+      }
+    ],
+      "titre": "La Joconde",
+      "date": "1503-1517",
+      "technique": "huile sur bois (peuplier)",
+      "ville": "Paris",
+      "institution": "Musée du Louvre",
+      "inventaire": "INV 779, MNR 265"
+    }
