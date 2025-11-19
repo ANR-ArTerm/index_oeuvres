@@ -29,9 +29,12 @@ if 'selected_idx' not in st.session_state:
 if 'form_version' not in st.session_state:
     st.session_state.form_version = 0
 
-st.title('Gestion des Œuvres')
+st.title("🖼️ Editeur de notices d'oeuvres")
 
-colA, colB = st.columns([1, 1])
+st.subheader("☁️ Télécharger et sauvegarder les données en ligne")
+
+
+colA, colB = st.columns([1, 3])
 
 with colA:
     if st.button("⤵️ Télécharger les données (Git Pull)"):
@@ -46,12 +49,11 @@ with colA:
     if "show_commit_box" not in st.session_state:
         st.session_state.show_commit_box = False
 
+with colB:
     # Premier bouton pour afficher la zone de commit
     if st.button("⤴️ Ajouter les données sur GitHub (Git Commit & Push)"):
         st.session_state.show_commit_box = True
-
-with colB:
-# Affiche la zone de commit si le bouton a été cliqué
+    # Affiche la zone de commit si le bouton a été cliqué
     if st.session_state.show_commit_box:
         commit_message = st.text_input(
             "Entrer le message de commit", 
@@ -77,6 +79,8 @@ with colB:
             except subprocess.CalledProcessError as e:
                 st.error(f"⚠️ Erreur lors du git operation : {e}")
 
+
+st.subheader("📝 Editer les données")
 
 col1, col2 = st.columns([1, 2])
 
