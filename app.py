@@ -2,9 +2,10 @@ from modules.git_tools import git_pull, git_commit_and_push
 from modules.data_loader import load_all_notices, load_notice, save_notice, delete_notice, exist_notice
 import streamlit as st
 from modules.ui.home import render_home
-from modules.ui.add_notice import render_add_notice
 from modules.ui.search import render_search_notices
 from modules.ui.add_notice_architecture import render_add_notice_architecture
+from modules.ui.add_notice_peinture import render_add_notice_peinture
+from modules.ui.add_notice import add_notice
 
 st.set_page_config(layout="wide")
 
@@ -66,7 +67,7 @@ with colMenuPrincipal:
         with tab1:
             st.session_state.type_notice = "peinture"
             # Formulaire pour peinture
-            render_add_notice()
+            render_add_notice_peinture()
         
         with tab2:
             st.session_state.type_notice = "architecture"
@@ -75,6 +76,7 @@ with colMenuPrincipal:
         
         with tab3:
             st.session_state.type_notice = "sculpture"
+            add_notice()
             # Formulaire pour sculpture
         
         with tab4:

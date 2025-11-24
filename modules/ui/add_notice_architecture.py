@@ -28,34 +28,34 @@ def render_add_notice_architecture():
         st.subheader("Artistes")
         
         # Initialiser le nombre d'artistes dans session_state
-        if 'nb_artistes' not in st.session_state:
-            st.session_state.nb_artistes = 1
+        if 'nb_architects' not in st.session_state:
+            st.session_state.nb_architects = 1
         
         # Boutons + et -
         col_btn1, col_btn2, col_btn3 = st.columns([1, 1, 8])
         with col_btn1:
             if st.form_submit_button("➕"):
-                if st.session_state.nb_artistes < 10:
-                    st.session_state.nb_artistes += 1
+                if st.session_state.nb_architects < 5:
+                    st.session_state.nb_architects += 1
         with col_btn2:
             if st.form_submit_button("➖"):
-                if st.session_state.nb_artistes > 1:
-                    st.session_state.nb_artistes -= 1
+                if st.session_state.nb_architects > 1:
+                    st.session_state.nb_architects -= 1
         
         # Champs artistes dynamiques
-        artistes_list = []
+        architects_list = []
         
-        for i in range(st.session_state.nb_artistes):
+        for i in range(st.session_state.nb_architects):
             col1, col2 = st.columns(2)
             with col1:
-                artiste_id = st.text_input(f"XML:ID Artiste {i+1}", key=f"artiste_id_{i}")
+                architect_id = st.text_input(f"XML:ID Artiste {i+1}", key=f"architect_id_{i}")
             with col2:
-                artiste_role = st.text_input(f"Rôle", key=f"artiste_role_{i}", placeholder="ex: peintre")
+                architect_role = st.text_input(f"Rôle", key=f"architect_role_{i}", placeholder="ex: peintre")
             
-            if artiste_id:
-                artistes_list.append({
-                    "xml:id": artiste_id,
-                    "role": artiste_role if artiste_role else ""
+            if architect_id:
+                architects_list.append({
+                    "xml:id": architect_id,
+                    "role": architect_role if architect_role else ""
                 })
         
         st.subheader("Détails de l'œuvre")
@@ -89,7 +89,7 @@ def render_add_notice_architecture():
                     "id": id_input,
                     "lien_wikidata": lien_wikidata,
                     "titre": titre,
-                    "artistes": artistes_list,
+                    "artists": architects_list,
                     "type_oeuvre": type_oeuvre,
                     "technique": technique,
                     "date": date_realisation,

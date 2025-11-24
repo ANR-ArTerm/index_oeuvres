@@ -4,23 +4,24 @@ from streamlit_smart_text_input import st_smart_text_input
 from datetime import datetime
 import time
 import uuid
+from data.list_form.artists_name import list_artists_xml_id
+from data.list_form.artists_role import list_role_artists
+from data.list_form.techniques import list_techniques_peinture
 
 from modules.data_loader import load_all_notices, save_notice, exist_notice
 
-def render_add_notice():
-    if 'form_key_peinture' not in st.session_state:
-        st.session_state.form_key_peinture = 0
-
-    """
-    Affiche le formulaire d'ajout de notice (réutilisable dans app.py ou pages/1_ajout_notice.py).
-    """
+def add_notice():
+    # initialisation de la clé
+    if 'form_key' not in st.session_state:
+        st.session_state.form_key = 0
 
     # Le formulaire
-    with st.form(key=f"form_new_notice_peinture_{st.session_state.form_key_peinture}", enter_to_submit=False, border=False):
+    with st.form(key=f"form_new_notice_{st.session_state.form_key}", enter_to_submit=False, border=False):
         st.subheader("Informations générales")
-        id_input = st.text_input("XML:ID de l'œuvre *", help="Champ obligatoire")
-        lien_wikidata = st.text_input("Lien de la notice Wikidata")
-        titre = st.text_input("Titre de l'œuvre *")
+        entry_creator = st.selectbox("Créateur de la notice :*",("Pierre", "Julia", "Anna", "Emma"))
+        id_input = st.text_input("XML:ID de l'œuvre *", help="Champ obligatoire, vérifier dans l'onglet Recherche que l'œuvre n'existe pas")
+        QID_wikidata = st.text_input("Lien de la notice Wikidata")
+        title = st.text_input("Titre de l'œuvre *")
         
         st.subheader("Artistes")
         
@@ -29,46 +30,157 @@ def render_add_notice():
             st.session_state.nb_artistes = 1
         
         # Boutons + et -
-        col_btn1, col_btn2, col_btn3 = st.columns([1, 1, 8])
-        with col_btn1:
-            if st.form_submit_button("➕"):
+        col_creator_btn1, col_creator_btn2, col_creator_btn3 = st.columns([1, 1, 8])
+        with col_creator_btn1:
+            if st.form_submit_button("➕", key="add_artist"):
                 if st.session_state.nb_artistes < 10:
                     st.session_state.nb_artistes += 1
-        with col_btn2:
-            if st.form_submit_button("➖"):
+        with col_creator_btn2:
+            if st.form_submit_button("➖", key="remove_artist"):
                 if st.session_state.nb_artistes > 1:
                     st.session_state.nb_artistes -= 1
         
         # Champs artistes dynamiques
-        artistes_list = []
+        creators_list = []
         
         for i in range(st.session_state.nb_artistes):
             col1, col2 = st.columns(2)
             with col1:
-                artiste_id = st.text_input(f"XML:ID Artiste {i+1}", key=f"peintre_id_{i}")
+                artiste_id = st.selectbox(
+                    f"XML:ID Artiste {i+1}",
+                    list_artists_xml_id,
+                    index=None,
+                    placeholder="XML:ID de l'artiste, selectionner ou entrer un nouveau",
+                    accept_new_options=True,
+                    key=f"peintre_id_{i}"
+                    )
             with col2:
-                artiste_role = st.text_input(f"Rôle", key=f"peintre_role_{i}", placeholder="ex: peintre")
-            
+                artiste_role = st.selectbox(
+                    f"Rôle",
+                    list_role_artists,
+                    key=f"peintre_role_{i}", 
+                    placeholder="ex: peintre"
+                    )
             if artiste_id:
-                artistes_list.append({
+                creators_list.append({
                     "xml:id": artiste_id,
                     "role": artiste_role if artiste_role else ""
                 })
-        
+
         st.subheader("Détails de l'œuvre")
-        type_oeuvre = st.selectbox(
-            "Type d'œuvre",
-            ["Peinture", "Sculpture", "Architecture", "Gravure"]
-        )
-        technique = st.text_input("Technique")
+
         technique = st.selectbox(
-            "Technique",
-            ["huile sur toile", "tempera sur toile", "fresque", "huile sur bois"]
+            "Technique et support",
+            list_techniques_peinture,
+            accept_new_options=True,
+            index = None,
+            placeholder = "Selectionner ou ajouter une option"
         )
-        date_realisation = st.text_input("Date / Période")
-        ville = st.text_input("Ville")
-        institution = st.text_input("Institution")
-        inventaire = st.text_input("Numéro d'inventaire")
+
+        st.subheader("Datation de l'oeuvre")
+        col_date_1, col_date_2, col_date_3 = st.columns([1, 1, 8])
+        with col_date_1:
+            date_start = st.text_input("Date début", max_chars=4)
+        with col_date_2:
+            date_end = st.text_input("Date fin" ,max_chars=4)
+        with col_date_3:
+            date_text = st.text_input("Texte à afficher")
+        
+        st.subheader("Lieu de conservation")
+        holding_place = st.text_input("Ville de conservation")
+        holding_institution = st.text_input("Institution de conservation / monument")
+        holding_number = st.text_input("Numéro d'inventaire")
+
+        st.subheader("Oeuvres liées")
+
+        # Initialiser le nombre d'oeuvres liées dans session_state
+        if 'nb_related_works' not in st.session_state:
+            st.session_state.nb_related_works = 1
+        
+        # Boutons + et -
+        col_related_btn1, col_related_btn2, col_related_btn3 = st.columns([1, 1, 8])
+        with col_related_btn1:
+            if st.form_submit_button("➕", key="add_work"):
+                if st.session_state.nb_related_works < 10:
+                    st.session_state.nb_related_works += 1
+        with col_related_btn2:
+            if st.form_submit_button("➖", key="remove_work"):
+                if st.session_state.nb_related_works > 1:
+                    st.session_state.nb_related_works -= 1
+
+        # Champs artistes dynamiques
+        related_works_list = []
+        
+        for i in range(st.session_state.nb_related_works):
+            col1, col2 = st.columns(2)
+            with col1:
+                related_work_id = st.selectbox(
+                    f"Oeuvres liées {i+1}",
+                    list_artists_xml_id,
+                    index=None,
+                    placeholder="XML:ID de l'artiste, selectionner ou entrer un nouveau",
+                    accept_new_options=True,
+                    key=f"related_work_id_{i}"
+                    )
+            with col2:
+                related_work_type = st.selectbox(
+                    f"Type de lien",
+                    list_role_artists,
+                    key=f"related_work_type_{i}", 
+                    placeholder="ex: peintre"
+                    )
+            if artiste_id:
+                creators_list.append({
+                    "xml:id": artiste_id,
+                    "role": artiste_role if artiste_role else ""
+                })
+
+        st.subheader("Bibliographie")
+
+        # Initialiser le nombre d'oeuvres liées dans session_state
+        if 'nb_bibliography' not in st.session_state:
+            st.session_state.nb_bibliography = 1
+        
+        # Boutons + et -
+        col_bibliography_btn1, col_bibliography_btn2, col_bibliography_btn3 = st.columns([1, 1, 8])
+        with col_bibliography_btn1:
+            if st.form_submit_button("➕", key="add_bibliography"):
+                if st.session_state.nb_bibliography < 10:
+                    st.session_state.nb_bibliography += 1
+        with col_bibliography_btn2:
+            if st.form_submit_button("➖", key="remove_bibliography"):
+                if st.session_state.nb_bibliography > 1:
+                    st.session_state.nb_bibliography -= 1
+
+        # Champs artistes dynamiques
+        bibliography_list = []
+        
+        for i in range(st.session_state.nb_bibliography):
+            col1, col2 = st.columns(2)
+            with col1:
+                bibliography_key = st.selectbox(
+                    f"Bibliographie {i+1}",
+                    list_artists_xml_id,
+                    index=None,
+                    placeholder="Clé Zotero de l'ouvrage bibliographique",
+                    accept_new_options=True,
+                    key=f"bibliography_id_{i}"
+                    )
+            with col2:
+                bibliography_info = st.text_input(
+                    f"Page, numéro dans la référence",
+                    key=f"bibliography_type_{i}", 
+                    placeholder="ex: vol. 3, p. 100, n° 4"
+                    )
+            if artiste_id:
+                creators_list.append({
+                    "xml:id": artiste_id,
+                    "role": artiste_role if artiste_role else ""
+                })
+
+
+
+        commentaire = st.text_area("Commentaire")
         
         st.subheader("Validation")
         submitted = st.form_submit_button("💾 Enregistrer la notice")
@@ -77,30 +189,46 @@ def render_add_notice():
         presence_notice = exist_notice(id_input)
 
         if submitted:
-            if not titre:
+            if not title:
                 st.error("Le titre de l'œuvre est obligatoire.")
             elif presence_notice == True:
                 st.error("L'oeuvre existe déjà, veuillez la modifier")
             else:
                 new_oeuvre = {
                     "id": id_input,
-                    "lien_wikidata": lien_wikidata,
-                    "titre": titre,
-                    "artistes": artistes_list,
-                    "type_oeuvre": type_oeuvre,
-                    "technique": technique,
-                    "date": date_realisation,
-                    "ville": ville,
-                    "institution": institution,
-                    "inventaire": inventaire,
-                    "date_creation_notice": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-                }
+                    "QID_wikidata": QID_wikidata,
+                    "title": title,
+                    "creator": creators_list,
+                    "entry_type": "Peinture et arts graphiques",
+                    "materialsAndTechniques": technique,
+                    "dateCreated":{
+                        "startYear": date_start,
+                        "endYear": date_end,
+                        "text": date_text
+                    },
+                    "holding_institution": {
+                        "place": holding_place,
+                        "name": holding_institution,
+                        "inventory_number": holding_number
+                        },
+                    "related_works": related_work_list,
+                    "bibliography": bibliography_list,
+                    "illustrations": illustrations_list,
+                    "commentary": commentaire,
+                    "history": [
+                        {
+                        "date": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+                        "type": "created",
+                        "author": entry_creator
+                        }
+                    ]
+                    }
                 # Sauvegarde
                 path = save_notice(new_oeuvre)
                 st.success(f"✅ Notice ajoutée avec succès !\n\n📁 Fichier créé : `{path}`")
                 st.balloons()
                 
                 # réinitialisation
-                st.session_state.form_key_peinture += 1
+                st.session_state.form_key += 1
                 time.sleep(3)
                 st.rerun()

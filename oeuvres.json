@@ -54,6 +54,17 @@
       "ville": "Paris",
       "institution": "BnF",
       "inventaire": ""
+    },
+    {
+      "id": "raimondipaysage",
+      "type_oeuvre": "",
+      "artiste": "MarcAntonioRaimondi",
+      "titre": "paysage",
+      "date": "",
+      "technique": "",
+      "ville": "",
+      "institution": "",
+      "inventaire": ""
     }
   ]
 }
