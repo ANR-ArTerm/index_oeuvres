@@ -10,14 +10,14 @@
   ],
   "entry_type": "Peinture et arts graphiques",
   "materialsAndTechniques": "huile sur toile",
-  "dateCreated": [
+  "dateCreated":
     {
       "startYear": "",
       "endYear":"",
       "text": ""
-    }
-  ],
+    },
   "holding_institution": {
+    "place":"",
     "name": "",
     "inventory_number": ""
   },
