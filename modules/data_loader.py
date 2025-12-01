@@ -1,7 +1,11 @@
 import json
 import os
 
-DATA_DIR = "notices"
+DATA_DIR = "data"
+PEINTURE_DIR = os.path.join(DATA_DIR, "entry_peinture")
+ARCHITECTURE_DIR = os.path.join(DATA_DIR, "entry_architecture")
+SCULPTURE_DIR = os.path.join(DATA_DIR, "entry_architecture")
+IMAGES_DIR = os.path.join(DATA_DIR, "images")
 
 import os
 import json
@@ -88,6 +92,13 @@ def load_all_notices():
         existing_city,
         existing_institution,
     )
+
+def save_image(uploaded_file):
+    save_path = os.path.join(IMAGES_DIR, uploaded_file.name)
+    with open(save_path, "wb") as f:
+        f.write(uploaded_file.getbuffer())
+    return save_path
+
 
 def load_notice(path):
     """

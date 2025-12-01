@@ -1,0 +1,43 @@
+{
+  "id": "TitienVenusUrbin",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q727875",
+  "title": "Venus d'Urbin",
+  "creator": [
+    {
+      "xml:id": "Titien",
+      "role": "peintre"
+    }
+  ],
+  "entry_type": "Peinture et arts graphiques",
+  "materialsAndTechniques": "huile sur toile",
+  "dateCreated": {
+    "startYear": "1538",
+    "endYear": "1538",
+    "text": "1538"
+  },
+  "holding_institution": {
+    "place": "Florence",
+    "name": "Musée des Offices",
+    "inventory_number": "1437",
+    "URL": "https://www.uffizi.it/en/artworks/venus-urbino-titian"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "storage": "URL",
+      "url": "https://www.datocms-assets.com/103094/1688679552-1549024578521584-14-venereheader.jpg",
+      "copyright": "",
+      "caption": "avec cadre"
+    }
+  ],
+  "commentary": "la vénus d'urbin",
+  "history": [
+    {
+      "date": "2025-12-01 13:32:41",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

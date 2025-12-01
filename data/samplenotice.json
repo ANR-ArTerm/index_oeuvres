@@ -19,12 +19,13 @@
   "holding_institution": {
     "place":"",
     "name": "",
-    "inventory_number": ""
+    "inventory_number": "",
+    "URL":""
   },
   "related_works": [
     {
-      "xml_id_work": "",
-      "link_type": ""
+      "link_type": "",
+      "xml_id_work": ""
     }
   ],
   "bibliography": [
@@ -38,7 +39,8 @@
       "id":0,
       "url":"",
       "copyright":"",
-      "caption":""
+      "caption":"",
+      "storage":""
     }
   ],
   "commentary":"",
