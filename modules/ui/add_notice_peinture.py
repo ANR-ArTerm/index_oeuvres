@@ -1,6 +1,5 @@
 # modules/add_notice_ui.py
 import streamlit as st
-from streamlit_smart_text_input import st_smart_text_input
 from datetime import datetime
 import time
 import uuid
