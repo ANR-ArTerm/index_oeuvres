@@ -206,6 +206,9 @@ def add_notice():
         if "type_illustration" not in st.session_state:
             st.session_state.type_illustration = {}
 
+        if "show_image" not in st.session_state:
+            st.session_state.show_image = {}
+
         # --- BOUTONS + / - --- #
         col1, col2, col3 = st.columns([1, 1, 8])
 
@@ -227,11 +230,13 @@ def add_notice():
 
             st.markdown(f"**Illustration {i+1} :**")
 
-            # Initialiser valeur si elle n'existe pas
+            # Initialiser les valeurs si elles n'existent pas
             if i not in st.session_state.type_illustration:
                 st.session_state.type_illustration[i] = None
+            if i not in st.session_state.show_image:
+                st.session_state.show_image[i] = False
 
-            colA, colB = st.columns([1, 10])
+            colA, colB, colC = st.columns([1, 6, 4])
 
             # Choix du mode via bouton (dans le form)
             with colA:
@@ -243,7 +248,12 @@ def add_notice():
             # Affichage du bon champ selon le choix
             with colB:
                 if st.session_state.type_illustration[i] == "URL":
-                    url = st.text_input(f"URL illustration {i+1}", key=f"url_{i}")
+                    colB1, colB2 = st.columns([5, 1])
+                    with colB1:
+                        url = st.text_input(f"URL illustration {i+1}", key=f"url_{i}")
+                    with colB2:
+                        if st.form_submit_button(f"Voir l'image", key=f"show_image_url_{i}"):
+                            st.session_state.show_image[i] = True
                     copyright_text = st.text_input(
                         "Droits",
                         key=f"copyright_{i}",
@@ -254,13 +264,29 @@ def add_notice():
                         key=f"caption_{i}",
                         placeholder="image avec cadre, image sans cadre"
                     )
+                    
+                    with colC:
+                        if st.session_state.show_image[i] == True:
+                            st.image(url, caption="Prévisualisation")
+
                     illustrations_list.append({"id": i,
-                                               "storage": "URL",
+                                               "storage": "online",
                                                "url": url,
                                                "copyright": copyright_text,
                                                "caption": caption})
+                
+                # si stockage en local
                 elif st.session_state.type_illustration[i] == "local":
-                    file = st.file_uploader(f"Fichier illustration {i+1}", key=f"file_{i}")
+                    colB1, colB2 = st.columns([5, 1])
+                    with colB1:
+                        uploaded_file = st.file_uploader(
+                            f"Fichier illustration {i+1}",
+                            type=["jpg", "jpeg", "png"],
+                            key=f"upload_file_{i}"
+                        )
+                    with colB2:
+                        if st.form_submit_button(f"Voir et sauvegarder l'image", key=f"show_image_url_{i}"):
+                            st.session_state.show_image[i] = True
                     copyright_text = st.text_input(
                         "Droits",
                         key=f"copyright_{i}",
@@ -271,70 +297,29 @@ def add_notice():
                         key=f"caption_{i}",
                         placeholder="image avec cadre, image sans cadre"
                     )
+
+                    local_path = None
+
+                    with colC:
+                        if st.session_state.show_image[i] and uploaded_file is not None:
+                            # sauvegarder correctement
+                            local_path = save_image(uploaded_file)  # ← on passe l’objet fichier !
+                            st.success(f"Image sauvegardée : {local_path}")
+
+                            st.image(local_path, caption="Prévisualisation")
+                            local_path
+                        elif st.session_state.show_image[i] and uploaded_file is None:
+                            st.warning("Veuillez d'abord sélectionner un fichier.")
+                    
                     illustrations_list.append({"id": i,
                                                "storage": "local",
-                                               "url": file,
+                                               "url": local_path,
                                                "copyright": copyright_text,
                                                "caption": caption})
 
                 else:
                     st.info("Choisissez un type : URL ou Local")
 
-            """
-            col1, col2 = st.columns(2)
-
-            # Valeurs initiales
-            url_value = ""
-            storage_value = "local"
-            local_path = None
-
-            # === MODE URL ===
-            if storage_mode == "URL":
-                url_value = st.text_input(
-                    "Entrer l’URL de l’image",
-                    key=f"url_{i}",
-                    placeholder="https://exemple.com/image.jpg"
-                )
-                storage_value = "online"
-
-                # Prévisualisation
-                if url_value:
-                    st.image(url_value, caption="Prévisualisation")
-
-            # === MODE LOCAL ===
-            if storage_mode == "Local":
-                uploaded_file = st.file_uploader(
-                    "Uploader une image",
-                    type=["jpg", "jpeg", "png"],
-                    key=f"upload_{i}"
-                )
-
-                if uploaded_file:
-                    local_path = save_image(uploaded_file)
-                    st.success(f"Image sauvegardée : {local_path}")
-                    st.image(uploaded_file, caption="Prévisualisation")
-                    url_value = local_path  # le chemin local devient l’URL stockée
-
-            with col2:
-                caption = st.text_input(
-                    "Légende",
-                    key=f"caption_{i}",
-                    placeholder="Description de l'image"
-                )
-                copyright_text = st.text_input(
-                    "Droits",
-                    key=f"copyright_{i}",
-                    placeholder="© Auteur / Source"
-                )
-            
-            illustrations_list.append({
-                "id": i,
-                "url": url_value,
-                "copyright": copyright_text,
-                "caption": caption,
-                "storage": storage_value
-            })
-            """
 
         # =============== Commentaire ===================
 

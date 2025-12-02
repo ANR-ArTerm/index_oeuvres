@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "QID_wikidata": "",
+  "title": "",
+  "creator": [
+    {
+      "xml_id": "",
+      "role": ""
+    }
+  ],
+  "entry_type": "architecture",
+  "typology":"",
+  "dateCreated":
+    {
+      "startYear": "",
+      "endYear":"",
+      "text": ""
+    },
+  "location": {
+    "city":"",
+    "country": "",
+    "coordinates":{
+      "latitude":"",
+      "longitude":""
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "",
+      "xml_id_work": ""
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id":0,
+      "url":"",
+      "copyright":"",
+      "caption":"",
+      "storage":""
+    }
+  ],
+  "commentary":"",
+  "history": [
+    {
+      "date": "",
+      "type": "created",
+      "author": ""
+    },
+    {
+      "date": "",
+      "type": "modified",
+      "author": ""
+    }
+  ]
+}
