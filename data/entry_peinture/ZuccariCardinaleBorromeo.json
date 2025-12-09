@@ -1,0 +1,43 @@
+{
+  "id": "ZuccariCardinaleBorromeo",
+  "QID_wikidata": "",
+  "title": "Imposizione del cappello cardinalizio a Carlo Borromeo",
+  "creator": [
+    {
+      "xml:id": "FedericoZuccaro",
+      "role": "peintre"
+    }
+  ],
+  "entry_type": "peinture",
+  "materialsAndTechniques": "fresque",
+  "dateCreated": {
+    "startYear": "1604",
+    "endYear": "1604",
+    "text": "1604"
+  },
+  "holding_institution": {
+    "place": "Pavie",
+    "name": "Collegio Borromeo",
+    "inventory_number": "1j570-00050",
+    "URL": "https://www.lombardiabeniculturali.it/opere-arte/schede/1j570-00055/"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "storage": "online",
+      "url": "https://www.lombardiabeniculturali.it/assets/immagini/liv2/OA310RL/SC/OA/1j570/00/OA_1j570-00055_IMG-0000494997.jpg",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "commentary": "",
+  "history": [
+    {
+      "date": "2025-12-09 15:33:37",
+      "type": "created",
+      "author": "Julia"
+    }
+  ]
+}
