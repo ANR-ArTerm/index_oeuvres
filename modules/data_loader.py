@@ -93,7 +93,7 @@ def load_all_notices():
         existing_institution,
     )
 
-def save_image(uploaded_file):
+def save_image(uploaded_file, save_path=None):
     save_path = os.path.join(IMAGES_DIR, uploaded_file.name)
     with open(save_path, "wb") as f:
         f.write(uploaded_file.getbuffer())
@@ -111,19 +111,33 @@ def load_notice(path):
 def save_notice(oeuvre, path=None):
     """
     Sauvegarde une œuvre dans un fichier JSON.
-    Si path est None → utilise oeuvre['id'] comme nom de fichier.
+    - Si path est None → génère automatiquement :
+        data/entry_[ENTRY_TYPE]/ID.json
     """
-    if not os.path.exists(DATA_DIR):
-        os.makedirs(DATA_DIR)
 
+    TYPE_DIRS = {
+        "peinture": PEINTURE_DIR,
+        "architecture": ARCHITECTURE_DIR,
+    }
+
+    # obtenir le type de l'œuvre
+    type_oeuvre = oeuvre.get("entry_type", "inconnu")
+    base_dir = TYPE_DIRS.get(type_oeuvre, DATA_DIR)
+
+    if not os.path.exists(base_dir):
+        os.makedirs(base_dir)
+
+    # nom de fichier
     if path is None:
-        id_oeuvre = oeuvre.get("id", "nouvelle_notice")
-        path = os.path.join(DATA_DIR, f"{id_oeuvre}.json")
+        id_oeuvre = oeuvre.get("id") or "nouvelle_notice"
+        path = os.path.join(base_dir, f"{id_oeuvre}.json")
 
+    # sauvegarde
     with open(path, "w", encoding="utf-8") as f:
         json.dump(oeuvre, f, ensure_ascii=False, indent=2)
 
     return path
+
 
 def exist_notice(id):
     path = os.path.join(DATA_DIR, f"{id}.json")

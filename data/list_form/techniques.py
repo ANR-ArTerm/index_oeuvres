@@ -12,3 +12,7 @@ list_techniques_peinture = [
     "pierre noire",
     "sanguine"
 ]
+list_typology =[
+    "Edifice religieux",
+    "Cathédrale",
+]

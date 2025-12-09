@@ -1,11 +1,11 @@
 from modules.git_tools import git_pull, git_commit_and_push
 from modules.data_loader import load_all_notices, load_notice, save_notice, delete_notice, exist_notice
 import streamlit as st
-from modules.ui.home import render_home
-from modules.ui.search import render_search_notices
-from modules.ui.add_notice_architecture import render_add_notice_architecture
-from modules.ui.add_notice_peinture import render_add_notice_peinture
-from modules.ui.add_notice import add_notice
+from modules.form.home import render_home
+from modules.form.search import render_search_notices
+from modules.form.add_notice_architecture import add_notice_architecture
+from modules.form.add_notice_peinture import add_notice_peinture
+from modules.form.add_notice import add_notice
 
 st.set_page_config(layout="wide")
 
@@ -62,25 +62,17 @@ with colMenuPrincipal:
 
     if st.session_state.active_menu == "add":
         st.header("Ajouter une notice")
-        tab1, tab2, tab3, tab4 = st.tabs(["🖼️ Peinture", "🏛️ Architecture", "🗿 Sculpture", "Gravure"])
+        tab1, tab2 = st.tabs(["🖼️ Peinture", "🏛️ Architecture"])
         
         with tab1:
             st.session_state.type_notice = "peinture"
             # Formulaire pour peinture
-            render_add_notice_peinture()
+            add_notice_peinture()
         
         with tab2:
             st.session_state.type_notice = "architecture"
             # Formulaire pour architecture
-            render_add_notice_architecture()
-        
-        with tab3:
-            st.session_state.type_notice = "sculpture"
-            add_notice()
-            # Formulaire pour sculpture
-        
-        with tab4:
-            st.session_state.type_notice = "gravure"
+            add_notice_architecture()
 
 
     elif st.session_state.active_menu == "search":

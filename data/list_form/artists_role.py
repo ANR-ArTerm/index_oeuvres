@@ -5,3 +5,8 @@ list_role_artists = [
 "graveur",
 "dessinateur"
 ]
+
+list_role_architects = [
+    "architecte",
+    "dessinateur"
+]
