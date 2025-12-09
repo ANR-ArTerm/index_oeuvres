@@ -1,0 +1,32 @@
+{
+  "id": "SaintThomasPavie",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q62008175",
+  "title": "Eglise de Saint-Thomas de Pavie",
+  "creator": [],
+  "entry_type": "architecture",
+  "typology": "Edifice religieux",
+  "dateCreated": {
+    "startYear": "1478",
+    "endYear": "",
+    "text": "1478"
+  },
+  "location": {
+    "city": "Pavie",
+    "country": "Italie",
+    "coordinates": {
+      "latitude": "",
+      "longitude": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "commentary": "",
+  "history": [
+    {
+      "date": "2025-12-09 15:40:30",
+      "type": "created",
+      "author": "Julia"
+    }
+  ]
+}
