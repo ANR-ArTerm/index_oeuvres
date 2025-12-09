@@ -373,8 +373,8 @@ def add_notice_peinture():
                 st.balloons()
                 
                 # réinitialisation
+                for i in range(st.session_state.nb_illustration_painting):
+                    st.session_state.show_image_painting[i] = False
                 st.session_state.form_key_painting += 1
                 time.sleep(3)
                 st.rerun()
-                for i in range(st.session_state.nb_illustration_painting):
-                    st.session_state.show_image_painting[i] = False

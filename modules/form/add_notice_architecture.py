@@ -3,9 +3,8 @@ import streamlit as st
 from datetime import datetime
 import time
 import uuid
-from modules.data_loader import load_list_form
 
-from modules.data_loader import load_all_notices, save_notice, exist_notice, save_image
+from modules.data_loader import load_all_notices, save_notice, exist_notice, save_image, load_list_form
 
 def add_notice_architecture():
     # initialisation de la clé
@@ -47,7 +46,7 @@ def add_notice_architecture():
             with col1:
                 artiste_id = st.selectbox(
                     f"XML:ID Artiste {i+1}",
-                    list_artists_xml_id,
+                    load_list_form(list_artists_xml_id),
                     index=None,
                     placeholder="XML:ID de l'artiste, selectionner ou entrer un nouveau",
                     accept_new_options=True,
@@ -378,6 +377,8 @@ def add_notice_architecture():
                 st.balloons()
                 
                 # réinitialisation
+                for i in range(st.session_state.nb_illustration_architecture):
+                    st.session_state.show_image_architecture[i] = False
                 st.session_state.form_key_architecture += 1
                 time.sleep(3)
                 st.rerun()
