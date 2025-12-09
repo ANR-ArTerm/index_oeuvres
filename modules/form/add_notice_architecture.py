@@ -3,10 +3,7 @@ import streamlit as st
 from datetime import datetime
 import time
 import uuid
-from data.list_form.artists_name import list_artists_xml_id
-from data.list_form.artists_role import list_role_architects
-from data.list_form.techniques import list_typology
-from data.list_form.zotero_key import list_zotero_key
+from modules.data_loader import load_list_form
 
 from modules.data_loader import load_all_notices, save_notice, exist_notice, save_image
 
@@ -308,9 +305,7 @@ def add_notice_architecture():
                             # sauvegarder correctement
                             local_path = save_image(uploaded_file)  # ← on passe l’objet fichier !
                             st.success(f"Image sauvegardée : {local_path}")
-
                             st.image(local_path, caption="Prévisualisation")
-                            local_path
                         elif st.session_state.show_image_architecture[i] and uploaded_file is None:
                             st.warning("Veuillez d'abord sélectionner un fichier.")
                     

@@ -1,8 +1,9 @@
-list_techniques_peinture = [
+[
     "huile sur toile",
     "tempera sur bois",
     "tempera sur toile",
     "huile sur bois",
+    "fresque",
     "eau-forte",
     "burin",
     "eau-forte et burin",
@@ -11,8 +12,4 @@ list_techniques_peinture = [
     "graphite",
     "pierre noire",
     "sanguine"
-]
-list_typology =[
-    "Edifice religieux",
-    "Cathédrale",
 ]

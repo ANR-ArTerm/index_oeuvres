@@ -3,12 +3,8 @@ import streamlit as st
 from datetime import datetime
 import time
 import uuid
-from data.list_form.artists_name import list_artists_xml_id
-from data.list_form.artists_role import list_role_artists
-from data.list_form.techniques import list_techniques_peinture
-from data.list_form.zotero_key import list_zotero_key
 
-from modules.data_loader import load_all_notices, save_notice, exist_notice, save_image
+from modules.data_loader import load_all_notices, save_notice, exist_notice, save_image, load_list_form
 
 def add_notice_peinture():
     # initialisation de la clé
@@ -50,7 +46,7 @@ def add_notice_peinture():
             with col1:
                 artiste_id = st.selectbox(
                     f"XML:ID Artiste {i+1}",
-                    list_artists_xml_id,
+                    load_list_form("artists_names"),
                     index=None,
                     placeholder="XML:ID de l'artiste, selectionner ou entrer un nouveau",
                     accept_new_options=True,
@@ -59,7 +55,7 @@ def add_notice_peinture():
             with col2:
                 artiste_role = st.selectbox(
                     f"Rôle",
-                    list_role_artists,
+                    load_list_form("artists_roles"),
                     key=f"peintre_role_{i}", 
                     placeholder="ex: peintre"
                     )
@@ -75,7 +71,7 @@ def add_notice_peinture():
 
         technique = st.selectbox(
             "Technique et support",
-            list_techniques_peinture,
+            load_list_form("techniques"),
             accept_new_options=True,
             index = None,
             placeholder = "Selectionner ou ajouter une option"
@@ -176,7 +172,7 @@ def add_notice_peinture():
             with col1:
                 bibliography_key = st.selectbox(
                     f"Bibliographie {i+1}",
-                    list_zotero_key,
+                    load_list_form("zotero_keys"),
                     index=None,
                     placeholder="Clé Zotero de l'ouvrage bibliographique",
                     accept_new_options=True,
@@ -307,7 +303,6 @@ def add_notice_peinture():
                             st.success(f"Image sauvegardée : {local_path}")
 
                             st.image(local_path, caption="Prévisualisation")
-                            local_path
                         elif st.session_state.show_image_painting[i] and uploaded_file is None:
                             st.warning("Veuillez d'abord sélectionner un fichier.")
                     
@@ -381,3 +376,5 @@ def add_notice_peinture():
                 st.session_state.form_key_painting += 1
                 time.sleep(3)
                 st.rerun()
+                for i in range(st.session_state.nb_illustration_painting):
+                    st.session_state.show_image_painting[i] = False

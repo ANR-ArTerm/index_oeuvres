@@ -7,12 +7,6 @@ ARCHITECTURE_DIR = os.path.join(DATA_DIR, "entry_architecture")
 SCULPTURE_DIR = os.path.join(DATA_DIR, "entry_architecture")
 IMAGES_DIR = os.path.join(DATA_DIR, "images")
 
-import os
-import json
-
-import os
-import json
-
 def load_all_notices():
     """
     Charge tous les fichiers JSON du dossier DATA_DIR.
@@ -148,3 +142,32 @@ def delete_notice(path):
     """Supprime définitivement une œuvre."""
     if os.path.exists(path):
         os.remove(path)
+
+# ========== Les listes pour l'autocomplétion
+
+LIST_FORM_DIR = os.path.join(DATA_DIR, "list_form")
+
+LIST_FILES = {
+    "artists_names": "artists_names.json",
+    "artists_roles": "artists_roles.json",
+    "typologies": "typologies.json",
+    "institutions": "institutions.json",
+    "techniques": "techniques.json",
+    "zotero_keys": "zotero_keys.json",
+}
+
+def _load_json(path):
+    if not os.path.exists(path):
+        return []
+    with open(path, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+def load_list_form(key: str):
+    """
+    key ex: 'artists_roles', 'techniques', etc.
+    """
+    if key not in LIST_FILES:
+        raise ValueError(f"Clé inconnue : {key}")
+
+    path = os.path.join(LIST_FORM_DIR, LIST_FILES[key])
+    return _load_json(path)
