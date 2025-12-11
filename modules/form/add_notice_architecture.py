@@ -5,6 +5,7 @@ import time
 import uuid
 
 from modules.data_loader import load_all_notices, save_notice, exist_notice, save_image, load_list_form, index_username
+from modules.git_tools import git_commit_and_push
 
 def add_notice_architecture():
     # initialisation de la clé
@@ -389,7 +390,6 @@ def add_notice_architecture():
                     }
                 # Sauvegarde
                 path = save_notice(new_oeuvre)
-                st.success(f"✅ Notice ajoutée avec succès !\n\n📁 Fichier créé : `{path}`")
                 st.balloons()
                 for i in range(st.session_state.nb_illustration_architecture):
                     st.session_state.show_image_architecture[i] = False
@@ -398,5 +398,9 @@ def add_notice_architecture():
                 st.session_state.show_image_architecture = {}
                 # réinitialisation
                 st.session_state.form_key_architecture += 1
+
+                message = f"ajout notice {id_input} par {entry_creator} {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}"
+                git_commit_and_push(message)
+                st.success(f"✅ Notice ajoutée avec succès sur github !\n\n📁 Fichier créé : `{path}`")
                 time.sleep(3)
                 st.rerun()

@@ -5,9 +5,14 @@ from dotenv import load_dotenv
 DATA_DIR = "data"
 PEINTURE_DIR = os.path.join(DATA_DIR, "entry_peinture")
 ARCHITECTURE_DIR = os.path.join(DATA_DIR, "entry_architecture")
-SCULPTURE_DIR = os.path.join(DATA_DIR, "entry_architecture")
 IMAGES_DIR = os.path.join(DATA_DIR, "images")
 LIST_FORM_DIR = os.path.join(DATA_DIR, "list_form")
+
+TYPE_DIRS = {
+        "peinture": PEINTURE_DIR,
+        "architecture": ARCHITECTURE_DIR,
+    }
+
 
 def load_all_notices():
     """
@@ -110,11 +115,6 @@ def save_notice(oeuvre, path=None):
     - Si path est None → génère automatiquement :
         data/entry_[ENTRY_TYPE]/ID.json
     """
-
-    TYPE_DIRS = {
-        "peinture": PEINTURE_DIR,
-        "architecture": ARCHITECTURE_DIR,
-    }
 
     # obtenir le type de l'œuvre
     type_oeuvre = oeuvre.get("entry_type", "inconnu")

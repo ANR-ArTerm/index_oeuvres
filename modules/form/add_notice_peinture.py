@@ -5,6 +5,7 @@ import time
 import uuid
 
 from modules.data_loader import load_all_notices, save_notice, exist_notice, save_image, load_list_form, index_username
+from modules.git_tools import git_commit_and_push
 
 def add_notice_peinture():
     # initialisation de la clé
@@ -378,6 +379,16 @@ def add_notice_peinture():
                 # réinitialisation
                 for i in range(st.session_state.nb_illustration_painting):
                     st.session_state.show_image_painting[i] = False
+                st.session_state.nb_illustration_painting = 0
+                st.session_state.type_illustration_painting = {}
+                st.session_state.show_image_painting = {}
                 st.session_state.form_key_painting += 1
+
+                #ajout sur github
+                message = f"ajout notice {id_input} par {entry_creator} {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}"
+                git_commit_and_push(message)
+                
+                #ajout sur github
+                st.success(f"✅ Notice ajoutée avec succès sur github !\n\n📁 Fichier créé : `{path}`")
                 time.sleep(3)
                 st.rerun()
