@@ -402,5 +402,5 @@ def add_notice_architecture():
                 message = f"ajout notice {id_input} par {entry_creator} {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}"
                 git_commit_and_push(message)
                 st.success(f"✅ Notice ajoutée avec succès sur github !\n\n📁 Fichier créé : `{path}`")
-                time.sleep(3)
+
                 st.rerun()

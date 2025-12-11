@@ -1,0 +1,30 @@
+{
+  "id": "test2",
+  "QID_wikidata": "test2",
+  "title": "test2",
+  "creator": [],
+  "entry_type": "peinture",
+  "materialsAndTechniques": null,
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "holding_institution": {
+    "place": "",
+    "name": "",
+    "inventory_number": "",
+    "URL": ""
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "commentary": "",
+  "history": [
+    {
+      "date": "2025-12-11 11:38:28",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

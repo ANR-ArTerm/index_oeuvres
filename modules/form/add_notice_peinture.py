@@ -373,7 +373,6 @@ def add_notice_peinture():
                     }
                 # Sauvegarde
                 path = save_notice(new_oeuvre)
-                st.success(f"✅ Notice ajoutée avec succès !\n\n📁 Fichier créé : `{path}`")
                 st.balloons()
                 
                 # réinitialisation
@@ -387,7 +386,7 @@ def add_notice_peinture():
                 #ajout sur github
                 message = f"ajout notice {id_input} par {entry_creator} {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}"
                 git_commit_and_push(message)
-                
+
                 #ajout sur github
                 st.success(f"✅ Notice ajoutée avec succès sur github !\n\n📁 Fichier créé : `{path}`")
                 time.sleep(3)
