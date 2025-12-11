@@ -371,9 +371,14 @@ def add_notice_peinture():
                         }
                     ]
                     }
-                # Sauvegarde
-                path = save_notice(new_oeuvre)
-                st.balloons()
+                # ajout sur github
+                with st.spinner("Enrigistrement de la notice et ajout sur github"):
+                    path = save_notice(new_oeuvre)
+                    message = f"ajout notice {id_input} par {entry_creator} {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}"
+                    git_commit_and_push(message)
+                    st.success(f"✅ Notice ajoutée avec succès sur github !\n\n📁 Fichier créé : `{path}`")
+                    st.balloons()
+                    time.sleep(3)
                 
                 # réinitialisation
                 for i in range(st.session_state.nb_illustration_painting):
@@ -383,11 +388,4 @@ def add_notice_peinture():
                 st.session_state.show_image_painting = {}
                 st.session_state.form_key_painting += 1
 
-                #ajout sur github
-                message = f"ajout notice {id_input} par {entry_creator} {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}"
-                git_commit_and_push(message)
-
-                #ajout sur github
-                st.success(f"✅ Notice ajoutée avec succès sur github !\n\n📁 Fichier créé : `{path}`")
-                time.sleep(3)
                 st.rerun()
