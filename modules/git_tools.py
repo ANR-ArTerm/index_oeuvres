@@ -17,36 +17,49 @@ def git_pull():
         return False, e.stderr
 
 
-def git_commit_and_push(message: str):
+import subprocess
+
+def git_commit_and_push(message: str, branch: str = "main"):
     """
     Exécute la séquence complète :
     - git add .
     - git commit -m "<message>"
+    - git pull --rebase
     - git push
 
     Renvoie (success: bool, output: str).
     """
     try:
-        # git add .
-        subprocess.run(["git", "add", "."], check=True)
+        subprocess.run(["git", "add", "."], check=True, capture_output=True, text=True)
 
-        # git commit -m "<message>"
-        subprocess.run(
+        commit_result = subprocess.run(
             ["git", "commit", "-m", message],
             check=True,
             capture_output=True,
             text=True
         )
 
-        # git push
-        result = subprocess.run(
-            ["git", "push"],
+        pull_result = subprocess.run(
+            ["git", "pull", "--rebase", "origin", branch],
             check=True,
             capture_output=True,
             text=True
         )
 
-        return True, result.stdout
+        push_result = subprocess.run(
+            ["git", "push", "origin", branch],
+            check=True,
+            capture_output=True,
+            text=True
+        )
+
+        output = "\n".join([
+            commit_result.stdout,
+            pull_result.stdout,
+            push_result.stdout
+        ])
+        return True, output
 
     except subprocess.CalledProcessError as e:
-        return False, str(e)
+        # Renvoie stdout + stderr pour plus d’infos
+        return False, f"{e.stdout}\n{e.stderr}"
