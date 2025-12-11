@@ -36,9 +36,9 @@ if st.session_state.get("show_commit_box", False):
     if st.sidebar.button("Valider (Commit et Push)"):
         ok, out = git_commit_and_push(message)
         if ok:
-            st.success("✅ Push effectué !")
-            st.text(out)
-            st.session_state.show_commit_box = False
+            st.sidebar.success("✅ Push effectué !")
+            st.sidebar.text(out)
+            st.sidebar.session_state.show_commit_box = False
         else:
             st.error(f"⚠️ Erreur : {out}")
 
