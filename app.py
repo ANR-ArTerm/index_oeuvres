@@ -9,6 +9,11 @@ from modules.form.search import render_search_notices
 from modules.form.add_notice_architecture import add_notice_architecture
 from modules.form.add_notice_peinture import add_notice_peinture
 
+from modules.search.search_architecture import render_search_entries_architecture
+from modules.search.search_painting import render_search_entries_painting
+
+
+
 st.set_page_config(layout="wide")
 st.title("🖼️ Editeur de notices d'oeuvres")
 
@@ -68,5 +73,15 @@ elif st.session_state.active_menu == "add":
     with tab2:
         st.session_state.type_notice = "architecture"
         add_notice_architecture()
+
 elif st.session_state.active_menu == "search":
-    render_search_notices()
+    st.header("Ajouter une notice")
+    tab1, tab2 = st.tabs(["🖼️ Peinture", "🏛️ Architecture"])
+    with tab1:
+        st.session_state.type_notice = "peinture"
+        render_search_entries_painting()
+
+    with tab2:
+        st.session_state.type_notice = "architecture"
+        render_search_entries_architecture()
+

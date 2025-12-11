@@ -1,5 +1,7 @@
 import streamlit as st
 
+from modules.data_loader import load_all_entries
+
 def render_home():
     # Section guide rapide
     st.subheader("📌 Sections principales")
@@ -15,9 +17,10 @@ def render_home():
 
     # Section visual
     col1, col2, col3 = st.columns(3)
-    col1.metric("📄 Notices totales", "")  # Tu peux remplacer par une fonction dynamique
-    col2.metric("🖌️ Peintures", "")
-    col3.metric("🏛️ Architectures", "")
+    total_notices = len(load_all_entries("peinture")) + len(load_all_entries("architecture"))
+    col1.metric("📄 Notices totales", f"{total_notices} notices")  # Tu peux remplacer par une fonction dynamique
+    col2.metric("🖌️ Peintures", f"{len(load_all_entries("peinture"))} notices")
+    col3.metric("🏛️ Architectures", f"{len(load_all_entries("architecture"))} notices")
 
     st.markdown("---")
 

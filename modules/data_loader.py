@@ -1,6 +1,7 @@
 import json
 import os
 from dotenv import load_dotenv
+from pathlib import Path
 
 DATA_DIR = "data"
 PEINTURE_DIR = os.path.join(DATA_DIR, "entry_peinture")
@@ -12,6 +13,36 @@ TYPE_DIRS = {
         "peinture": PEINTURE_DIR,
         "architecture": ARCHITECTURE_DIR,
     }
+
+def load_all_entries(type_name: str):
+    """
+    Charge tous les fichiers JSON dans le dossier correspondant à type_name.
+
+    Args:
+        type_name (str): "peinture" ou "architecture"
+
+    Returns:
+        list: liste des données JSON (chaque élément correspond à un fichier)
+    """
+    if type_name not in TYPE_DIRS:
+        raise ValueError(f"Type inconnu : {type_name}")
+
+    folder = TYPE_DIRS[type_name]
+    notices = []
+
+    # Parcourir tous les fichiers JSON du dossier
+    for filename in os.listdir(folder):
+        if filename.endswith(".json"):
+            path = os.path.join(folder, filename)
+            try:
+                with open(path, "r", encoding="utf-8") as f:
+                    data = json.load(f)
+                    notices.append(data)
+            except json.JSONDecodeError:
+                print(f"Erreur JSON dans le fichier {filename}, ignoré.")
+
+    return notices
+
 
 def load_all_notices():
     """
@@ -130,10 +161,28 @@ def get_all_objects_ids(type_name: str):
     return objects_ids
 
 def save_image(uploaded_file, save_path=None):
-    save_path = os.path.join(IMAGES_DIR, uploaded_file.name)
+    # Utiliser pathlib pour une meilleure compatibilité multiplateforme
+    images_dir = Path(IMAGES_DIR)
+    
+    # Extraire uniquement le nom de fichier (sans chemin)
+    # et nettoyer les caractères problématiques
+    filename = Path(uploaded_file.name).name
+    
+    # Si un save_path spécifique est fourni
+    if save_path:
+        save_path = Path(save_path)
+    else:
+        save_path = images_dir / filename
+    
+    # Créer le répertoire si nécessaire
+    save_path.parent.mkdir(parents=True, exist_ok=True)
+    
+    # Sauvegarder le fichier
     with open(save_path, "wb") as f:
         f.write(uploaded_file.getbuffer())
-    return save_path
+    
+    return str(save_path)  # Retourner en string pour compatibilité
+
 
 
 def load_notice(path):
