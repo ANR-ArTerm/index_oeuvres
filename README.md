@@ -1,8 +1,6 @@
 # index_oeuvres
 
-Un outil simple pour gérer et lancer vos œuvres.
-
----
+Application streamlit pour ajouter et modifier les notices d'oeuvres du projet Arterm
 
 ## Installation et lancement
 
