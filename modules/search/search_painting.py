@@ -62,10 +62,10 @@ def render_search_entries_painting():
     st.subheader("Résultats")
     filtered = []
 
-    for idx, o in enumerate(oeuvres):
+    for idx, (o, json_path) in enumerate(oeuvres):
         normalize_notice_painting(o)
         if search_query.lower() in json.dumps(o, ensure_ascii=False).lower():
-            filtered.append((idx, o))
+            filtered.append((idx, o, json_path))
 
     if not filtered:
         st.info("Aucun résultat trouvé.")
@@ -73,7 +73,7 @@ def render_search_entries_painting():
 
     cols = st.columns(3)
 
-    for i, (idx, o) in enumerate(filtered):
+    for i, (idx, o, json_path) in enumerate(filtered):
         with cols[i % 3]:
             creators_str = " ; ".join(o.get('creators_display', []))
             biblio_str = " ; ".join(o.get('biblio_display', []))
@@ -92,7 +92,8 @@ def render_search_entries_painting():
                 st.caption(o['entry_type'])
 
                 # ID
-                st.markdown(f"**xml:id : {o['id']}**")
+                st.markdown(f"xml:id : **{o['id']}**")
+
                 
                 # Titre principal
                 st.text(o['title'])

@@ -2,6 +2,8 @@ import json
 import os
 from dotenv import load_dotenv
 from pathlib import Path
+import datetime
+import shutil
 
 DATA_DIR = "data"
 PEINTURE_DIR = os.path.join(DATA_DIR, "entry_peinture")
@@ -22,7 +24,7 @@ def load_all_entries(type_name: str):
         type_name (str): "peinture" ou "architecture"
 
     Returns:
-        list: liste des données JSON (chaque élément correspond à un fichier)
+        list: liste de tuples (data, path) où data est le contenu JSON et path le chemin du fichier
     """
     if type_name not in TYPE_DIRS:
         raise ValueError(f"Type inconnu : {type_name}")
@@ -37,7 +39,7 @@ def load_all_entries(type_name: str):
             try:
                 with open(path, "r", encoding="utf-8") as f:
                     data = json.load(f)
-                    notices.append(data)
+                    notices.append((data, path))
             except json.JSONDecodeError:
                 print(f"Erreur JSON dans le fichier {filename}, ignoré.")
 
@@ -225,9 +227,28 @@ def exist_notice(id):
     return presence_notice
 
 def delete_notice(path):
-    """Supprime définitivement une œuvre."""
-    if os.path.exists(path):
-        os.remove(path)
+    """Déplace une notice dans la corbeille au lieu de la supprimer définitivement."""
+    if not os.path.exists(path):
+        return False
+    
+    # Créer le dossier corbeille à la racine du repo
+    trash_dir = Path("corbeille")
+    trash_dir.mkdir(exist_ok=True)
+    
+    # Ajouter un timestamp pour éviter les conflits de noms
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    filename = Path(path).name
+    name_without_ext = Path(path).stem
+    extension = Path(path).suffix
+    
+    # Nouveau nom avec timestamp : exemple_20241211_143022.json
+    new_filename = f"{name_without_ext}_{timestamp}{extension}"
+    trash_path = trash_dir / new_filename
+    
+    # Déplacer le fichier dans la corbeille
+    shutil.move(path, trash_path)
+    
+    return True
 
 # ========== Les listes pour l'autocomplétion
 

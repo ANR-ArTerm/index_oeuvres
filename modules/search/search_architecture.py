@@ -1,7 +1,8 @@
 import streamlit as st
 import json
+import os
 
-from modules.data_loader import load_all_entries 
+from modules.data_loader import load_all_entries, delete_notice
 
 def normalize_notice_architecture(o):
     """
@@ -60,10 +61,10 @@ def render_search_entries_architecture():
     st.subheader("Résultats")
     filtered = []
 
-    for idx, o in enumerate(oeuvres):
+    for idx, (o, json_path) in enumerate(oeuvres):
         normalize_notice_architecture(o)
         if search_query.lower() in json.dumps(o, ensure_ascii=False).lower():
-            filtered.append((idx, o))
+            filtered.append((idx, o, json_path))
 
     if not filtered:
         st.info("Aucun résultat trouvé.")
@@ -71,7 +72,7 @@ def render_search_entries_architecture():
 
     cols = st.columns(3)
 
-    for i, (idx, o) in enumerate(filtered):
+    for i, (idx, o, json_path) in enumerate(filtered):
         with cols[i % 3]:
             creators_str = " ; ".join(o.get('creators_display', []))
             biblio_str = " ; ".join(o.get('biblio_display', []))
@@ -92,6 +93,14 @@ def render_search_entries_architecture():
                 # ID
                 st.markdown(f"xml:id : **{o['id']}**")
 
+                col_mod, col_del = st.columns([1, 1])
+
+                with col_del:
+                    if st.button("Supprimer 🗑️", key=f"del_{idx}"):
+                        delete_notice(json_path)
+                        st.success(f"Notice déplacée dans la corbeille : {json_path}")
+                        st.rerun()
+
                 # Titre principal
                 st.text(o['title'])
                 
@@ -111,3 +120,5 @@ def render_search_entries_architecture():
                     st.caption(f"🖼️ Autres illustrations : {autres_illus}")
                 elif illustrations_list:
                     st.caption(f"🖼️ {illustrations_list[0]}")
+
+                st.caption(f"📄 {os.path.basename(json_path)}")
