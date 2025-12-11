@@ -1,11 +1,17 @@
 import json
 import os
+from dotenv import load_dotenv
 
 DATA_DIR = "data"
 PEINTURE_DIR = os.path.join(DATA_DIR, "entry_peinture")
 ARCHITECTURE_DIR = os.path.join(DATA_DIR, "entry_architecture")
 SCULPTURE_DIR = os.path.join(DATA_DIR, "entry_architecture")
 IMAGES_DIR = os.path.join(DATA_DIR, "images")
+
+def load_username():
+    load_dotenv()  # charge le .env automatiquement
+    username = os.getenv("USERNAME")
+    return username
 
 def load_all_notices():
     """
@@ -150,7 +156,6 @@ LIST_FORM_DIR = os.path.join(DATA_DIR, "list_form")
 LIST_FILES = {
     "artists_names": "artists_names.json",
     "artists_roles": "artists_roles.json",
-    "architects_roles":"architects_roles.json",
     "typologies": "typologies.json",
     "institutions": "institutions.json",
     "techniques": "techniques.json",
