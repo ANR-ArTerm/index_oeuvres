@@ -51,7 +51,6 @@ if st.session_state.get("show_commit_box", False):
                 st.sidebar.success("✅ Push effectué !")
                 st.sidebar.text(out)
                 st.sidebar.session_state.show_commit_box = False
-                st.rerun()
             else:
                 st.error(f"⚠️ Erreur : {out}")
 
