@@ -1,6 +1,26 @@
 @echo off
 setlocal ENABLEDELAYEDEXPANSION
 
+echo === Création / Vérification du .env et du username ===
+
+if not exist ".env" (
+    echo Fichier .env introuvable, création...
+    set /p USERNAME="Entrez votre nom d'utilisateur : "
+    echo USERNAME=%USERNAME% > .env
+) else (
+    for /f "tokens=1,* delims==" %%a in ('findstr /b "USERNAME=" .env') do (
+        set CURRENT_USER=%%b
+    )
+
+    if "%CURRENT_USER%"=="" (
+        set /p USERNAME="Entrez votre nom d'utilisateur : "
+        echo USERNAME=%USERNAME% >> .env
+    ) else (
+        echo Nom d'utilisateur déjà présent : %CURRENT_USER%
+    )
+)
+
+
 echo === Verification de Python ===
 
 :: Vérifie si python est dans le PATH
