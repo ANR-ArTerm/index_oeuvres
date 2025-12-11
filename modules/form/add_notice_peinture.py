@@ -372,13 +372,13 @@ def add_notice_peinture():
                     ]
                     }
                 # ajout sur github
-                with st.spinner("Enrigistrement de la notice et ajout sur github"):
+                with st.spinner("Enregistement de la notice et ajout sur github"):
                     path = save_notice(new_oeuvre)
                     message = f"ajout notice {id_input} par {entry_creator} {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}"
                     git_commit_and_push(message)
                     st.success(f"✅ Notice ajoutée avec succès sur github !\n\n📁 Fichier créé : `{path}`")
                     st.balloons()
-                    time.sleep(3)
+                time.sleep(3)
                 
                 # réinitialisation
                 for i in range(st.session_state.nb_illustration_painting):
