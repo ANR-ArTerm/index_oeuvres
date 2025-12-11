@@ -1,6 +1,7 @@
 import streamlit as st
 import json
 import os
+import time
 
 from modules.data_loader import load_all_entries, delete_notice
 
@@ -99,6 +100,7 @@ def render_search_entries_architecture():
                     if st.button("Supprimer 🗑️", key=f"del_{idx}"):
                         delete_notice(json_path)
                         st.success(f"Notice déplacée dans la corbeille : {json_path}")
+                        time.sleep(1)
                         st.rerun()
 
                 # Titre principal

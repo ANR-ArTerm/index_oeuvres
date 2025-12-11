@@ -2,7 +2,6 @@ import json
 import os
 from dotenv import load_dotenv
 from pathlib import Path
-import datetime
 import shutil
 
 DATA_DIR = "data"
@@ -235,15 +234,23 @@ def delete_notice(path):
     trash_dir = Path("corbeille")
     trash_dir.mkdir(exist_ok=True)
     
-    # Ajouter un timestamp pour éviter les conflits de noms
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    filename = Path(path).name
-    name_without_ext = Path(path).stem
-    extension = Path(path).suffix
+    filename = Path(path)
+    base_name = filename.stem
+    extension = filename.suffix
     
-    # Nouveau nom avec timestamp : exemple_20241211_143022.json
-    new_filename = f"{name_without_ext}_{timestamp}{extension}"
-    trash_path = trash_dir / new_filename
+    # Trouver un nom disponible
+    counter = 0
+    while True:
+        if counter == 0:
+            new_name = f"{base_name}{extension}"
+        else:
+            new_name = f"{base_name}_{counter}{extension}"
+        
+        trash_path = trash_dir / new_name
+        
+        if not trash_path.exists():
+            break
+        counter += 1
     
     # Déplacer le fichier dans la corbeille
     shutil.move(path, trash_path)
