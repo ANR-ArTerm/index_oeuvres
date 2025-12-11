@@ -46,7 +46,7 @@ def add_notice_architecture():
             with col1:
                 artiste_id = st.selectbox(
                     f"XML:ID Artiste {i+1}",
-                    load_list_form(list_artists_xml_id),
+                    load_list_form("artists_names"),
                     index=None,
                     placeholder="XML:ID de l'artiste, selectionner ou entrer un nouveau",
                     accept_new_options=True,
@@ -55,7 +55,7 @@ def add_notice_architecture():
             with col2:
                 artiste_role = st.selectbox(
                     f"Rôle",
-                    list_role_architects,
+                    load_list_form("architects_roles"),
                     key=f"architect_role_{i}", 
                     placeholder="ex: architecte"
                     )
@@ -71,7 +71,7 @@ def add_notice_architecture():
 
         typology = st.selectbox(
             "Typologie de monument",
-            list_typology,
+            load_list_form("typologies"),
             accept_new_options=True,
             index = None,
             placeholder = "Selectionner ou ajouter une option"
@@ -175,7 +175,7 @@ def add_notice_architecture():
             with col1:
                 bibliography_key = st.selectbox(
                     f"Bibliographie {i+1}",
-                    list_zotero_key,
+                    load_list_form("zotero_keys"),
                     index=None,
                     placeholder="Clé Zotero de l'ouvrage bibliographique",
                     accept_new_options=True,
@@ -208,6 +208,10 @@ def add_notice_architecture():
         if "show_image_architecture" not in st.session_state:
             st.session_state.show_image_architecture = {}
 
+        for i in range(st.session_state.nb_illustration_architecture):
+            st.session_state.show_image_architecture.setdefault(i, False)
+            st.session_state.type_illustration_architecture.setdefault(i, None)
+
         # --- BOUTONS + / - --- #
         col1, col2, col3 = st.columns([1, 1, 8])
 
@@ -219,8 +223,12 @@ def add_notice_architecture():
         with col2:
             if st.form_submit_button("➖ enlever"):
                 if st.session_state.nb_illustration_architecture > 0:
+                    idx = st.session_state.nb_illustration_architecture - 1
                     st.session_state.nb_illustration_architecture -= 1
 
+                    # ✅ nettoyage des états liés
+                    st.session_state.type_illustration_architecture.pop(idx, None)
+                    st.session_state.show_image_architecture.pop(idx, None)
 
         # --- LISTE DYNAMIQUE --- #
         illustrations_list = []
@@ -228,12 +236,13 @@ def add_notice_architecture():
         for i in range(st.session_state.nb_illustration_architecture):
 
             st.markdown(f"**Illustration {i+1} :**")
-
+            
             # Initialiser les valeurs si elles n'existent pas
             if i not in st.session_state.type_illustration_architecture:
                 st.session_state.type_illustration_architecture[i] = None
             if i not in st.session_state.show_image_architecture:
                 st.session_state.show_image_architecture[i] = False
+            
 
             colA, colB, colC = st.columns([1, 6, 4])
 
@@ -241,8 +250,11 @@ def add_notice_architecture():
             with colA:
                 if st.form_submit_button(f"➕ URL {i+1}", key=f"url_architecture_btn_{i}"):
                     st.session_state.type_illustration_architecture[i] = "URL"
+                    st.session_state.show_image_architecture[i] = False
+
                 if st.form_submit_button(f"📁 Local {i+1}", key=f"local_architecture_btn_{i}"):
                     st.session_state.type_illustration_architecture[i] = "local"
+                    st.session_state.show_image_architecture[i] = False
 
             # Affichage du bon champ selon le choix
             with colB:
@@ -305,6 +317,7 @@ def add_notice_architecture():
                             local_path = save_image(uploaded_file)  # ← on passe l’objet fichier !
                             st.success(f"Image sauvegardée : {local_path}")
                             st.image(local_path, caption="Prévisualisation")
+                            
                         elif st.session_state.show_image_architecture[i] and uploaded_file is None:
                             st.warning("Veuillez d'abord sélectionner un fichier.")
                     
@@ -375,10 +388,12 @@ def add_notice_architecture():
                 path = save_notice(new_oeuvre)
                 st.success(f"✅ Notice ajoutée avec succès !\n\n📁 Fichier créé : `{path}`")
                 st.balloons()
-                
-                # réinitialisation
                 for i in range(st.session_state.nb_illustration_architecture):
                     st.session_state.show_image_architecture[i] = False
+                st.session_state.nb_illustration_architecture = 0
+                st.session_state.type_illustration_architecture = {}
+                st.session_state.show_image_architecture = {}
+                # réinitialisation
                 st.session_state.form_key_architecture += 1
                 time.sleep(3)
                 st.rerun()

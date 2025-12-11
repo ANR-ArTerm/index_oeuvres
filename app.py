@@ -5,7 +5,6 @@ from modules.form.home import render_home
 from modules.form.search import render_search_notices
 from modules.form.add_notice_architecture import add_notice_architecture
 from modules.form.add_notice_peinture import add_notice_peinture
-from modules.form.add_notice import add_notice
 
 st.set_page_config(layout="wide")
 

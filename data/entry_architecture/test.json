@@ -1,0 +1,40 @@
+{
+  "id": "test",
+  "QID_wikidata": "test",
+  "title": "test",
+  "creator": [],
+  "entry_type": "architecture",
+  "typology": null,
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "location": {
+    "city": "",
+    "country": "",
+    "coordinates": {
+      "latitude": "",
+      "longitude": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "storage": "online",
+      "url": "https://images.memorix.nl/cus/thumb/640x480/ca810e8e-a943-314a-9c48-599cd43ada82.jpg",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "commentary": "",
+  "history": [
+    {
+      "date": "2025-12-09 16:33:10",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

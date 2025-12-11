@@ -1,0 +1,40 @@
+{
+  "id": "test2",
+  "QID_wikidata": "test2",
+  "title": "test2",
+  "creator": [],
+  "entry_type": "architecture",
+  "typology": null,
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "location": {
+    "city": "",
+    "country": "",
+    "coordinates": {
+      "latitude": "",
+      "longitude": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "storage": "local",
+      "url": "data\\images\\Workflow IA-Page-6.drawio.png",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "commentary": "",
+  "history": [
+    {
+      "date": "2025-12-09 16:34:19",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

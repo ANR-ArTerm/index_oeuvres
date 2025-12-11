@@ -150,6 +150,7 @@ LIST_FORM_DIR = os.path.join(DATA_DIR, "list_form")
 LIST_FILES = {
     "artists_names": "artists_names.json",
     "artists_roles": "artists_roles.json",
+    "architects_roles":"architects_roles.json",
     "typologies": "typologies.json",
     "institutions": "institutions.json",
     "techniques": "techniques.json",
