@@ -54,15 +54,31 @@ echo ""
 
 echo "=== Création / Vérification du .env et du username ==="
 
+VALID_USERS=("Pierre" "Julia" "Anna" "Emma" "Carla")
+
+# Fonction pour demander un nom valide
+ask_username() {
+    while true; do
+        read -p "Entrez votre nom d'utilisateur (Pierre, Julia, Anna, Emma, Carla) : " USERNAME
+        for valid in "${VALID_USERS[@]}"; do
+            if [ "$USERNAME" == "$valid" ]; then
+                return 0
+            fi
+        done
+        echo "Utilisateur invalide. Veuillez choisir parmi : ${VALID_USERS[*]}"
+    done
+}
+
+# Si le fichier .env n'existe pas
 if [ ! -f ".env" ]; then
     echo "Fichier .env introuvable, création..."
-    read -p "Entrez votre nom d'utilisateur : " USERNAME
+    ask_username
     echo "USERNAME=$USERNAME" > .env
 else
     CURRENT_USER=$(grep "^USERNAME=" .env | cut -d= -f2)
 
     if [ -z "$CURRENT_USER" ]; then
-        read -p "Entrez votre nom d'utilisateur : " USERNAME
+        ask_username
         echo "USERNAME=$USERNAME" >> .env
     else
         echo "Nom d'utilisateur déjà présent : $CURRENT_USER"

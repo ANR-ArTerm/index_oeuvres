@@ -7,11 +7,7 @@ PEINTURE_DIR = os.path.join(DATA_DIR, "entry_peinture")
 ARCHITECTURE_DIR = os.path.join(DATA_DIR, "entry_architecture")
 SCULPTURE_DIR = os.path.join(DATA_DIR, "entry_architecture")
 IMAGES_DIR = os.path.join(DATA_DIR, "images")
-
-def load_username():
-    load_dotenv()  # charge le .env automatiquement
-    username = os.getenv("USERNAME")
-    return username
+LIST_FORM_DIR = os.path.join(DATA_DIR, "list_form")
 
 def load_all_notices():
     """
@@ -151,15 +147,15 @@ def delete_notice(path):
 
 # ========== Les listes pour l'autocomplétion
 
-LIST_FORM_DIR = os.path.join(DATA_DIR, "list_form")
-
 LIST_FILES = {
     "artists_names": "artists_names.json",
     "artists_roles": "artists_roles.json",
+    "architects_roles":"architects_roles.json",
     "typologies": "typologies.json",
     "institutions": "institutions.json",
     "techniques": "techniques.json",
     "zotero_keys": "zotero_keys.json",
+    "usernames": "usernames.json"
 }
 
 def _load_json(path):
@@ -177,3 +173,17 @@ def load_list_form(key: str):
 
     path = os.path.join(LIST_FORM_DIR, LIST_FILES[key])
     return _load_json(path)
+
+def load_username(default=None):
+    load_dotenv()
+    return os.getenv("USERNAME", default)
+
+def index_username():
+    username = load_username()
+    options = load_list_form("usernames")
+    index = options.index(username) if username in options else 0
+    return index
+
+
+
+

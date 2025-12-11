@@ -4,7 +4,7 @@ from datetime import datetime
 import time
 import uuid
 
-from modules.data_loader import load_all_notices, save_notice, exist_notice, save_image, load_list_form, load_username
+from modules.data_loader import load_all_notices, save_notice, exist_notice, save_image, load_list_form, index_username
 
 def add_notice_peinture():
     # initialisation de la clé
@@ -15,8 +15,8 @@ def add_notice_peinture():
     with st.form(key=f"form_new_notice_painting_{st.session_state.form_key_painting}", enter_to_submit=False, border=False):
         st.subheader("Informations générales")
         entry_creator = st.selectbox("Créateur de la notice :*",
-                                     ("Pierre", "Julia", "Anna", "Emma"),
-                                     index=load_username()
+                                     load_list_form("usernames"),
+                                     index=index_username()
                                      )
         id_input = st.text_input("XML:ID de l'œuvre *", help="Champ obligatoire, vérifier dans l'onglet Recherche que l'œuvre n'existe pas")
         QID_wikidata = st.text_input("Lien de la notice Wikidata")

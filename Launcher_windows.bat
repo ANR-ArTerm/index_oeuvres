@@ -1,11 +1,30 @@
 @echo off
 setlocal ENABLEDELAYEDEXPANSION
 
+echo.
 echo === Création / Vérification du .env et du username ===
 
+echo.
+:: Liste des utilisateurs valides
+set "VALID_USERS=Pierre Julia Anna Emma Carla"
+
+:: Fonction pour demander le nom d'utilisateur et valider
+:ASK_USERNAME
+set /p USERNAME="Entrez votre nom d'utilisateur (Pierre, Julia, Anna, Emma, Carla) : "
+
+:: Vérifie si USERNAME est dans la liste
+set "FOUND=0"
+for %%u in (%VALID_USERS%) do (
+    if /I "%%u"=="%USERNAME%" set FOUND=1
+)
+
+if %FOUND%==0 (
+    echo Utilisateur invalide. Veuillez choisir parmi : Pierre, Julia, Anna, Emma, Carla
+    goto ASK_USERNAME
+)
+
+:: Vérifie si le fichier .env existe
 if not exist ".env" (
-    echo Fichier .env introuvable, création...
-    set /p USERNAME="Entrez votre nom d'utilisateur : "
     echo USERNAME=%USERNAME% > .env
 ) else (
     for /f "tokens=1,* delims==" %%a in ('findstr /b "USERNAME=" .env') do (
@@ -13,12 +32,13 @@ if not exist ".env" (
     )
 
     if "%CURRENT_USER%"=="" (
-        set /p USERNAME="Entrez votre nom d'utilisateur : "
         echo USERNAME=%USERNAME% >> .env
     ) else (
         echo Nom d'utilisateur déjà présent : %CURRENT_USER%
     )
 )
+
+echo Utilisateur sélectionné : %USERNAME%
 
 
 echo === Verification de Python ===
