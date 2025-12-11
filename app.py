@@ -49,7 +49,7 @@ if st.session_state.get("show_commit_box", False):
                 ok, out = git_commit_and_push(message)
             if ok:
                 st.sidebar.success("✅ Push effectué !")
-                st.sidebar.text(out)
+                st.sidebar.code(out, language="bash")
                 st.sidebar.session_state.show_commit_box = False
             else:
                 st.error(f"⚠️ Erreur : {out}")
