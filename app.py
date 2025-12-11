@@ -19,6 +19,13 @@ st.sidebar.header("Menu")
 if st.sidebar.button("Accueil"):
     st.session_state.active_menu = None
 
+st.sidebar.subheader("Edition des notices")
+if st.sidebar.button("➕ Ajouter une notice"):
+    st.session_state.active_menu = "add" if st.session_state.active_menu != "add" else None
+
+if st.sidebar.button("🔍 Rechercher dans les notices"):
+    st.session_state.active_menu = "search" if st.session_state.active_menu != "search" else None
+
 st.sidebar.subheader("Stockage en ligne des données")
 if st.sidebar.button("⤵️ Télécharger les données (Git Pull)"):
     ok, out = git_pull()
@@ -43,13 +50,6 @@ if st.session_state.get("show_commit_box", False):
             st.sidebar.session_state.show_commit_box = False
         else:
             st.error(f"⚠️ Erreur : {out}")
-
-st.sidebar.subheader("Edition des notices")
-if st.sidebar.button("➕ Ajouter une notice"):
-    st.session_state.active_menu = "add" if st.session_state.active_menu != "add" else None
-
-if st.sidebar.button("🔍 Rechercher dans les notices"):
-    st.session_state.active_menu = "search" if st.session_state.active_menu != "search" else None
 
 # Zone principale
 if st.session_state.active_menu is None:
