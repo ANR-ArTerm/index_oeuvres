@@ -4,7 +4,7 @@ from datetime import datetime
 import time
 import uuid
 
-from modules.data_loader import load_all_notices, save_notice, exist_notice, save_image, load_list_form, index_username
+from modules.data_loader import load_all_notices, save_notice, exist_notice, save_image, load_list_form, index_username, save_to_list_form
 from modules.git_tools import git_commit_and_push
 
 def add_notice_architecture():
@@ -56,13 +56,18 @@ def add_notice_architecture():
                     accept_new_options=True,
                     key=f"architect_id_{i}"
                     )
+                if artiste_id not in load_list_form("artists_names"):
+                    save_to_list_form("artists_names", artiste_id)
             with col2:
                 artiste_role = st.selectbox(
                     f"Rôle",
                     load_list_form("architects_roles"),
                     key=f"architect_role_{i}", 
-                    placeholder="ex: architecte"
+                    placeholder="ex: architecte",
+                    accept_new_options=True
                     )
+                if artiste_role not in load_list_form("architects_roles"):
+                    save_to_list_form("architects_roles", artiste_role)
             if artiste_id:
                 creators_list.append({
                     "xml:id": artiste_id,
@@ -80,6 +85,9 @@ def add_notice_architecture():
             index = None,
             placeholder = "Selectionner ou ajouter une option"
         )
+
+        if typology not in load_list_form("typologies"):
+            save_to_list_form("typologies", typology)
 
         st.subheader("Datation de l'oeuvre")
         col_date_1, col_date_2, col_date_3 = st.columns([1, 1, 8])

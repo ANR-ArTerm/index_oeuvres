@@ -174,6 +174,23 @@ def load_list_form(key: str):
     path = os.path.join(LIST_FORM_DIR, LIST_FILES[key])
     return _load_json(path)
 
+
+def save_to_list_form(key: str, value: str):
+    if key not in LIST_FILES:
+        raise ValueError(f"Clé inconnue : {key}")
+    
+    path = os.path.join(LIST_FORM_DIR, LIST_FILES[key])
+    
+    # Charger les données existantes
+    data = _load_json(path)
+    
+    # Ajouter si non présent
+    if value not in data:
+        data.append(value)
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+
+
 def load_username(default=None):
     load_dotenv()
     return os.getenv("USERNAME", default)
