@@ -1,6 +1,9 @@
-from modules.git_tools import git_pull, git_commit_and_push
-from modules.data_loader import load_all_notices, load_notice, save_notice, delete_notice, exist_notice
 import streamlit as st
+
+from modules.git_tools import git_pull, git_commit_and_push
+
+from modules.data_loader import load_all_notices, load_notice, save_notice, delete_notice, exist_notice
+
 from modules.form.home import render_home
 from modules.form.search import render_search_notices
 from modules.form.add_notice_architecture import add_notice_architecture
@@ -44,13 +47,13 @@ if st.session_state.get("show_commit_box", False):
         with st.sidebar:
             with st.spinner("Enregistement de la notice et ajout sur github"):
                 ok, out = git_commit_and_push(message)
-        if ok:
-            st.sidebar.success("✅ Push effectué !")
-            st.sidebar.text(out)
-            st.sidebar.session_state.show_commit_box = False
-            st.rerun()
-        else:
-            st.error(f"⚠️ Erreur : {out}")
+            if ok:
+                st.sidebar.success("✅ Push effectué !")
+                st.sidebar.text(out)
+                st.sidebar.session_state.show_commit_box = False
+                st.rerun()
+            else:
+                st.error(f"⚠️ Erreur : {out}")
 
 # Zone principale
 if st.session_state.active_menu is None:
