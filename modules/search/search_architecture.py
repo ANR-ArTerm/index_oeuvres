@@ -84,7 +84,7 @@ def render_search_entries_architecture():
                 if illustrations_list and illustrations_list[0] != "AUCUNE ILLUSTRATION":
                     first_illustration = illustrations_list[0]
                     try:
-                        st.image(first_illustration, use_container_width=True)
+                        st.image(first_illustration, width='stretch')
                     except Exception:
                         st.warning("⚠️ Image non disponible")
                 
@@ -95,9 +95,15 @@ def render_search_entries_architecture():
                 st.markdown(f"xml:id : **{o['id']}**")
 
                 col_mod, col_del = st.columns([1, 1])
+                
+                with col_mod:
+                    if st.button("Modifier ✏️", key=f"mod_architecture_{idx}"):
+                        st.session_state.editing_notice = json_path
+                        st.session_state.active_menu = "edit"
+                        st.rerun()
 
                 with col_del:
-                    if st.button("Supprimer 🗑️", key=f"del_{idx}"):
+                    if st.button("Supprimer 🗑️", key=f"del_architecture_{idx}"):
                         delete_notice(json_path)
                         st.success(f"Notice déplacée dans la corbeille : {json_path}")
                         time.sleep(1)

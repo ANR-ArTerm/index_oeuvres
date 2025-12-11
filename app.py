@@ -11,7 +11,7 @@ from modules.form.add_notice_peinture import add_notice_peinture
 
 from modules.search.search_architecture import render_search_entries_architecture
 from modules.search.search_painting import render_search_entries_painting
-
+from modules.search.consult_architecture import edit_json_notice
 
 
 st.set_page_config(layout="wide")
@@ -20,6 +20,7 @@ st.title("🖼️ Editeur de notices d'oeuvres")
 # Initialisation des états
 if "active_menu" not in st.session_state:
     st.session_state.active_menu = None   # "add" / "search" / None
+    st.rerun()
 
 # Sidebar comme navigation principale
 st.sidebar.header("Menu")
@@ -84,4 +85,15 @@ elif st.session_state.active_menu == "search":
     with tab2:
         st.session_state.type_notice = "architecture"
         render_search_entries_architecture()
+
+elif st.session_state.active_menu == "edit":
+    if "editing_notice" in st.session_state and st.session_state.editing_notice:
+        st.header("✏️ Édition de la notice")
+        
+        if st.button("← Retour à la liste"):
+            del st.session_state.editing_notice
+            st.session_state.active_menu = "search"
+            st.rerun()
+        
+        edit_json_notice(json_path=st.session_state.editing_notice)
 

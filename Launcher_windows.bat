@@ -89,16 +89,12 @@ echo === Installation des dependances ===
 echo.
 
 :: Test Streamlit
-python -c "import importlib.util; 
-import sys; 
-sys.exit(0 if importlib.util.find_spec('streamlit') and importlib.util.find_spec('dotenv') else 1)" >nul 2>&1
 
+echo Installation des dependances et mise à jour...
+pip install --upgrade pip
+pip install --upgrade -r requirements.txt
 
-if %ERRORLEVEL% neq 0 (
-    echo Installation des dependances...
-    pip install --upgrade pip
-    pip install -r requirements.txt
-)
+echo.
 echo.
 
 echo === Lancement de l'application ===

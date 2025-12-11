@@ -1,7 +1,8 @@
 import streamlit as st
 import json
+import time
 
-from modules.data_loader import load_all_entries 
+from modules.data_loader import load_all_entries, delete_notice
 
 def normalize_notice_painting(o):
     """
@@ -84,7 +85,7 @@ def render_search_entries_painting():
                 if illustrations_list and illustrations_list[0] != "AUCUNE ILLUSTRATION":
                     first_illustration = illustrations_list[0]
                     try:
-                        st.image(first_illustration, use_container_width=True)
+                        st.image(first_illustration, width='stretch')
                     except Exception:
                         st.warning("⚠️ Image non disponible")
                 
@@ -94,6 +95,19 @@ def render_search_entries_painting():
                 # ID
                 st.markdown(f"xml:id : **{o['id']}**")
 
+                col_mod, col_del = st.columns([1, 1])
+
+                with col_mod:
+                    if st.button("Modifier ✏️", key=f"mod_painting_{idx}"):
+                        st.session_state.editing_notice = json_path
+                        st.rerun()
+
+                with col_del:
+                    if st.button("Supprimer 🗑️", key=f"del_painting_{idx}"):
+                        delete_notice(json_path)
+                        st.success(f"Notice déplacée dans la corbeille : {json_path}")
+                        time.sleep(1)
+                        st.rerun()
                 
                 # Titre principal
                 st.text(o['title'])

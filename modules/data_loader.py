@@ -315,7 +315,12 @@ def load_username(default=None):
 def index_username():
     username = load_username()
     options = load_list_form("usernames")
-    index = options.index(username) if username in options else 0
+    index = options.index(username) if username in options else None
+    return index
+
+def index_list_form(value, key: str):
+    options = load_list_form(key)
+    index = options.index(value) if value in options else None
     return index
 
 
