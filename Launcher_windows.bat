@@ -1,6 +1,11 @@
 @echo off
 setlocal ENABLEDELAYEDEXPANSION
 
+echo. === Récupération des mises à jour ===
+echo.
+git pull
+
+echo.
 echo.
 echo === Création / Vérification du .env et du username ===
 
@@ -39,7 +44,8 @@ if not exist ".env" (
 )
 
 echo Utilisateur sélectionné : %USERNAME%
-
+echo.
+echo.
 
 echo === Verification de Python ===
 

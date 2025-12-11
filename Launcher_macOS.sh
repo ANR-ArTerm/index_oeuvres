@@ -1,4 +1,9 @@
 #!/bin/bash
+echo "=== Récupération des mises à jour ==="
+echo ""
+git pull
+echo ""
+echo ""
 
 echo "=== Vérification de Python ==="
 
@@ -12,6 +17,7 @@ fi
 
 PYTHON_FOUND=$(which python3)
 echo "Python détecté : $PYTHON_FOUND"
+echo ""
 echo ""
 
 echo "=== Création / Activation de l'environnement virtuel ==="
@@ -34,6 +40,7 @@ fi
 source .venv/bin/activate
 echo "Environnement virtuel activé"
 echo ""
+echo ""
 
 echo "=== Installation des dépendances ==="
 echo ""
@@ -49,6 +56,7 @@ if [ $? -ne 0 ]; then
     pip install --upgrade pip
     pip install -r requirements.txt
 fi
+echo ""
 echo ""
 
 
@@ -84,7 +92,8 @@ else
         echo "Nom d'utilisateur déjà présent : $CURRENT_USER"
     fi
 fi
-
+echo ""
+echo ""
 
 echo "=== Lancement de l'application ==="
 echo ""

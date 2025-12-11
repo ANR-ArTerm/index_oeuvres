@@ -7,73 +7,61 @@ from modules.form.add_notice_architecture import add_notice_architecture
 from modules.form.add_notice_peinture import add_notice_peinture
 
 st.set_page_config(layout="wide")
-
 st.title("🖼️ Editeur de notices d'oeuvres")
-
-colMenuLateral, colMenuPrincipal = st.columns([1, 7], border=True)
 
 # Initialisation des états
 if "active_menu" not in st.session_state:
     st.session_state.active_menu = None   # "add" / "search" / None
 
-with colMenuLateral:
-    st.header("Menu")
-    if st.button("Accueil"):
-        st.session_state.active_menu = None
-    
-    st.subheader("Stockage en ligne des données")
+# Sidebar comme navigation principale
+st.sidebar.header("Menu")
 
-    if st.button("⤵️ Télécharger les données (Git Pull)"):
-        ok, out = git_pull()
+if st.sidebar.button("Accueil"):
+    st.session_state.active_menu = None
+
+st.sidebar.subheader("Stockage en ligne des données")
+if st.sidebar.button("⤵️ Télécharger les données (Git Pull)"):
+    ok, out = git_pull()
+    if ok:
+        st.success("✅ Git pull effectué avec succès !")
+        st.text(out)
+    else:
+        st.error(f"⚠️ Erreur lors du git pull : {out}")
+
+if st.sidebar.button("⤴️ Ajouter les données sur GitHub (Git Commit & Push)"):
+    st.session_state.show_commit_box = True
+
+if st.session_state.get("show_commit_box", False):
+    message = st.sidebar.text_input("Entrer le message de commit")
+    if st.sidebar.button("Valider (Commit et Push)"):
+        ok, out = git_commit_and_push(message)
         if ok:
-            st.success("✅ Git pull effectué avec succès !")
+            st.success("✅ Push effectué !")
             st.text(out)
+            st.session_state.show_commit_box = False
         else:
-            st.error(f"⚠️ Erreur lors du git pull : {out}")
+            st.error(f"⚠️ Erreur : {out}")
 
-    if st.button("⤴️ Ajouter les données sur GitHub (Git Commit & Push)"):
-        st.session_state.show_commit_box = True
+st.sidebar.subheader("Edition des notices")
+if st.sidebar.button("➕ Ajouter une notice"):
+    st.session_state.active_menu = "add" if st.session_state.active_menu != "add" else None
 
-    if st.session_state.get("show_commit_box", False):
-        message = st.text_input("Entrer le message de commit")
-        if st.button("Valider (Commit et Push)"):
-            ok, out = git_commit_and_push(message)
-            if ok:
-                st.success("✅ Push effectué !")
-                st.text(out)
-                st.session_state.show_commit_box = False
-            else:
-                st.error(f"⚠️ Erreur : {out}")
+if st.sidebar.button("🔍 Rechercher dans les notices"):
+    st.session_state.active_menu = "search" if st.session_state.active_menu != "search" else None
 
-    st.subheader("Edition des notices")
-    # Bouton : Ajouter une notice
-    if st.button("➕ Ajouter une notice"):
-        st.session_state.active_menu = "add" if st.session_state.active_menu != "add" else None
-
-    # Bouton : Rechercher une notice
-    if st.button("🔍 Rechercher dans les notices"):
-        st.session_state.active_menu = "search" if st.session_state.active_menu != "search" else None
-
-with colMenuPrincipal:
-
-    if st.session_state.active_menu == None:
-        render_home()
-
-    if st.session_state.active_menu == "add":
-        st.header("Ajouter une notice")
-        tab1, tab2 = st.tabs(["🖼️ Peinture", "🏛️ Architecture"])
-        
-        with tab1:
-            st.session_state.type_notice = "peinture"
-            # Formulaire pour peinture
-            add_notice_peinture()
-        
-        with tab2:
-            st.session_state.type_notice = "architecture"
-            # Formulaire pour architecture
-            add_notice_architecture()
-
-
-    elif st.session_state.active_menu == "search":
-        render_search_notices()
-
+# Zone principale
+if st.session_state.active_menu is None:
+    render_home()
+elif st.session_state.active_menu == "add":
+    st.header("Ajouter une notice")
+    tab1, tab2 = st.tabs(["🖼️ Peinture", "🏛️ Architecture"])
+    
+    with tab1:
+        st.session_state.type_notice = "peinture"
+        add_notice_peinture()
+    
+    with tab2:
+        st.session_state.type_notice = "architecture"
+        add_notice_architecture()
+elif st.session_state.active_menu == "search":
+    render_search_notices()
