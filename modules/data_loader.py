@@ -13,7 +13,6 @@ TYPE_DIRS = {
         "architecture": ARCHITECTURE_DIR,
     }
 
-
 def load_all_notices():
     """
     Charge tous les fichiers JSON du dossier DATA_DIR.
@@ -94,6 +93,42 @@ def load_all_notices():
         existing_institution,
     )
 
+def get_all_objects_ids(type_name: str):
+    """
+    Récupère la liste des 'id' dans tous les fichiers JSON d'un dossier.
+
+    Args:
+        type_name (str): "peinture" ou "architecture"
+
+    Returns:
+        list: liste des id trouvés
+    """
+    if type_name not in TYPE_DIRS:
+        raise ValueError(f"Type inconnu : {type_name}")
+
+    folder = TYPE_DIRS[type_name]
+    objects_ids = []
+
+    # Parcourir tous les fichiers JSON du dossier
+    for filename in os.listdir(folder):
+        if filename.endswith(".json"):
+            path = os.path.join(folder, filename)
+            with open(path, "r", encoding="utf-8") as f:
+                try:
+                    data = json.load(f)
+                except json.JSONDecodeError:
+                    continue  # Ignorer les fichiers JSON invalides
+
+                # Vérifier si c'est une liste ou un dict unique
+                if isinstance(data, list):
+                    for item in data:
+                        if isinstance(item, dict) and "id" in item:
+                            objects_ids.append(item["id"])
+                elif isinstance(data, dict) and "id" in data:
+                    objects_ids.append(data["id"])
+
+    return objects_ids
+
 def save_image(uploaded_file, save_path=None):
     save_path = os.path.join(IMAGES_DIR, uploaded_file.name)
     with open(save_path, "wb") as f:
@@ -155,7 +190,8 @@ LIST_FILES = {
     "institutions": "institutions.json",
     "techniques": "techniques.json",
     "zotero_keys": "zotero_keys.json",
-    "usernames": "usernames.json"
+    "usernames": "usernames.json",
+    "link_types":"link_types.json"
 }
 
 def _load_json(path):
@@ -178,12 +214,16 @@ def load_list_form(key: str):
 def save_to_list_form(key: str, value: str):
     if key not in LIST_FILES:
         raise ValueError(f"Clé inconnue : {key}")
-    
+
+    # Ignorer None ou chaîne vide
+    if value is None or str(value).strip() == "":
+        return
+
     path = os.path.join(LIST_FORM_DIR, LIST_FILES[key])
-    
+
     # Charger les données existantes
     data = _load_json(path)
-    
+
     # Ajouter si non présent
     if value not in data:
         data.append(value)

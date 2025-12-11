@@ -1,3 +1,2 @@
 streamlit
-streamlit_smart_text_input
 python-dotenv

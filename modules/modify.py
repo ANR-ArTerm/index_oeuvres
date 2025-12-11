@@ -9,9 +9,6 @@ from modules.data_loader import (
     DATA_DIR
 )
 
-from modules.smart_inputs import st_smart_text_input  # si ton module existe
-from modules.modify import render_modify_form
-
 def render_modify_form():
 
     # Chargement des œuvres + chemins

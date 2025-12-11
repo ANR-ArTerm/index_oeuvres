@@ -4,7 +4,7 @@ from datetime import datetime
 import time
 import uuid
 
-from modules.data_loader import load_all_notices, save_notice, exist_notice, save_image, load_list_form, index_username
+from modules.data_loader import load_all_notices, save_notice, exist_notice, save_image, load_list_form, index_username, save_to_list_form, get_all_objects_ids
 from modules.git_tools import git_commit_and_push
 
 def add_notice_peinture():
@@ -56,13 +56,18 @@ def add_notice_peinture():
                     accept_new_options=True,
                     key=f"peintre_id_{i}"
                     )
+                if artiste_id not in load_list_form("artists_names"):
+                    save_to_list_form("artists_names", artiste_id)
             with col2:
                 artiste_role = st.selectbox(
                     f"Rôle",
                     load_list_form("artists_roles"),
                     key=f"peintre_role_{i}", 
+                    accept_new_options=True,
                     placeholder="ex: peintre"
                     )
+                if artiste_role not in load_list_form("architects_roles"):
+                    save_to_list_form("architects_roles", artiste_role)
             if artiste_id:
                 creators_list.append({
                     "xml:id": artiste_id,
@@ -80,6 +85,8 @@ def add_notice_peinture():
             index = None,
             placeholder = "Selectionner ou ajouter une option"
         )
+        if technique not in load_list_form("techniques"):
+            save_to_list_form("techniques", technique)
 
         st.subheader("Datation de l'oeuvre")
         col_date_1, col_date_2, col_date_3 = st.columns([1, 1, 8])
@@ -92,7 +99,16 @@ def add_notice_peinture():
         
         st.subheader("Lieu de conservation")
         holding_place = st.text_input("Ville de conservation")
-        holding_institution = st.text_input("Institution de conservation / monument")
+        holding_institution = st.selectbox(
+            "Institution de conservation / monument",
+            load_list_form("institutions"),
+            accept_new_options=True,
+            index = None,
+            placeholder = "Selectionner ou ajouter une option"
+        )
+        if holding_institution not in load_list_form("institutions"):
+            save_to_list_form("institutions", holding_institution)
+
         holding_number = st.text_input("Numéro d'inventaire")
         holding_URL = st.text_input("Lien dans la base de données du musée")
 
@@ -118,31 +134,34 @@ def add_notice_peinture():
         
         # Champs artistes dynamiques
         related_works_list = []
-        list_link_type = []
-        list_work_xml_id = []
+        paintings_ids = get_all_objects_ids("peinture")
         
         for i in range(st.session_state.nb_related_paintings):
             col1, col2 = st.columns(2)
             with col1:
                 related_work_type = st.selectbox(
                     f"Type de lien",
-                    list_link_type,
+                    load_list_form("link_types"),
                     key=f"related_work_type_painting_{i}", 
-                    placeholder="ex: copie de, gravé d'après"
+                    placeholder="ex: copie de, gravé d'après",
+                    accept_new_options=True,
+                    index=None
                     )
+                if related_work_type not in load_list_form("link_types"):
+                    save_to_list_form("link_types", related_work_type)
                 
             with col2:
                 related_work_id = st.selectbox(
                     f"Oeuvres liées {i+1}",
-                    list_work_xml_id,
+                    paintings_ids,
                     index=None,
                     placeholder="XML:ID de l'oeuvre liée ou entrer un nouveau",
-                    accept_new_options=True,
+                    accept_new_options=False,
                     key=f"related_work_id_painting_{i}"
                     )
 
             if related_work_id:
-                creators_list.append({
+                related_works_list.append({
                     "link_type": related_work_type if related_work_type else "",
                     "xml_id_work": related_work_id
                 })
@@ -182,6 +201,9 @@ def add_notice_peinture():
                     accept_new_options=True,
                     key=f"bibliography_id_painting_{i}"
                     )
+                if bibliography_key not in load_list_form("zotero_keys"):
+                    save_to_list_form("zotero_keys", bibliography_key)                
+
             with col2:
                 bibliography_info = st.text_input(
                     f"Page, numéro dans la référence",

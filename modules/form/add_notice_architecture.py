@@ -4,7 +4,7 @@ from datetime import datetime
 import time
 import uuid
 
-from modules.data_loader import load_all_notices, save_notice, exist_notice, save_image, load_list_form, index_username, save_to_list_form
+from modules.data_loader import load_all_notices, save_notice, exist_notice, save_image, load_list_form, index_username, save_to_list_form, get_all_objects_ids
 from modules.git_tools import git_commit_and_push
 
 def add_notice_architecture():
@@ -129,31 +129,35 @@ def add_notice_architecture():
         
         # Champs artistes dynamiques
         related_works_list = []
-        list_link_type = []
-        list_work_xml_id = []
+        architecture_ids = get_all_objects_ids("architecture")
         
         for i in range(st.session_state.nb_related_architectures):
             col1, col2 = st.columns(2)
             with col1:
                 related_work_type = st.selectbox(
                     f"Type de lien",
-                    list_link_type,
+                    load_list_form("link_types"),
                     key=f"related_work_type_architecture_{i}", 
-                    placeholder="ex: copie de, gravé d'après"
+                    placeholder="ex: copie de, gravé d'après",
+                    accept_new_options=True,
+                    index=None
                     )
+                if related_work_type not in load_list_form("link_types"):
+                    save_to_list_form("link_types", related_work_type)
+
                 
             with col2:
                 related_work_id = st.selectbox(
                     f"Oeuvres liées {i+1}",
-                    list_work_xml_id,
+                    architecture_ids,
                     index=None,
                     placeholder="XML:ID de l'oeuvre liée ou entrer un nouveau",
-                    accept_new_options=True,
+                    accept_new_options=False,
                     key=f"related_work_id_architecture_{i}"
                     )
 
             if related_work_id:
-                creators_list.append({
+                related_works_list.append({
                     "link_type": related_work_type if related_work_type else "",
                     "xml_id_work": related_work_id
                 })
@@ -193,6 +197,9 @@ def add_notice_architecture():
                     accept_new_options=True,
                     key=f"bibliography_id_architecture_{i}"
                     )
+                if bibliography_key not in load_list_form("zotero_keys"):
+                    save_to_list_form("zotero_keys", bibliography_key)
+
             with col2:
                 bibliography_info = st.text_input(
                     f"Page, numéro dans la référence",
