@@ -41,7 +41,7 @@ echo ""
 # Vérifie si streamlit est déjà installé
 python3 - <<EOF
 import importlib.util, sys
-sys.exit(0 if importlib.util.find_spec("streamlit") else 1)
+sys.exit(0 if importlib.util.find_spec("streamlit") and importlib.util.find_spec("dotenv") else 1)
 EOF
 
 if [ $? -ne 0 ]; then

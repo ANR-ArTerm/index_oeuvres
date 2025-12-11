@@ -63,7 +63,10 @@ echo === Installation des dependances ===
 echo.
 
 :: Test Streamlit
-python -c "import importlib.util; exit(0) if importlib.util.find_spec('streamlit') else exit(1)" >nul 2>&1
+python -c "import importlib.util; 
+import sys; 
+sys.exit(0 if importlib.util.find_spec('streamlit') and importlib.util.find_spec('dotenv') else 1)" >nul 2>&1
+
 
 if %ERRORLEVEL% neq 0 (
     echo Installation des dependances...
