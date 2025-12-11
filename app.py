@@ -34,7 +34,9 @@ if st.sidebar.button("⤴️ Ajouter les données sur GitHub (Git Commit & Push)
 if st.session_state.get("show_commit_box", False):
     message = st.sidebar.text_input("Entrer le message de commit")
     if st.sidebar.button("Valider (Commit et Push)"):
-        ok, out = git_commit_and_push(message)
+        with st.sidebar:
+            with st.spinner("Enregistement de la notice et ajout sur github"):
+                ok, out = git_commit_and_push(message)
         if ok:
             st.sidebar.success("✅ Push effectué !")
             st.sidebar.text(out)
