@@ -70,7 +70,7 @@ def add_notice_architecture():
                     save_to_list_form("architects_roles", artiste_role)
             if artiste_id:
                 creators_list.append({
-                    "xml:id": artiste_id,
+                    "xml_id": artiste_id,
                     "role": artiste_role if artiste_role else ""
                 })
 

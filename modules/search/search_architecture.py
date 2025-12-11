@@ -8,6 +8,7 @@ def normalize_notice_architecture(o):
     Remplace les champs vides par des chaînes 'AUCUN ...' pour que la recherche fonctionne.
     """
     # Champs principaux
+    o['id'] = o.get('id') or "AUCUN ID"
     o['title'] = o.get('title') or "AUCUN TITRE"
     o['entry_type'] = o.get('entry_type') or "AUCUN TYPE"
     o['typology'] = o.get('typology') or "AUCUNE TYPOLOGIE"
@@ -88,8 +89,11 @@ def render_search_entries_architecture():
                 # Type d'entrée
                 st.caption(o['entry_type'])
                 
+                # ID
+                st.markdown(f"xml:id : **{o['id']}**")
+
                 # Titre principal
-                st.subheader(o['title'])
+                st.text(o['title'])
                 
                 # Créateurs en italique
                 st.markdown(f"*{creators_str}*")

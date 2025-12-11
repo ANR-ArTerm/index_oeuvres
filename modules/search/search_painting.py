@@ -92,7 +92,7 @@ def render_search_entries_painting():
                 st.caption(o['entry_type'])
 
                 # ID
-                st.subheader(o['id'])
+                st.markdown(f"**xml:id : {o['id']}**")
                 
                 # Titre principal
                 st.text(o['title'])

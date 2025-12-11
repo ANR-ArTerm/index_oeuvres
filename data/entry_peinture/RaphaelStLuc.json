@@ -4,7 +4,7 @@
   "title": "Saint Luc peignant la Vierge en présence de Raphaël",
   "creator": [
     {
-      "xml:id": "Raphael",
+      "xml_id": "Raphael",
       "role": "peintre"
     }
   ],

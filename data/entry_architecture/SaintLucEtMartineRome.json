@@ -4,7 +4,7 @@
   "title": "Eglise de Saint-Luc-et-Martine",
   "creator": [
     {
-      "xml:id": "PierreDeCortone",
+      "xml_id": "PierreDeCortone",
       "role": "architecte"
     }
   ],
