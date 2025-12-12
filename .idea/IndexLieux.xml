@@ -1,0 +1,3674 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <settingDesc>
+    <listPlace>
+      <place xml:id="Calidonia" />
+      <place xml:id="Adee" />
+      <place xml:id="Cotton" />
+      <place xml:id="Afrique" source="https://www.wikidata.org/wiki/Q15">
+        <placeName xml:lang="fra">Afrique</placeName>
+        <placeName xml:lang="ita">Africa</placeName>
+        <location>
+          <geo>21.09375 7.1881</geo>
+        </location>
+        <idno type="wikidata">Q15</idno>
+      </place>
+      <place xml:id="Amerique" source="https://www.wikidata.org/wiki/Q828">
+        <placeName xml:lang="fra">Amérique</placeName>
+        <placeName xml:lang="ita">America</placeName>
+        <location>
+          <geo>19 -96</geo>
+        </location>
+        <idno type="wikidata">Q828</idno>
+      </place>
+      <place xml:id="Asie" source="https://www.wikidata.org/wiki/Q48">
+        <placeName xml:lang="fra">Asie</placeName>
+        <placeName xml:lang="ita">Asia</placeName>
+        <location>
+          <geo>43.681111111111115 87.33111111111111</geo>
+        </location>
+        <idno type="wikidata">Q48</idno>
+      </place>
+      <place xml:id="Catalogne" source="https://www.wikidata.org/wiki/Q113834065">
+        <placeName xml:lang="fra">Catalogne (région culturelle)</placeName>
+        <location />
+        <idno type="wikidata">Q113834065</idno>
+      </place>
+      <place xml:id="Barbarie" source="https://www.wikidata.org/wiki/Q501768">
+        <placeName xml:lang="fra">Côte des Barbaresques</placeName>
+        <placeName xml:lang="ita">Stati barbareschi</placeName>
+        <location />
+        <idno type="wikidata">Q501768</idno>
+      </place>
+      <place xml:id="Europe" source="https://www.wikidata.org/wiki/Q46">
+        <placeName xml:lang="fra">Europe</placeName>
+        <placeName xml:lang="ita">Europa</placeName>
+        <location>
+          <geo>48.690959 9.14062</geo>
+        </location>
+        <idno type="wikidata">Q46</idno>
+      </place>
+      <place xml:id="Ogygie" source="https://www.wikidata.org/wiki/Q1232442">
+        <placeName xml:lang="fra">Ogygie</placeName>
+        <placeName xml:lang="ita">Ogigia</placeName>
+        <location />
+        <idno type="wikidata">Q1232442</idno>
+      </place>
+      <place xml:id="AixLaChapelle" source="https://www.wikidata.org/wiki/Q1017">
+        <placeName xml:lang="fra">Aix-la-Chapelle</placeName>
+        <placeName xml:lang="ita">Aquisgrana</placeName>
+        <location>
+          <country>Allemagne</country>
+          <geo>50.776207 6.083788</geo>
+        </location>
+        <idno type="wikidata">Q1017</idno>
+      </place>
+      <place xml:id="Augsbourg" source="https://www.wikidata.org/wiki/Q2749">
+        <placeName xml:lang="fra">Augsbourg</placeName>
+        <placeName xml:lang="ita">Augusta</placeName>
+        <location>
+          <country>Allemagne</country>
+          <geo>48.36888888888889 10.897777777777778</geo>
+        </location>
+        <idno type="wikidata">Q2749</idno>
+      </place>
+      <place xml:id="Cologne" source="https://www.wikidata.org/wiki/Q365">
+        <placeName xml:lang="fra">Cologne</placeName>
+        <placeName xml:lang="ita">Colonia</placeName>
+        <location>
+          <country>Allemagne</country>
+          <geo>50.942222222222 6.9577777777778</geo>
+        </location>
+        <idno type="wikidata">Q365</idno>
+      </place>
+      <place xml:id="Heidelberg" source="https://www.wikidata.org/wiki/Q2966">
+        <placeName xml:lang="fra">Heidelberg</placeName>
+        <placeName xml:lang="ita">Heidelberg</placeName>
+        <location>
+          <country>Allemagne</country>
+          <geo>49.412222222222 8.71</geo>
+        </location>
+        <idno type="wikidata">Q2966</idno>
+      </place>
+      <place xml:id="Ingolstadt" source="https://www.wikidata.org/wiki/Q3004">
+        <placeName xml:lang="fra">Ingolstadt</placeName>
+        <placeName xml:lang="ita">Ingolstadt</placeName>
+        <location>
+          <country>Allemagne</country>
+          <geo>48.76305555555555 11.425</geo>
+        </location>
+        <idno type="wikidata">Q3004</idno>
+      </place>
+      <place xml:id="Kalkar" source="https://www.wikidata.org/wiki/Q243554">
+        <placeName xml:lang="fra">Kalkar</placeName>
+        <placeName xml:lang="ita">Kalkar</placeName>
+        <location>
+          <country>Allemagne</country>
+          <geo>51.738888888889 6.2925</geo>
+        </location>
+        <idno type="wikidata">Q243554</idno>
+      </place>
+      <place xml:id="Mainz" source="https://www.wikidata.org/wiki/Q1720">
+        <placeName xml:lang="fra">Mayence</placeName>
+        <placeName xml:lang="ita">Magonza</placeName>
+        <location>
+          <country>Allemagne</country>
+          <geo>49.99944444444444 8.27361111111111</geo>
+        </location>
+        <idno type="wikidata">Q1720</idno>
+      </place>
+      <place xml:id="Nuremberg" source="https://www.wikidata.org/wiki/Q2090">
+        <placeName xml:lang="fra">Nuremberg</placeName>
+        <placeName xml:lang="ita">Norimberga</placeName>
+        <location>
+          <country>Allemagne</country>
+          <geo>49.45388888888889 11.0775</geo>
+        </location>
+        <idno type="wikidata">Q2090</idno>
+      </place>
+      <place xml:id="Wurtzbourg" source="https://www.wikidata.org/wiki/Q2999">
+        <placeName xml:lang="fra">Wurtzbourg</placeName>
+        <placeName xml:lang="ita">Würzburg</placeName>
+        <location>
+          <country>Allemagne</country>
+          <geo>49.794444444444 9.9294444444444</geo>
+        </location>
+        <idno type="wikidata">Q2999</idno>
+      </place>
+      <place xml:id="Artaxata" source="https://www.wikidata.org/wiki/Q706215">
+        <placeName xml:lang="fra">Artaxata</placeName>
+        <placeName xml:lang="ita">Artaxata</placeName>
+        <location>
+          <country>Arménie</country>
+          <geo>39.886613 44.57943</geo>
+        </location>
+        <idno type="wikidata">Q706215</idno>
+      </place>
+      <place xml:id="Xipete" source="https://www.wikidata.org/wiki/Q13424319">
+        <placeName xml:lang="fra">Xypétè</placeName>
+        <placeName xml:lang="ita">Xipete</placeName>
+        <location>
+          <country>Athènes</country>
+          <geo>37.957553 23.685482</geo>
+        </location>
+        <idno type="wikidata">Q13424319</idno>
+      </place>
+      <place xml:id="Alost" source="https://www.wikidata.org/wiki/Q13121">
+        <placeName xml:lang="fra">Alost</placeName>
+        <placeName xml:lang="ita">Aalst</placeName>
+        <location>
+          <country>Belgique</country>
+          <geo>50.93833333333333 4.039166666666667</geo>
+        </location>
+        <idno type="wikidata">Q13121</idno>
+      </place>
+      <place xml:id="Anvers" source="https://www.wikidata.org/wiki/Q12892">
+        <placeName xml:lang="fra">Anvers</placeName>
+        <placeName xml:lang="ita">Anversa</placeName>
+        <location>
+          <country>Belgique</country>
+          <geo>51.221111111111114 4.3997222222222225</geo>
+        </location>
+        <idno type="wikidata">Q12892</idno>
+      </place>
+      <place xml:id="Oudenaarde" source="https://www.wikidata.org/wiki/Q12992">
+        <placeName xml:lang="fra">Audenarde</placeName>
+        <placeName xml:lang="ita">Oudenaarde</placeName>
+        <location>
+          <country>Belgique</country>
+          <geo>50.85 3.6</geo>
+        </location>
+        <idno type="wikidata">Q12992</idno>
+      </place>
+      <place xml:id="Avennes" source="https://www.wikidata.org/wiki/Q2660309">
+        <placeName xml:lang="fra">Avennes</placeName>
+        <location>
+          <country>Belgique</country>
+          <geo>50.6292 5.1147</geo>
+        </location>
+        <idno type="wikidata">Q2660309</idno>
+      </place>
+      <place xml:id="Barbencon" source="https://www.wikidata.org/wiki/Q2257276">
+        <placeName xml:lang="fra">Barbençon</placeName>
+        <location>
+          <country>Belgique</country>
+          <geo>50.2206905 4.2859259</geo>
+        </location>
+        <idno type="wikidata">Q2257276</idno>
+      </place>
+      <place xml:id="Bruges" source="https://www.wikidata.org/wiki/Q12994">
+        <placeName xml:lang="fra">Bruges</placeName>
+        <placeName xml:lang="ita">Bruges</placeName>
+        <location>
+          <country>Belgique</country>
+          <geo>51.208888888888886 3.2241666666666666</geo>
+        </location>
+        <idno type="wikidata">Q12994</idno>
+      </place>
+      <place xml:id="Courtrai" source="https://www.wikidata.org/wiki/Q12995">
+        <placeName xml:lang="fra">Courtrai</placeName>
+        <placeName xml:lang="ita">Courtrai</placeName>
+        <location>
+          <country>Belgique</country>
+          <geo>50.8275 3.265833333333333</geo>
+        </location>
+        <idno type="wikidata">Q12995</idno>
+      </place>
+      <place xml:id="Dinant" source="https://www.wikidata.org/wiki/Q108247">
+        <placeName xml:lang="fra">Dinant</placeName>
+        <placeName xml:lang="ita">Dinant</placeName>
+        <location>
+          <country>Belgique</country>
+          <geo>50.256388888889 4.9136111111111</geo>
+        </location>
+        <idno type="wikidata">Q108247</idno>
+      </place>
+      <place xml:id="Liege" source="https://www.wikidata.org/wiki/Q3992">
+        <placeName xml:lang="fra">Liège</placeName>
+        <placeName xml:lang="ita">Liegi</placeName>
+        <location>
+          <country>Belgique</country>
+          <geo>50.639722222222225 5.570555555555556</geo>
+        </location>
+        <idno type="wikidata">Q3992</idno>
+      </place>
+      <place xml:id="Louvain" source="https://www.wikidata.org/wiki/Q118958">
+        <placeName xml:lang="fra">Louvain</placeName>
+        <placeName xml:lang="ita">Lovanio</placeName>
+        <location>
+          <country>Belgique</country>
+          <geo>50.8775 4.704444</geo>
+        </location>
+        <idno type="wikidata">Q118958</idno>
+      </place>
+      <place xml:id="Malines" source="https://www.wikidata.org/wiki/Q162022">
+        <placeName xml:lang="fra">Malines</placeName>
+        <placeName xml:lang="ita">Malines</placeName>
+        <location>
+          <country>Belgique</country>
+          <geo>51.028055555555554 4.480277777777777</geo>
+        </location>
+        <idno type="wikidata">Q162022</idno>
+      </place>
+      <place xml:id="Maaseik" source="https://www.wikidata.org/wiki/Q110989">
+        <placeName xml:lang="fra">Maseyk</placeName>
+        <placeName xml:lang="ita">Maaseik</placeName>
+        <location>
+          <country>Belgique</country>
+          <geo>51.101944444444 5.7855555555556</geo>
+        </location>
+        <idno type="wikidata">Q110989</idno>
+      </place>
+      <place xml:id="Meulebeke" source="https://www.wikidata.org/wiki/Q822783">
+        <placeName xml:lang="fra">Meulebeke</placeName>
+        <placeName xml:lang="ita">Meulebeke</placeName>
+        <location>
+          <country>Belgique</country>
+          <geo>50.9497 3.2869</geo>
+        </location>
+        <idno type="wikidata">Q822783</idno>
+      </place>
+      <place xml:id="Mons" source="https://www.wikidata.org/wiki/Q83407">
+        <placeName xml:lang="fra">Mons</placeName>
+        <placeName xml:lang="ita">Mons</placeName>
+        <location>
+          <country>Belgique</country>
+          <geo>50.45472222222222 3.9525</geo>
+        </location>
+        <idno type="wikidata">Q83407</idno>
+      </place>
+      <place xml:id="Namur" source="https://www.wikidata.org/wiki/Q134121">
+        <placeName xml:lang="fra">Namur</placeName>
+        <placeName xml:lang="ita">Namur</placeName>
+        <location>
+          <country>Belgique</country>
+          <geo>50.466666666667 4.8666666666667</geo>
+        </location>
+        <idno type="wikidata">Q134121</idno>
+      </place>
+      <place xml:id="Rance" source="https://www.wikidata.org/wiki/Q2094603">
+        <placeName xml:lang="fra">Rance</placeName>
+        <location>
+          <country>Belgique</country>
+          <geo>50.1430111 4.2731851</geo>
+        </location>
+        <idno type="wikidata">Q2094603</idno>
+      </place>
+      <place xml:id="Martaban" source="https://www.wikidata.org/wiki/Q1950091">
+        <placeName xml:lang="fra">Martaban</placeName>
+        <placeName xml:lang="ita">Mottama</placeName>
+        <location>
+          <country>Birmanie</country>
+          <geo>16.53 97.60222222222222</geo>
+        </location>
+        <idno type="wikidata">Q1950091</idno>
+      </place>
+      <place xml:id="Pegou" source="https://www.wikidata.org/wiki/Q800122">
+        <placeName xml:lang="fra">Pégou</placeName>
+        <placeName xml:lang="ita">Pegu</placeName>
+        <location>
+          <country>Birmanie</country>
+          <geo>17.343333333333 96.498055555556</geo>
+        </location>
+        <idno type="wikidata">Q800122</idno>
+      </place>
+      <place xml:id="Pula" source="https://www.wikidata.org/wiki/Q4656">
+        <placeName xml:lang="fra">Pula</placeName>
+        <placeName xml:lang="ita">Pola</placeName>
+        <location>
+          <country>Croatie</country>
+          <geo>44.87027777777778 13.845555555555556</geo>
+        </location>
+        <idno type="wikidata">Q4656</idno>
+      </place>
+      <place xml:id="Copenhague" source="https://www.wikidata.org/wiki/Q1748">
+        <placeName xml:lang="fra">Copenhague</placeName>
+        <placeName xml:lang="ita">Copenaghen</placeName>
+        <location>
+          <country>Danemark</country>
+          <geo>55.676111111111 12.568888888889</geo>
+        </location>
+        <idno type="wikidata">Q1748</idno> 
+      </place>
+      <place xml:id="Alsace" source="https://www.wikidata.org/wiki/Q1142">
+        <placeName xml:lang="fra">Alsace</placeName>
+        <placeName xml:lang="ita">Alsazia</placeName>
+        <location>
+          <country>France</country>
+          <geo>48.5 7.5</geo>
+        </location>
+        <idno type="wikidata">Q1142</idno>
+      </place>
+      <place xml:id="Amiens" source="https://www.wikidata.org/wiki/Q41604">
+        <placeName xml:lang="fra">Amiens</placeName>
+        <placeName xml:lang="ita">Amiens</placeName>
+        <location>
+          <country>France</country>
+          <geo>49.891944444444 2.2977777777778</geo>
+        </location>
+        <idno type="wikidata">Q41604</idno>
+      </place>
+      <place xml:id="Anet" source="https://www.wikidata.org/wiki/Q529402">
+        <placeName xml:lang="fra">Anet</placeName>
+        <placeName xml:lang="ita">Anet</placeName>
+        <location>
+          <country>France</country>
+          <geo>48.855 1.4394444444444</geo>
+        </location>
+        <idno type="wikidata">Q529402</idno>
+      </place>
+      <place xml:id="Angers" source="https://www.wikidata.org/wiki/Q38380">
+        <placeName xml:lang="fra">Angers</placeName>
+        <placeName xml:lang="ita">Angers</placeName>
+        <location>
+          <country>France</country>
+          <geo>47.472777777778 -0.55555555555556</geo>
+        </location>
+        <idno type="wikidata">Q38380</idno>
+      </place>
+      <place xml:id="test" source="https://www.wikidata.org/wiki/Q134346"><placeName xml:lang="fra">Angoulême</placeName><placeName xml:lang="ita">Angoulême</placeName><location><country>France</country><geo>45.649444444444 0.15944444444444</geo></location><idno type="wikidata">Q134346</idno></place>
+    <place xml:id="Arcueil" source="https://www.wikidata.org/wiki/Q467132">
+        <placeName xml:lang="fra">Arcueil</placeName>
+        <placeName xml:lang="ita">Arcueil</placeName>
+        <location>
+          <country>France</country>
+          <geo>48.806666666667 2.3352777777778</geo>
+        </location>
+        <idno type="wikidata">Q467132</idno>
+      </place>
+      <place xml:id="Arles" source="https://www.wikidata.org/wiki/Q48292">
+        <placeName xml:lang="fra">Arles</placeName>
+        <placeName xml:lang="ita">Arles</placeName>
+        <location>
+          <country>France</country>
+          <geo>43.676944444444 4.6286111111111</geo>
+        </location>
+        <idno type="wikidata">Q48292</idno>
+      </place>
+      <place xml:id="Arras" source="https://www.wikidata.org/wiki/Q131329">
+        <placeName xml:lang="fra">Arras</placeName>
+        <placeName xml:lang="ita">Arras</placeName>
+        <location>
+          <country>France</country>
+          <geo>50.289166666667 2.78</geo>
+        </location>
+        <idno type="wikidata">Q131329</idno>
+      </place>
+      <place xml:id="Autun" source="https://www.wikidata.org/wiki/Q190827">
+        <placeName xml:lang="fra">Autun</placeName>
+        <placeName xml:lang="ita">Autun</placeName>
+        <location>
+          <country>France</country>
+          <geo>46.951111111111 4.2986111111111</geo>
+        </location>
+        <idno type="wikidata">Q190827</idno>
+      </place>
+      <place xml:id="Auvergne" source="https://www.wikidata.org/wiki/Q1152">
+        <placeName xml:lang="fra">Auvergne</placeName>
+        <placeName xml:lang="ita">Alvernia</placeName>
+        <location>
+          <country>France</country>
+          <geo>45.7 3.3</geo>
+        </location>
+        <idno type="wikidata">Q1152</idno>
+      </place>
+      <place xml:id="Avignon" source="https://www.wikidata.org/wiki/Q6397">
+        <placeName xml:lang="fra">Avignon</placeName>
+        <placeName xml:lang="ita">Avignone</placeName>
+        <location>
+          <country>France</country>
+          <geo>43.948611111111 4.8083333333333</geo>
+        </location>
+        <idno type="wikidata">Q6397</idno>
+      </place>
+      <place xml:id="Barbazan" source="https://www.wikidata.org/wiki/Q632072">
+        <placeName xml:lang="fra">Barbazan</placeName>
+        <placeName xml:lang="ita">Barbazan</placeName>
+        <location>
+          <country>France</country>
+          <geo>43.032222222222 0.62305555555556</geo>
+        </location>
+        <idno type="wikidata">Q632072</idno>
+      </place>
+      <place xml:id="Belleville" source="https://www.wikidata.org/wiki/Q815949">
+        <placeName xml:lang="fra">Belleville</placeName>
+        <placeName xml:lang="ita">Belleville</placeName>
+        <location>
+          <country>France</country>
+          <geo>48.873888888889 2.3852777777778</geo>
+        </location>
+        <idno type="wikidata">Q815949</idno>
+      </place>
+      <place xml:id="Belvedere" source="https://www.wikidata.org/wiki/Q742848">
+        <placeName xml:lang="fra">Belvédère</placeName>
+        <placeName xml:lang="ita">Belvedere</placeName>
+        <location>
+          <country>France</country>
+          <geo>44.014722222222 7.3211111111111</geo>
+        </location>
+        <idno type="wikidata">Q742848</idno>
+      </place>
+      <place xml:id="BercheresLesPierres" source="https://www.wikidata.org/wiki/Q1075225">
+        <placeName xml:lang="fra">Berchères-les-Pierres</placeName>
+        <placeName xml:lang="ita">Berchères-les-Pierres</placeName>
+        <location>
+          <country>France</country>
+          <geo>48.385 1.5536111111111</geo>
+        </location>
+        <idno type="wikidata">Q1075225</idno>
+      </place>
+      <place xml:id="Blois" source="https://www.wikidata.org/wiki/Q160927">
+        <placeName xml:lang="fra">Blois</placeName>
+        <placeName xml:lang="ita">Blois</placeName>
+        <location>
+          <country>France</country>
+          <geo>47.593055555556 1.3272222222222</geo>
+        </location>
+        <idno type="wikidata">Q160927</idno>
+      </place>
+      <place xml:id="Bordeaux" source="https://www.wikidata.org/wiki/Q1479">
+        <placeName xml:lang="fra">Bordeaux</placeName>
+        <placeName xml:lang="ita">Bordeaux</placeName>
+        <location>
+          <country>France</country>
+          <geo>44.837777777778 -0.57944444444444</geo>
+        </location>
+        <idno type="wikidata">Q1479</idno>
+      </place>
+      <place xml:id="Bourgogne" source="https://www.wikidata.org/wiki/Q1173">
+        <placeName xml:lang="fra">Bourgogne</placeName>
+        <placeName xml:lang="ita">Borgogna</placeName>
+        <location>
+          <country>France</country>
+          <geo>47 4.5</geo>
+        </location>
+        <idno type="wikidata">Q1173</idno>
+      </place>
+      <place xml:id="Beziers" source="https://www.wikidata.org/wiki/Q174019">
+        <placeName xml:lang="fra">Béziers</placeName>
+        <placeName xml:lang="ita">Béziers</placeName>
+        <location>
+          <country>France</country>
+          <geo>43.343333333333 3.2161111111111</geo>
+        </location>
+        <idno type="wikidata">Q174019</idno>
+      </place>
+      <place xml:id="Caen" source="https://www.wikidata.org/wiki/Q41185">
+        <placeName xml:lang="fra">Caen</placeName>
+        <placeName xml:lang="ita">Caen</placeName>
+        <location>
+          <country>France</country>
+          <geo>49.18138888888889 -0.3636111111111111</geo>
+        </location>
+        <idno type="wikidata">Q41185</idno>
+      </place>
+      <place xml:id="Campan" source="https://www.wikidata.org/wiki/Q835569">
+        <placeName xml:lang="fra">Campan</placeName>
+        <placeName xml:lang="ita">Campan</placeName>
+        <location>
+          <country>France</country>
+          <geo>43.016944444444 0.1775</geo>
+        </location>
+        <idno type="wikidata">Q835569</idno>
+      </place>
+      <place xml:id="Chambray" source="https://www.wikidata.org/wiki/Q1077048">
+        <placeName xml:lang="fra">Chambray</placeName>
+        <placeName xml:lang="ita">Chambray</placeName>
+        <location>
+          <country>France</country>
+          <geo>49.075 1.3058333333333</geo>
+        </location>
+        <idno type="wikidata">Q1077048</idno>
+      </place>
+      <place xml:id="Champagne" source="https://www.wikidata.org/wiki/Q273827">
+        <placeName xml:lang="fra">Champagne</placeName>
+        <placeName xml:lang="ita">Champagne</placeName>
+        <location>
+          <country>France</country>
+          <geo>49 4</geo>
+        </location>
+        <idno type="wikidata">Q273827</idno>
+      </place>
+      <place xml:id="CharentonLePont" source="https://www.wikidata.org/wiki/Q212793">
+        <placeName xml:lang="fra">Charenton-le-Pont</placeName>
+        <placeName xml:lang="ita">Charenton-le-Pont</placeName>
+        <location>
+          <country>France</country>
+          <geo>48.821388888889 2.4119444444444</geo>
+        </location>
+        <idno type="wikidata">Q212793</idno>
+      </place>
+      <place xml:id="Chartres" source="https://www.wikidata.org/wiki/Q130272">
+        <placeName xml:lang="fra">Chartres</placeName>
+        <placeName xml:lang="ita">Chartres</placeName>
+        <location>
+          <country>France</country>
+          <geo>48.446666666667 1.4883333333333</geo>
+        </location>
+        <idno type="wikidata">Q130272</idno>
+      </place>
+      <place xml:id="Chateaudun" source="https://www.wikidata.org/wiki/Q181886">
+        <placeName xml:lang="fra">Châteaudun</placeName>
+        <placeName xml:lang="ita">Châteaudun</placeName>
+        <location>
+          <country>France</country>
+          <geo>48.070833333333 1.3377777777778</geo>
+        </location>
+        <idno type="wikidata">Q181886</idno>
+      </place>
+      <place xml:id="ConchesEnOuche" source="https://www.wikidata.org/wiki/Q326369">
+        <placeName xml:lang="fra">Conches-en-Ouche</placeName>
+        <placeName xml:lang="ita">Conches-en-Ouche</placeName>
+        <location>
+          <country>France</country>
+          <geo>48.960555555556 0.9425</geo>
+        </location>
+        <idno type="wikidata">Q326369</idno>
+      </place>
+      <place xml:id="Fayence" source="https://www.wikidata.org/wiki/Q687823">
+        <placeName xml:lang="fra">Fayence</placeName>
+        <placeName xml:lang="ita">Fayence</placeName>
+        <location>
+          <country>France</country>
+          <geo>43.623333333333 6.6938888888889</geo>
+        </location>
+        <idno type="wikidata">Q687823</idno>
+      </place>
+      <place xml:id="Fontainebleau" source="https://www.wikidata.org/wiki/Q182872">
+        <placeName xml:lang="fra">Fontainebleau</placeName>
+        <placeName xml:lang="ita">Fontainebleau</placeName>
+        <location>
+          <country>France</country>
+          <geo>48.408888888889 2.7016666666667</geo>
+        </location>
+        <idno type="wikidata">Q182872</idno>
+      </place>
+      <place xml:id="FrancheComte" source="https://www.wikidata.org/wiki/Q16394">
+        <placeName xml:lang="fra">Franche-Comté</placeName>
+        <placeName xml:lang="ita">Franca Contea</placeName>
+        <location>
+          <country>France</country>
+          <geo>47 6</geo>
+        </location>
+        <idno type="wikidata">Q16394</idno>
+      </place>
+      <place xml:id="Gouvieux" source="https://www.wikidata.org/wiki/Q752088">
+        <placeName xml:lang="fra">Gouvieux</placeName>
+        <placeName xml:lang="ita">Gouvieux</placeName>
+        <location>
+          <country>France</country>
+          <geo>49.187777777778 2.4161111111111</geo>
+        </location>
+        <idno type="wikidata">Q752088</idno>
+      </place>
+      <place xml:id="IvrySurSeine" source="https://www.wikidata.org/wiki/Q193877">
+        <placeName xml:lang="fra">Ivry-sur-Seine</placeName>
+        <placeName xml:lang="ita">Ivry-sur-Seine</placeName>
+        <location>
+          <country>France</country>
+          <geo>48.813888888889 2.3877777777778</geo>
+        </location>
+        <idno type="wikidata">Q193877</idno>
+      </place>
+      <place xml:id="Lallaing" source="https://www.wikidata.org/wiki/Q1099211">
+        <placeName xml:lang="fra">Lallaing</placeName>
+        <placeName xml:lang="ita">Lallaing</placeName>
+        <location>
+          <country>France</country>
+          <geo>50.39 3.1680555555556</geo>
+        </location>
+        <idno type="wikidata">Q1099211</idno>
+      </place>
+      <place xml:id="Languedoc" source="https://www.wikidata.org/wiki/Q206221">
+        <placeName xml:lang="fra">Languedoc</placeName>
+        <placeName xml:lang="ita">Linguadoca</placeName>
+        <location>
+          <country>France</country>
+          <geo>43.666666666667 3.1666666666667</geo>
+        </location>
+        <idno type="wikidata">Q206221</idno>
+      </place>
+      <place xml:id="LeMans" source="https://www.wikidata.org/wiki/Q1476">
+        <placeName xml:lang="fra">Le Mans</placeName>
+        <placeName xml:lang="ita">Le Mans</placeName>
+        <location>
+          <country>France</country>
+          <geo>48.004166666667 0.19694444444444</geo>
+        </location>
+        <idno type="wikidata">Q1476</idno>
+      </place>
+      <place xml:id="Andelys" source="https://www.wikidata.org/wiki/Q209770">
+        <placeName xml:lang="fra">Les Andelys</placeName>
+        <placeName xml:lang="ita">Les Andelys</placeName>
+        <location>
+          <country>France</country>
+          <geo>49.245555555556 1.4116666666667</geo>
+        </location>
+        <idno type="wikidata">Q209770</idno>
+      </place>
+      <place xml:id="Loches" source="https://www.wikidata.org/wiki/Q213349">
+        <placeName xml:lang="fra">Loches</placeName>
+        <placeName xml:lang="ita">Loches</placeName>
+        <location>
+          <country>France</country>
+          <geo>47.128611111111 0.99527777777778</geo>
+        </location>
+        <idno type="wikidata">Q213349</idno>
+      </place>
+      <place xml:id="Lombez" source="https://www.wikidata.org/wiki/Q253370">
+        <placeName xml:lang="fra">Lombez</placeName>
+        <placeName xml:lang="ita">Lombez</placeName>
+        <location>
+          <country>France</country>
+          <geo>43.474722222222 0.91027777777778</geo>
+        </location>
+        <idno type="wikidata">Q253370</idno>
+      </place>
+      <place xml:id="LyonsLaForet" source="https://www.wikidata.org/wiki/Q115476">
+        <placeName xml:lang="fra">Lyons-la-Forêt</placeName>
+        <placeName xml:lang="ita">Lyons-la-Forêt</placeName>
+        <location>
+          <country>France</country>
+          <geo>49.399444444444 1.4761111111111</geo>
+        </location>
+        <idno type="wikidata">Q115476</idno>
+      </place>
+      <place xml:id="Marseille" source="https://www.wikidata.org/wiki/Q23482">
+        <placeName xml:lang="fra">Marseille</placeName>
+        <placeName xml:lang="ita">Marsiglia</placeName>
+        <location>
+          <country>France</country>
+          <geo>43.296666666667 5.3763888888889</geo>
+        </location>
+        <idno type="wikidata">Q23482</idno>
+      </place>
+      <place xml:id="Maubeuge" source="https://www.wikidata.org/wiki/Q138648">
+        <placeName xml:lang="fra">Maubeuge</placeName>
+        <placeName xml:lang="ita">Maubeuge</placeName>
+        <location>
+          <country>France</country>
+          <geo>50.276944444444 3.9725</geo>
+        </location>
+        <idno type="wikidata">Q138648</idno>
+      </place>
+      <place xml:id="Melun" source="https://www.wikidata.org/wiki/Q41139">
+        <placeName xml:lang="fra">Melun</placeName>
+        <placeName xml:lang="ita">Melun</placeName>
+        <location>
+          <country>France</country>
+          <geo>48.539722222222 2.6591666666667</geo>
+        </location>
+        <idno type="wikidata">Q41139</idno>
+      </place>
+      <place xml:id="Meudon" source="https://www.wikidata.org/wiki/Q234735">
+        <placeName xml:lang="fra">Meudon</placeName>
+        <placeName xml:lang="ita">Meudon</placeName>
+        <location>
+          <country>France</country>
+          <geo>48.8075 2.2402777777778</geo>
+        </location>
+        <idno type="wikidata">Q234735</idno>
+      </place>
+      <place xml:id="Montesson" source="https://www.wikidata.org/wiki/Q830293">
+        <placeName xml:lang="fra">Montesson</placeName>
+        <placeName xml:lang="ita">Montesson</placeName>
+        <location>
+          <country>France</country>
+          <geo>48.908611111111 2.1494444444444</geo>
+        </location>
+        <idno type="wikidata">Q830293</idno>
+      </place>
+      <place xml:id="MontmirailSarthe" source="https://www.wikidata.org/wiki/Q840523">
+        <placeName xml:lang="fra">Montmirail</placeName>
+        <placeName xml:lang="ita">Montmirail</placeName>
+        <location>
+          <country>France</country>
+          <geo>48.102777777778 0.79055555555556</geo>
+        </location>
+        <idno type="wikidata">Q840523</idno>
+      </place>
+      <place xml:id="MontoireSurLeLoir" source="https://www.wikidata.org/wiki/Q752979">
+        <placeName xml:lang="fra">Montoire-sur-le-Loir</placeName>
+        <placeName xml:lang="ita">Montoire-sur-le-Loir</placeName>
+        <location>
+          <country>France</country>
+          <geo>47.754166666667 0.86361111111111</geo>
+        </location>
+        <idno type="wikidata">Q752979</idno>
+      </place>
+      <place xml:id="Montpellier" source="https://www.wikidata.org/wiki/Q6441">
+        <placeName xml:lang="fra">Montpellier</placeName>
+        <placeName xml:lang="ita">Montpellier</placeName>
+        <location>
+          <country>France</country>
+          <geo>43.610919444444 3.8772305555556</geo>
+        </location>
+        <idno type="wikidata">Q6441</idno>
+      </place>
+      <place xml:id="Moulins" source="https://www.wikidata.org/wiki/Q184883">
+        <placeName xml:lang="fra">Moulins</placeName>
+        <placeName xml:lang="ita">Moulins</placeName>
+        <location>
+          <country>France</country>
+          <geo>46.564722222222 3.3325</geo>
+        </location>
+        <idno type="wikidata">Q184883</idno>
+      </place>
+      <place xml:id="MezieresSurSeine" source="https://www.wikidata.org/wiki/Q1464487">
+        <placeName xml:lang="fra">Mézières-sur-Seine</placeName>
+        <placeName xml:lang="ita">Mézières-sur-Seine</placeName>
+        <location>
+          <country>France</country>
+          <geo>48.958055555556 1.8038888888889</geo>
+        </location>
+        <idno type="wikidata">Q1464487</idno>
+      </place>
+      <place xml:id="Narbonne" source="https://www.wikidata.org/wiki/Q6555">
+        <placeName xml:lang="fra">Narbonne</placeName>
+        <placeName xml:lang="ita">Narbona</placeName>
+        <location>
+          <country>France</country>
+          <geo>43.184722222222 3.0036111111111</geo>
+        </location>
+        <idno type="wikidata">Q6555</idno>
+      </place>
+      <place xml:id="Nevers" source="https://www.wikidata.org/wiki/Q166997">
+        <placeName xml:lang="fra">Nevers</placeName>
+        <placeName xml:lang="ita">Nevers</placeName>
+        <location>
+          <country>France</country>
+          <geo>46.9925 3.1566666666667</geo>
+        </location>
+        <idno type="wikidata">Q166997</idno>
+      </place>
+      <place xml:id="Nivernais" source="https://www.wikidata.org/wiki/Q1468519">
+        <placeName xml:lang="fra">Nivernais</placeName>
+        <placeName xml:lang="ita">Nivernese</placeName>
+        <location>
+          <country>France</country>
+          <geo>46.99 3.16</geo>
+        </location>
+        <idno type="wikidata">Q1468519</idno>
+      </place>
+      <place xml:id="Normandie" source="https://www.wikidata.org/wiki/Q18677875">
+        <placeName xml:lang="fra">Normandie</placeName>
+        <placeName xml:lang="ita">Normandia</placeName>
+        <location>
+          <country>France</country>
+          <geo>49.18333333333333 -0.35</geo>
+        </location>
+        <idno type="wikidata">Q18677875</idno>
+      </place>
+      <place xml:id="Nimes" source="https://www.wikidata.org/wiki/Q42807">
+        <placeName xml:lang="fra">Nîmes</placeName>
+        <placeName xml:lang="ita">Nîmes</placeName>
+        <location>
+          <country>France</country>
+          <geo>43.83833333333333 4.3597222222222225</geo>
+        </location>
+        <idno type="wikidata">Q42807</idno>
+      </place>
+      <place xml:id="Orange" source="https://www.wikidata.org/wiki/Q187796">
+        <placeName xml:lang="fra">Orange</placeName>
+        <placeName xml:lang="ita">Orange</placeName>
+        <location>
+          <country>France</country>
+          <geo>44.1375 4.8088888888889</geo>
+        </location>
+        <idno type="wikidata">Q187796</idno>
+      </place>
+      <place xml:id="Orleans" source="https://www.wikidata.org/wiki/Q6548">
+        <placeName xml:lang="fra">Orléans</placeName>
+        <placeName xml:lang="ita">Orléans</placeName>
+        <location>
+          <country>France</country>
+          <geo>47.902222222222 1.9041666666667</geo>
+        </location>
+        <idno type="wikidata">Q6548</idno>
+      </place>
+      <place xml:id="Passy" source="https://www.wikidata.org/wiki/Q1241308">
+        <placeName xml:lang="fra">Passy</placeName>
+        <placeName xml:lang="ita">Passy</placeName>
+        <location>
+          <country>France</country>
+          <geo>48.857111111111 2.2841361111111</geo>
+        </location>
+        <idno type="wikidata">Q1241308</idno>
+      </place>
+      <place xml:id="Picardie" source="https://www.wikidata.org/wiki/Q13950">
+        <placeName xml:lang="fra">Picardie</placeName>
+        <placeName xml:lang="ita">Piccardia</placeName>
+        <location>
+          <country>France</country>
+          <geo>49.5 2.8333333333333</geo>
+        </location>
+        <idno type="wikidata">Q13950</idno>
+      </place>
+      <place xml:id="Poitou" source="https://www.wikidata.org/wiki/Q954076">
+        <placeName xml:lang="fra">Poitou</placeName>
+        <placeName xml:lang="ita">Poitou</placeName>
+        <location>
+          <country>France</country>
+          <geo>46.64861111 -0.24777778</geo>
+        </location>
+        <idno type="wikidata">Q954076</idno>
+      </place>
+      <place xml:id="Prasville" source="https://www.wikidata.org/wiki/Q746057">
+        <placeName xml:lang="fra">Prasville</placeName>
+        <placeName xml:lang="ita">Prasville</placeName>
+        <location>
+          <country>France</country>
+          <geo>48.275833333333 1.7108333333333</geo>
+        </location>
+        <idno type="wikidata">Q746057</idno>
+      </place>
+      <place xml:id="Provence" source="https://www.wikidata.org/wiki/Q101081">
+        <placeName xml:lang="fra">Provence</placeName>
+        <placeName xml:lang="ita">Provenza</placeName>
+        <location>
+          <country>France</country>
+          <geo>44 6</geo>
+        </location>
+        <idno type="wikidata">Q101081</idno>
+      </place>
+      <place xml:id="Roquebrun" source="https://www.wikidata.org/wiki/Q269453">
+        <placeName xml:lang="fra">Roquebrun</placeName>
+        <placeName xml:lang="ita">Roquebrun</placeName>
+        <location>
+          <country>France</country>
+          <geo>43.500555555556 3.0305555555556</geo>
+        </location>
+        <idno type="wikidata">Q269453</idno>
+      </place>
+      <place xml:id="Rouen" source="https://www.wikidata.org/wiki/Q30974">
+        <placeName xml:lang="fra">Rouen</placeName>
+        <placeName xml:lang="ita">Rouen</placeName>
+        <location>
+          <country>France</country>
+          <geo>49.443055555556 1.1025</geo>
+        </location>
+        <idno type="wikidata">Q30974</idno>
+      </place>
+      <place xml:id="SaintBeat" source="https://www.wikidata.org/wiki/Q671104">
+        <placeName xml:lang="fra">Saint-Béat</placeName>
+        <placeName xml:lang="ita">Saint-Béat</placeName>
+        <location>
+          <country>France</country>
+          <geo>42.914444444444 0.6925</geo>
+        </location>
+        <idno type="wikidata">Q671104</idno>
+      </place>
+      <place xml:id="SaintCloud" source="https://www.wikidata.org/wiki/Q189153">
+        <placeName xml:lang="fra">Saint-Cloud</placeName>
+        <placeName xml:lang="ita">Saint-Cloud</placeName>
+        <location>
+          <country>France</country>
+          <geo>48.846388888889 2.2152777777778</geo>
+        </location>
+        <idno type="wikidata">Q189153</idno>
+      </place>
+      <place xml:id="SaintDizier" source="https://www.wikidata.org/wiki/Q208310">
+        <placeName xml:lang="fra">Saint-Dizier</placeName>
+        <placeName xml:lang="ita">Saint-Dizier</placeName>
+        <location>
+          <country>France</country>
+          <geo>48.637777777778 4.9488888888889</geo>
+        </location>
+        <idno type="wikidata">Q208310</idno>
+      </place>
+      <place xml:id="SaintGermainEnLaye" source="https://www.wikidata.org/wiki/Q60847808">
+        <placeName xml:lang="fra">Saint-Germain-en-Laye</placeName>
+        <placeName xml:lang="ita">Saint-Germain-en-Laye</placeName>
+        <location>
+          <country>France</country>
+          <geo>48.896388888889 2.0905555555556</geo>
+        </location>
+        <idno type="wikidata">Q60847808</idno>
+      </place>
+      <place xml:id="SaintLeuDEsserent" source="https://www.wikidata.org/wiki/Q1332424">
+        <placeName xml:lang="fra">Saint-Leu-d'Esserent</placeName>
+        <placeName xml:lang="ita">Saint-Leu-d'Esserent</placeName>
+        <location>
+          <country>France</country>
+          <geo>49.217222222222 2.4219444444444</geo>
+        </location>
+        <idno type="wikidata">Q1332424</idno>
+      </place>
+      <place xml:id="SaintMaurDesFosses" source="https://www.wikidata.org/wiki/Q193313">
+        <placeName xml:lang="fra">Saint-Maur-des-Fossés</placeName>
+        <placeName xml:lang="ita">Saint-Maur-des-Fossés</placeName>
+        <location>
+          <country>France</country>
+          <geo>48.8025 2.4855555555556</geo>
+        </location>
+        <idno type="wikidata">Q193313</idno>
+      </place>
+      <place xml:id="SaintQuentinVille" source="https://www.wikidata.org/wiki/Q182744">
+        <placeName xml:lang="fra">Saint-Quentin</placeName>
+        <placeName xml:lang="ita">San Quintino</placeName>
+        <location>
+          <country>France</country>
+          <geo>49.847777777778 3.2855555555556</geo>
+        </location>
+        <idno type="wikidata">Q182744</idno>
+      </place>
+      <place xml:id="SaintRemyDeProvence" source="https://www.wikidata.org/wiki/Q221507">
+        <placeName xml:lang="fra">Saint-Rémy-de-Provence</placeName>
+        <placeName xml:lang="ita">Saint-Rémy-de-Provence</placeName>
+        <location>
+          <country>France</country>
+          <geo>43.789444444444 4.8316666666667</geo>
+        </location>
+        <idno type="wikidata">Q221507</idno>
+      </place>
+      <place xml:id="SaintEtienneVille" source="https://www.wikidata.org/wiki/Q42716">
+        <placeName xml:lang="fra">Saint-Étienne</placeName>
+        <placeName xml:lang="ita">Saint-Étienne</placeName>
+        <location>
+          <country>France</country>
+          <geo>45.433888888889 4.3897222222222</geo>
+        </location>
+        <idno type="wikidata">Q42716</idno>
+      </place>
+      <place xml:id="Sarrancolin" source="https://www.wikidata.org/wiki/Q1599885">
+        <placeName xml:lang="fra">Sarrancolin</placeName>
+        <placeName xml:lang="ita">Sarrancolin</placeName>
+        <location>
+          <country>France</country>
+          <geo>42.966388888889 0.37722222222222</geo>
+        </location>
+        <idno type="wikidata">Q1599885</idno>
+      </place>
+      <place xml:id="Savoie" source="https://www.wikidata.org/wiki/Q14118">
+        <placeName xml:lang="fra">Savoie</placeName>
+        <placeName xml:lang="ita">Savoia</placeName>
+        <location>
+          <country>France</country>
+          <geo>45.57 5.9118</geo>
+        </location>
+        <idno type="wikidata">Q14118</idno>
+      </place>
+      <place xml:id="Sceaux" source="https://www.wikidata.org/wiki/Q370498">
+        <placeName xml:lang="fra">Sceaux</placeName>
+        <placeName xml:lang="ita">Sceaux</placeName>
+        <location>
+          <country>France</country>
+          <geo>48.778611111111 2.2905555555556</geo>
+        </location>
+        <idno type="wikidata">Q370498</idno>
+      </place>
+      <place xml:id="Senlis" source="https://www.wikidata.org/wiki/Q126668">
+        <placeName xml:lang="fra">Senlis</placeName>
+        <placeName xml:lang="ita">Senlis</placeName>
+        <location>
+          <country>France</country>
+          <geo>49.207222222222 2.5866666666667</geo>
+        </location>
+        <idno type="wikidata">Q126668</idno>
+      </place>
+      <place xml:id="Senonches" source="https://www.wikidata.org/wiki/Q693987">
+        <placeName xml:lang="fra">Senonches</placeName>
+        <placeName xml:lang="ita">Senonches</placeName>
+        <location>
+          <country>France</country>
+          <geo>48.561388888889 1.0305555555556</geo>
+        </location>
+        <idno type="wikidata">Q693987</idno>
+      </place>
+      <place xml:id="Sens" source="https://www.wikidata.org/wiki/Q212420">
+        <placeName xml:lang="fra">Sens</placeName>
+        <placeName xml:lang="ita">Sens</placeName>
+        <location>
+          <country>France</country>
+          <geo>48.197222222222 3.2833333333333</geo>
+        </location>
+        <idno type="wikidata">Q212420</idno>
+      </place>
+      <place xml:id="Sevran" source="https://www.wikidata.org/wiki/Q387630">
+        <placeName xml:lang="fra">Sevran</placeName>
+        <placeName xml:lang="ita">Sevran</placeName>
+        <location>
+          <country>France</country>
+          <geo>48.941388888889 2.5227777777778</geo>
+        </location>
+        <idno type="wikidata">Q387630</idno>
+      </place>
+      <place xml:id="Strasbourg" source="https://www.wikidata.org/wiki/Q6602">
+        <placeName xml:lang="fra">Strasbourg</placeName>
+        <placeName xml:lang="ita">Strasburgo</placeName>
+        <location>
+          <country>France</country>
+          <geo>48.573333333333 7.7522222222222</geo>
+        </location>
+        <idno type="wikidata">Q6602</idno>
+      </place>
+      <place xml:id="Sevres" source="https://www.wikidata.org/wiki/Q206493">
+        <placeName xml:lang="fra">Sèvres</placeName>
+        <placeName xml:lang="ita">Sèvres</placeName>
+        <location>
+          <country>France</country>
+          <geo>48.823055555556 2.2108333333333</geo>
+        </location>
+        <idno type="wikidata">Q206493</idno>
+      </place>
+      <place xml:id="Tarbes" source="https://www.wikidata.org/wiki/Q184023">
+        <placeName xml:lang="fra">Tarbes</placeName>
+        <placeName xml:lang="ita">Tarbes</placeName>
+        <location>
+          <country>France</country>
+          <geo>43.232777777778 0.074444444444444</geo>
+        </location>
+        <idno type="wikidata">Q184023</idno>
+      </place>
+      <place xml:id="Tonnerre" source="https://www.wikidata.org/wiki/Q498854">
+        <placeName xml:lang="fra">Tonnerre</placeName>
+        <placeName xml:lang="ita">Tonnerre</placeName>
+        <location>
+          <country>France</country>
+          <geo>47.855277777778 3.9733333333333</geo>
+        </location>
+        <idno type="wikidata">Q498854</idno>
+      </place>
+      <place xml:id="Touraine" source="https://www.wikidata.org/wiki/Q605051">
+        <placeName xml:lang="fra">Touraine</placeName>
+        <placeName xml:lang="ita">Turenna</placeName>
+        <location>
+          <country>France</country>
+          <geo>47.4 0.68333333333333</geo>
+        </location>
+        <idno type="wikidata">Q605051</idno>
+      </place>
+      <place xml:id="Tours" source="https://www.wikidata.org/wiki/Q288">
+        <placeName xml:lang="fra">Tours</placeName>
+        <placeName xml:lang="ita">Tours</placeName>
+        <location>
+          <country>France</country>
+          <geo>47.392777777778 0.68833333333333</geo>
+        </location>
+        <idno type="wikidata">Q288</idno>
+      </place>
+      <place xml:id="TrocyEnMultien" source="https://www.wikidata.org/wiki/Q976305">
+        <placeName xml:lang="fra">Trocy-en-Multien</placeName>
+        <placeName xml:lang="ita">Trocy-en-Multien</placeName>
+        <location>
+          <country>France</country>
+          <geo>49.043055555556 2.9630555555556</geo>
+        </location>
+        <idno type="wikidata">Q976305</idno>
+      </place>
+      <place xml:id="Troyes" source="https://www.wikidata.org/wiki/Q5489">
+        <placeName xml:lang="fra">Troyes</placeName>
+        <placeName xml:lang="ita">Troyes</placeName>
+        <location>
+          <country>France</country>
+          <geo>48.298888888889 4.0780555555556</geo>
+        </location>
+        <idno type="wikidata">Q5489</idno>
+      </place>
+      <place xml:id="VerLesChartres" source="https://www.wikidata.org/wiki/Q1138962">
+        <placeName xml:lang="fra">Ver-lès-Chartres</placeName>
+        <placeName xml:lang="ita">Ver-lès-Chartres</placeName>
+        <location>
+          <country>France</country>
+          <geo>48.385277777778 1.4783333333333</geo>
+        </location>
+        <idno type="wikidata">Q1138962</idno>
+      </place>
+      <place xml:id="Vernon" source="https://www.wikidata.org/wiki/Q236736">
+        <placeName xml:lang="fra">Vernon</placeName>
+        <placeName xml:lang="ita">Vernon</placeName>
+        <location>
+          <country>France</country>
+          <geo>49.091666666667 1.485</geo>
+        </location>
+        <idno type="wikidata">Q236736</idno>
+      </place>
+      <place xml:id="Versailles" source="https://www.wikidata.org/wiki/Q621">
+        <placeName xml:lang="fra">Versailles</placeName>
+        <placeName xml:lang="ita">Versailles</placeName>
+        <location>
+          <country>France</country>
+          <geo>48.805 2.135</geo>
+        </location>
+        <idno type="wikidata">Q621</idno>
+      </place>
+      <place xml:id="Vibraye" source="https://www.wikidata.org/wiki/Q749693">
+        <placeName xml:lang="fra">Vibraye</placeName>
+        <placeName xml:lang="ita">Vibraye</placeName>
+        <location>
+          <country>France</country>
+          <geo>48.058888888889 0.73583333333333</geo>
+        </location>
+        <idno type="wikidata">Q749693</idno>
+      </place>
+      <place xml:id="Charlemont" source="https://www.wikidata.org/wiki/Q3078162">
+        <placeName xml:lang="fra">fort de Charlemont</placeName>
+        <location>
+          <country>France</country>
+          <geo>50.134831362333706 4.811826820600982</geo>
+        </location>
+        <idno type="wikidata">Q3078162</idno>
+      </place>
+      <place xml:id="SainteBaume" source="https://www.wikidata.org/wiki/Q64846473">
+        <placeName xml:lang="fra">réserve biologique dirigée de Sainte-Baume</placeName>
+        <location>
+          <country>France</country>
+          <geo>43.32948 5.7609</geo>
+        </location>
+        <idno type="wikidata">Q64846473</idno>
+      </place>
+      <place xml:id="ValléeDeFecamp" source="https://www.wikidata.org/wiki/Q23824393">
+        <placeName xml:lang="fra">vallée de Fécamp</placeName>
+        <location>
+          <country>France</country>
+        </location>
+        <idno type="wikidata">Q23824393</idno>
+      </place>
+      <place xml:id="Amboise" source="https://www.wikidata.org/wiki/Q205116"><placeName xml:lang="fra">Amboise</placeName><placeName xml:lang="ita">Amboise</placeName><location><country>France</country><geo>47.411388888889 0.9825</geo></location><idno type="wikidata">Q205116</idno></place>
+      <place xml:id="BarLeDuc" source="https://www.wikidata.org/wiki/Q185721"><placeName xml:lang="fra">Bar-le-Duc</placeName><placeName xml:lang="ita">Bar-le-Duc</placeName><location><country>France</country><geo>48.771666666667 5.1672222222222</geo></location><idno type="wikidata">Q185721</idno></place>
+      <place xml:id="Beaune" source="https://www.wikidata.org/wiki/Q16121"><placeName xml:lang="fra">Beaune</placeName><placeName xml:lang="ita">Beaune</placeName><location><country>France</country><geo>47.024166666667 4.8388888888889</geo></location><idno type="wikidata">Q16121</idno></place>
+      <place xml:id="Bollene" source="https://www.wikidata.org/wiki/Q331579"><placeName xml:lang="fra">Bollène</placeName><placeName xml:lang="ita">Bollène</placeName><location><country>France</country><geo>44.280277777778 4.7488888888889</geo></location><idno type="wikidata">Q331579</idno></place>
+      <place xml:id="ChalonsenChampagne" source="https://www.wikidata.org/wiki/Q47135"><placeName xml:lang="fra">Châlons-en-Champagne</placeName><placeName xml:lang="ita">Châlons-en-Champagne</placeName><location><country>France</country><geo>48.956666666667 4.3644444444444</geo></location><idno type="wikidata">Q47135</idno></place>
+      <place xml:id="ChateauneufDuPape" source="https://www.wikidata.org/wiki/Q338877"><placeName xml:lang="fra">Châteauneuf-du-Pape</placeName><placeName xml:lang="ita">Châteauneuf-du-Pape</placeName><location><country>France</country><geo>44.056388888889 4.8316666666667</geo></location><idno type="wikidata">Q338877</idno></place>
+      <place xml:id="Gaillon" source="https://www.wikidata.org/wiki/Q627220"><placeName xml:lang="fra">Gaillon</placeName><placeName xml:lang="ita">Gaillon</placeName><location><country>France</country><geo>49.160277777778 1.3358333333333</geo></location><idno type="wikidata">Q627220</idno></place>
+      <place xml:id="FertéSousJouarre" source="https://www.wikidata.org/wiki/Q907721"><placeName xml:lang="fra">La Ferté-sous-Jouarre</placeName><placeName xml:lang="ita">La Ferté-sous-Jouarre</placeName><location><country>France</country><geo>48.949166666667 3.1294444444444</geo></location><idno type="wikidata">Q907721</idno></place>
+      <place xml:id="Lorraine" source="https://www.wikidata.org/wiki/Q1137"><placeName xml:lang="fra">Lorraine</placeName><placeName xml:lang="ita">Lorena</placeName><location><country>France</country><geo>48.6 6.4872222222222</geo></location><idno type="wikidata">Q1137</idno></place>
+      <place xml:id="Meaux" source="https://www.wikidata.org/wiki/Q207620"><placeName xml:lang="fra">Meaux</placeName><placeName xml:lang="ita">Meaux</placeName><location><country>France</country><geo>48.959444444444 2.8877777777778</geo></location><idno type="wikidata">Q207620</idno></place>
+      <place xml:id="Mornas" source="https://www.wikidata.org/wiki/Q470952"><placeName xml:lang="fra">Mornas</placeName><placeName xml:lang="ita">Mornas</placeName><location><country>France</country><geo>44.2025 4.7280555555556</geo></location><idno type="wikidata">Q470952</idno></place>
+      <place xml:id="PontSaintEsprit" source="https://www.wikidata.org/wiki/Q243074"><placeName xml:lang="fra">Pont-Saint-Esprit</placeName><placeName xml:lang="ita">Pont-Saint-Esprit</placeName><location><country>France</country><geo>44.256388888889 4.6483333333333</geo></location><idno type="wikidata">Q243074</idno></place>
+      <place xml:id="Roquemaure" source="https://www.wikidata.org/wiki/Q322376"><placeName xml:lang="fra">Roquemaure</placeName><placeName xml:lang="ita">Roquemaure</placeName><location><country>France</country><geo>44.051666666667 4.7783333333333</geo></location><idno type="wikidata">Q322376</idno></place>
+      <place xml:id="SaintAntoineLAbbaye" source="https://www.wikidata.org/wiki/Q28530461"><placeName xml:lang="fra">Saint Antoine l'Abbaye</placeName><placeName xml:lang="ita">Saint Antoine l'Abbaye</placeName><location><country>France</country><geo>45.175 5.2166666666667</geo></location><idno type="wikidata">Q28530461</idno></place>
+      <place xml:id="SaintDenis" source="https://www.wikidata.org/wiki/Q160506"><placeName xml:lang="fra">Saint-Denis</placeName><placeName xml:lang="ita">Saint-Denis</placeName><location><country>France</country><geo>48.935555555556 2.3538888888889</geo></location><idno type="wikidata">Q160506</idno></place>
+      <place xml:id="SaintNicolaDePort" source="https://www.wikidata.org/wiki/Q125278"><placeName xml:lang="fra">Saint-Nicolas-de-Port</placeName><placeName xml:lang="ita">Saint-Nicolas-de-Port</placeName><location><country>France</country><geo>48.630833333333 6.3022222222222</geo></location><idno type="wikidata">Q125278</idno></place>
+      <place xml:id="SaintQuentin" source="https://www.wikidata.org/wiki/Q182744"><placeName xml:lang="fra">Saint-Quentin</placeName><placeName xml:lang="ita">San Quintino</placeName><location><country>France</country><geo>49.847777777778 3.2855555555556</geo></location><idno type="wikidata">Q182744</idno></place>
+      <place xml:id="SainteColombe" source="https://www.wikidata.org/wiki/Q770710"><placeName xml:lang="fra">Sainte-Colombe</placeName><placeName xml:lang="ita">Sainte-Colombe</placeName><location><country>France</country><geo>45.525277777778 4.8666666666667</geo></location><idno type="wikidata">Q770710</idno></place>      
+      <place xml:id="SalonDeProvence" source="https://www.wikidata.org/wiki/Q232567"><placeName xml:lang="fra">Salon-de-Provence</placeName><placeName xml:lang="ita">Salon-de-Provence</placeName><location><country>France</country><geo>43.640555555556 5.0972222222222</geo></location><idno type="wikidata">Q232567</idno></place>
+      <place xml:id="Vervins" source="https://www.wikidata.org/wiki/Q209840"><placeName xml:lang="fra">Vervins</placeName><placeName xml:lang="ita">Vervins</placeName><location><country>France</country><geo>49.835 3.9091666666667</geo></location><idno type="wikidata">Q209840</idno></place>
+      <place xml:id="VitryLeFrancois" source="https://www.wikidata.org/wiki/Q623374"><placeName xml:lang="fra">Vitry-le-François</placeName><placeName xml:lang="ita">Vitry-le-François</placeName><location><country>France</country><geo>48.724722222222 4.5844444444444</geo></location><idno type="wikidata">Q623374</idno></place>
+      <place xml:id="IlesDHyeres" source="https://www.wikidata.org/wiki/Q292728"><placeName xml:lang="fra">îles d'Hyères</placeName><placeName xml:lang="ita">Isole di Hyères</placeName><location><country>France</country><geo>43.01 6.4045</geo></location><idno type="wikidata">Q292728</idno></place>
+      <place xml:id="Argos" source="https://www.wikidata.org/wiki/Q189901">
+        <placeName xml:lang="fra">Argos</placeName>
+        <placeName xml:lang="ita">Argo</placeName>
+        <location>
+          <country>Grèce</country>
+          <geo>37.63333333333333 22.729166666666668</geo>
+        </location>
+        <idno type="wikidata">Q189901</idno>
+      </place>
+      <place xml:id="Cadmee" source="https://www.wikidata.org/wiki/Q1276854">
+        <placeName xml:lang="fra">Cadmée</placeName>
+        <placeName xml:lang="ita">Cadmea</placeName>
+        <location>
+          <country>Grèce</country>
+          <geo>38.31944444 23.31666667</geo>
+        </location>
+        <idno type="wikidata">Q1276854</idno>
+      </place>
+      <place xml:id="Cholarge" source="https://www.wikidata.org/wiki/Q1247513">
+        <placeName xml:lang="fra">Cholargós</placeName>
+        <placeName xml:lang="ita">Cholargos</placeName>
+        <location>
+          <country>Grèce</country>
+          <geo>38 23.8</geo>
+        </location>
+        <idno type="wikidata">Q1247513</idno>
+      </place>
+      <place xml:id="Chios" source="https://www.wikidata.org/wiki/Q160483">
+        <placeName xml:lang="fra">Chíos</placeName>
+        <placeName xml:lang="ita">Chio</placeName>
+        <location>
+          <country>Grèce</country>
+          <geo>38.4 26.016666666667</geo>
+        </location>
+        <idno type="wikidata">Q160483</idno>
+      </place>
+      <place xml:id="Corfou" source="https://www.wikidata.org/wiki/Q121378">
+        <placeName xml:lang="fra">Corfou</placeName>
+        <placeName xml:lang="ita">Corfù</placeName>
+        <location>
+          <country>Grèce</country>
+          <geo>39.6 19.87</geo>
+        </location>
+        <idno type="wikidata">Q121378</idno>
+      </place>
+      <place xml:id="Corinthe" source="https://www.wikidata.org/wiki/Q103011">
+        <placeName xml:lang="fra">Corinthe</placeName>
+        <placeName xml:lang="ita">Corinto</placeName>
+        <location>
+          <country>Grèce</country>
+          <geo>37.93861111111111 22.927222222222223</geo>
+        </location>
+        <idno type="wikidata">Q103011</idno>
+      </place>
+      <place xml:id="Crete" source="https://www.wikidata.org/wiki/Q34374">
+        <placeName xml:lang="fra">Crète</placeName>
+        <placeName xml:lang="ita">Creta</placeName>
+        <location>
+          <country>Grèce</country>
+          <geo>35.309722222222 24.893333333333</geo>
+        </location>
+        <idno type="wikidata">Q34374</idno>
+      </place>
+      <place xml:id="Delphes" source="https://www.wikidata.org/wiki/Q75459">
+        <placeName xml:lang="fra">Delphes</placeName>
+        <placeName xml:lang="ita">Delfi</placeName>
+        <location>
+          <country>Grèce</country>
+          <geo>38.483333333333 22.5</geo>
+        </location>
+        <idno type="wikidata">Q75459</idno>
+      </place>
+      <place xml:id="Lemnos" source="https://www.wikidata.org/wiki/Q192483">
+        <placeName xml:lang="fra">Lemnos</placeName>
+        <placeName xml:lang="ita">Lemno</placeName>
+        <location>
+          <country>Grèce</country>
+          <geo>39.916666666667 25.25</geo>
+        </location>
+        <idno type="wikidata">Q192483</idno>
+      </place>
+      <place xml:id="Leuctres" source="https://www.wikidata.org/wiki/Q2606004">
+        <placeName xml:lang="fra">Leuctres</placeName>
+        <placeName xml:lang="ita">Leuttra</placeName>
+        <location>
+          <country>Grèce</country>
+          <geo>38.254444444444 23.182222222222</geo>
+        </location>
+        <idno type="wikidata">Q2606004</idno>
+      </place>
+      <place xml:id="Lindos" source="https://www.wikidata.org/wiki/Q65122097">
+        <placeName xml:lang="fra">Lindos</placeName>
+        <placeName xml:lang="ita">Lindo</placeName>
+        <location>
+          <country>Grèce</country>
+          <geo>36.091389 28.088056</geo>
+        </location>
+        <idno type="wikidata">Q65122097</idno>
+      </place>
+      <place xml:id="Mantinee" source="https://www.wikidata.org/wiki/Q1160195">
+        <placeName xml:lang="fra">Mantinée</placeName>
+        <placeName xml:lang="ita">Mantinea</placeName>
+        <location>
+          <country>Grèce</country>
+          <geo>37.616666666667 22.383333333333</geo>
+        </location>
+        <idno type="wikidata">Q1160195</idno>
+      </place>
+      <place xml:id="Marathon" source="https://www.wikidata.org/wiki/Q212150">
+        <placeName xml:lang="fra">Marathon</placeName>
+        <placeName xml:lang="ita">Maratona</placeName>
+        <location>
+          <country>Grèce</country>
+          <geo>38.155 23.963611111111</geo>
+        </location>
+        <idno type="wikidata">Q212150</idno>
+      </place>
+      <place xml:id="Milos" source="https://www.wikidata.org/wiki/Q203979">
+        <placeName xml:lang="fra">Milos</placeName>
+        <placeName xml:lang="ita">Milo</placeName>
+        <location>
+          <country>Grèce</country>
+          <geo>36.733333333333 24.416666666667</geo>
+        </location>
+        <idno type="wikidata">Q203979</idno>
+      </place>
+      <place xml:id="Mycenes" source="https://www.wikidata.org/wiki/Q132564">
+        <placeName xml:lang="fra">Mycènes</placeName>
+        <placeName xml:lang="ita">Micene</placeName>
+        <location>
+          <country>Grèce</country>
+          <geo>37.730833333333 22.756111111111</geo>
+        </location>
+        <idno type="wikidata">Q132564</idno>
+      </place>
+      <place xml:id="Paros" source="https://www.wikidata.org/wiki/Q201272">
+        <placeName xml:lang="fra">Páros</placeName>
+        <placeName xml:lang="ita">Paro</placeName>
+        <location>
+          <country>Grèce</country>
+          <geo>37.05 25.183333333333</geo>
+        </location>
+        <idno type="wikidata">Q201272</idno>
+      </place>
+      <place xml:id="Peloponnese " source="https://www.wikidata.org/wiki/Q78967">
+        <placeName xml:lang="fra">Péloponnèse</placeName>
+        <placeName xml:lang="ita">Peloponneso</placeName>
+        <location>
+          <country>Grèce</country>
+          <geo>37.349722222222 22.352222222222</geo>
+        </location>
+        <idno type="wikidata">Q78967</idno>
+      </place>
+      <place xml:id="Samothrace" source="https://www.wikidata.org/wiki/Q203175">
+        <placeName xml:lang="fra">Samothrace</placeName>
+        <placeName xml:lang="ita">Samotracia</placeName>
+        <location>
+          <country>Grèce</country>
+          <geo>40.45 25.5875</geo>
+        </location>
+        <idno type="wikidata">Q203175</idno>
+      </place>
+      <place xml:id="Samos" source="https://www.wikidata.org/wiki/Q156882">
+        <placeName xml:lang="fra">Sámos</placeName>
+        <placeName xml:lang="ita">Samo</placeName>
+        <location>
+          <country>Grèce</country>
+          <geo>37.75 26.8333</geo>
+        </location>
+        <idno type="wikidata">Q156882</idno>
+      </place>
+      <place xml:id="Thessalie" source="https://www.wikidata.org/wiki/Q166919">
+        <placeName xml:lang="fra">Thessalie</placeName>
+        <placeName xml:lang="ita">Tessaglia</placeName>
+        <location>
+          <country>Grèce</country>
+          <geo>39.6 22.2</geo>
+        </location>
+        <idno type="wikidata">Q166919</idno>
+      </place>
+      <place xml:id="Thasos" source="https://www.wikidata.org/wiki/Q204096">
+        <placeName xml:lang="fra">Thásos</placeName>
+        <placeName xml:lang="ita">Taso</placeName>
+        <location>
+          <country>Grèce</country>
+          <geo>40.694166666667 24.661111111111</geo>
+        </location>
+        <idno type="wikidata">Q204096</idno>
+      </place>
+      <place xml:id="Thebes" source="https://www.wikidata.org/wiki/Q11225429">
+        <placeName xml:lang="fra">Thèbes</placeName>
+        <placeName xml:lang="ita">Tebe</placeName>
+        <location>
+          <country>Grèce</country>
+          <geo>38.32388889 23.31722222</geo>
+        </location>
+        <idno type="wikidata">Q11225429</idno>
+      </place>
+      <place xml:id="Elide" source="https://www.wikidata.org/wiki/Q1063649">
+        <placeName xml:lang="fra">district régional d'Élide</placeName>
+        <placeName xml:lang="ita">Elide</placeName>
+        <location>
+          <country>Grèce</country>
+          <geo>37.66666667 21.5</geo>
+        </location>
+        <idno type="wikidata">Q1063649</idno>
+      </place>
+      <place xml:id="Athos" source="https://www.wikidata.org/wiki/Q130321">
+        <placeName xml:lang="fra">mont Athos</placeName>
+        <placeName xml:lang="ita">Monte Athos</placeName>
+        <location>
+          <country>Grèce</country>
+          <geo>40.15833333333333 24.327222222222222</geo>
+        </location>
+        <idno type="wikidata">Q130321</idno>
+      </place>
+      <place xml:id="Egine" source="https://www.wikidata.org/wiki/Q191082">
+        <placeName xml:lang="fra">Égine</placeName>
+        <placeName xml:lang="ita">Egina</placeName>
+        <location>
+          <country>Grèce</country>
+          <geo>37.73 23.49</geo>
+        </location>
+        <idno type="wikidata">Q191082</idno>
+      </place>      
+      <place xml:id="Cambay" source="https://www.wikidata.org/wiki/Q1740527">
+        <placeName xml:lang="fra">Cambay</placeName>
+        <placeName xml:lang="ita">Khambhat</placeName>
+        <location>
+          <country>Inde</country>
+          <geo>22.313114 72.619408</geo>
+        </location>
+        <idno type="wikidata">Q1740527</idno>
+      </place>
+      <place xml:id="Ninive" source="https://www.wikidata.org/wiki/Q5680">
+        <placeName xml:lang="fra">Ninive</placeName>
+        <placeName xml:lang="ita">Ninive</placeName>
+        <location>
+          <country>Irak</country>
+          <geo>36.366667 43.15</geo>
+        </location>
+        <idno type="wikidata">Q5680</idno>
+      </place>
+      <place xml:id="Skerries" source="https://www.wikidata.org/wiki/Q2268677">
+        <placeName xml:lang="fra">Skerries</placeName>
+        <placeName xml:lang="ita">Skerries</placeName>
+        <location>
+          <country>Irlande</country>
+          <geo>53.5828 -6.1083</geo>
+        </location>
+        <idno type="wikidata">Q2268677</idno>
+      </place>
+      <place xml:id="Cesaree" source="https://www.wikidata.org/wiki/Q1615560">
+        <placeName xml:lang="fra">Césarée</placeName>
+        <placeName xml:lang="ita">Cesarea</placeName>
+        <location>
+          <country>Israël</country>
+          <geo>32.5 34.9</geo>
+        </location>
+        <idno type="wikidata">Q1615560</idno>
+      </place>
+      <place xml:id="Galilee" source="https://www.wikidata.org/wiki/Q83241">
+        <placeName xml:lang="fra">Galilée</placeName>
+        <placeName xml:lang="ita">Galilea</placeName>
+        <location>
+          <country>Israël</country>
+          <geo>32.76 35.527</geo>
+        </location>
+        <idno type="wikidata">Q83241</idno>
+      </place>
+      <place xml:id="Judee" source="https://www.wikidata.org/wiki/Q104028">
+        <placeName xml:lang="fra">Judée</placeName>
+        <placeName xml:lang="ita">Giudea</placeName>
+        <location>
+          <country>Israël</country>
+          <geo>31.698889 35.306389</geo>
+        </location>
+        <idno type="wikidata">Q104028</idno>
+      </place>
+      <place xml:id="Catane" source="https://www.wikidata.org/wiki/Q3813280">
+        <placeName xml:lang="ita">Katane</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>37.505 15.086388888888889</geo>
+        </location>
+        <idno type="wikidata">Q3813280</idno>
+      </place>
+      <place xml:id="Adria" source="https://www.wikidata.org/wiki/Q34615">
+        <placeName xml:lang="fra">Adria</placeName>
+        <placeName xml:lang="ita">Adria</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>45.05 12.05</geo>
+        </location>
+        <idno type="wikidata">Q34615</idno>
+      </place>
+      <place xml:id="AlexandrieItalie" source="https://www.wikidata.org/wiki/Q6088">
+        <placeName xml:lang="fra">Alexandrie</placeName>
+        <placeName xml:lang="ita">Alessandria</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>44.913330555556 8.62</geo>
+        </location>
+        <idno type="wikidata">Q6088</idno>
+      </place>
+      <place xml:id="Ancone" source="https://www.wikidata.org/wiki/Q3415">
+        <placeName xml:lang="fra">Ancône</placeName>
+        <placeName xml:lang="ita">Ancona</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>43.616666666667 13.516666666667</geo>
+        </location>
+        <idno type="wikidata">Q3415</idno>
+      </place>
+      <place xml:id="Apennins" source="https://www.wikidata.org/wiki/Q1285">
+        <placeName xml:lang="fra">Apennins</placeName>
+        <placeName xml:lang="ita">Appennini</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>42.469166666666666 13.565555555555555</geo>
+        </location>
+        <idno type="wikidata">Q1285</idno>
+      </place>
+      <place xml:id="Aquilee" source="https://www.wikidata.org/wiki/Q53216">
+        <placeName xml:lang="fra">Aquilée</placeName>
+        <placeName xml:lang="ita">Aquileia</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>45.766666666667 13.366666666667</geo>
+        </location>
+        <idno type="wikidata">Q53216</idno>
+      </place>
+      <place xml:id="Ardea" source="https://www.wikidata.org/wiki/Q241733">
+        <placeName xml:lang="fra">Ardea</placeName>
+        <placeName xml:lang="ita">Ardea</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>41.616666666667 12.55</geo>
+        </location>
+        <idno type="wikidata">Q241733</idno>
+      </place>
+      <place xml:id="Arezzo" source="https://www.wikidata.org/wiki/Q13378">
+        <placeName xml:lang="fra">Arezzo</placeName>
+        <placeName xml:lang="ita">Arezzo</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>43.463055555556 11.878055555556</geo>
+        </location>
+        <idno type="wikidata">Q13378</idno>
+      </place>
+      <place xml:id="Ariccia" source="https://www.wikidata.org/wiki/Q241744">
+        <placeName xml:lang="fra">Ariccia</placeName>
+        <placeName xml:lang="ita">Ariccia</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>41.716666666667 12.666666666667</geo>
+        </location>
+        <idno type="wikidata">Q241744</idno>
+      </place>
+      <place xml:id="Arpino" source="https://www.wikidata.org/wiki/Q116440">
+        <placeName xml:lang="fra">Arpino</placeName>
+        <placeName xml:lang="ita">Arpino</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>41.64705 13.61155</geo>
+        </location>
+        <idno type="wikidata">Q116440</idno>
+      </place>
+      <place xml:id="Assise" source="https://www.wikidata.org/wiki/Q20103">
+        <placeName xml:lang="fra">Assise</placeName>
+        <placeName xml:lang="ita">Assisi</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>43.07 12.6175</geo>
+        </location>
+        <idno type="wikidata">Q20103</idno>
+      </place>
+      <place xml:id="BassanoDelGrappa" source="https://www.wikidata.org/wiki/Q47094">
+        <placeName xml:lang="fra">Bassano del Grappa</placeName>
+        <placeName xml:lang="ita">Bassano del Grappa</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>45.766666666666666 11.734166666666667</geo>
+        </location>
+        <idno type="wikidata">Q47094</idno>
+      </place>
+      <place xml:id="Baies" source="https://www.wikidata.org/wiki/Q290097">
+        <placeName xml:lang="fra">Baïes</placeName>
+        <placeName xml:lang="ita">Baia</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>40.816666666667 14.069722222222</geo>
+        </location>
+        <idno type="wikidata">Q290097</idno>
+      </place>
+      <place xml:id="Bergame" source="https://www.wikidata.org/wiki/Q628">
+        <placeName xml:lang="fra">Bergame</placeName>
+        <placeName xml:lang="ita">Bergamo</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>45.695 9.67</geo>
+        </location>
+        <idno type="wikidata">Q628</idno>
+      </place>
+      <place xml:id="Bologne" source="https://www.wikidata.org/wiki/Q1891">
+        <placeName xml:lang="fra">Bologne</placeName>
+        <placeName xml:lang="ita">Bologna</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>44.493888888889 11.342777777778</geo>
+        </location>
+        <idno type="wikidata">Q1891</idno>
+      </place>
+      <place xml:id="Bolsena" source="https://www.wikidata.org/wiki/Q159685">
+        <placeName xml:lang="fra">Bolsena</placeName>
+        <placeName xml:lang="ita">Bolsena</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>42.644722222222 11.985833333333</geo>
+        </location>
+        <idno type="wikidata">Q159685</idno>
+      </place>
+      <place xml:id="Brescia" source="https://www.wikidata.org/wiki/Q6221">
+        <placeName xml:lang="fra">Brescia</placeName>
+        <placeName xml:lang="ita">Brescia</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>45.538888888889 10.220280555556</geo>
+        </location>
+        <idno type="wikidata">Q6221</idno>
+      </place>
+      <place xml:id="Bresso" source="https://www.wikidata.org/wiki/Q42898">
+        <placeName xml:lang="fra">Bresso</placeName>
+        <placeName xml:lang="ita">Bresso</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>45.533333333333 9.1833333333333</geo>
+        </location>
+        <idno type="wikidata">Q42898</idno>
+      </place>
+      <place xml:id="Calabre" source="https://www.wikidata.org/wiki/Q1458">
+        <placeName xml:lang="fra">Calabre</placeName>
+        <placeName xml:lang="ita">Calabria</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>39 16.5</geo>
+        </location>
+        <idno type="wikidata">Q1458</idno>
+      </place>
+      <place xml:id="Camerino" source="https://www.wikidata.org/wiki/Q73489">
+        <placeName xml:lang="fra">Camerino</placeName>
+        <placeName xml:lang="ita">Camerino</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>43.133333333333 13.066666666667</geo>
+        </location>
+        <idno type="wikidata">Q73489</idno>
+      </place>
+      <place xml:id="Capitole" source="https://www.wikidata.org/wiki/Q34925">
+        <placeName xml:lang="fra">Capitole</placeName>
+        <placeName xml:lang="ita">Campidoglio</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>41.893333333333 12.483055555556</geo>
+        </location>
+        <idno type="wikidata">Q34925</idno>
+      </place>
+      <place xml:id="Caprarola" source="https://www.wikidata.org/wiki/Q160262">
+        <placeName xml:lang="fra">Caprarola</placeName>
+        <placeName xml:lang="ita">Caprarola</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>42.3275 12.236666666667</geo>
+        </location>
+        <idno type="wikidata">Q160262</idno>
+      </place>
+      <place xml:id="Capri" source="https://www.wikidata.org/wiki/Q173292">
+        <placeName xml:lang="fra">Capri</placeName>
+        <placeName xml:lang="ita">Isola di Capri</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>40.55 14.233333333333</geo>
+        </location>
+        <idno type="wikidata">Q173292</idno>
+      </place>
+      <place xml:id="Caravaggio" source="https://www.wikidata.org/wiki/Q100145">
+        <placeName xml:lang="fra">Caravaggio</placeName>
+        <placeName xml:lang="ita">Caravaggio</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>45.497777777778 9.6430555555556</geo>
+        </location>
+        <idno type="wikidata">Q100145</idno>
+      </place>
+      <place xml:id="Carpi" source="https://www.wikidata.org/wiki/Q100041">
+        <placeName xml:lang="fra">Carpi</placeName>
+        <placeName xml:lang="ita">Carpi</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>44.783333333333 10.885</geo>
+        </location>
+        <idno type="wikidata">Q100041</idno>
+      </place>
+      <place xml:id="Carrara" source="https://www.wikidata.org/wiki/Q13372">
+        <placeName xml:lang="fra">Carrare</placeName>
+        <placeName xml:lang="ita">Carrara</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>44.083333333333 10.1</geo>
+        </location>
+        <idno type="wikidata">Q13372</idno>
+      </place>
+      <place xml:id="CastelFranco" source="https://www.wikidata.org/wiki/Q29352">
+        <placeName xml:lang="fra">Castelfranco Veneto</placeName>
+        <placeName xml:lang="ita">Castelfranco Veneto</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>45.666666666667 11.933333333333</geo>
+        </location>
+        <idno type="wikidata">Q29352</idno>
+      </place>
+      <place xml:id="Cento" source="https://www.wikidata.org/wiki/Q95094">
+        <placeName xml:lang="fra">Cento</placeName>
+        <placeName xml:lang="ita">Cento</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>44.733333333333 11.283333333333</geo>
+        </location>
+        <idno type="wikidata">Q95094</idno>
+      </place>
+      <place xml:id="CittaDiCastello" source="https://www.wikidata.org/wiki/Q20413">
+        <placeName xml:lang="fra">Città di Castello</placeName>
+        <placeName xml:lang="ita">Città di Castello</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>43.4574214 12.2403118</geo>
+        </location>
+        <idno type="wikidata">Q20413</idno>
+      </place>
+      <place xml:id="Correggio" source="https://www.wikidata.org/wiki/Q111176">
+        <placeName xml:lang="fra">Correggio</placeName>
+        <placeName xml:lang="ita">Correggio</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>44.771666666667 10.780555555556</geo>
+        </location>
+        <idno type="wikidata">Q111176</idno>
+      </place>
+      <place xml:id="Cortone" source="https://www.wikidata.org/wiki/Q52080">
+        <placeName xml:lang="fra">Cortone</placeName>
+        <placeName xml:lang="ita">Cortona</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>43.275555555556 11.988055555556</geo>
+        </location>
+        <idno type="wikidata">Q52080</idno>
+      </place>
+      <place xml:id="Crema" source="https://www.wikidata.org/wiki/Q42793">
+        <placeName xml:lang="fra">Crema</placeName>
+        <placeName xml:lang="ita">Crema</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>45.366666666667 9.6833333333333</geo>
+        </location>
+        <idno type="wikidata">Q42793</idno>
+      </place>
+      <place xml:id="Crotone" source="https://www.wikidata.org/wiki/Q6681">
+        <placeName xml:lang="fra">Crotone</placeName>
+        <placeName xml:lang="ita">Crotone</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>39.083333333333 17.116666666667</geo>
+        </location>
+        <idno type="wikidata">Q6681</idno>
+      </place>
+      <place xml:id="Cremone" source="https://www.wikidata.org/wiki/Q6231">
+        <placeName xml:lang="fra">Crémone</placeName>
+        <placeName xml:lang="ita">Cremona</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>45.13333333333333 10.024722222222222</geo>
+        </location>
+        <idno type="wikidata">Q6231</idno>
+      </place>
+      <place xml:id="Fabriano" source="https://www.wikidata.org/wiki/Q13145">
+        <placeName xml:lang="fra">Fabriano</placeName>
+        <placeName xml:lang="ita">Fabriano</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>43.338561111111 12.908519444444</geo>
+        </location>
+        <idno type="wikidata">Q13145</idno>
+      </place>
+      <place xml:id="Faenza" source="https://www.wikidata.org/wiki/Q52981">
+        <placeName xml:lang="fra">Faenza</placeName>
+        <placeName xml:lang="ita">Faenza</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>44.285555555556 11.883333333333</geo>
+        </location>
+        <idno type="wikidata">Q52981</idno>
+      </place>
+      <place xml:id="Ferrare" source="https://www.wikidata.org/wiki/Q13362">
+        <placeName xml:lang="fra">Ferrare</placeName>
+        <placeName xml:lang="ita">Ferrara</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>44.839166666666664 11.6175</geo>
+        </location>
+        <idno type="wikidata">Q13362</idno>
+      </place>
+      <place xml:id="Fiesole" source="https://www.wikidata.org/wiki/Q82670">
+        <placeName xml:lang="fra">Fiesole</placeName>
+        <placeName xml:lang="ita">Fiesole</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>43.8 11.3</geo>
+        </location>
+        <idno type="wikidata">Q82670</idno>
+      </place>
+      <place xml:id="Frascati" source="https://www.wikidata.org/wiki/Q190963">
+        <placeName xml:lang="fra">Frascati</placeName>
+        <placeName xml:lang="ita">Frascati</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>41.816666666667 12.683333333333</geo>
+        </location>
+        <idno type="wikidata">Q190963</idno>
+      </place>
+      <place xml:id="Frioul" source="https://www.wikidata.org/wiki/Q160570">
+        <placeName xml:lang="fra">Frioul</placeName>
+        <placeName xml:lang="ita">Friuli</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>46.166388888889 13</geo>
+        </location>
+        <idno type="wikidata">Q160570</idno>
+      </place>
+      <place xml:id="GambassiTerme" source="https://www.wikidata.org/wiki/Q82704">
+        <placeName xml:lang="fra">Gambassi Terme</placeName>
+        <placeName xml:lang="ita">Gambassi Terme</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>43.533333333333 10.95</geo>
+        </location>
+        <idno type="wikidata">Q82704</idno>
+      </place>
+      <place xml:id="Gaete" source="https://www.wikidata.org/wiki/Q128089">
+        <placeName xml:lang="fra">Gaète</placeName>
+        <placeName xml:lang="ita">Gaeta</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>41.216666666667 13.566666666667</geo>
+        </location>
+        <idno type="wikidata">Q128089</idno>
+      </place>
+      <place xml:id="Grottaferrata" source="https://www.wikidata.org/wiki/Q242703">
+        <placeName xml:lang="fra">Grottaferrata</placeName>
+        <placeName xml:lang="ita">Grottaferrata</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>41.8 12.666666666667</geo>
+        </location>
+        <idno type="wikidata">Q242703</idno>
+      </place>
+      <place xml:id="Genes" source="https://www.wikidata.org/wiki/Q1449">
+        <placeName xml:lang="fra">Gênes</placeName>
+        <placeName xml:lang="ita">Genova</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>44.407186111111 8.9339833333333</geo>
+        </location>
+        <idno type="wikidata">Q1449</idno>
+      </place>
+      <place xml:id="Heraclee" source="https://www.wikidata.org/wiki/Q1568583">
+        <placeName xml:lang="fra">Héraclée</placeName>
+        <placeName xml:lang="ita">Eraclea</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>40.2195 16.6704</geo>
+        </location>
+        <idno type="wikidata">Q1568583</idno>
+      </place>
+      <place xml:id="Lanuvium" source="https://www.wikidata.org/wiki/Q242793">
+        <placeName xml:lang="fra">Lanuvio</placeName>
+        <placeName xml:lang="ita">Lanuvio</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>41.683333333333 12.7</geo>
+        </location>
+        <idno type="wikidata">Q242793</idno>
+      </place>
+      <place xml:id="Lazio" source="https://www.wikidata.org/wiki/Q1282">
+        <placeName xml:lang="fra">Latium</placeName>
+        <placeName xml:lang="ita">Lazio</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>41.9 12.716666666667</geo>
+        </location>
+        <idno type="wikidata">Q1282</idno>
+      </place>
+      <place xml:id="Livourne" source="https://www.wikidata.org/wiki/Q6761">
+        <placeName xml:lang="fra">Livourne</placeName>
+        <placeName xml:lang="ita">Livorno</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>43.55 10.316666666667</geo>
+        </location>
+        <idno type="wikidata">Q6761</idno>
+      </place>
+      <place xml:id="Locres" source="https://www.wikidata.org/wiki/Q54619">
+        <placeName xml:lang="fra">Locri</placeName>
+        <placeName xml:lang="ita">Locri</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>38.233333333333 16.266666666667</geo>
+        </location>
+        <idno type="wikidata">Q54619</idno>
+      </place>
+      <place xml:id="Lombardie" source="https://www.wikidata.org/wiki/Q1210">
+        <placeName xml:lang="fra">Lombardie</placeName>
+        <placeName xml:lang="ita">Lombardia</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>45.65 9.95</geo>
+        </location>
+        <idno type="wikidata">Q1210</idno>
+      </place>
+      <place xml:id="Loreto" source="https://www.wikidata.org/wiki/Q124110">
+        <placeName xml:lang="fra">Lorette</placeName>
+        <placeName xml:lang="ita">Loreto</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>43.4403 13.607430555556</geo>
+        </location>
+        <idno type="wikidata">Q124110</idno>
+      </place>
+      <place xml:id="Lucanie" source="https://www.wikidata.org/wiki/Q1131978">
+        <placeName xml:lang="fra">Lucania</placeName>
+        <placeName xml:lang="ita">Lucania</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>40.482608 15.956247</geo>
+        </location>
+        <idno type="wikidata">Q1131978</idno>
+      </place>
+      <place xml:id="Lucques" source="https://www.wikidata.org/wiki/Q13373">
+        <placeName xml:lang="fra">Lucques</placeName>
+        <placeName xml:lang="ita">Lucca</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>43.85 10.516666666667</geo>
+        </location>
+        <idno type="wikidata">Q13373</idno>
+      </place>
+      <place xml:id="Maiano" source="https://www.wikidata.org/wiki/Q18487093">
+        <placeName xml:lang="fra">Maiano</placeName>
+        <placeName xml:lang="ita">Maiano</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>43.79382 11.30414</geo>
+        </location>
+        <idno type="wikidata">Q18487093</idno>
+      </place>
+      <place xml:id="Messine" source="https://www.wikidata.org/wiki/Q13666">
+        <placeName xml:lang="fra">Messine</placeName>
+        <placeName xml:lang="ita">Messina</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>38.19361111111111 15.554166666666667</geo>
+        </location>
+        <idno type="wikidata">Q13666</idno>
+      </place>
+      <place xml:id="Mondovi" source="https://www.wikidata.org/wiki/Q20188">
+        <placeName xml:lang="fra">Mondovi</placeName>
+        <placeName xml:lang="ita">Mondovì</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>44.383333333333 7.8166666666667</geo>
+        </location>
+        <idno type="wikidata">Q20188</idno>
+      </place>
+      <place xml:id="MonteCavallo" source="https://www.wikidata.org/wiki/Q83070">
+        <placeName xml:lang="fra">Monte Cavallo</placeName>
+        <placeName xml:lang="ita">Monte Cavallo</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>42.992919444444 13.001069444444</geo>
+        </location>
+        <idno type="wikidata">Q83070</idno>
+      </place>
+      <place xml:id="Monferrato" source="https://www.wikidata.org/wiki/Q19868">
+        <placeName xml:lang="fra">Montferrat</placeName>
+        <placeName xml:lang="ita">Monferrato</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>44.608611111111 7.9636111111111</geo>
+        </location>
+        <idno type="wikidata">Q19868</idno>
+      </place>
+      <place xml:id="Monza" source="https://www.wikidata.org/wiki/Q6252">
+        <placeName xml:lang="fra">Monza</placeName>
+        <placeName xml:lang="ita">Monza</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>45.58361111111111 9.27361111111111</geo>
+        </location>
+        <idno type="wikidata">Q6252</idno>
+      </place>
+      <place xml:id="Metaponte" source="https://www.wikidata.org/wiki/Q1058770">
+        <placeName xml:lang="fra">Métaponte</placeName>
+        <placeName xml:lang="ita">Metaponto</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>40.416077777778 16.816763888889</geo>
+        </location>
+        <idno type="wikidata">Q1058770</idno>
+      </place>
+      <place xml:id="Novare" source="https://www.wikidata.org/wiki/Q6046">
+        <placeName xml:lang="fra">Novare</placeName>
+        <placeName xml:lang="ita">Novara</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>45.45 8.62</geo>
+        </location>
+        <idno type="wikidata">Q6046</idno>
+      </place>
+      <place xml:id="Orvieto" source="https://www.wikidata.org/wiki/Q541">
+        <placeName xml:lang="fra">Orvieto</placeName>
+        <placeName xml:lang="ita">Orvieto</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>42.716666666667 12.1</geo>
+        </location>
+        <idno type="wikidata">Q541</idno>
+      </place>
+      <place xml:id="Ostie" source="https://www.wikidata.org/wiki/Q1012797">
+        <placeName xml:lang="fra">Ostie</placeName>
+        <placeName xml:lang="ita">Ostia</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>41.75416666666667 12.2875</geo>
+        </location>
+        <idno type="wikidata">Q1012797</idno>
+      </place>
+      <place xml:id="Padoue" source="https://www.wikidata.org/wiki/Q617">
+        <placeName xml:lang="fra">Padoue</placeName>
+        <placeName xml:lang="ita">Padova</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>45.40777777777778 11.873333333333333</geo>
+        </location>
+        <idno type="wikidata">Q617</idno>
+      </place>
+      <place xml:id="Palerme" source="https://www.wikidata.org/wiki/Q2656">
+        <placeName xml:lang="fra">Palerme</placeName>
+        <placeName xml:lang="ita">Palermo</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>38.115658055555556 13.361261944444445</geo>
+        </location>
+        <idno type="wikidata">Q2656</idno>
+      </place>
+      <place xml:id="Preneste" source="https://www.wikidata.org/wiki/Q243133">
+        <placeName xml:lang="fra">Palestrina</placeName>
+        <placeName xml:lang="ita">Palestrina</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>41.833333333333 12.9</geo>
+        </location>
+        <idno type="wikidata">Q243133</idno>
+      </place>
+      <place xml:id="Parme" source="https://www.wikidata.org/wiki/Q2683">
+        <placeName xml:lang="fra">Parme</placeName>
+        <placeName xml:lang="ita">Parma</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>44.801472222222 10.328</geo>
+        </location>
+        <idno type="wikidata">Q2683</idno>
+      </place>
+      <place xml:id="Passignano" source="https://www.wikidata.org/wiki/Q20504">
+        <placeName xml:lang="fra">Passignano sul Trasimeno</placeName>
+        <placeName xml:lang="ita">Passignano sul Trasimeno</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>43.183333333333 12.133333333333</geo>
+        </location>
+        <idno type="wikidata">Q20504</idno>
+      </place>
+      <place xml:id="Pesaro" source="https://www.wikidata.org/wiki/Q13134">
+        <placeName xml:lang="fra">Pesaro</placeName>
+        <placeName xml:lang="ita">Pesaro</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>43.91015 12.9133</geo>
+        </location>
+        <idno type="wikidata">Q13134</idno>
+      </place>
+      <place xml:id="Cadore" source="https://www.wikidata.org/wiki/Q41065">
+        <placeName xml:lang="fra">Pieve di Cadore</placeName>
+        <placeName xml:lang="ita">Pieve di Cadore</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>46.428709 12.375297</geo>
+        </location>
+        <idno type="wikidata">Q41065</idno>
+      </place>
+      <place xml:id="Pise" source="https://www.wikidata.org/wiki/Q13375">
+        <placeName xml:lang="fra">Pise</placeName>
+        <placeName xml:lang="ita">Pisa</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>43.716666666667 10.4</geo>
+        </location>
+        <idno type="wikidata">Q13375</idno>
+      </place>
+      <place xml:id="Pistoia" source="https://www.wikidata.org/wiki/Q13376">
+        <placeName xml:lang="fra">Pistoia</placeName>
+        <placeName xml:lang="ita">Pistoia</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>43.933333333333 10.916666666667</geo>
+        </location>
+        <idno type="wikidata">Q13376</idno>
+      </place>
+      <place xml:id="Piemont" source="https://www.wikidata.org/wiki/Q1216">
+        <placeName xml:lang="fra">Piémont</placeName>
+        <placeName xml:lang="ita">Piemonte</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>45.25 7.9166666666667</geo>
+        </location>
+        <idno type="wikidata">Q1216</idno>
+      </place>
+      <place xml:id="Plaisance" source="https://www.wikidata.org/wiki/Q13329">
+        <placeName xml:lang="fra">Plaisance</placeName>
+        <placeName xml:lang="ita">Piacenza</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>45.05 9.7</geo>
+        </location>
+        <idno type="wikidata">Q13329</idno>
+      </place>
+      <place xml:id="Pomarance" source="https://www.wikidata.org/wiki/Q103201">
+        <placeName xml:lang="fra">Pomarance</placeName>
+        <placeName xml:lang="ita">Pomarance</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>43.299722222222 10.873611111111</geo>
+        </location>
+        <idno type="wikidata">Q103201</idno>
+      </place>
+      <place xml:id="PordenoneVille" source="https://www.wikidata.org/wiki/Q6606">
+        <placeName xml:lang="fra">Pordenone</placeName>
+        <placeName xml:lang="ita">Pordenone</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>45.9626 12.6563</geo>
+        </location>
+        <idno type="wikidata">Q6606</idno>
+      </place>
+      <place xml:id="PortoErcole" source="https://www.wikidata.org/wiki/Q1394400">
+        <placeName xml:lang="fra">Porto Ercole</placeName>
+        <placeName xml:lang="ita">Porto Ercole</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>42.393888888889 11.203611111111</geo>
+        </location>
+        <idno type="wikidata">Q1394400</idno>
+      </place>
+      <place xml:id="Portovenere" source="https://www.wikidata.org/wiki/Q188315">
+        <placeName xml:lang="fra">Porto Venere</placeName>
+        <placeName xml:lang="ita">Portovenere</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>44.05 9.833333</geo>
+        </location>
+        <idno type="wikidata">Q188315</idno>
+      </place>
+      <place xml:id="Pouzzoles" source="https://www.wikidata.org/wiki/Q72425">
+        <placeName xml:lang="fra">Pouzzoles</placeName>
+        <placeName xml:lang="ita">Pozzuoli</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>40.823055555556 14.122222222222</geo>
+        </location>
+        <idno type="wikidata">Q72425</idno>
+      </place>
+      <place xml:id="Perugia" source="https://www.wikidata.org/wiki/Q3437">
+        <placeName xml:lang="fra">Pérouse</placeName>
+        <placeName xml:lang="ita">Perugia</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>43.1121 12.3888</geo>
+        </location>
+        <idno type="wikidata">Q3437</idno>
+      </place>
+      <place xml:id="Ravenna" source="https://www.wikidata.org/wiki/Q13364">
+        <placeName xml:lang="fra">Ravenne</placeName>
+        <placeName xml:lang="ita">Ravenna</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>44.416111111111114 12.201666666666666</geo>
+        </location>
+        <idno type="wikidata">Q13364</idno>
+      </place>
+      <place xml:id="Rimini" source="https://www.wikidata.org/wiki/Q13369">
+        <placeName xml:lang="fra">Rimini</placeName>
+        <placeName xml:lang="ita">Rimini</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>44.059444444444 12.568333333333</geo>
+        </location>
+        <idno type="wikidata">Q13369</idno>
+      </place>
+      <place xml:id="Ripatransone" source="https://www.wikidata.org/wiki/Q56086">
+        <placeName xml:lang="fra">Ripatransone</placeName>
+        <placeName xml:lang="ita">Ripatransone</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>43.000216666667 13.762491666667</geo>
+        </location>
+        <idno type="wikidata">Q56086</idno>
+      </place>
+      <place xml:id="Romagne" source="https://www.wikidata.org/wiki/Q244482">
+        <placeName xml:lang="fra">Romagne</placeName>
+        <placeName xml:lang="ita">Romagna</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>44.1774 12.12479</geo>
+        </location>
+        <idno type="wikidata">Q244482</idno>
+      </place>
+      <place xml:id="Sansepolcro" source="https://www.wikidata.org/wiki/Q52098">
+        <placeName xml:lang="fra">Sansepolcro</placeName>
+        <placeName xml:lang="ita">Sansepolcro</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>43.575555555556 12.143888888889</geo>
+        </location>
+        <idno type="wikidata">Q52098</idno>
+      </place>
+      <place xml:id="SantAngeloInVado" source="https://www.wikidata.org/wiki/Q493800">
+        <placeName xml:lang="fra">Sant'Angelo in Vado</placeName>
+        <placeName xml:lang="ita">Sant'Angelo in Vado</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>43.664719444444 12.413</geo>
+        </location>
+        <idno type="wikidata">Q493800</idno>
+      </place>
+      <place xml:id="Sermoneta" source="https://www.wikidata.org/wiki/Q128202">
+        <placeName xml:lang="fra">Sermoneta</placeName>
+        <placeName xml:lang="ita">Sermoneta</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>41.55 12.983333333333</geo>
+        </location>
+        <idno type="wikidata">Q128202</idno>
+      </place>
+      <place xml:id="Settignano" source="https://www.wikidata.org/wiki/Q942605">
+        <placeName xml:lang="fra">Settignano</placeName>
+        <placeName xml:lang="ita">Settignano</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>43.78288888888889 11.322027777777778</geo>
+        </location>
+        <idno type="wikidata">Q942605</idno>
+      </place>
+      <place xml:id="Sicile" source="https://www.wikidata.org/wiki/Q1460">
+        <placeName xml:lang="fra">Sicile</placeName>
+        <placeName xml:lang="ita">Sicilia</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>37.599958333333 14.015377777778</geo>
+        </location>
+        <idno type="wikidata">Q1460</idno>
+      </place>
+      <place xml:id="Sienne" source="https://www.wikidata.org/wiki/Q2751">
+        <placeName xml:lang="fra">Sienne</placeName>
+        <placeName xml:lang="ita">Siena</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>43.318333333333 11.331388888889</geo>
+        </location>
+        <idno type="wikidata">Q2751</idno>
+      </place>
+      <place xml:id="Spoleto" source="https://www.wikidata.org/wiki/Q20571">
+        <placeName xml:lang="fra">Spolète</placeName>
+        <placeName xml:lang="ita">Spoleto</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>42.733333333333 12.733333333333</geo>
+        </location>
+        <idno type="wikidata">Q20571</idno>
+      </place>
+      <place xml:id="Syracuse" source="https://www.wikidata.org/wiki/Q13670">
+        <placeName xml:lang="fra">Syracuse</placeName>
+        <placeName xml:lang="ita">Siracusa</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>37.069166666667 15.2875</geo>
+        </location>
+        <idno type="wikidata">Q13670</idno>
+      </place>
+      <place xml:id="Selinonte" source="https://www.wikidata.org/wiki/Q952173">
+        <placeName xml:lang="fra">Sélinonte</placeName>
+        <placeName xml:lang="ita">Selinunte</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>37.583611 12.824722</geo>
+        </location>
+        <idno type="wikidata">Q952173</idno>
+      </place>
+      <place xml:id="Tarente" source="https://www.wikidata.org/wiki/Q13498">
+        <placeName xml:lang="fra">Tarente</placeName>
+        <placeName xml:lang="ita">Taranto</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>40.471111111111114 17.243055555555557</geo>
+        </location>
+        <idno type="wikidata">Q13498</idno>
+      </place>
+      <place xml:id="Tivoli" source="https://www.wikidata.org/wiki/Q159605">
+        <placeName xml:lang="fra">Tivoli</placeName>
+        <placeName xml:lang="ita">Tivoli</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>41.966666666667 12.8</geo>
+        </location>
+        <idno type="wikidata">Q159605</idno>
+      </place>
+      <place xml:id="Toscane" source="https://www.wikidata.org/wiki/Q1273">
+        <placeName xml:lang="fra">Toscane</placeName>
+        <placeName xml:lang="ita">Toscana</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>43.35 11.016666666667</geo>
+        </location>
+        <idno type="wikidata">Q1273</idno>
+      </place>
+      <place xml:id="Trevise" source="https://www.wikidata.org/wiki/Q5475">
+        <placeName xml:lang="fra">Trévise</placeName>
+        <placeName xml:lang="ita">Treviso</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>45.672219444444 12.242219444444</geo>
+        </location>
+        <idno type="wikidata">Q5475</idno>
+      </place>
+      <place xml:id="Udine" source="https://www.wikidata.org/wiki/Q2790">
+        <placeName xml:lang="fra">Udine</placeName>
+        <placeName xml:lang="ita">Udine</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>46.066666666667 13.233333333333</geo>
+        </location>
+        <idno type="wikidata">Q2790</idno>
+      </place>
+      <place xml:id="Urbania" source="https://www.wikidata.org/wiki/Q190134">
+        <placeName xml:lang="fra">Urbania</placeName>
+        <placeName xml:lang="ita">Urbania</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>43.667773055556 12.522088055556</geo>
+        </location>
+        <idno type="wikidata">Q190134</idno>
+      </place>
+      <place xml:id="Urbino" source="https://www.wikidata.org/wiki/Q190134">
+        <placeName xml:lang="fra">Urbania</placeName>
+        <placeName xml:lang="ita">Urbania</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>43.667773055556 12.522088055556</geo>
+        </location>
+        <idno type="wikidata">Q190134</idno>
+      </place>
+      <place xml:id="Valdarno" source="https://www.wikidata.org/wiki/Q538820">
+        <placeName xml:lang="fra">Valdarno</placeName>
+        <placeName xml:lang="ita">Valdarno</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>43.566666666667 11.533333333333</geo>
+        </location>
+        <idno type="wikidata">Q538820</idno>
+      </place>
+      <place xml:id="Valduggia" source="https://www.wikidata.org/wiki/Q25215">
+        <placeName xml:lang="fra">Valduggia</placeName>
+        <placeName xml:lang="ita">Valduggia</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>45.733333333333 8.3333333333333</geo>
+        </location>
+        <idno type="wikidata">Q25215</idno>
+      </place>
+      <place xml:id="Vallombrosa" source="https://www.wikidata.org/wiki/Q4008256">
+        <placeName xml:lang="fra">Vallombrosa</placeName>
+        <placeName xml:lang="ita">Vallombrosa</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>43.73294 11.55645</geo>
+        </location>
+        <idno type="wikidata">Q4008256</idno>
+      </place>
+      <place xml:id="Valsolda" source="https://www.wikidata.org/wiki/Q47338">
+        <placeName xml:lang="fra">Valsolda</placeName>
+        <placeName xml:lang="ita">Valsolda</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>46.033333333333 9.05</geo>
+        </location>
+        <idno type="wikidata">Q47338</idno>
+      </place>
+      <place xml:id="Varallo" source="https://www.wikidata.org/wiki/Q25216">
+        <placeName xml:lang="fra">Varallo Sesia</placeName>
+        <placeName xml:lang="ita">Varallo</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>45.81383 8.25814</geo>
+        </location>
+        <idno type="wikidata">Q25216</idno>
+      </place>
+      <place xml:id="Venise" source="https://www.wikidata.org/wiki/Q641">
+        <placeName xml:lang="fra">Venise</placeName>
+        <placeName xml:lang="ita">Venezia</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>45.439722222222 12.331944444444</geo>
+        </location>
+        <idno type="wikidata">Q641</idno>
+      </place>
+      <place xml:id="Vercelli" source="https://www.wikidata.org/wiki/Q5990">
+        <placeName xml:lang="fra">Verceil</placeName>
+        <placeName xml:lang="ita">Vercelli</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>45.32555555555555 8.423055555555555</geo>
+        </location>
+        <idno type="wikidata">Q5990</idno>
+      </place>
+      <place xml:id="Vicence" source="https://www.wikidata.org/wiki/Q6537">
+        <placeName xml:lang="fra">Vicence</placeName>
+        <placeName xml:lang="ita">Vicenza</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>45.55 11.55</geo>
+        </location>
+        <idno type="wikidata">Q6537</idno>
+      </place>
+      <place xml:id="Vinci" source="https://www.wikidata.org/wiki/Q82884">
+        <placeName xml:lang="fra">Vinci</placeName>
+        <placeName xml:lang="ita">Vinci</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>43.783333 10.916667</geo>
+        </location>
+        <idno type="wikidata">Q82884</idno>
+      </place>
+      <place xml:id="Volterra" source="https://www.wikidata.org/wiki/Q103305">
+        <placeName xml:lang="fra">Volterra</placeName>
+        <placeName xml:lang="ita">Volterra</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>43.4 10.866666666667</geo>
+        </location>
+        <idno type="wikidata">Q103305</idno>
+      </place>
+      <place xml:id="Verone" source="https://www.wikidata.org/wiki/Q2028">
+        <placeName xml:lang="fra">Vérone</placeName>
+        <placeName xml:lang="ita">Verona</placeName>
+        <location>
+          <country>Italie</country>
+          <geo>45.43861111111111 10.992777777777778</geo>
+        </location>
+        <idno type="wikidata">Q2028</idno>
+      </place>
+      <place xml:id="Gallarate" source="https://www.wikidata.org/wiki/Q40854"><placeName xml:lang="fra">Gallarate</placeName><placeName xml:lang="ita">Gallarate</placeName><location><country>Italie</country><geo>45.6649 8.7914</geo></location><idno type="wikidata">Q40854</idno></place>
+      <place xml:id="Vanzaghello" source="https://www.wikidata.org/wiki/Q42825"><placeName xml:lang="fra">Vanzaghello</placeName><placeName xml:lang="ita">Vanzaghello</placeName><location><country>Italie</country><geo>45.583333333333 8.7833333333333</geo></location><idno type="wikidata">Q42825</idno></place>
+      <place xml:id="Tyr" source="https://www.wikidata.org/wiki/Q82070">
+        <placeName xml:lang="fra">Tyr</placeName>
+        <placeName xml:lang="ita">Tiro</placeName>
+        <location>
+          <country>Liban</country>
+          <geo>33.266666666667 35.2</geo>
+        </location>
+        <idno type="wikidata">Q82070</idno>
+      </place>
+      <place xml:id="Tripoli" source="https://www.wikidata.org/wiki/Q3579">
+        <placeName xml:lang="fra">Tripoli</placeName>
+        <placeName xml:lang="ita">Tripoli</placeName>
+        <location>
+          <country>Libye</country>
+          <geo>32.87519 13.18746</geo>
+        </location>
+        <idno type="wikidata">Q3579</idno>
+      </place>
+      <place xml:id="Mexique" source="https://www.wikidata.org/wiki/Q30751596">
+        <placeName xml:lang="fra">Royaume du Mexique</placeName>
+        <placeName xml:lang="ita">Regno del Messico</placeName>
+        <location>
+          <country>Mexique</country>
+          <geo>19.4194 -99.1456</geo>
+        </location>
+        <idno type="wikidata">Q30751596</idno>
+      </place>
+      <place xml:id="Alkmaar" source="https://www.wikidata.org/wiki/Q972">
+        <placeName xml:lang="fra">Alkmaar</placeName>
+        <placeName xml:lang="ita">Alkmaar</placeName>
+        <location>
+          <country>Pays-Bas</country>
+          <geo>52.6289 4.74403</geo>
+        </location>
+        <idno type="wikidata">Q972</idno>
+      </place>
+      <place xml:id="Arnhem" source="https://www.wikidata.org/wiki/Q1310">
+        <placeName xml:lang="fra">Arnhem</placeName>
+        <placeName xml:lang="ita">Arnhem</placeName>
+        <location>
+          <country>Pays-Bas</country>
+          <geo>51.983333333333 5.9166666666667</geo>
+        </location>
+        <idno type="wikidata">Q1310</idno>
+      </place>
+      <place xml:id="BoisLeDuc" source="https://www.wikidata.org/wiki/Q2766547">
+        <placeName xml:lang="fra">Bois-le-Duc</placeName>
+        <placeName xml:lang="ita">'s-Hertogenbosch</placeName>
+        <location>
+          <country>Pays-Bas</country>
+          <geo>51.7 5.3166666666667</geo>
+        </location>
+        <idno type="wikidata">Q2766547</idno>
+      </place>
+      <place xml:id="Breda" source="https://www.wikidata.org/wiki/Q40844">
+        <placeName xml:lang="fra">Bréda</placeName>
+        <placeName xml:lang="ita">Breda</placeName>
+        <location>
+          <country>Pays-Bas</country>
+          <geo>51.58888888888889 4.775833333333333</geo>
+        </location>
+        <idno type="wikidata">Q40844</idno>
+      </place>
+      <place xml:id="Delft" source="https://www.wikidata.org/wiki/Q690">
+        <placeName xml:lang="fra">Delft</placeName>
+        <placeName xml:lang="ita">Delft</placeName>
+        <location>
+          <country>Pays-Bas</country>
+          <geo>52.01166666666666 4.359166666666667</geo>
+        </location>
+        <idno type="wikidata">Q690</idno>
+      </place>
+      <place xml:id="Deventer" source="https://www.wikidata.org/wiki/Q10001">
+        <placeName xml:lang="fra">Deventer</placeName>
+        <placeName xml:lang="ita">Deventer</placeName>
+        <location>
+          <country>Pays-Bas</country>
+          <geo>52.25 6.2</geo>
+        </location>
+        <idno type="wikidata">Q10001</idno>
+      </place>
+      <place xml:id="Dordrecht" source="https://www.wikidata.org/wiki/Q26421">
+        <placeName xml:lang="fra">Dordrecht</placeName>
+        <placeName xml:lang="ita">Dordrecht</placeName>
+        <location>
+          <country>Pays-Bas</country>
+          <geo>51.795833333333334 4.678333333333334</geo>
+        </location>
+        <idno type="wikidata">Q26421</idno>
+      </place>
+      <place xml:id="Flessingue" source="https://www.wikidata.org/wiki/Q10084">
+        <placeName xml:lang="fra">Flessingue</placeName>
+        <placeName xml:lang="ita">Flessinga</placeName>
+        <location>
+          <country>Pays-Bas</country>
+          <geo>51.45 3.5833333333333</geo>
+        </location>
+        <idno type="wikidata">Q10084</idno>
+      </place>
+      <place xml:id="Gorinchem" source="https://www.wikidata.org/wiki/Q244327">
+        <placeName xml:lang="fra">Gorinchem</placeName>
+        <placeName xml:lang="ita">Gorinchem</placeName>
+        <location>
+          <country>Pays-Bas</country>
+          <geo>51.830555555555556 4.974166666666667</geo>
+        </location>
+        <idno type="wikidata">Q244327</idno>
+      </place>
+      <place xml:id="Gouda" source="https://www.wikidata.org/wiki/Q84125">
+        <placeName xml:lang="fra">Gouda</placeName>
+        <placeName xml:lang="ita">Gouda</placeName>
+        <location>
+          <country>Pays-Bas</country>
+          <geo>52.018055555555556 4.705555555555556</geo>
+        </location>
+        <idno type="wikidata">Q84125</idno>
+      </place>
+      <place xml:id="Gueldre" source="https://www.wikidata.org/wiki/Q775">
+        <placeName xml:lang="fra">Gueldre</placeName>
+        <placeName xml:lang="ita">Gheldria</placeName>
+        <location>
+          <country>Pays-Bas</country>
+          <geo>52.0833 5.9167</geo>
+        </location>
+        <idno type="wikidata">Q775</idno>
+      </place>
+      <place xml:id="Haarlem" source="https://www.wikidata.org/wiki/Q9920">
+        <placeName xml:lang="fra">Haarlem</placeName>
+        <placeName xml:lang="ita">Haarlem</placeName>
+        <location>
+          <country>Pays-Bas</country>
+          <geo>52.380277777778 4.6405555555556</geo>
+        </location>
+        <idno type="wikidata">Q9920</idno>
+      </place>
+      <place xml:id="Heemskerk" source="https://www.wikidata.org/wiki/Q9926">
+        <placeName xml:lang="fra">Heemskerk</placeName>
+        <placeName xml:lang="ita">Heemskerk</placeName>
+        <location>
+          <country>Pays-Bas</country>
+          <geo>52.51083333333333 4.672777777777778</geo>
+        </location>
+        <idno type="wikidata">Q9926</idno>
+      </place>
+      <place xml:id="Leyde" source="https://www.wikidata.org/wiki/Q43631">
+        <placeName xml:lang="fra">Leyde</placeName>
+        <placeName xml:lang="ita">Leida</placeName>
+        <location>
+          <country>Pays-Bas</country>
+          <geo>52.16 4.49</geo>
+        </location>
+        <idno type="wikidata">Q43631</idno>
+      </place>
+      <place xml:id="Schoorl" source="https://www.wikidata.org/wiki/Q1002717">
+        <placeName xml:lang="fra">Schoorl</placeName>
+        <placeName xml:lang="ita">Schoorl</placeName>
+        <location>
+          <country>Pays-Bas</country>
+          <geo>52.7014 4.6944</geo>
+        </location>
+        <idno type="wikidata">Q1002717</idno>
+      </place>
+      <place xml:id="Steenwijk" source="https://www.wikidata.org/wiki/Q81175">
+        <placeName xml:lang="fra">Steenwijk</placeName>
+        <placeName xml:lang="ita">Steenwijk</placeName>
+        <location>
+          <country>Pays-Bas</country>
+          <geo>52.783333333333 6.1166666666667</geo>
+        </location>
+        <idno type="wikidata">Q81175</idno>
+      </place>
+      <place xml:id="Utrecht" source="https://www.wikidata.org/wiki/Q803">
+        <placeName xml:lang="fra">Utrecht</placeName>
+        <placeName xml:lang="ita">Utrecht</placeName>
+        <location>
+          <country>Pays-Bas</country>
+          <geo>52.090833333333336 5.121666666666667</geo>
+        </location>
+        <idno type="wikidata">Q803</idno>
+      </place>
+      <place xml:id="Venloo" source="https://www.wikidata.org/wiki/Q9777">
+        <placeName xml:lang="fra">Venlo</placeName>
+        <placeName xml:lang="ita">Venlo</placeName>
+        <location>
+          <country>Pays-Bas</country>
+          <geo>51.366666666667 6.1666666666667</geo>
+        </location>
+        <idno type="wikidata">Q9777</idno>
+      </place>
+      <place xml:id="Windsor" source="https://www.wikidata.org/wiki/Q464955">
+        <placeName xml:lang="fra">Windsor</placeName>
+        <placeName xml:lang="ita">Windsor</placeName>
+        <location>
+          <country>Royaume-Uni</country>
+          <geo>51.483333333333 -0.6</geo>
+        </location>
+        <idno type="wikidata">Q464955</idno>
+      </place>
+      <place xml:id="Westphalie" source="https://www.wikidata.org/wiki/Q708742">
+        <placeName xml:lang="fra">Cercle du Bas-Rhin-Westphalie</placeName>
+        <placeName xml:lang="ita">Provincia del Basso Reno-Vestfalia</placeName>
+        <location>
+          <country>Saint-Empire romain germanique</country>
+        </location>
+        <idno type="wikidata">Q708742</idno>
+      </place>
+      <place xml:id="NeubourgDuche" source="https://www.wikidata.org/wiki/Q675127">
+        <placeName xml:lang="fra">duché du Palatinat-Neubourg</placeName>
+        <placeName xml:lang="ita">Palatinato-Neuburg</placeName>
+        <location>
+          <country>Saint-Empire romain germanique</country>
+          <geo>48.733333333333334 11.183333333333334</geo>
+        </location>
+        <idno type="wikidata">Q675127</idno>
+      </place>
+      <place xml:id="Basel" source="https://www.wikidata.org/wiki/Q78">
+        <placeName xml:lang="fra">Bâle</placeName>
+        <placeName xml:lang="ita">Basilea</placeName>
+        <location>
+          <country>Suisse</country>
+          <geo>47.560555555556 7.5905555555556</geo>
+        </location>
+        <idno type="wikidata">Q78</idno>
+      </place>
+      <place xml:id="Lugano" source="https://www.wikidata.org/wiki/Q7024">
+        <placeName xml:lang="fra">Lugano</placeName>
+        <placeName xml:lang="ita">Lugano</placeName>
+        <location>
+          <country>Suisse</country>
+          <geo>46.010277777778 8.9625</geo>
+        </location>
+        <idno type="wikidata">Q7024</idno>
+      </place>
+      <place xml:id="Schaffhouse" source="https://www.wikidata.org/wiki/Q9009">
+        <placeName xml:lang="fra">Schaffhouse</placeName>
+        <placeName xml:lang="ita">Sciaffusa</placeName>
+        <location>
+          <country>Suisse</country>
+          <geo>47.69653 8.63386</geo>
+        </location>
+        <idno type="wikidata">Q9009</idno>
+      </place>
+      <place xml:id="ValleDiBlenio" source="https://www.wikidata.org/wiki/Q353001">
+        <placeName xml:lang="fra">Valle di Blenio</placeName>
+        <placeName xml:lang="ita">Valle di Blenio</placeName>
+        <location>
+          <country>Suisse</country>
+          <geo>46.427563888889 8.9698222222222</geo>
+        </location>
+        <idno type="wikidata">Q353001</idno>
+      </place>
+      <place xml:id="Damas" source="https://www.wikidata.org/wiki/Q3766">
+        <placeName xml:lang="fra">Damas</placeName>
+        <placeName xml:lang="ita">Damasco</placeName>
+        <location>
+          <country>Syrie</country>
+          <geo>33.513055555556 36.291944444444</geo>
+        </location>
+        <idno type="wikidata">Q3766</idno>
+      </place>
+      <place xml:id="Birsa" source="https://www.wikidata.org/wiki/Q1018648">
+        <placeName xml:lang="fra">Byrsa</placeName>
+        <placeName xml:lang="ita">Byrsa</placeName>
+        <location>
+          <country>Tunisie</country>
+          <geo>36.85222222 10.32388889</geo>
+        </location>
+        <idno type="wikidata">Q1018648</idno>
+      </place>
+      <place xml:id="Tunis" source="https://www.wikidata.org/wiki/Q3572">
+        <placeName xml:lang="fra">Tunis</placeName>
+        <placeName xml:lang="ita">Tunisi</placeName>
+        <location>
+          <country>Tunisie</country>
+          <geo>36.800833333333 10.18</geo>
+        </location>
+        <idno type="wikidata">Q3572</idno>
+      </place>
+      <place xml:id="Alabanda" source="https://www.wikidata.org/wiki/Q778224">
+        <placeName xml:lang="fra">Alabanda</placeName>
+        <placeName xml:lang="ita">Alabanda</placeName>
+        <location>
+          <country>Turquie</country>
+          <geo>37.591796 27.985429</geo>
+        </location>
+        <idno type="wikidata">Q778224</idno>
+      </place>
+      <place xml:id="Ancyre" source="https://www.wikidata.org/wiki/Q107585355">
+        <placeName xml:lang="fra">Ancyre</placeName>
+        <placeName xml:lang="ita">Ancira</placeName>
+        <location>
+          <country>Turquie</country>
+          <geo>39.95 32.863</geo>
+        </location>
+        <idno type="wikidata">Q107585355</idno>
+      </place>
+      <place xml:id="Antioche" source="https://www.wikidata.org/wiki/Q200441">
+        <placeName xml:lang="fra">Antioche</placeName>
+        <placeName xml:lang="ita">Antiochia di Siria</placeName>
+        <location>
+          <country>Turquie</country>
+          <geo>36.20472222222222 36.181666666666665</geo>
+        </location>
+        <idno type="wikidata">Q200441</idno>
+      </place>
+      <place xml:id="Byzance" source="https://www.wikidata.org/wiki/Q23725">
+        <placeName xml:lang="fra">Byzance</placeName>
+        <placeName xml:lang="ita">Bisanzio</placeName>
+        <location>
+          <country>Turquie</country>
+          <geo>41.013416666666664 28.98363888888889</geo>
+        </location>
+        <idno type="wikidata">Q23725</idno>
+      </place>
+      <place xml:id="Cappadoce" source="https://www.wikidata.org/wiki/Q217265">
+        <placeName xml:lang="fra">Cappadoce</placeName>
+        <placeName xml:lang="ita">Cappadocia</placeName>
+        <location>
+          <country>Turquie</country>
+          <geo>38.670556 34.839167</geo>
+        </location>
+        <idno type="wikidata">Q217265</idno>
+      </place>
+      <place xml:id="Carie" source="https://www.wikidata.org/wiki/Q193214">
+        <placeName xml:lang="fra">Carie</placeName>
+        <placeName xml:lang="ita">Caria</placeName>
+        <location>
+          <country>Turquie</country>
+          <geo>37.5 28</geo>
+        </location>
+        <idno type="wikidata">Q193214</idno>
+      </place>
+      <place xml:id="Cnide" source="https://www.wikidata.org/wiki/Q690575">
+        <placeName xml:lang="fra">Cnide</placeName>
+        <placeName xml:lang="ita">Cnido</placeName>
+        <location>
+          <country>Turquie</country>
+          <geo>36.685833 27.375</geo>
+        </location>
+        <idno type="wikidata">Q690575</idno>
+      </place>
+      <place xml:id="Pessinonte" source="https://www.wikidata.org/wiki/Q728353">
+        <placeName xml:lang="fra">Pessinonte</placeName>
+        <placeName xml:lang="ita">Pessinunte</placeName>
+        <location>
+          <country>Turquie</country>
+          <geo>39.3317 31.5809</geo>
+        </location>
+        <idno type="wikidata">Q728353</idno>
+      </place>
+      <place xml:id="Troie" source="https://www.wikidata.org/wiki/Q22647">
+        <placeName xml:lang="fra">Troie</placeName>
+        <placeName xml:lang="ita">Troia</placeName>
+        <location>
+          <country>Turquie</country>
+          <geo>39.9575 26.238888888889</geo>
+        </location>
+        <idno type="wikidata">Q22647</idno>
+      </place>
+      <place xml:id="Ephese" source="https://www.wikidata.org/wiki/Q47611">
+        <placeName xml:lang="fra">Éphèse</placeName>
+        <placeName xml:lang="ita">Efeso</placeName>
+        <location>
+          <country>Turquie</country>
+          <geo>37.939722 27.348611</geo>
+        </location>
+        <idno type="wikidata">Q47611</idno>
+      </place>
+      <place xml:id="Nancy" source="https://www.wikidata.org/wiki/Q40898"><placeName xml:lang="fra">Nancy</placeName><placeName xml:lang="ita">Nancy</placeName><location><country>duché de Lorraine</country><geo>48.692777777778 6.1836111111111</geo></location><idno type="wikidata">Q40898</idno></place>
+      <place xml:id="Pavie" source="https://www.wikidata.org/wiki/Q6259">
+        <placeName xml:lang="fra">Pavie</placeName>
+        <placeName xml:lang="ita">Pavia</placeName>
+        <location>
+          <country>duché de Milan</country>
+          <geo>45.185280555556 9.155</geo>
+        </location>
+        <idno type="wikidata">Q6259</idno>
+      </place>
+      <place xml:id="Mantoue" source="https://www.wikidata.org/wiki/Q6247">
+        <placeName xml:lang="fra">Mantoue</placeName>
+        <placeName xml:lang="ita">Mantova</placeName>
+        <location>
+          <country>royaume d'Italie</country>
+          <geo>45.156388888889 10.791111111111</geo>
+        </location>
+        <idno type="wikidata">Q6247</idno>
+      </place>
+      <place xml:id="Candie" source="https://www.wikidata.org/wiki/Q2288441">
+        <placeName xml:lang="fra">Duché de Candie</placeName>
+        <placeName xml:lang="ita">Ducato di Candia</placeName>
+        <location>
+          <country>république de Venise</country>
+          <geo>35.3167 25.1333</geo>
+        </location>
+        <idno type="wikidata">Q2288441</idno>
+      </place>
+      <place xml:id="Memphis" source="https://www.wikidata.org/wiki/Q5715">
+        <placeName xml:lang="fra">Memphis</placeName>
+        <placeName xml:lang="ita">Menfi</placeName>
+        <location>
+          <country>Égypte</country>
+          <geo>29.85412 31.25934</geo>
+        </location>
+        <idno type="wikidata">Q5715</idno>
+      </place>
+      <place xml:id="ThebesEgypte" source="https://www.wikidata.org/wiki/Q101583">
+        <placeName xml:lang="fra">Thèbes</placeName>
+        <placeName xml:lang="ita">Tebe</placeName>
+        <location>
+          <country>Égypte</country>
+          <geo>25.720555555556 32.610277777778</geo>
+        </location>
+        <idno type="wikidata">Q101583</idno>
+      </place>
+      <place xml:id="Thebaide" source="https://www.wikidata.org/wiki/Q768515">
+        <placeName xml:lang="fra">Thébaïde</placeName>
+        <placeName xml:lang="ita">Tebaide</placeName>
+        <location>
+          <country>Égypte antique</country>
+          <geo>23.936209 32.954304</geo>
+        </location>
+        <idno type="wikidata">Q768515</idno>
+      </place>
+      <place xml:id="Libye" source="https://www.wikidata.org/wiki/Q1016">
+        <placeName xml:lang="fra">Libye</placeName>
+        <placeName xml:lang="ita">Libia</placeName>
+        <location>
+          <region type="continent">Afrique</region>
+          <country>Libye</country>
+          <geo>27 17</geo>
+        </location>
+        <idno type="wikidata">Q1016</idno>
+      </place>
+      <place xml:id="Mauritanie" source="https://www.wikidata.org/wiki/Q1025">
+        <placeName xml:lang="fra">Mauritanie</placeName>
+        <placeName xml:lang="ita">Mauritania</placeName>
+        <location>
+          <region type="continent">Afrique</region>
+          <country>Mauritanie</country>
+          <geo>21 -11</geo>
+        </location>
+        <idno type="wikidata">Q1025</idno>
+      </place>
+      <place xml:id="Nil" source="https://www.wikidata.org/wiki/Q3392">
+        <placeName xml:lang="fra">Nil</placeName>
+        <placeName xml:lang="ita">Nilo</placeName>
+        <location>
+          <region type="continent">Afrique</region>
+          <country>Soudan</country>
+          <geo>15.640138888888888 32.5055</geo>
+        </location>
+        <idno type="wikidata">Q3392</idno>
+      </place>
+      <place xml:id="Carthage" source="https://www.wikidata.org/wiki/Q6343">
+        <placeName xml:lang="fra">Carthage</placeName>
+        <placeName xml:lang="ita">Cartagine</placeName>
+        <location>
+          <region type="continent">Afrique</region>
+          <country>Tunisie</country>
+          <geo>36.852558 10.323461</geo>
+        </location>
+        <idno type="wikidata">Q6343</idno>
+      </place>
+      <place xml:id="Alexandrie" source="https://www.wikidata.org/wiki/Q87">
+        <placeName xml:lang="fra">Alexandrie</placeName>
+        <placeName xml:lang="ita">Alessandria d'Egitto</placeName>
+        <location>
+          <region type="continent">Afrique</region>
+          <country>Égypte</country>
+          <geo>31.1975 29.8925</geo>
+        </location>
+        <idno type="wikidata">Q87</idno>
+      </place>
+      <place xml:id="Egypte" source="https://www.wikidata.org/wiki/Q79">
+        <placeName xml:lang="fra">Égypte</placeName>
+        <placeName xml:lang="ita">Egitto</placeName>
+        <location>
+          <region type="continent">Afrique</region>
+          <country>Égypte</country>
+          <geo>27 29</geo>
+        </location>
+        <idno type="wikidata">Q79</idno>
+      </place>
+      <place xml:id="Indes" source="https://www.wikidata.org/wiki/Q664609">
+        <placeName xml:lang="fra">Caraïbes</placeName>
+        <placeName xml:lang="ita">Caraibi</placeName>
+        <location>
+          <region type="continent">Amérique centrale</region>
+          <geo>15 -73</geo>
+        </location>
+        <idno type="wikidata">Q664609</idno>
+      </place>
+      <place xml:id="Terranova" source="https://www.wikidata.org/wiki/Q48335">
+        <placeName xml:lang="fra">Terre-Neuve</placeName>
+        <placeName xml:lang="ita">Terranova</placeName>
+        <location>
+          <region type="continent">Amérique du Nord</region>
+          <country>Canada</country>
+          <geo>48.5416666 -56.1249997</geo>
+        </location>
+        <idno type="wikidata">Q48335</idno>
+      </place>
+      <place xml:id="Perou" source="https://www.wikidata.org/wiki/Q419">
+        <placeName xml:lang="fra">Pérou</placeName>
+        <placeName xml:lang="ita">Perù</placeName>
+        <location>
+          <region type="continent">Amérique du Sud</region>
+          <country>Pérou</country>
+          <geo>-9.4 -76</geo>
+        </location>
+        <idno type="wikidata">Q419</idno>
+      </place>
+      <place xml:id="Assyrie" source="https://www.wikidata.org/wiki/Q41137">
+        <placeName xml:lang="fra">Assyrie</placeName>
+        <placeName xml:lang="ita">Assiria</placeName>
+        <location>
+          <region type="continent">Asie</region>
+          <geo>36 43.3</geo>
+        </location>
+        <idno type="wikidata">Q41137</idno>
+      </place>
+      <place xml:id="Chine" source="https://www.wikidata.org/wiki/Q29520">
+        <placeName xml:lang="fra">Chine</placeName>
+        <placeName xml:lang="ita">Cina</placeName>
+        <location>
+          <region type="continent">Asie</region>
+          <geo>35 105</geo>
+        </location>
+        <idno type="wikidata">Q29520</idno>
+      </place>
+      <place xml:id="Perse" source="https://www.wikidata.org/wiki/Q83311">
+        <placeName xml:lang="fra">Empire perse</placeName>
+        <placeName xml:lang="ita">Impero persiano</placeName>
+        <location>
+          <region type="continent">Asie</region>
+          <geo>33 53</geo>
+        </location>
+        <idno type="wikidata">Q83311</idno>
+      </place>
+      <place xml:id="Armenie" source="https://www.wikidata.org/wiki/Q399">
+        <placeName xml:lang="fra">Arménie</placeName>
+        <placeName xml:lang="ita">Armenia</placeName>
+        <location>
+          <region type="continent">Asie</region>
+          <country>Arménie</country>
+          <geo>40.383333 44.95</geo>
+        </location>
+        <idno type="wikidata">Q399</idno>
+      </place>
+      <place xml:id="Babylone" source="https://www.wikidata.org/wiki/Q5684">
+        <placeName xml:lang="fra">Babylone</placeName>
+        <placeName xml:lang="ita">Babilonia</placeName>
+        <location>
+          <region type="continent">Asie</region>
+          <country>Babylonie</country>
+          <geo>32.5425 44.42111111111111</geo>
+        </location>
+        <idno type="wikidata">Q5684</idno>
+      </place>
+      <place xml:id="Chypre" source="https://www.wikidata.org/wiki/Q229">
+        <placeName xml:lang="fra">Chypre</placeName>
+        <placeName xml:lang="ita">Cipro</placeName>
+        <location>
+          <region type="continent">Asie</region>
+          <country>Chypre</country>
+          <geo>35 33</geo>
+        </location>
+        <idno type="wikidata">Q229</idno>
+      </place>
+      <place xml:id="Israel" source="https://www.wikidata.org/wiki/Q801">
+        <placeName xml:lang="fra">Israël</placeName>
+        <placeName xml:lang="ita">Israele</placeName>
+        <location>
+          <region type="continent">Asie</region>
+          <country>Israël</country>
+          <geo>31 35</geo>
+        </location>
+        <idno type="wikidata">Q801</idno>
+      </place>
+      <place xml:id="SriLanka" source="https://www.wikidata.org/wiki/Q854">
+        <placeName xml:lang="fra">Sri Lanka</placeName>
+        <placeName xml:lang="ita">Sri Lanka</placeName>
+        <location>
+          <region type="continent">Asie</region>
+          <country>Sri Lanka</country>
+          <geo>7 81</geo>
+        </location>
+        <idno type="wikidata">Q854</idno>
+      </place>
+      <place xml:id="Syrie" source="https://www.wikidata.org/wiki/Q858">
+        <placeName xml:lang="fra">Syrie</placeName>
+        <placeName xml:lang="ita">Siria</placeName>
+        <location>
+          <region type="continent">Asie</region>
+          <country>Syrie</country>
+          <geo>35.216667 38.583333</geo>
+        </location>
+        <idno type="wikidata">Q858</idno>
+      </place>
+      <place xml:id="Lydie" source="https://www.wikidata.org/wiki/Q620765"><placeName xml:lang="fra">Lydie</placeName><placeName xml:lang="ita">Lidia</placeName><location><region type="continent">Asie</region><country>Turquie</country><geo>40 30</geo></location><idno type="wikidata">Q620765</idno></place>
+      <place xml:id="Jerusalem" source="https://www.wikidata.org/wiki/Q1218">
+        <placeName xml:lang="fra">Jérusalem</placeName>
+        <placeName xml:lang="ita">Gerusalemme</placeName>
+        <location>
+          <region type="continent">Asie</region>
+          <country>royaume de Juda</country>
+          <geo>31.77888888888889 35.22555555555556</geo>
+        </location>
+        <idno type="wikidata">Q1218</idno>
+      </place>
+      <place xml:id="Rhodes" source="https://www.wikidata.org/wiki/Q43048">
+        <placeName xml:lang="fra">Rhodes</placeName>
+        <placeName xml:lang="ita">Rodi</placeName>
+        <location>
+          <region type="continent">Eurasie</region>
+          <country>Grèce</country>
+          <geo>36.17 27.92</geo>
+        </location>
+        <idno type="wikidata">Q43048</idno>
+      </place>
+      <place xml:id="Colchide" source="https://www.wikidata.org/wiki/Q183150">
+        <placeName xml:lang="fra">Colchide</placeName>
+        <placeName xml:lang="ita">Colchide</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <geo>42.26666667 42</geo>
+        </location>
+        <idno type="wikidata">Q183150</idno>
+      </place>
+      <place xml:id="Belgique" source="https://www.wikidata.org/wiki/Q6581823">
+        <placeName xml:lang="fra">Pays-Bas méridionaux</placeName>
+        <placeName xml:lang="ita">Paesi Bassi meridionali</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <geo>50.5 4.67</geo>
+        </location>
+        <idno type="wikidata">Q6581823</idno>
+      </place>
+      <place xml:id="Baviere" source="https://www.wikidata.org/wiki/Q47261">
+        <placeName xml:lang="fra">duché de Bavière</placeName>
+        <placeName xml:lang="ita">Ducato di Baviera</placeName>
+        <location>
+          <region type="continent">Europe</region>
+        </location>
+        <idno type="wikidata">Q47261</idno>
+      </place>
+      <place xml:id="Alpes" source="https://www.wikidata.org/wiki/Q1286">
+        <placeName xml:lang="fra">Alpes</placeName>
+        <placeName xml:lang="ita">Alpi</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>Allemagne</country>
+          <geo>46.57805555555556 8.615</geo>
+        </location>
+        <idno type="wikidata">Q1286</idno>
+      </place>
+      <place xml:id="Munich" source="https://www.wikidata.org/wiki/Q1726">
+        <placeName xml:lang="fra">Munich</placeName>
+        <placeName xml:lang="ita">Monaco di Baviera</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>Allemagne</country>
+          <geo>48.1375 11.575</geo>
+        </location>
+        <idno type="wikidata">Q1726</idno>
+      </place>
+      <place xml:id="Athenes" source="https://www.wikidata.org/wiki/Q844930">
+        <placeName xml:lang="fra">Athènes</placeName>
+        <placeName xml:lang="ita">Atene</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>Athènes</country>
+          <geo>37.97222222222222 23.72222222222222</geo>
+        </location>
+        <idno type="wikidata">Q844930</idno>
+      </place>
+      <place xml:id="Vienne" source="https://www.wikidata.org/wiki/Q1741">
+        <placeName xml:lang="fra">Vienne</placeName>
+        <placeName xml:lang="ita">Vienna</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>Autriche</country>
+          <geo>48.208333333333336 16.3725</geo>
+        </location>
+        <idno type="wikidata">Q1741</idno>
+      </place>
+      <place xml:id="Bruxelles" source="https://www.wikidata.org/wiki/Q239">
+        <placeName xml:lang="fra">Bruxelles</placeName>
+        <placeName xml:lang="ita">Bruxelles</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>Belgique</country>
+          <geo>50.846666666666664 4.351666666666667</geo>
+        </location>
+        <idno type="wikidata">Q239</idno>
+      </place>
+      <place xml:id="Constantinople" source="https://www.wikidata.org/wiki/Q16869">
+        <placeName xml:lang="fra">Constantinople</placeName>
+        <placeName xml:lang="ita">Costantinopoli</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>Empire byzantin</country>
+          <geo>41.0125 28.98</geo>
+        </location>
+        <idno type="wikidata">Q16869</idno>
+      </place>
+      <place xml:id="PaysBas" source="https://www.wikidata.org/wiki/Q622783">
+        <placeName xml:lang="fra">Pays-Bas espagnols</placeName>
+        <placeName xml:lang="ita">Paesi Bassi spagnoli</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>Empire espagnol</country>
+        </location>
+        <idno type="wikidata">Q622783</idno>
+      </place>
+      <place xml:id="EmpireOrient" source="https://www.wikidata.org/wiki/Q12544">
+        <placeName xml:lang="fra">Empire byzantin</placeName>
+        <placeName xml:lang="ita">Impero bizantino</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>Empire romain</country>
+        </location>
+        <idno type="wikidata">Q12544</idno>
+      </place>
+      <place xml:id="Londres" source="https://www.wikidata.org/wiki/Q84">
+        <placeName xml:lang="fra">Londres</placeName>
+        <placeName xml:lang="ita">Londra</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>Empire romain</country>
+          <geo>51.507222222222 -0.1275</geo>
+        </location>
+        <idno type="wikidata">Q84</idno>
+      </place>
+      <place xml:id="Cadix" source="https://www.wikidata.org/wiki/Q15682">
+        <placeName xml:lang="fra">Cadix</placeName>
+        <placeName xml:lang="ita">Cadice</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>Espagne</country>
+          <geo>36.535 -6.2975</geo>
+        </location>
+        <idno type="wikidata">Q15682</idno>
+      </place>
+      <place xml:id="Madrid" source="https://www.wikidata.org/wiki/Q2807">
+        <placeName xml:lang="fra">Madrid</placeName>
+        <placeName xml:lang="ita">Madrid</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>Espagne</country>
+          <geo>40.41694444444445 -3.703333333333333</geo>
+        </location>
+        <idno type="wikidata">Q2807</idno>
+      </place>
+      <place xml:id="Valence" source="https://www.wikidata.org/wiki/Q8818">
+        <placeName xml:lang="fra">Valence</placeName>
+        <placeName xml:lang="ita">Valencia</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>Espagne</country>
+          <geo>39.47 -0.3763888888888889</geo>
+        </location>
+        <idno type="wikidata">Q8818</idno>
+      </place>
+      <place xml:id="Espagne" source="https://www.wikidata.org/wiki/Q766543">
+        <placeName xml:lang="fra">monarchie catholique espagnole</placeName>
+        <placeName xml:lang="ita">Regno di Spagna</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>Espagne</country>
+          <geo>40.2 -3.5</geo>
+        </location>
+        <idno type="wikidata">Q766543</idno>
+      </place>
+      <place xml:id="Albigeois" source="https://www.wikidata.org/wiki/Q2831878">
+        <placeName xml:lang="fra">Albigeois</placeName>
+        <placeName xml:lang="ita">Albigeois</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>France</country>
+          <geo>43.92805555555555 2.1458333333333335</geo>
+        </location>
+        <idno type="wikidata">Q2831878</idno>
+      </place>
+      <place xml:id="France" source="https://www.wikidata.org/wiki/Q142">
+        <placeName xml:lang="fra">France</placeName>
+        <placeName xml:lang="ita">Francia</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>France</country>
+          <geo>47 2</geo>
+        </location>
+        <idno type="wikidata">Q142</idno>
+      </place>
+      <place xml:id="Lyon" source="https://www.wikidata.org/wiki/Q456">
+        <placeName xml:lang="fra">Lyon</placeName>
+        <placeName xml:lang="ita">Lione</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>France</country>
+          <geo>45.758888888889 4.8413888888889</geo>
+        </location>
+        <idno type="wikidata">Q456</idno>
+      </place>
+      <place xml:id="Meuse" source="https://www.wikidata.org/wiki/Q41986">
+        <placeName xml:lang="fra">Meuse</placeName>
+        <placeName xml:lang="ita">Mosa</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>France</country>
+          <geo>51.866389 4.018889</geo>
+        </location>
+        <idno type="wikidata">Q41986</idno>
+      </place>
+      <place xml:id="Paris" source="https://www.wikidata.org/wiki/Q90">
+        <placeName xml:lang="fra">Paris</placeName>
+        <placeName xml:lang="ita">Parigi</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>France</country>
+          <geo>48.85666666666667 2.352222222222222</geo>
+        </location>
+        <idno type="wikidata">Q90</idno>
+      </place>
+      <place xml:id="Toulouse" source="https://www.wikidata.org/wiki/Q7880">
+        <placeName xml:lang="fra">Toulouse</placeName>
+        <placeName xml:lang="ita">Tolosa</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>France</country>
+          <geo>43.60444444444445 1.4433333333333334</geo>
+        </location>
+        <idno type="wikidata">Q7880</idno>
+      </place>
+      <place xml:id="Fraize" source="https://www.wikidata.org/wiki/Q957731"><placeName xml:lang="fra">Fraize</placeName><placeName xml:lang="ita">Fraize</placeName><location><region type="continent">Europe</region><country>France</country><geo>48.185833333333 7.0013888888889</geo></location><idno type="wikidata">Q957731</idno></place>
+      <place xml:id="Toul" source="https://www.wikidata.org/wiki/Q154728"><placeName xml:lang="fra">Toul</placeName><placeName xml:lang="ita">Toul</placeName><location><region type="continent">Europe</region><country>France</country><geo>48.675 5.891666667</geo></location><idno type="wikidata">Q154728</idno></place>
+      <place xml:id="Grece" source="https://www.wikidata.org/wiki/Q41">
+        <placeName xml:lang="fra">Grèce</placeName>
+        <placeName xml:lang="ita">Grecia</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>Grèce</country>
+          <geo>38.5 23</geo>
+        </location>
+        <idno type="wikidata">Q41</idno>
+      </place>
+      <place xml:id="Platees" source="https://www.wikidata.org/wiki/Q742538">
+        <placeName xml:lang="fra">Platées</placeName>
+        <placeName xml:lang="ita">Platea</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>Grèce</country>
+          <geo>38.22136 23.27388</geo>
+        </location>
+        <idno type="wikidata">Q742538</idno>
+      </place>
+      <place xml:id="Sicyone" source="https://www.wikidata.org/wiki/Q368628">
+        <placeName xml:lang="fra">Sicyone</placeName>
+        <placeName xml:lang="ita">Sicione</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>Grèce</country>
+          <geo>37.984104 22.711145</geo>
+        </location>
+        <idno type="wikidata">Q368628</idno>
+      </place>
+      <place xml:id="Hongrie" source="https://www.wikidata.org/wiki/Q28">
+        <placeName xml:lang="fra">Hongrie</placeName>
+        <placeName xml:lang="ita">Ungheria</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>Hongrie</country>
+          <geo>47 19</geo>
+        </location>
+        <idno type="wikidata">Q28</idno>
+      </place>
+      <place xml:id="Come" source="https://www.wikidata.org/wiki/Q1308">
+        <placeName xml:lang="fra">Côme</placeName>
+        <placeName xml:lang="ita">Como</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>Italie</country>
+          <geo>45.81025 9.0861388888889</geo>
+        </location>
+        <idno type="wikidata">Q1308</idno>
+      </place>
+      <place xml:id="Italie" source="https://www.wikidata.org/wiki/Q38">
+        <placeName xml:lang="fra">Italie</placeName>
+        <placeName xml:lang="ita">Italia</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>Italie</country>
+          <geo>42.5 12.5</geo>
+        </location>
+        <idno type="wikidata">Q38</idno>
+      </place>
+      <place xml:id="Milan" source="https://www.wikidata.org/wiki/Q490">
+        <placeName xml:lang="fra">Milan</placeName>
+        <placeName xml:lang="ita">Milano</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>Italie</country>
+          <geo>45.466944444444 9.19</geo>
+        </location>
+        <idno type="wikidata">Q490</idno>
+      </place>
+      <place xml:id="Modene" source="https://www.wikidata.org/wiki/Q279">
+        <placeName xml:lang="fra">Modène</placeName>
+        <placeName xml:lang="ita">Modena</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>Italie</country>
+          <geo>44.64582 10.92572</geo>
+        </location>
+        <idno type="wikidata">Q279</idno>
+      </place>
+      <place xml:id="Naples" source="https://www.wikidata.org/wiki/Q2634">
+        <placeName xml:lang="fra">Naples</placeName>
+        <placeName xml:lang="ita">Napoli</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>Italie</country>
+          <geo>40.83583333333333 14.248611111111112</geo>
+        </location>
+        <idno type="wikidata">Q2634</idno>
+      </place>
+      <place xml:id="Rome" source="https://www.wikidata.org/wiki/Q220">
+        <placeName xml:lang="fra">Rome</placeName>
+        <placeName xml:lang="ita">Roma</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>Italie</country>
+          <geo>41.893055555556 12.482777777778</geo>
+        </location>
+        <idno type="wikidata">Q220</idno>
+      </place>
+      <place xml:id="Torino" source="https://www.wikidata.org/wiki/Q495">
+        <placeName xml:lang="fra">Turin</placeName>
+        <placeName xml:lang="ita">Torino</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>Italie</country>
+          <geo>45.079166666666666 7.676111111111111</geo>
+        </location>
+        <idno type="wikidata">Q495</idno>
+      </place>
+      <place xml:id="Malte" source="https://www.wikidata.org/wiki/Q233">
+        <placeName xml:lang="fra">Malte</placeName>
+        <placeName xml:lang="ita">Malta</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>Malte</country>
+          <geo>35.88333333333333 14.5</geo>
+        </location>
+        <idno type="wikidata">Q233</idno>
+      </place>
+      <place xml:id="Monaco" source="https://www.wikidata.org/wiki/Q235">
+        <placeName xml:lang="fra">Monaco</placeName>
+        <placeName xml:lang="ita">Monaco</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>Monaco</country>
+          <geo>43.73111111111111 7.42</geo>
+        </location>
+        <idno type="wikidata">Q235</idno>
+      </place>
+      <place xml:id="Autriche" source="https://www.wikidata.org/wiki/Q153136">
+        <placeName xml:lang="fra">Monarchie de Habsbourg</placeName>
+        <placeName xml:lang="ita">Monarchia asburgica</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>Monarchie de Habsbourg</country>
+          <geo>48.2 16.36666667</geo>
+        </location>
+        <idno type="wikidata">Q153136</idno>
+      </place>
+      <place xml:id="Amsterdam" source="https://www.wikidata.org/wiki/Q727">
+        <placeName xml:lang="fra">Amsterdam</placeName>
+        <placeName xml:lang="ita">Amsterdam</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>Pays-Bas</country>
+          <geo>52.36666666666667 4.883333333333333</geo>
+        </location>
+        <idno type="wikidata">Q727</idno>
+      </place>
+      <place xml:id="Hollande" source="https://www.wikidata.org/wiki/Q102911">
+        <placeName xml:lang="fra">Hollande</placeName>
+        <placeName xml:lang="ita">Olanda</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>Pays-Bas</country>
+          <geo>52.25 4.667</geo>
+        </location>
+        <idno type="wikidata">Q102911</idno>
+      </place>
+      <place xml:id="LaHaye" source="https://www.wikidata.org/wiki/Q36600">
+        <placeName xml:lang="fra">La Haye</placeName>
+        <placeName xml:lang="ita">L'Aia</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>Pays-Bas</country>
+          <geo>52.08 4.31</geo>
+        </location>
+        <idno type="wikidata">Q36600</idno>
+      </place>
+      <place xml:id="Zelande" source="https://www.wikidata.org/wiki/Q705">
+        <placeName xml:lang="fra">Zélande</placeName>
+        <placeName xml:lang="ita">Zelanda</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>Pays-Bas</country>
+          <geo>51.566666666667 3.75</geo>
+        </location>
+        <idno type="wikidata">Q705</idno>
+      </place>
+      <place xml:id="Pologne" source="https://www.wikidata.org/wiki/Q36">
+        <placeName xml:lang="fra">Pologne</placeName>
+        <placeName xml:lang="ita">Polonia</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>Pologne</country>
+          <geo>52 19</geo>
+        </location>
+        <idno type="wikidata">Q36</idno>
+      </place>
+      <place xml:id="Lisbonne" source="https://www.wikidata.org/wiki/Q597">
+        <placeName xml:lang="fra">Lisbonne</placeName>
+        <placeName xml:lang="ita">Lisbona</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>Portugal</country>
+          <geo>38.708042 -9.139016</geo>
+        </location>
+        <idno type="wikidata">Q597</idno>
+      </place>
+      <place xml:id="Danemark" source="https://www.wikidata.org/wiki/Q35">
+        <placeName xml:lang="fra">Danemark</placeName>
+        <placeName xml:lang="ita">Danimarca</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>Royaume du Danemark</country>
+          <geo>56 10</geo>
+        </location>
+        <idno type="wikidata">Q35</idno>
+      </place>
+      <place xml:id="Angleterre" source="https://www.wikidata.org/wiki/Q21">
+        <placeName xml:lang="fra">Angleterre</placeName>
+        <placeName xml:lang="ita">Inghilterra</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>Royaume-Uni</country>
+          <geo>53 -1</geo>
+        </location>
+        <idno type="wikidata">Q21</idno>
+      </place>
+      <place xml:id="Ecosse" source="https://www.wikidata.org/wiki/Q22">
+        <placeName xml:lang="fra">Écosse</placeName>
+        <placeName xml:lang="ita">Scozia</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>Royaume-Uni</country>
+          <geo>57 -5</geo>
+        </location>
+        <idno type="wikidata">Q22</idno>
+      </place>
+      <place xml:id="Francfort" source="https://www.wikidata.org/wiki/Q1794">
+        <placeName xml:lang="fra">Francfort-sur-le-Main</placeName>
+        <placeName xml:lang="ita">Francoforte sul Meno</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>Saint-Empire romain germanique</country>
+          <geo>50.11055555555556 8.682222222222222</geo>
+        </location>
+        <idno type="wikidata">Q1794</idno>
+      </place>
+      <place xml:id="Allemagne" source="https://www.wikidata.org/wiki/Q12548">
+        <placeName xml:lang="fra">Saint-Empire romain germanique</placeName>
+        <placeName xml:lang="ita">Sacro Romano Impero</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>Saint-Empire romain germanique</country>
+          <geo>50.091352242113764 14.422158410216143</geo>
+        </location>
+        <idno type="wikidata">Q12548</idno>
+      </place>
+      <place xml:id="Brabant" source="https://www.wikidata.org/wiki/Q159856">
+        <placeName xml:lang="fra">duché de Brabant</placeName>
+        <placeName xml:lang="ita">Ducato di Brabante</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>Saint-Empire romain germanique</country>
+          <geo>50.8 4.3</geo>
+        </location>
+        <idno type="wikidata">Q159856</idno>
+      </place>
+      <place xml:id="Berne" source="https://www.wikidata.org/wiki/Q70">
+        <placeName xml:lang="fra">Berne</placeName>
+        <placeName xml:lang="ita">Berna</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>Suisse</country>
+          <geo>46.94798 7.44743</geo>
+        </location>
+        <idno type="wikidata">Q70</idno>
+      </place>
+      <place xml:id="Rhin" source="https://www.wikidata.org/wiki/Q584">
+        <placeName xml:lang="fra">Rhin</placeName>
+        <placeName xml:lang="ita">Reno</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>Suisse</country>
+          <geo>51.980833333333 4.0930555555556</geo>
+        </location>
+        <idno type="wikidata">Q584</idno>
+      </place>
+      <place xml:id="Suede" source="https://www.wikidata.org/wiki/Q34">
+        <placeName xml:lang="fra">Suède</placeName>
+        <placeName xml:lang="ita">Svezia</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>Suède</country>
+          <geo>61 15</geo>
+        </location>
+        <idno type="wikidata">Q34</idno>
+      </place>
+      <place xml:id="Prague" source="https://www.wikidata.org/wiki/Q1085">
+        <placeName xml:lang="fra">Prague</placeName>
+        <placeName xml:lang="ita">Praga</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>Tchéquie</country>
+          <geo>50.0875 14.421388888888888</geo>
+        </location>
+        <idno type="wikidata">Q1085</idno>
+      </place>
+      <place xml:id="Vatican" source="https://www.wikidata.org/wiki/Q237">
+        <placeName xml:lang="fra">Vatican</placeName>
+        <placeName xml:lang="ita">Città del Vaticano</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>Vatican</country>
+          <geo>41.904 12.453</geo>
+        </location>
+        <idno type="wikidata">Q237</idno>
+      </place>
+      <place xml:id="Navarre" source="https://www.wikidata.org/wiki/Q111628725">
+        <placeName xml:lang="fra">Royaume de Navarre (Haute-Navarre)</placeName>
+        <placeName xml:lang="ita">Regno di Navarra (1512-1841)</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>couronne de Castille</country>
+        </location>
+        <idno type="wikidata">Q111628725</idno>
+      </place>
+      <place xml:id="Berlin" source="https://www.wikidata.org/wiki/Q64">
+        <placeName xml:lang="fra">Berlin</placeName>
+        <placeName xml:lang="ita">Berlino</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>marche de Brandebourg</country>
+          <geo>52.516666666667 13.383333333333</geo>
+        </location>
+        <idno type="wikidata">Q64</idno>
+      </place>
+      <place xml:id="Florence" source="https://www.wikidata.org/wiki/Q2044">
+        <placeName xml:lang="fra">Florence</placeName>
+        <placeName xml:lang="ita">Firenze</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>royaume d'Italie</country>
+          <geo>43.771388888889 11.254166666667</geo>
+        </location>
+        <idno type="wikidata">Q2044</idno>
+      </place>
+      <place xml:id="Flandres" source="https://www.wikidata.org/wiki/Q157070">
+        <placeName xml:lang="fra">comté de Flandre</placeName>
+        <placeName xml:lang="ita">Contea delle Fiandre</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>royaume de France</country>
+          <geo>51.06 3.72</geo>
+        </location>
+        <idno type="wikidata">Q157070</idno>
+      </place>
+      <place xml:id="Macedoine" source="https://www.wikidata.org/wiki/Q83958">
+        <placeName xml:lang="fra">royaume de Macédoine</placeName>
+        <placeName xml:lang="ita">Regno di Macedonia</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>royaume de Macédoine</country>
+        </location>
+        <idno type="wikidata">Q83958</idno>
+      </place>
+      <place xml:id="Portugal" source="https://www.wikidata.org/wiki/Q45670">
+        <placeName xml:lang="fra">royaume de Portugal</placeName>
+        <placeName xml:lang="ita">Regno del Portogallo</placeName>
+        <location>
+          <region type="continent">Europe</region>
+          <country>royaume de Portugal</country>
+          <geo>38.7 -9.18333333</geo>
+        </location>
+        <idno type="wikidata">Q45670</idno>
+      </place>
+      </listPlace>
+  </settingDesc>
+</TEI>
