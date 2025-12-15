@@ -321,6 +321,5 @@ def index_username():
 def index_list_form(value, key: str):
     if value is None:
         return None
-
     options = load_list_form(key)
     return options.index(value) if value in options else None

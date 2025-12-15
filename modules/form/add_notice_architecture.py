@@ -413,11 +413,14 @@ def add_notice_architecture():
                 time.sleep(3)
 
                 # réinitialisation
+                st.session_state.nb_architects = 1
+
                 for i in range(st.session_state.nb_illustration_architecture):
                     st.session_state.show_image_architecture[i] = False
                 st.session_state.nb_illustration_architecture = 0
                 st.session_state.type_illustration_architecture = {}
                 st.session_state.show_image_architecture = {}
+
                 st.session_state.form_key_architecture += 1
 
                 st.rerun()

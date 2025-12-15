@@ -358,6 +358,8 @@ def add_notice_peinture():
         presence_notice = exist_notice(id_input)
 
         if submitted:
+            if not id_input:
+                st.error("L'XML ID de l'oeuvre est obligatoire.")
             if not title:
                 st.error("Le titre de l'œuvre est obligatoire.")
             elif presence_notice == True:
@@ -404,10 +406,12 @@ def add_notice_peinture():
                 
                 # réinitialisation
                 for i in range(st.session_state.nb_illustration_painting):
-                    st.session_state.show_image_painting[i] = False
-                st.session_state.nb_illustration_painting = 0
-                st.session_state.type_illustration_painting = {}
-                st.session_state.show_image_painting = {}
+                    del st.session_state.show_image_painting[i]
+                del st.session_state.nb_illustration_painting
+                del st.session_state.type_illustration_painting
+                del st.session_state.show_image_painting
+                del st.session_state.nb_related_paintings
+                del st.session_state.nb_bibliography_painting
                 st.session_state.form_key_painting += 1
 
                 st.rerun()

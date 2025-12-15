@@ -2,7 +2,7 @@ import streamlit as st
 import json
 from datetime import datetime
 
-from modules.data_loader import load_notice, save_notice, index_list_form, load_list_form, index_username, get_all_objects_ids
+from modules.data_loader import load_notice, save_notice, index_list_form, load_list_form, index_username, get_all_objects_ids, save_image
 
 def edit_creator(creator, idx, type_entry):
     """Édite un artiste"""
@@ -17,21 +17,20 @@ def edit_creator(creator, idx, type_entry):
     with col2:
         if type_entry == "peinture":
             creator["role"] = st.selectbox("Rôle :",
-                                            load_list_form(""),
+                                            load_list_form("artists_roles"),
                                             index=index_list_form(creator.get("role", ""), "artists_roles"),
                                             key=f"creator_painting_xmlid_{idx}"
                                             )
         if type_entry == "architecture":
             creator["role"] = st.selectbox("Rôle :",
-                                            load_list_form(""),
+                                            load_list_form("architects_roles"),
                                             index=index_list_form(creator.get("role", ""), "architects_roles"),
                                             key=f"creator_architect_xmlid_{idx}"
                                             )
     return creator
 
-def edit_related_work(work, idx):
+def edit_related_work(work, idx, list_xml_id):
     """Édite une œuvre liée"""
-    architecture_ids = get_all_objects_ids("architecture")
     st.subheader(f"Œuvre liée {idx + 1}")
     col1, col2 = st.columns(2)
     with col1:
@@ -40,13 +39,13 @@ def edit_related_work(work, idx):
                     load_list_form("link_types"),
                     key=f"work_type_{idx}",
                     accept_new_options=True,
-                    index=index_list_form(work.get("link_type", ""), load_list_form("link_types"))
+                    index=index_list_form(work.get("link_type", ""),"link_types")
                     )
     with col2:
         work["xml_id"] = st.selectbox(
                     f"XML:id de l'oeuvre liée {idx+1}",
-                    architecture_ids,
-                    index=index_list_form(work.get("xml_id_work", ""), architecture_ids),
+                    list_xml_id,
+                    index=list_xml_id.index(work.get("xml_id_work", "")),
                     placeholder="XML:ID de l'oeuvre liée",
                     accept_new_options=False,
                     key=f"work_xmlid_{idx}"
@@ -171,14 +170,16 @@ def edit_illustration(illus, idx):
                 st.image(illus["url"], caption="Prévisualisation")
             except Exception:
                 st.warning("Impossible d'afficher l'image.")
+    
+    return illus
 
 
-# ==== Fonction principale ====
+    # ╔═══════════════════════════════════════════╗
+    #            Fonction principale
+    # ╚═══════════════════════════════════════════╝
 
 
 def edit_json_notice(json_path=None, data=None):
-
-    entry_type = notice["entry_type"]
 
     st.title("Éditeur de Notice JSON")
     
@@ -199,6 +200,9 @@ def edit_json_notice(json_path=None, data=None):
 
     # 3. Récupération de la notice active
     notice = st.session_state.notice_data
+
+    entry_type = notice["entry_type"]
+
     
     # Section Informations générales
     st.header("📋 Informations générales")
@@ -206,6 +210,14 @@ def edit_json_notice(json_path=None, data=None):
     notice["QID_wikidata"] = st.text_input("QID Wikidata", notice.get("QID_wikidata", ""))
         
     notice["title"] = st.text_input("Titre", notice.get("title", ""))
+
+    
+    if notice["entry_type"] == "architecture": 
+        notice["typology"] = st.selectbox(
+                    "Typologie de monument",
+                    load_list_form("typologies"),
+                    index=index_list_form(notice.get("typology", ""), "typologies")
+                    )
 
     # Section Créateurs
     st.header("👥 Créateurs")
@@ -221,10 +233,6 @@ def edit_json_notice(json_path=None, data=None):
     if st.button("➕ Ajouter un créateur"):
         notice["creator"].append({"xml_id": "", "role": ""})
         st.rerun()
-
-    # ╔═══════════════════════════════════════════╗
-    #            SECTIONS SPÉCIFIQUES TYPE
-    # ╚═══════════════════════════════════════════╝
 
     # — PEINTURE —
     if entry_type == "peinture":
@@ -261,18 +269,6 @@ def edit_json_notice(json_path=None, data=None):
                 notice["holding_institution"].get("URL", "")
             )
 
-    if notice["entry_type"] == "architecture": 
-        # notice["typology"] = st.text_input("Typologie", notice.get("typology", ""))
-        notice["typology"] = st.selectbox(
-                    "Typologie de monument",
-                    load_list_form("artists_names"),
-                    index=index_list_form(notice.get("typology", ""), "typology")
-                    )
-        
-    # ╔═══════════════════════════════════════════╗
-    #               PARTIE COMMUNE
-    # ╚═══════════════════════════════════════════╝
-
     
     # Section Date de création
     st.header("📅 Date de création")
@@ -294,9 +290,14 @@ def edit_json_notice(json_path=None, data=None):
     st.header("🔗 Œuvres liées")
     if "related_works" not in notice or not isinstance(notice["related_works"], list):
         notice["related_works"] = []
+
+    if entry_type == "peinture":
+        list_xml_id = get_all_objects_ids("peinture")
+    if entry_type == "architecture":
+        list_xml_id = get_all_objects_ids("architecture")
     
     for idx, work in enumerate(notice["related_works"]):
-        notice["related_works"][idx] = edit_related_work(work, idx)
+        notice["related_works"][idx] = edit_related_work(work, idx, list_xml_id)
         if st.button(f"Supprimer œuvre {idx + 1}", key=f"del_work_{idx}"):
             notice["related_works"].pop(idx)
             st.rerun()
@@ -343,20 +344,7 @@ def edit_json_notice(json_path=None, data=None):
 
     # Section Commentaire
     st.header("💬 Commentaire")
-    notice["commentary"] = st.text_area("Commentaire", notice.get("commentary", ""), height=150)
-
-
-    # editeur de la notice
-    entry_editor = st.selectbox("Auteur des modifications :",
-                                load_list_form("usernames"),
-                                index=index_username()
-                                )
-
-    notice["history"].append({
-        "date": datetime.now().isoformat(),
-        "type": "modified",
-        "author": entry_editor
-    })
+    notice["commentary"] = st.text_area("Commentaire", notice.get("commentary", ""))
 
     # Boutons d'action
     st.divider()
@@ -365,6 +353,15 @@ def edit_json_notice(json_path=None, data=None):
     with col1:
         if st.button("💾 Sauvegarder", type="primary"):
             try:
+                entry_editor = st.selectbox("Auteur des modifications :",
+                                load_list_form("usernames"),
+                                index=index_username()
+                                )
+                notice["history"].append({
+                    "date": datetime.now().isoformat(),
+                    "type": "modified",
+                    "author": entry_editor
+                })
                 saved_path = save_notice(notice, path=json_path)
                 st.success(f"✅ Modifications sauvegardées dans : {saved_path}")
             except Exception as e:

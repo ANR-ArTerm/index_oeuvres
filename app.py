@@ -11,7 +11,7 @@ from modules.form.add_notice_peinture import add_notice_peinture
 
 from modules.search.search_architecture import render_search_entries_architecture
 from modules.search.search_painting import render_search_entries_painting
-from modules.search.consult_architecture import edit_json_notice
+from modules.search.modify_entry import edit_json_notice
 
 
 st.set_page_config(layout="wide")

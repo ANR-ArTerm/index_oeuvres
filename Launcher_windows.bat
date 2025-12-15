@@ -1,13 +1,13 @@
 @echo off
 setlocal ENABLEDELAYEDEXPANSION
 
-echo. === Récupération des mises à jour ===
+echo. === Recuperation des mises a jour ===
 echo.
 git pull
 
 echo.
 echo.
-echo === Création / Vérification du .env et du username ===
+echo === Creation / Verification du .env et du username ===
 
 echo.
 :: Liste des utilisateurs valides
@@ -15,9 +15,11 @@ set "VALID_USERS=Pierre Julia Anna Emma Carla"
 
 :: Fonction pour demander le nom d'utilisateur et valider
 :ASK_USERNAME
+color 0A
 set /p USERNAME="Entrez votre nom d'utilisateur (Pierre, Julia, Anna, Emma, Carla) : "
+color 07
 
-:: Vérifie si USERNAME est dans la liste
+:: Verifie si USERNAME est dans la liste
 set "FOUND=0"
 for %%u in (%VALID_USERS%) do (
     if /I "%%u"=="%USERNAME%" set FOUND=1
@@ -28,7 +30,7 @@ if %FOUND%==0 (
     goto ASK_USERNAME
 )
 
-:: Vérifie si le fichier .env existe
+:: Verifie si le fichier .env existe
 if not exist ".env" (
     echo USERNAME=%USERNAME% > .env
 ) else (
@@ -39,17 +41,17 @@ if not exist ".env" (
     if "%CURRENT_USER%"=="" (
         echo USERNAME=%USERNAME% >> .env
     ) else (
-        echo Nom d'utilisateur déjà présent : %CURRENT_USER%
+        echo Nom d'utilisateur deja present : %CURRENT_USER%
     )
 )
 
-echo Utilisateur sélectionné : %USERNAME%
+echo Utilisateur selectionne : %USERNAME%
 echo.
 echo.
 
 echo === Verification de Python ===
 
-:: Vérifie si python est dans le PATH
+:: Verifie si python est dans le PATH
 for /f "delims=" %%i in ('where python 2^>nul') do (
     set "PYTHON_FOUND=%%i"
     goto PYTHON_OK
@@ -90,7 +92,7 @@ echo.
 
 :: Test Streamlit
 
-echo Installation des dependances et mise à jour...
+echo Installation des dependances et mise a jour...
 pip install --upgrade pip
 pip install --upgrade -r requirements.txt
 

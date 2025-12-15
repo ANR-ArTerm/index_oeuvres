@@ -100,6 +100,7 @@ def render_search_entries_painting():
                 with col_mod:
                     if st.button("Modifier ✏️", key=f"mod_painting_{idx}"):
                         st.session_state.editing_notice = json_path
+                        st.session_state.active_menu = "edit"
                         st.rerun()
 
                 with col_del:

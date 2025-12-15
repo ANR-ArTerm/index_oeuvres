@@ -24,11 +24,56 @@
   "related_works": [],
   "bibliography": [],
   "illustrations": [],
-  "commentary": "",
+  "commentary": "test",
   "history": [
     {
       "date": "2025-12-15T16:05:11.574630",
       "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2025-12-15T16:55:20.548667",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2025-12-15T16:55:30.703981",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2025-12-15T16:55:32.347201",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2025-12-15T16:55:33.462660",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2025-12-15T16:55:34.346778",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2025-12-15T16:55:35.549438",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2025-12-15T16:55:37.471717",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2025-12-15T16:56:01.901116",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2025-12-15T16:56:02.027213",
+      "type": "modified",
       "author": "Pierre"
     }
   ]
