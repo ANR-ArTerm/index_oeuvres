@@ -397,7 +397,7 @@ def add_notice_architecture():
                     "commentary": commentaire,
                     "history": [
                         {
-                        "date": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+                        "date": datetime.now().isoformat(),
                         "type": "created",
                         "author": entry_creator
                         }
@@ -406,7 +406,7 @@ def add_notice_architecture():
                 # ajout sur github
                 with st.spinner("Enregistement de la notice et ajout sur github"):
                     path = save_notice(new_oeuvre)
-                    message = f"ajout notice {id_input} par {entry_creator} {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}"
+                    message = f"ajout notice {id_input} par {entry_creator} {datetime.now().isoformat()}"
                     git_commit_and_push(message)
                     st.success(f"✅ Notice ajoutée avec succès sur github !\n\n📁 Fichier créé : `{path}`")
                     st.balloons()
