@@ -1,0 +1,48 @@
+{
+  "id": "",
+  "QID_wikidata": "",
+  "title": "Sainte Anne",
+  "creator": [
+    {
+      "xml_id": "LeonardDeVinci",
+      "role": "peintre"
+    }
+  ],
+  "entry_type": "peinture",
+  "materialsAndTechniques": null,
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "holding_institution": {
+    "place": "",
+    "name": "Musée du Louvre",
+    "inventory_number": "",
+    "URL": ""
+  },
+  "related_works": [
+    {
+      "link_type": "copié d'après",
+      "xml_id_work": "leonardjoconde"
+    }
+  ],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "storage": "online",
+      "url": "https://collections.louvre.fr/media/cache/intermediate/0000000021/0000066723/0000701738_OG.JPG",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "commentary": "",
+  "history": [
+    {
+      "date": "2025-12-15T16:17:51.889869",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}
