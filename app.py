@@ -77,7 +77,7 @@ elif st.session_state.active_menu == "add":
 
 elif st.session_state.active_menu == "search":
     st.header("Ajouter une notice")
-    tab1, tab2 = st.tabs(["🖼️ Peinture", "🏛️ Architecture"])
+    tab1, tab2, tab3 = st.tabs(["🖼️ Peinture", "🏛️ Architecture", "Corbeille"])
     with tab1:
         st.session_state.type_notice = "peinture"
         render_search_entries_painting()
@@ -85,6 +85,7 @@ elif st.session_state.active_menu == "search":
     with tab2:
         st.session_state.type_notice = "architecture"
         render_search_entries_architecture()
+
 
 elif st.session_state.active_menu == "edit":
     if "editing_notice" in st.session_state and st.session_state.editing_notice:
