@@ -5,16 +5,39 @@ from pathlib import Path
 import shutil
 import csv
 
+# Variables et csv
+
 DATA_DIR = "data"
 PEINTURE_DIR = os.path.join(DATA_DIR, "entry_peinture")
 ARCHITECTURE_DIR = os.path.join(DATA_DIR, "entry_architecture")
 IMAGES_DIR = os.path.join(DATA_DIR, "images")
 LIST_FORM_DIR = os.path.join(DATA_DIR, "list_form")
+WIKIDATA_DIR = os.path.join(DATA_DIR, "wikidata_list")
 
 TYPE_DIRS = {
         "peinture": PEINTURE_DIR,
         "architecture": ARCHITECTURE_DIR,
     }
+
+LIST_FORM = {
+    "artists_names": "artists_names.json",
+    "artists_roles": "artists_roles.json",
+    "architects_roles":"architects_roles.json",
+    "typologies": "typologies.json",
+    "institutions": "institutions.json",
+    "techniques": "techniques.json",
+    "zotero_keys": "zotero_keys.json",
+    "usernames": "usernames.json",
+    "link_types":"link_types.json"
+}
+
+LIST_CSV_QID = {
+    "people": "people.csv",
+    "typologies": "typologies.csv",
+    "techniques": "techniques.csv",
+    "institutions": "institutions.csv",
+    "places":"places.csv"
+}
 
 def load_all_entries(type_name: str):
     """
@@ -257,20 +280,6 @@ def delete_notice(path):
     
     return True
 
-# ========== Les listes pour l'autocomplétion
-
-LIST_FILES = {
-    "artists_names": "artists_names.json",
-    "artists_roles": "artists_roles.json",
-    "architects_roles":"architects_roles.json",
-    "typologies": "typologies.json",
-    "institutions": "institutions.json",
-    "techniques": "techniques.json",
-    "zotero_keys": "zotero_keys.json",
-    "usernames": "usernames.json",
-    "link_types":"link_types.json"
-}
-
 def _load_json(path):
     if not os.path.exists(path):
         return []
@@ -281,22 +290,22 @@ def load_list_form(key: str):
     """
     key ex: 'artists_roles', 'techniques', etc.
     """
-    if key not in LIST_FILES:
+    if key not in LIST_FORM:
         raise ValueError(f"Clé inconnue : {key}")
 
-    path = os.path.join(LIST_FORM_DIR, LIST_FILES[key])
+    path = os.path.join(LIST_FORM_DIR, LIST_FORM[key])
     return _load_json(path)
 
 
 def save_to_list_form(key: str, value: str):
-    if key not in LIST_FILES:
+    if key not in LIST_FORM:
         raise ValueError(f"Clé inconnue : {key}")
 
     # Ignorer None ou chaîne vide
     if value is None or str(value).strip() == "":
         return
 
-    path = os.path.join(LIST_FORM_DIR, LIST_FILES[key])
+    path = os.path.join(LIST_FORM_DIR, LIST_FORM[key])
 
     # Charger les données existantes
     data = _load_json(path)
@@ -325,13 +334,13 @@ def index_list_form(value, key: str):
     return options.index(value) if value in options else None
 
 
-# ========== Les listes pour Wikidata
+def get_wikidata_csv_path(key: str):
+    if key not in LIST_CSV_QID:
+        raise KeyError(f"Clé wikidata inconnue : {key}")
 
-LIST_CSV_QID = {
-    "people": "people.csv",
-    "typologies": "typologies.csv",
-    "techniques": "techniques.csv",
-    "institutions": "institutions.csv",
-    "places":"places.csv"
-}
+    csv_path = os.path.join(WIKIDATA_DIR, LIST_CSV_QID[key])
 
+    if not os.path.isfile(csv_path):
+        raise FileNotFoundError(f"CSV introuvable : {csv_path}")
+
+    return csv_path
