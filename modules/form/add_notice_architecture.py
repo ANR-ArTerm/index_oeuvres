@@ -6,6 +6,9 @@ import uuid
 
 from modules.data_loader import save_notice, exist_notice, save_image, load_list_form, index_username, save_to_list_form, get_all_objects_ids
 from modules.git_tools import git_commit_and_push
+from modules.wikidata.data_treatment import extract_wikidata_id
+from modules.wikidata.query_architecture import get_monument_data
+
 
 def add_notice_architecture():
     # initialisation de la clé
@@ -20,7 +23,15 @@ def add_notice_architecture():
                                      index=index_username()
                                      )
         id_input = st.text_input("XML:ID de l'œuvre *", help="Champ obligatoire, vérifier dans l'onglet Recherche que l'œuvre n'existe pas")
-        QID_wikidata = st.text_input("Lien de la notice Wikidata")
+        
+        col_wiki_1, col_wiki_2 = st.columns([7, 3])
+        with col_wiki_1:
+            QID_wikidata = st.text_input("Lien de la notice Wikidata")
+        with col_wiki_2 :
+            if st.form_submit_button("Chercher sur wikidata", key="wikidata_architecture"):
+                qid = extract_wikidata_id(QID_wikidata)
+                architects_xml_id, date_start, date_end, typologies, country, city, latitude, longitude, first_image = get_monument_data(qid)
+
         title = st.text_input("Titre de l'œuvre *")
 
         # =============== Artistes ===================
