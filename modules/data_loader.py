@@ -3,6 +3,7 @@ import os
 from dotenv import load_dotenv
 from pathlib import Path
 import shutil
+import csv
 
 DATA_DIR = "data"
 PEINTURE_DIR = os.path.join(DATA_DIR, "entry_peinture")
@@ -193,7 +194,6 @@ def load_notice(path):
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
 
-
 def save_notice(oeuvre, path=None):
     """
     Sauvegarde une œuvre dans un fichier JSON.
@@ -323,3 +323,15 @@ def index_list_form(value, key: str):
         return None
     options = load_list_form(key)
     return options.index(value) if value in options else None
+
+
+# ========== Les listes pour Wikidata
+
+LIST_CSV_QID = {
+    "people": "people.csv",
+    "typologies": "typologies.csv",
+    "techniques": "techniques.csv",
+    "institutions": "institutions.csv",
+    "places":"places.csv"
+}
+
