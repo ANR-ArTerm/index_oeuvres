@@ -1,51 +1,50 @@
 @echo off
 setlocal ENABLEDELAYEDEXPANSION
 
-echo. === Recuperation des mises a jour ===
+echo === Verification du USERNAME ===
 echo.
-git pull
 
-echo.
-echo.
-echo === Creation / Verification du .env et du username ===
-
-echo.
-:: Liste des utilisateurs valides
 set "VALID_USERS=Pierre Julia Anna Emma Carla"
+set "CURRENT_USER="
 
-:: Fonction pour demander le nom d'utilisateur et valider
+:: Lecture du USERNAME existant (première occurrence seulement)
+if exist ".env" (
+    for /f "tokens=1,* delims==" %%a in ('findstr /b /i "USERNAME=" .env') do (
+        if not defined CURRENT_USER set "CURRENT_USER=%%b"
+    )
+)
+
+:: Si USERNAME existe déjà → on ne demande rien
+if defined CURRENT_USER (
+    echo USERNAME deja defini : !CURRENT_USER!
+    set "USERNAME=!CURRENT_USER!"
+    goto END_USERNAME
+)
+
+:: Sinon → demander le nom
 :ASK_USERNAME
 color 0A
 set /p USERNAME="Entrez votre nom d'utilisateur (Pierre, Julia, Anna, Emma, Carla) : "
 color 07
 
-:: Verifie si USERNAME est dans la liste
-set "FOUND=0"
+set FOUND=0
 for %%u in (%VALID_USERS%) do (
-    if /I "%%u"=="%USERNAME%" set FOUND=1
+    if /I "%%u"=="!USERNAME!" set FOUND=1
 )
 
-if %FOUND%==0 (
-    echo Utilisateur invalide. Veuillez choisir parmi : Pierre, Julia, Anna, Emma, Carla
+if !FOUND!==0 (
+    echo Utilisateur invalide.
     goto ASK_USERNAME
 )
 
-:: Verifie si le fichier .env existe
-if not exist ".env" (
-    echo USERNAME=%USERNAME% > .env
-) else (
-    for /f "tokens=1,* delims==" %%a in ('findstr /b "USERNAME=" .env') do (
-        set CURRENT_USER=%%b
-    )
+:: Ecriture dans le .env
+echo USERNAME=!USERNAME!>>.env
+echo USERNAME ajoute au fichier .env
 
-    if "%CURRENT_USER%"=="" (
-        echo USERNAME=%USERNAME% >> .env
-    ) else (
-        echo Nom d'utilisateur deja present : %CURRENT_USER%
-    )
-)
+:END_USERNAME
+echo Utilisateur actif : !USERNAME!
+echo.
 
-echo Utilisateur selectionne : %USERNAME%
 echo.
 echo.
 
