@@ -19,8 +19,8 @@ def render_home():
     col1, col2, col3 = st.columns(3)
     total_notices = len(load_all_entries("peinture")) + len(load_all_entries("architecture"))
     col1.metric("📄 Notices totales", f"{total_notices} notices")  # Tu peux remplacer par une fonction dynamique
-    col2.metric("🖌️ Peintures", f"{len(load_all_entries("peinture"))} notices")
-    col3.metric("🏛️ Architectures", f"{len(load_all_entries("architecture"))} notices")
+    col2.metric("🖌️ Peintures", f"{len(load_all_entries('peinture'))} notices")
+    col3.metric("🏛️ Architectures", f"{len(load_all_entries('architecture'))} notices")
 
     st.markdown("---")
 
