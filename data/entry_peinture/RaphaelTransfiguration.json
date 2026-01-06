@@ -17,7 +17,7 @@
   },
   "holding_institution": {
     "place": "Rome",
-    "name": null,
+    "name": "Pinacothèque vaticane",
     "inventory_number": "Inv. 40333",
     "URL": "https://www.museivaticani.va/content/museivaticani/fr/collezioni/musei/la-pinacoteca/sala-viii---secolo-xvi/raffaello-sanzio--trasfigurazione.html"
   },
@@ -37,6 +37,16 @@
     {
       "date": "2026-01-06T14:07:13.270955",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-06T14:07:42.517150",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-06T14:07:45.386055",
+      "type": "modified",
       "author": "Carla"
     }
   ]

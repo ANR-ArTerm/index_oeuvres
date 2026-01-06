@@ -1,0 +1,57 @@
+{
+  "id": "DurerPetitePassion",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3377374",
+  "title": "La Petite Passion du Christ",
+  "creator": [
+    {
+      "xml_id": "Dürer",
+      "role": "graveur"
+    }
+  ],
+  "entry_type": "peinture",
+  "materialsAndTechniques": "gravure sur bois en clair-obscur",
+  "dateCreated": {
+    "startYear": "1508",
+    "endYear": "1511",
+    "text": "1508-1511 "
+  },
+  "holding_institution": {
+    "place": "Bruxelles",
+    "name": "KBR museum",
+    "inventory_number": "",
+    "URL": ""
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "storage": "local",
+      "url": "data/images/Capture d’écran 2026-01-06 à 15.58.30.png",
+      "copyright": "",
+      "caption": ""
+    },
+    {
+      "id": 1,
+      "storage": "online",
+      "url": "https://uurl.kbr.be/1845334",
+      "copyright": "",
+      "caption": ""
+    },
+    {
+      "id": 2,
+      "storage": "online",
+      "url": "https://uurl.kbr.be/1845364",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-06T16:03:23.023395",
+      "type": "created",
+      "author": "Carla"
+    }
+  ]
+}
