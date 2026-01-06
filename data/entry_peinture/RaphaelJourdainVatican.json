@@ -2,7 +2,12 @@
   "id": "RaphaelJourdainVatican",
   "QID_wikidata": "",
   "title": "Le Passage du Jourdain",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
   "entry_type": "peinture",
   "materialsAndTechniques": "fresque",
   "dateCreated": {
@@ -12,7 +17,7 @@
   },
   "holding_institution": {
     "place": "Rome",
-    "name": null,
+    "name": "Vatican",
     "inventory_number": "",
     "URL": ""
   },
@@ -32,6 +37,16 @@
     {
       "date": "2026-01-06T13:52:42.781426",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-06T13:58:18.173849",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-06T13:58:21.307890",
+      "type": "modified",
       "author": "Carla"
     }
   ]

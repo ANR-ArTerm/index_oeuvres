@@ -1,0 +1,43 @@
+{
+  "id": "RaphaelTransfiguration",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2344437",
+  "title": "La Transfiguration",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
+  "entry_type": "peinture",
+  "materialsAndTechniques": "huile sur bois",
+  "dateCreated": {
+    "startYear": "1516",
+    "endYear": "1520",
+    "text": "1516-1520"
+  },
+  "holding_institution": {
+    "place": "Rome",
+    "name": null,
+    "inventory_number": "Inv. 40333",
+    "URL": "https://www.museivaticani.va/content/museivaticani/fr/collezioni/musei/la-pinacoteca/sala-viii---secolo-xvi/raffaello-sanzio--trasfigurazione.html"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "storage": "online",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Transfigurazione_%28Raffaello%29_September_2015-1a.jpg",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-06T14:07:13.270955",
+      "type": "created",
+      "author": "Carla"
+    }
+  ]
+}
