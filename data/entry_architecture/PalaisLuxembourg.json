@@ -1,0 +1,47 @@
+{
+  "id": "PalaisLuxembourg",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q329852",
+  "title": "Palais du Luxembourg",
+  "creator": [],
+  "entry_type": "architecture",
+  "typology": null,
+  "dateCreated": {
+    "startYear": "1615",
+    "endYear": "1631",
+    "text": "La construction est tout d'abord confiée à Salomon de Brosse, mais c'est Marin de la Vallée qui est finalement choisi. "
+  },
+  "location": {
+    "city": "Paris",
+    "country": "France",
+    "coordinates": {
+      "latitude": "48° 50′ 54″ N",
+      "longitude": "2° 20′ 15″ E"
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "storage": "online",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Palais_du_Luxembourg%2C_South_View_%28Crop%29_20140116_1.jpg",
+      "copyright": "",
+      "caption": "Façade sud du palais"
+    },
+    {
+      "id": 1,
+      "storage": "online",
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Palais_Luxembourg_fa%C3%A7ade_nord_Paris_6.jpg",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-06T12:39:45.677472",
+      "type": "created",
+      "author": "Carla"
+    }
+  ]
+}
