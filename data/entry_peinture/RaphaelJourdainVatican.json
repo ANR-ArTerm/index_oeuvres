@@ -1,0 +1,38 @@
+{
+  "id": "RaphaelJourdainVatican",
+  "QID_wikidata": "",
+  "title": "Le Passage du Jourdain",
+  "creator": [],
+  "entry_type": "peinture",
+  "materialsAndTechniques": "fresque",
+  "dateCreated": {
+    "startYear": "1518",
+    "endYear": "1519",
+    "text": "1518-1519"
+  },
+  "holding_institution": {
+    "place": "Rome",
+    "name": null,
+    "inventory_number": "",
+    "URL": ""
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "storage": "online",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Israelites_Crossing_the_Jordan_Carrying_the_Ark_of_the_Covenant_by_Raphael_in_the_Vatican.jpg",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "commentary": "Il s'agit d'une des quatre compositions de la dixième voûte des loges du Vatican. ",
+  "history": [
+    {
+      "date": "2026-01-06T13:52:42.781426",
+      "type": "created",
+      "author": "Carla"
+    }
+  ]
+}
