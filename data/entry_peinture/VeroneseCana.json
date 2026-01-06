@@ -1,0 +1,43 @@
+{
+  "id": "VeroneseCana",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q185255",
+  "title": "Les Noces de Cana",
+  "creator": [
+    {
+      "xml_id": "Veronese",
+      "role": "peintre"
+    }
+  ],
+  "entry_type": "peinture",
+  "materialsAndTechniques": "huile sur toile",
+  "dateCreated": {
+    "startYear": "1500",
+    "endYear": "1600",
+    "text": "XVIème siècle "
+  },
+  "holding_institution": {
+    "place": "Paris",
+    "name": "Musée du Louvre",
+    "inventory_number": "INV 142 ; MR 384",
+    "URL": "https://collections.louvre.fr/ark:/53355/cl010064382"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "storage": "local",
+      "url": "data/images/0001288788_OG.JPG",
+      "copyright": "© 2019 GrandPalaisRmn (musée du Louvre) / Michel Urtado",
+      "caption": ""
+    }
+  ],
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-06T13:57:27.095689",
+      "type": "created",
+      "author": "Carla"
+    }
+  ]
+}
