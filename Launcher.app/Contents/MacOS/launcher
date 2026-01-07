@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# Récupère le dossier où se trouve l'application .app
+APP_DIR="$(cd "$(dirname "$0")/../../.." && pwd)"
+
+# Ouvre Terminal et exécute le script
+osascript <<APPLESCRIPT
+tell application "Terminal"
+    activate
+    do script "cd '$APP_DIR' && chmod +x Launcher_macOS.sh && ./Launcher_macOS.sh"
+end tell
+APPLESCRIPT
