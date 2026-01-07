@@ -1,0 +1,15 @@
+#!/bin/bash
+
+# Récupère le dossier Resources de l'application
+RESOURCES_DIR="$(cd "$(dirname "$0")/../Resources" && pwd)"
+
+# Récupère le dossier où se trouve l'application .app (pour les fichiers du projet)
+APP_DIR="$(cd "$(dirname "$0")/../../.." && pwd)"
+
+# Ouvre Terminal et exécute le script
+osascript <<APPLESCRIPT
+tell application "Terminal"
+    activate
+    do script "cd '$APP_DIR' && chmod +x '$RESOURCES_DIR/script.sh' && '$RESOURCES_DIR/script.sh'"
+end tell
+APPLESCRIPT
