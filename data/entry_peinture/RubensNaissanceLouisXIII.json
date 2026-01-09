@@ -19,20 +19,20 @@
     "place": "Paris",
     "name": "Musée du Louvre",
     "inventory_number": "INV 1776 ; MR 967",
-    "URL": "https://collections.louvre.fr/ark:/53355/cl010060841"
+    "URL": ""
   },
   "related_works": [],
   "bibliography": [],
   "illustrations": [
     {
       "id": 0,
-      "storage": "local",
-      "url": "data/images/0000394500_OG.JPG",
+      "storage": "online",
+      "url": "https://collections.louvre.fr/media/cache/large/0000000021/0000060841/0000394500_OG.JPG",
       "copyright": "2000 GrandPalaisRmn (musée du Louvre) / Thierry Le Mage",
       "caption": ""
     }
   ],
-  "commentary": "",
+  "commentary": "Voir avec Pierre si Rubens est déjà intégré dans le menu déroulant. ",
   "history": [
     {
       "date": "2026-01-06T13:34:07.325313",
@@ -46,6 +46,11 @@
     },
     {
       "date": "2026-01-06T13:36:09.760579",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-09T15:12:21.664947",
       "type": "modified",
       "author": "Carla"
     }

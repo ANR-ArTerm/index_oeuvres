@@ -26,8 +26,8 @@
   "illustrations": [
     {
       "id": 0,
-      "storage": "local",
-      "url": "data/images/0001288788_OG.JPG",
+      "storage": "online",
+      "url": "https://collections.louvre.fr/media/cache/large/0000000021/0000064382/0001288788_OG.JPG",
       "copyright": "© 2019 GrandPalaisRmn (musée du Louvre) / Michel Urtado",
       "caption": ""
     }
@@ -37,6 +37,11 @@
     {
       "date": "2026-01-06T13:57:27.095689",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-09T12:39:58.086492",
+      "type": "modified",
       "author": "Carla"
     }
   ]

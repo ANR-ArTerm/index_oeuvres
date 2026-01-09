@@ -28,11 +28,11 @@
       "id": 0,
       "storage": "online",
       "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Transfigurazione_%28Raffaello%29_September_2015-1a.jpg",
-      "copyright": "",
+      "copyright": "Wikipedia Commons",
       "caption": ""
     }
   ],
-  "commentary": "",
+  "commentary": "Potentiellement demander les droits au Vatican.",
   "history": [
     {
       "date": "2026-01-06T14:07:13.270955",
@@ -46,6 +46,11 @@
     },
     {
       "date": "2026-01-06T14:07:45.386055",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-09T12:32:06.542100",
       "type": "modified",
       "author": "Carla"
     }
