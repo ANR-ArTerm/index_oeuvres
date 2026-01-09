@@ -24,7 +24,7 @@
     {
       "id": 0,
       "storage": "online",
-      "url": "https://www.wikidata.org/wiki/Q192784#/media/File:Trajan_column_(Rome)_September_2015-2.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Trajan_column_%28Rome%29_September_2015-2.jpg",
       "copyright": "",
       "caption": ""
     }
@@ -38,6 +38,11 @@
     },
     {
       "date": "2026-01-09T15:48:51.720910",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-09T15:58:24.604572",
       "type": "modified",
       "author": "Carla"
     }

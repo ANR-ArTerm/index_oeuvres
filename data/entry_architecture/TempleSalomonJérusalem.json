@@ -1,0 +1,40 @@
+{
+  "id": "TempleSalomonJérusalem",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q223644",
+  "title": "Temple de Salomon à Jérusalem",
+  "creator": [],
+  "entry_type": "architecture",
+  "typology": null,
+  "dateCreated": {
+    "startYear": "Xe",
+    "endYear": "Xe",
+    "text": "Xème siècle avant J.-C."
+  },
+  "location": {
+    "city": "Jérusalem",
+    "country": "Israël",
+    "coordinates": {
+      "latitude": "31° 46′ 40″ N",
+      "longitude": "35° 14′ 07″ E"
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "storage": "online",
+      "url": "",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-09T16:27:35.892812",
+      "type": "created",
+      "author": "Carla"
+    }
+  ]
+}
