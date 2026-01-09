@@ -1,0 +1,43 @@
+{
+  "id": "ViergeEnfantJeanBaptiste",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2343778",
+  "title": "La Vierge à l'Enfant avec le petit saint Jean-Baptiste ou la Belle Jardinière",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
+  "entry_type": "peinture",
+  "materialsAndTechniques": "huile sur bois",
+  "dateCreated": {
+    "startYear": "1507",
+    "endYear": "1508",
+    "text": "1507-1508"
+  },
+  "holding_institution": {
+    "place": "Paris",
+    "name": "Musée du Louvre",
+    "inventory_number": "INV 602 ",
+    "URL": ""
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "storage": "online",
+      "url": "https://collections.louvre.fr/media/cache/large/0000000021/0000060754/0000978445_OG.JPG",
+      "copyright": "© 2020 GrandPalaisRmn (musée du Louvre) / Tony Querrec",
+      "caption": ""
+    }
+  ],
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-09T17:12:03.281341",
+      "type": "created",
+      "author": "Carla"
+    }
+  ]
+}
