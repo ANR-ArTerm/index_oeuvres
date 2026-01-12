@@ -1,5 +1,5 @@
 {
-  "id": "LeonXRaphael",
+  "id": "RaphaelLeonX",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q2610729",
   "title": "Portrait de Leon X",
   "creator": [
@@ -8,7 +8,7 @@
       "role": "peintre"
     },
     {
-      "xml_id": "AndreaDelSarto",
+      "xml_id": "GiulioRomano",
       "role": "peintre"
     }
   ],
@@ -41,6 +41,11 @@
     {
       "date": "2026-01-12T12:16:53.145898",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-12T17:06:48.763502",
+      "type": "modified",
       "author": "Carla"
     }
   ]
