@@ -1,5 +1,5 @@
 {
-  "id": "PortraitLéonX",
+  "id": "LéonX",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q2610729",
   "title": "Portrait de Leon X",
   "creator": [
@@ -45,6 +45,11 @@
     },
     {
       "date": "2026-01-12T11:56:21.372076",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-12T12:07:50.098484",
       "type": "modified",
       "author": "Carla"
     }
