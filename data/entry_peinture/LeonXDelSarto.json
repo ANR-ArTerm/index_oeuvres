@@ -1,0 +1,35 @@
+{
+  "id": "LeonXDelSarto",
+  "QID_wikidata": "",
+  "title": "Portrait de Leon X",
+  "creator": [],
+  "entry_type": "peinture",
+  "materialsAndTechniques": "huile sur bois",
+  "dateCreated": {
+    "startYear": "1525",
+    "endYear": "1525",
+    "text": "1525"
+  },
+  "holding_institution": {
+    "place": "Naples",
+    "name": null,
+    "inventory_number": "",
+    "URL": ""
+  },
+  "related_works": [
+    {
+      "link_type": "copié d'après",
+      "xml_id_work": "PortraitLéonX"
+    }
+  ],
+  "bibliography": [],
+  "illustrations": [],
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-12T12:06:40.354056",
+      "type": "created",
+      "author": "Carla"
+    }
+  ]
+}

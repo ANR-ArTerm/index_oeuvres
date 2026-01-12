@@ -2,7 +2,16 @@
   "id": "PortraitLéonX",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q2610729",
   "title": "Portrait de Leon X",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    },
+    {
+      "xml_id": "GiulioRomano",
+      "role": "peintre"
+    }
+  ],
   "entry_type": "peinture",
   "materialsAndTechniques": "huile sur bois",
   "dateCreated": {
@@ -32,6 +41,11 @@
     {
       "date": "2026-01-12T11:55:11.691969",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-12T11:56:21.372076",
+      "type": "modified",
       "author": "Carla"
     }
   ]
