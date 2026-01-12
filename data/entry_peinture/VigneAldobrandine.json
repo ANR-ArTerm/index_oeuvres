@@ -1,0 +1,38 @@
+{
+  "id": "VigneAldobrandine",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q594213",
+  "title": "Les Noces Aldobrandines",
+  "creator": [],
+  "entry_type": "peinture",
+  "materialsAndTechniques": "fresque",
+  "dateCreated": {
+    "startYear": "-50",
+    "endYear": "-50",
+    "text": "50 av J.-C."
+  },
+  "holding_institution": {
+    "place": "Rome",
+    "name": "Vatican, bibliothèque apostolique",
+    "inventory_number": "",
+    "URL": ""
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "storage": "online",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Aldobrandini_wedding.JPG",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "commentary": "changer dans le texte oxygène le fait que c pas un placename mais bien un object name + comment on fait qd pas d'artiste",
+  "history": [
+    {
+      "date": "2026-01-12T15:34:39.272899",
+      "type": "created",
+      "author": "Carla"
+    }
+  ]
+}
