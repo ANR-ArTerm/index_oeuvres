@@ -12,6 +12,7 @@ def edit_creator(creator, idx, type_entry):
         creator["xml_id"] = st.selectbox("Artiste :*",
                                      load_list_form("artists_names"),
                                      index=index_list_form(creator.get("xml_id", ""), "artists_names"),
+                                     accept_new_options=True,
                                      key=f"creator_xmlid_{idx}"
                                      )
     with col2:
