@@ -24,7 +24,8 @@
   "related_works": [
     {
       "link_type": "copié d'après",
-      "xml_id_work": "RaphaelLeonX"
+      "xml_id_work": "RaphaelLeonX",
+      "xml_id": "RaphaelLeonX"
     }
   ],
   "bibliography": [],
@@ -42,6 +43,11 @@
     {
       "date": "2026-01-12T17:15:49.191203",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-12T17:41:00.404002",
+      "type": "modified",
       "author": "Carla"
     }
   ]
