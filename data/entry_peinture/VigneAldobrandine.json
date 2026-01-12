@@ -27,11 +27,16 @@
       "caption": ""
     }
   ],
-  "commentary": "changer dans le texte oxygène le fait que c pas un placename mais bien un object name + comment on fait qd pas d'artiste",
+  "commentary": "",
   "history": [
     {
       "date": "2026-01-12T15:34:39.272899",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-12T17:28:24.191879",
+      "type": "modified",
       "author": "Carla"
     }
   ]

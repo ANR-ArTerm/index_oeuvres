@@ -1,0 +1,30 @@
+{
+  "id": "ZeuxisHeleneNue",
+  "QID_wikidata": "",
+  "title": "Hélène nue",
+  "creator": [],
+  "entry_type": "peinture",
+  "materialsAndTechniques": null,
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "holding_institution": {
+    "place": "",
+    "name": null,
+    "inventory_number": "",
+    "URL": ""
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-12T17:32:49.781020",
+      "type": "created",
+      "author": "Carla"
+    }
+  ]
+}
