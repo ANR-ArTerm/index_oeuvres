@@ -65,7 +65,7 @@ if st.session_state.active_menu is None:
     render_home()
 elif st.session_state.active_menu == "add":
     st.header("Ajouter une notice")
-    tab1, tab2 = st.tabs(["🖼️ Peinture", "🏛️ Architecture"])
+    tab1, tab2 = st.tabs(["🖼️ Œuvre", "🏛️ Bâtiment"])
     
     with tab1:
         st.session_state.type_notice = "peinture"
