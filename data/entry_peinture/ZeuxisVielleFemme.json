@@ -5,7 +5,7 @@
   "creator": [
     {
       "xml_id": "Zeuxis",
-      "role": null
+      "role": "peintre"
     }
   ],
   "entry_type": "peinture",
@@ -24,7 +24,7 @@
   "related_works": [],
   "bibliography": [],
   "illustrations": [],
-  "commentary": "Il s'agit d'une peinture perdue mais à laquelle de nombreux auteurs font référence en tant que concept, pour sa qualité supposée ; elle devient un exemple à suivre pour les artistes modernes. \n",
+  "commentary": "Œuvre perdue, à laquelle de nombreux auteurs font référence comme concept. Ref chez De Piles. ",
   "history": [
     {
       "date": "2026-01-13T10:18:30.532407",
@@ -38,6 +38,21 @@
     },
     {
       "date": "2026-01-13T10:21:07.483636",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-13T11:40:32.312330",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-13T11:44:19.386670",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-13T11:45:47.569457",
       "type": "modified",
       "author": "Carla"
     }

@@ -1,19 +1,14 @@
 {
-  "id": "TimantheSacrificeIphigenie",
+  "id": "AnonymeHelene",
   "QID_wikidata": "",
-  "title": "Le Sacrifice d'Iphigénie",
-  "creator": [
-    {
-      "xml_id": "Timanthe",
-      "role": "peintre"
-    }
-  ],
+  "title": "Tableau représentant Hélène",
+  "creator": [],
   "entry_type": "peinture",
   "materialsAndTechniques": null,
   "dateCreated": {
-    "startYear": "-500",
-    "endYear": "-401",
-    "text": "fin du Ve siècle av. J.-C"
+    "startYear": "-370",
+    "endYear": "-306",
+    "text": "Du vivant d'Apelle : 370-306 av J.-C. "
   },
   "holding_institution": {
     "place": "",
@@ -27,13 +22,8 @@
   "commentary": "Œuvre perdue, à laquelle de nombreux auteurs font référence comme concept. Ref chez De Piles. ",
   "history": [
     {
-      "date": "2026-01-13T10:36:49.345763",
+      "date": "2026-01-13T11:53:35.981819",
       "type": "created",
-      "author": "Carla"
-    },
-    {
-      "date": "2026-01-13T11:45:21.629618",
-      "type": "modified",
       "author": "Carla"
     }
   ]

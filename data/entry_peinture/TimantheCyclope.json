@@ -24,11 +24,21 @@
   "related_works": [],
   "bibliography": [],
   "illustrations": [],
-  "commentary": "Œuvre perdue",
+  "commentary": "Œuvre perdue, à laquelle de nombreux auteurs font référence comme concept. Ref chez De Piles. ",
   "history": [
     {
       "date": "2026-01-13T10:39:57.458190",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-13T11:44:40.389560",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-13T11:44:56.106379",
+      "type": "modified",
       "author": "Carla"
     }
   ]
