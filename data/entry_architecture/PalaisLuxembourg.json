@@ -2,13 +2,18 @@
   "id": "PalaisLuxembourg",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q329852",
   "title": "Palais du Luxembourg",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "Marin de la Vallée",
+      "role": null
+    }
+  ],
   "entry_type": "architecture",
   "typology": "Palais",
   "dateCreated": {
     "startYear": "1615",
     "endYear": "1631",
-    "text": "1615-1631 La construction est tout d'abord confiée à Salomon de Brosse, mais c'est Marin de la Vallée qui est finalement choisi. "
+    "text": "1615-1631 La construction est tout d'abord confiée à Salomon de Brosse, mais c'est Marin de la Vallée qui est finalement choisi."
   },
   "location": {
     "city": "Paris",
@@ -23,13 +28,13 @@
   "illustrations": [
     {
       "id": 0,
-      "storage": "online",
-      "url": "https://www.wikidata.org/wiki/Q329852#/media/File:2017_-_Le_palais_du_Luxembourg,_dans_le_jardin_du_Luxembourg,_Paris_-_3.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/2017_-_Le_palais_du_Luxembourg%2C_dans_le_jardin_du_Luxembourg%2C_Paris_-_3.jpg",
       "copyright": "",
-      "caption": "Façade sud du palais"
+      "caption": "Façade sud",
+      "storage": "online"
     }
   ],
-  "commentary": "voir avec Pierre pour le menu déroulant des artistes et voir si l'url pour l'image va bien ",
+  "commentary": "",
   "history": [
     {
       "date": "2026-01-06T12:39:45.677472",
@@ -38,6 +43,16 @@
     },
     {
       "date": "2026-01-09T15:17:39.032331",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-13T16:53:26.441541",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-13T16:55:44.566274",
       "type": "modified",
       "author": "Carla"
     }

@@ -20,20 +20,17 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [
-    {
-      "id": 0,
-      "storage": "online",
-      "url": "",
-      "copyright": "",
-      "caption": ""
-    }
-  ],
+  "illustrations": [],
   "commentary": "",
   "history": [
     {
       "date": "2026-01-09T16:27:35.892812",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-13T16:52:13.778855",
+      "type": "modified",
       "author": "Carla"
     }
   ]
