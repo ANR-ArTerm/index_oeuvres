@@ -1,0 +1,35 @@
+{
+  "id": "CavalliniCrucifixSaintPaul",
+  "QID_wikidata": "",
+  "title": "Crucifix de bois",
+  "creator": [
+    {
+      "xml_id": "PietroCavallini",
+      "role": "sculpteur"
+    }
+  ],
+  "entry_type": "peinture",
+  "materialsAndTechniques": "sculpture",
+  "dateCreated": {
+    "startYear": "1240",
+    "endYear": "1330",
+    "text": "1240-1330"
+  },
+  "holding_institution": {
+    "place": "Rome",
+    "name": "Basilique Saint-Paul hors les murs",
+    "inventory_number": "",
+    "URL": ""
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "commentary": "Ce crucifix de bois miraculeux devant lequel sainte Brigitte de Suède aurait eu une vision.",
+  "history": [
+    {
+      "date": "2026-01-13T16:09:01.045634",
+      "type": "created",
+      "author": "Carla"
+    }
+  ]
+}

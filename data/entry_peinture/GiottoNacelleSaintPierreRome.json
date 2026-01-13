@@ -1,7 +1,7 @@
 {
   "id": "GiottoNacelleSaintPierreRome",
-  "QID_wikidata": "",
-  "title": "La Nacelle",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1311080",
+  "title": "La Nacelle ou la Barque de Saint Pierre agitée par la tempête",
   "creator": [
     {
       "xml_id": "Giotto",
@@ -13,7 +13,7 @@
   "dateCreated": {
     "startYear": "",
     "endYear": "",
-    "text": "Avant 1304 = mort de Benoit XI"
+    "text": "Avant 1304 = mort de Benoit IX"
   },
   "holding_institution": {
     "place": "Rome",
@@ -29,6 +29,26 @@
     {
       "date": "2026-01-13T15:30:35.164191",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-13T15:34:28.143268",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-13T15:37:07.147561",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-13T15:37:11.440703",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-13T15:40:04.962425",
+      "type": "modified",
       "author": "Carla"
     }
   ]
