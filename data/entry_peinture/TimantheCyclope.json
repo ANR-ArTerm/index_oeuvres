@@ -1,0 +1,35 @@
+{
+  "id": "TimantheCyclope",
+  "QID_wikidata": "",
+  "title": "Le cyclope dormant",
+  "creator": [
+    {
+      "xml_id": "Timanthe",
+      "role": "peintre"
+    }
+  ],
+  "entry_type": "peinture",
+  "materialsAndTechniques": null,
+  "dateCreated": {
+    "startYear": "-500",
+    "endYear": "-401",
+    "text": "fin du Ve siècle av. J.-C."
+  },
+  "holding_institution": {
+    "place": "",
+    "name": null,
+    "inventory_number": "",
+    "URL": ""
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "commentary": "Œuvre perdue",
+  "history": [
+    {
+      "date": "2026-01-13T10:39:57.458190",
+      "type": "created",
+      "author": "Carla"
+    }
+  ]
+}
