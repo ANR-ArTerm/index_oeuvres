@@ -11,9 +11,9 @@
   "entry_type": "peinture",
   "materialsAndTechniques": null,
   "dateCreated": {
-    "startYear": "",
-    "endYear": "",
-    "text": ""
+    "startYear": "-464",
+    "endYear": "-398 ",
+    "text": "464-398 av J.-C."
   },
   "holding_institution": {
     "place": "",
@@ -24,11 +24,26 @@
   "related_works": [],
   "bibliography": [],
   "illustrations": [],
-  "commentary": "",
+  "commentary": "Il s'agit d'une peinture perdue mais à laquelle de nombreux auteurs font référence en tant que concept, pour sa qualité supposée ; elle devient un exemple à suivre pour les artistes modernes. \n",
   "history": [
     {
       "date": "2026-01-13T10:16:09.971217",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-13T10:16:58.964307",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-13T10:17:01.401328",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-13T10:17:23.970344",
+      "type": "modified",
       "author": "Carla"
     }
   ]
