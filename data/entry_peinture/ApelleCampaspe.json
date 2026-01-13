@@ -1,0 +1,35 @@
+{
+  "id": "ApelleCampaspe",
+  "QID_wikidata": "",
+  "title": "Portrait de Campaspe",
+  "creator": [
+    {
+      "xml_id": "Apelle",
+      "role": "peintre"
+    }
+  ],
+  "entry_type": "peinture",
+  "materialsAndTechniques": null,
+  "dateCreated": {
+    "startYear": "-370",
+    "endYear": "-306",
+    "text": "370-306 av J.-C."
+  },
+  "holding_institution": {
+    "place": "",
+    "name": null,
+    "inventory_number": "",
+    "URL": ""
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "commentary": "Œuvre perdue. ",
+  "history": [
+    {
+      "date": "2026-01-13T11:39:45.447648",
+      "type": "created",
+      "author": "Carla"
+    }
+  ]
+}
