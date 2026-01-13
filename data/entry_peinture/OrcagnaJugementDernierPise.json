@@ -1,0 +1,35 @@
+{
+  "id": "OrcagnaJugementDernierPise",
+  "QID_wikidata": "",
+  "title": "Fresque du jugement dernier ",
+  "creator": [
+    {
+      "xml_id": "Orcagna",
+      "role": "peintre"
+    }
+  ],
+  "entry_type": "peinture",
+  "materialsAndTechniques": "fresque",
+  "dateCreated": {
+    "startYear": "1330",
+    "endYear": "1368",
+    "text": "vers 1330-1368, Début du chantier - mort de Andrea Orcagna"
+  },
+  "holding_institution": {
+    "place": "Pise",
+    "name": "Campo Santo",
+    "inventory_number": "",
+    "URL": ""
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-13T17:10:20.885084",
+      "type": "created",
+      "author": "Carla"
+    }
+  ]
+}
