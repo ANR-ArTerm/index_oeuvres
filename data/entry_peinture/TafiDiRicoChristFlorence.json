@@ -1,6 +1,6 @@
 {
   "id": "TafiDiRicoChristFlorence",
-  "QID_wikidata": "https://www.wikidata.org/wiki/Q495164",
+  "QID_wikidata": "",
   "title": "Le Christ Pantocrator au plafond du baptistère Saint-Jean-Baptiste de Florence",
   "creator": [
     {
@@ -23,20 +23,17 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [
-    {
-      "id": 0,
-      "storage": "online",
-      "url": "",
-      "copyright": "",
-      "caption": ""
-    }
-  ],
+  "illustrations": [],
   "commentary": "",
   "history": [
     {
       "date": "2026-01-13T14:53:01.524042",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-13T15:12:04.855444",
+      "type": "modified",
       "author": "Carla"
     }
   ]

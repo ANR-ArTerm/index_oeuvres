@@ -1,0 +1,35 @@
+{
+  "id": "GiottoNacelleSaintPierreRome",
+  "QID_wikidata": "",
+  "title": "La Nacelle",
+  "creator": [
+    {
+      "xml_id": "Giotto",
+      "role": "peintre"
+    }
+  ],
+  "entry_type": "peinture",
+  "materialsAndTechniques": "mosaïque",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": "Avant 1304 = mort de Benoit XI"
+  },
+  "holding_institution": {
+    "place": "Rome",
+    "name": "Basilique Saint Pierre, Vatican",
+    "inventory_number": "",
+    "URL": ""
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-13T15:30:35.164191",
+      "type": "created",
+      "author": "Carla"
+    }
+  ]
+}
