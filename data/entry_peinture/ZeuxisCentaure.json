@@ -1,0 +1,35 @@
+{
+  "id": "ZeuxisCentaure",
+  "QID_wikidata": "",
+  "title": "La famille d'un centaure",
+  "creator": [
+    {
+      "xml_id": "Zeuxis",
+      "role": "peintre"
+    }
+  ],
+  "entry_type": "peinture",
+  "materialsAndTechniques": null,
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "holding_institution": {
+    "place": "",
+    "name": null,
+    "inventory_number": "",
+    "URL": ""
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-13T10:16:09.971217",
+      "type": "created",
+      "author": "Carla"
+    }
+  ]
+}
