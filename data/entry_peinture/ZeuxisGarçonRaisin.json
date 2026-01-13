@@ -1,7 +1,7 @@
 {
-  "id": "ZeuxisHeleneNue",
+  "id": "ZeuxisGarçonRaisin",
   "QID_wikidata": "",
-  "title": "Hélène nue",
+  "title": "Garçon portant une corbeille de raisins",
   "creator": [
     {
       "xml_id": "Zeuxis",
@@ -13,7 +13,7 @@
   "dateCreated": {
     "startYear": "-464",
     "endYear": "-398",
-    "text": "464-398 av J.-C."
+    "text": "464 - 398 av J.-C."
   },
   "holding_institution": {
     "place": "",
@@ -24,16 +24,11 @@
   "related_works": [],
   "bibliography": [],
   "illustrations": [],
-  "commentary": "Il s'agit d'une peinture perdue mais à laquelle de nombreux auteurs font référence en tant que concept, pour sa qualité supposée ; elle devient un exemple à suivre pour les artistes modernes. \n",
+  "commentary": "",
   "history": [
     {
-      "date": "2026-01-12T17:54:18.248067",
+      "date": "2026-01-13T10:08:26.188488",
       "type": "created",
-      "author": "Carla"
-    },
-    {
-      "date": "2026-01-13T09:56:57.590409",
-      "type": "modified",
       "author": "Carla"
     }
   ]
