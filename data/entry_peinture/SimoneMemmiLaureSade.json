@@ -1,0 +1,35 @@
+{
+  "id": "SimoneMemmiLaureSade",
+  "QID_wikidata": "",
+  "title": "Portrait de La belle Laure",
+  "creator": [
+    {
+      "xml_id": "SimoneMemmi",
+      "role": "peintre"
+    }
+  ],
+  "entry_type": "peinture",
+  "materialsAndTechniques": null,
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "holding_institution": {
+    "place": "",
+    "name": null,
+    "inventory_number": "",
+    "URL": ""
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "commentary": "Œuvre perdue, à laquelle de nombreux auteurs font référence comme concept. Ref chez De Piles. ",
+  "history": [
+    {
+      "date": "2026-01-13T16:20:26.639647",
+      "type": "created",
+      "author": "Carla"
+    }
+  ]
+}
