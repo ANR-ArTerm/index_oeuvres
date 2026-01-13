@@ -1,0 +1,43 @@
+{
+  "id": "RaphaelMiracleBolsena",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2529969",
+  "title": "La messe de Bolsena ou le miracle du saint Sacrement de Bolsena",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
+  "entry_type": "peinture",
+  "materialsAndTechniques": "fresque",
+  "dateCreated": {
+    "startYear": "1512",
+    "endYear": "1512",
+    "text": "1512"
+  },
+  "holding_institution": {
+    "place": "Rome",
+    "name": null,
+    "inventory_number": "",
+    "URL": ""
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "storage": "online",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Massatbolsena.jpg",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-13T17:24:08.101361",
+      "type": "created",
+      "author": "Carla"
+    }
+  ]
+}
