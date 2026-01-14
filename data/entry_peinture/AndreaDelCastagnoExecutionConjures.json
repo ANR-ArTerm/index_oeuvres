@@ -1,0 +1,35 @@
+{
+  "id": "AndreaDelCastagnoExecutionConjures",
+  "QID_wikidata": "",
+  "title": "L'Exécution des conjurés ou Gli Impiccati",
+  "creator": [
+    {
+      "xml_id": "AndreaDelCastagno",
+      "role": "peintre"
+    }
+  ],
+  "entry_type": "peinture",
+  "materialsAndTechniques": "fresque",
+  "dateCreated": {
+    "startYear": "1440",
+    "endYear": "1440",
+    "text": "1440"
+  },
+  "holding_institution": {
+    "place": "",
+    "name": null,
+    "inventory_number": "",
+    "URL": ""
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "commentary": "Cette œuvre a disparu. La fresque représentait la pendaison des familles Albizi et Peruzzi  sur la façade du Bargello. Ce contexte mouvementé survient après la bataille d'Anghiari.",
+  "history": [
+    {
+      "date": "2026-01-14T11:26:53.819351",
+      "type": "created",
+      "author": "Carla"
+    }
+  ]
+}
