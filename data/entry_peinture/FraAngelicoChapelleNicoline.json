@@ -1,0 +1,38 @@
+{
+  "id": "FraAngelicoChapelleNicoline",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q249973",
+  "title": "Fresques de la chapelle Nicoline",
+  "creator": [],
+  "entry_type": "peinture",
+  "materialsAndTechniques": "fresque",
+  "dateCreated": {
+    "startYear": "1447",
+    "endYear": "1447",
+    "text": "1447"
+  },
+  "holding_institution": {
+    "place": "Rome",
+    "name": "Vatican, Palais apostolique",
+    "inventory_number": "",
+    "URL": ""
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "storage": "online",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/St._Peter_Niccoline_Chapel.jpg",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-14T10:18:00.342393",
+      "type": "created",
+      "author": "Carla"
+    }
+  ]
+}

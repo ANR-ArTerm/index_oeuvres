@@ -1,5 +1,5 @@
 {
-  "id": "RaphaelMiracleBolsena",
+  "id": "RaphaelMesseBolsena",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q2529969",
   "title": "La messe de Bolsena ou le miracle du saint Sacrement de Bolsena",
   "creator": [
@@ -41,6 +41,11 @@
     },
     {
       "date": "2026-01-14T10:04:50.319562",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-14T10:09:18.984996",
       "type": "modified",
       "author": "Carla"
     }
