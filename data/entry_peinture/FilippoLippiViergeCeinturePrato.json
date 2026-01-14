@@ -1,0 +1,43 @@
+{
+  "id": "FilippoLippiViergeCeinturePrato",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3842662",
+  "title": "Vierge à la ceinture ou Madonna della Cintola",
+  "creator": [
+    {
+      "xml_id": "FilippoLippi",
+      "role": "peintre"
+    }
+  ],
+  "entry_type": "peinture",
+  "materialsAndTechniques": "tempera sur bois",
+  "dateCreated": {
+    "startYear": "1456",
+    "endYear": "1460",
+    "text": "1456-1460"
+  },
+  "holding_institution": {
+    "place": "Prato",
+    "name": "Musée civique",
+    "inventory_number": "",
+    "URL": ""
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "storage": "online",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Lippi%2C_madonna_della_cintola%2C_prato.jpg",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-14T10:51:26.149957",
+      "type": "created",
+      "author": "Carla"
+    }
+  ]
+}
