@@ -1,7 +1,7 @@
 {
-  "id": "RaphaelMiracleBolsena",
-  "QID_wikidata": "https://www.wikidata.org/wiki/Q2529969",
-  "title": "La messe de Bolsena ou le miracle du saint Sacrement de Bolsena",
+  "id": "RaphaelDelivrancePierre",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2719737",
+  "title": "La Délivrance de saint Pierre ou Saint Pierre dans sa Prison",
   "creator": [
     {
       "xml_id": "Raphael",
@@ -11,9 +11,9 @@
   "entry_type": "peinture",
   "materialsAndTechniques": "fresque",
   "dateCreated": {
-    "startYear": "1512",
-    "endYear": "1512",
-    "text": "1512"
+    "startYear": "1514",
+    "endYear": "1514",
+    "text": "1514"
   },
   "holding_institution": {
     "place": "Rome",
@@ -27,7 +27,7 @@
     {
       "id": 0,
       "storage": "online",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Massatbolsena.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Deliveranceofstpeter.jpg",
       "copyright": "",
       "caption": ""
     }
@@ -35,13 +35,8 @@
   "commentary": "",
   "history": [
     {
-      "date": "2026-01-13T17:24:08.101361",
+      "date": "2026-01-14T10:08:55.341280",
       "type": "created",
-      "author": "Carla"
-    },
-    {
-      "date": "2026-01-14T10:04:50.319562",
-      "type": "modified",
       "author": "Carla"
     }
   ]
