@@ -1,0 +1,35 @@
+{
+  "id": "RubensCycleMedicisLuxembourg",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2558141",
+  "title": "Cycle de Marie de Médicis",
+  "creator": [
+    {
+      "xml_id": "PeterPaulRubens",
+      "role": "peintre"
+    }
+  ],
+  "entry_type": "peinture",
+  "materialsAndTechniques": null,
+  "dateCreated": {
+    "startYear": "1621",
+    "endYear": "1624",
+    "text": "Années 1620"
+  },
+  "holding_institution": {
+    "place": "Paris",
+    "name": "Musée du Louvre",
+    "inventory_number": "",
+    "URL": ""
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-15T17:04:26.902058",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

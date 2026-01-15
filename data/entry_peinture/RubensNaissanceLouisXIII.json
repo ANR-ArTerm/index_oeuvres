@@ -4,7 +4,7 @@
   "title": "Naissance de Louis XIII à Fontainebleau le 27 septembre 1601",
   "creator": [
     {
-      "xml_id": "Rubens",
+      "xml_id": "PeterPaulRubens",
       "role": "peintre"
     }
   ],
@@ -32,7 +32,7 @@
       "caption": ""
     }
   ],
-  "commentary": "Voir avec Pierre si Rubens est déjà intégré dans le menu déroulant. ",
+  "commentary": "",
   "history": [
     {
       "date": "2026-01-06T13:34:07.325313",
@@ -53,6 +53,11 @@
       "date": "2026-01-09T15:12:21.664947",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-01-15T16:59:00.000000",
+      "type": "modified",
+      "author": "Pierre"
     }
   ]
 }
