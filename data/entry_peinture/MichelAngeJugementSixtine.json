@@ -1,0 +1,44 @@
+{
+  "id": "MichelAngeJugementSixtine",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q567861",
+  "title": "Le Jugement dernier",
+  "creator": [
+    {
+      "xml_id": "MichelAnge",
+      "role": "peintre"
+    }
+  ],
+  "entry_type": "peinture",
+  "materialsAndTechniques": "fresque",
+  "dateCreated": {
+    "startYear": "1536",
+    "endYear": "1541",
+    "text": "1536-1541"
+  },
+  "holding_institution": {
+    "place": "Rome",
+    "name": "Vatican, Chapelle Sixtine",
+    "inventory_number": "",
+    "URL": ""
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "storage": "online",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Last_Judgement_%28Michelangelo%29.jpg",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-19T16:50:11.469897",
+      "type": "created",
+      "author": "Carla"
+    }
+  ]
+}

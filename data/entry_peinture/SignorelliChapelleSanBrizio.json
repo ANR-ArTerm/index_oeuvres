@@ -1,0 +1,52 @@
+{
+  "id": "SignorelliChapelleSanBrizio",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3657553",
+  "title": "Chapelle San Brizio, jugement dernier",
+  "creator": [
+    {
+      "xml_id": "LucaSignorelli",
+      "role": "peintre"
+    },
+    {
+      "xml_id": "FraAngelico",
+      "role": "peintre"
+    },
+    {
+      "xml_id": "BenozzoGozzoli",
+      "role": "peintre"
+    }
+  ],
+  "entry_type": "peinture",
+  "materialsAndTechniques": "fresque",
+  "dateCreated": {
+    "startYear": "1396",
+    "endYear": "1502",
+    "text": "1396-1502"
+  },
+  "holding_institution": {
+    "place": "Orvieto",
+    "name": "Cathédrale d'Orvieto",
+    "inventory_number": "",
+    "URL": ""
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "storage": "online",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Luca_signorelli%2C_cappella_di_san_brizio_00.jpg",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-19T16:44:10.584194",
+      "type": "created",
+      "author": "Carla"
+    }
+  ]
+}

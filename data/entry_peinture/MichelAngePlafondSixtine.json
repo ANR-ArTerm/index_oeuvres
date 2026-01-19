@@ -1,0 +1,44 @@
+{
+  "id": "MichelAngePlafondSixtine",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q844675",
+  "title": "Plafond de la chapelle Sixtine",
+  "creator": [
+    {
+      "xml_id": "MichelAnge",
+      "role": "peintre"
+    }
+  ],
+  "entry_type": "peinture",
+  "materialsAndTechniques": "fresque",
+  "dateCreated": {
+    "startYear": "1508",
+    "endYear": "1512",
+    "text": "1508-1512"
+  },
+  "holding_institution": {
+    "place": "Rome",
+    "name": "Vatican, Chapelle Sixtine",
+    "inventory_number": "",
+    "URL": ""
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "storage": "online",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/CAPPELLA_SISTINA_Ceiling.jpg",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-19T16:59:00.719225",
+      "type": "created",
+      "author": "Carla"
+    }
+  ]
+}
