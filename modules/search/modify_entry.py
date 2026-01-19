@@ -43,14 +43,20 @@ def edit_related_work(work, idx, list_xml_id):
                     index=index_list_form(work.get("link_type", ""),"link_types")
                     )
     with col2:
-        work["xml_id"] = st.selectbox(
-                    f"XML:id de l'oeuvre liée {idx+1}",
-                    list_xml_id,
-                    index=list_xml_id.index(work.get("xml_id_work", "")),
-                    placeholder="XML:ID de l'oeuvre liée",
-                    accept_new_options=False,
-                    key=f"work_xmlid_{idx}"
-                    )
+        xml_id_value = work.get("xml_id_work")
+        xml_index = (
+            list_xml_id.index(xml_id_value)
+            if xml_id_value in list_xml_id
+            else None
+        )
+        work["xml_id_work"] = st.selectbox(
+            f"XML:id de l'oeuvre liée {idx + 1}",
+            list_xml_id,
+            index=xml_index,
+            placeholder="XML:ID de l'oeuvre liée",
+            accept_new_options=False,
+            key=f"work_xmlid_{idx}"
+        )
     return work
 
 def edit_bibliography(biblio, idx):
