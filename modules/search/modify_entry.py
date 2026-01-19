@@ -345,7 +345,9 @@ def edit_json_notice(json_path=None, data=None):
         st.rerun()
 
     # Section Commentaire
-    st.header("💬 Commentaire")
+
+    st.header("💬 Description et commentaire")
+    notice["description"] = st.text_area("Description", notice.get("Description", ""))
     notice["commentary"] = st.text_area("Commentaire", notice.get("commentary", ""))
 
     # Boutons d'action

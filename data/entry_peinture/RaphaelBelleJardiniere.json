@@ -1,24 +1,24 @@
 {
   "id": "RaphaelBelleJardiniere",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q2343778",
-  "title": "La Belle Jardinière",
+  "title": "La Vierge à l'Enfant avec le petit saint Jean-Baptiste ou la Belle Jardinière",
   "creator": [
     {
       "xml_id": "Raphael",
       "role": "peintre"
     }
   ],
-  "entry_type": "painting",
-  "materialsAndTechniques": "",
+  "entry_type": "peinture",
+  "materialsAndTechniques": "huile sur bois",
   "dateCreated": {
-    "startYear": "",
-    "endYear": "",
-    "text": ""
+    "startYear": "1507",
+    "endYear": "1508",
+    "text": "1507-1508"
   },
   "holding_institution": {
-    "place": "",
-    "name": "",
-    "inventory_number": "",
+    "place": "Paris",
+    "name": "Musée du Louvre",
+    "inventory_number": "INV 602 ",
     "URL": ""
   },
   "related_works": [],
@@ -28,12 +28,66 @@
       "location": "n° 35"
     }
   ],
-  "illustrations": [],
-  "commentary": "Erreur chez Daret : bien destinée à l'église santo Spirito, il mélange avec la belle jardinière (peut-être destinée à Sienne mais on n'est pas sûr) qui fut terminée par Ghirlandaio",
+  "illustrations": [
+    {
+      "id": 0,
+      "storage": "online",
+      "url": "https://collections.louvre.fr/media/cache/large/0000000021/0000060754/0000978445_OG.JPG",
+      "copyright": "© 2020 GrandPalaisRmn (musée du Louvre) / Tony Querrec",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "voir si la deuxième est aussi au louvre. Erreur chez Daret : bien destinée à l'église santo Spirito, il mélange avec la belle jardinière (peut-être destinée à Sienne mais on n'est pas sûr) qui fut terminée par Ghirlandaio",
   "history": [
     {
-      "date": "2026-01-15T16:40:40.213354",
+      "date": "2026-01-09T17:12:03.281341",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-09T17:15:36.100569",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-12T17:18:24.792385",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-12T17:37:57.222782",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-19T10:35:14.843577",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-19T10:35:25.695727",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-19T10:35:51.221456",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-19T10:35:55.620414",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-19T10:41:50.362896",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-19T14:21:53.370706",
+      "type": "modified",
       "author": "Pierre"
     }
   ]

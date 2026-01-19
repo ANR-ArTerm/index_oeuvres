@@ -1,23 +1,27 @@
 {
   "id": "RaphaelLeonX",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q2610729",
-  "title": "Portrait du pape Léon X\r",
+  "title": "Portrait de Leon X",
   "creator": [
     {
       "xml_id": "Raphael",
       "role": "peintre"
+    },
+    {
+      "xml_id": "GiulioRomano",
+      "role": "peintre"
     }
   ],
-  "entry_type": "painting",
-  "materialsAndTechniques": "",
+  "entry_type": "peinture",
+  "materialsAndTechniques": "huile sur bois",
   "dateCreated": {
-    "startYear": "",
-    "endYear": "",
-    "text": ""
+    "startYear": "1518",
+    "endYear": "1520",
+    "text": "1518-1520"
   },
   "holding_institution": {
-    "place": "",
-    "name": "",
+    "place": "Florence",
+    "name": "Musée des Offices",
     "inventory_number": "",
     "URL": ""
   },
@@ -28,13 +32,27 @@
       "location": "n° 81"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "storage": "online",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Portrait_of_Pope_Leo_X_and_his_cousins%2C_cardinals_Giulio_de%27_Medici_and_Luigi_de%27_Rossi_%28by_Raphael%29.jpg",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "description": "",
   "commentary": "",
   "history": [
     {
-      "date": "2026-01-15T16:40:40.288876",
+      "date": "2026-01-12T12:16:53.145898",
       "type": "created",
-      "author": "Pierre"
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-12T17:06:48.763502",
+      "type": "modified",
+      "author": "Carla"
     }
   ]
 }

@@ -344,8 +344,9 @@ def add_notice_peinture():
 
         # =============== Commentaire ===================
 
-        st.subheader("Commentaire")
-        commentaire = st.text_area("Commentaire")
+        description = st.text_area("Description de l'œuvre (à montrer sur le site)", placeholder="ex : Peinture de Léonard de Vinci,...", help="Texte qui sera montré sur le site pour ajouter des détails sur l'œuvre")
+
+        commentaire = st.text_area("Commentaire de l'éditeur de la notice (caché sur le site)", placeholder="ex : à modifier plus tard, image à demander", help="Ne sera pas affiché sur le site, commentaire à l'usage des éditeurs des notices." )
 
         # =============== Validation ===================
         
@@ -386,6 +387,7 @@ def add_notice_peinture():
                     "related_works": related_works_list,
                     "bibliography": bibliography_list,
                     "illustrations": illustrations_list,
+                    "description": description,
                     "commentary": commentaire,
                     "history": [
                         {

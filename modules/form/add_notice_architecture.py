@@ -363,8 +363,11 @@ def add_notice_architecture():
 
         # =============== Commentaire ===================
 
-        st.subheader("Commentaire")
-        commentaire = st.text_area("Commentaire")
+        st.subheader("Description et commentaire")
+
+        description = st.text_area("Description de l'œuvre (à montrer sur le site)", placeholder="ex : Peinture de Léonard de Vinci,...", help="Texte qui sera montré sur le site pour ajouter des détails sur l'œuvre")
+
+        commentaire = st.text_area("Commentaire de l'éditeur de la notice", placeholder="ex : à modifier plus tard, image à demander", help="Ne sera pas affiché sur le site, commentaire à l'usage des éditeurs des notices." )
 
         # =============== Validation ===================
         
@@ -405,6 +408,7 @@ def add_notice_architecture():
                     "related_works": related_works_list,
                     "bibliography": bibliography_list,
                     "illustrations": illustrations_list,
+                    "description": description,
                     "commentary": commentaire,
                     "history": [
                         {

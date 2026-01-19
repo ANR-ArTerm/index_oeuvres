@@ -22,7 +22,12 @@
     "URL": ""
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "dusslerRaphaelCriticalCatalogue1971",
+      "location": "p. 81"
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -32,6 +37,7 @@
       "caption": ""
     }
   ],
+  "description": "",
   "commentary": "",
   "history": [
     {

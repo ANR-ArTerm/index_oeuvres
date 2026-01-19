@@ -4,8 +4,8 @@
   "title": "La Trinité et six saints",
   "creator": [
     {
-      "xml_id":"Perugin",
-      "role":"peintre"
+      "xml_id": "Perugin",
+      "role": "peintre"
     },
     {
       "xml_id": "Raphael",
@@ -33,6 +33,7 @@
     }
   ],
   "illustrations": [],
+  "description": "",
   "commentary": "",
   "history": [
     {
