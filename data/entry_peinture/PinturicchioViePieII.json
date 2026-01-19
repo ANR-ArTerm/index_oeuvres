@@ -1,0 +1,43 @@
+{
+  "id": "PinturicchioViePieII",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q19947694",
+  "title": "Scènes de la Vie de Pie II ",
+  "creator": [
+    {
+      "xml_id": "Pinturicchio",
+      "role": "peintre"
+    }
+  ],
+  "entry_type": "peinture",
+  "materialsAndTechniques": "fresque",
+  "dateCreated": {
+    "startYear": "1505",
+    "endYear": "1507",
+    "text": "1505-1507"
+  },
+  "holding_institution": {
+    "place": "Sienne",
+    "name": null,
+    "inventory_number": "",
+    "URL": ""
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "storage": "online",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Sienne_duomo_bibliotheque.JPG",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-19T09:57:48.672804",
+      "type": "created",
+      "author": "Carla"
+    }
+  ]
+}
