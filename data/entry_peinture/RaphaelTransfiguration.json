@@ -22,7 +22,12 @@
     "URL": "https://www.museivaticani.va/content/museivaticani/fr/collezioni/musei/la-pinacoteca/sala-viii---secolo-xvi/raffaello-sanzio--trasfigurazione.html"
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "meyerzurcapellenRaphaelCriticalCatalogue2005",
+      "location": "n° 66"
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
