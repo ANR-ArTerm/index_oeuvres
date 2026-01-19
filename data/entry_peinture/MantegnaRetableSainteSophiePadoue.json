@@ -1,0 +1,35 @@
+{
+  "id": "MantegnaRetableSainteSophiePadoue",
+  "QID_wikidata": "",
+  "title": "Tableau d'autel",
+  "creator": [
+    {
+      "xml_id": "AndreaMantegna",
+      "role": "peintre"
+    }
+  ],
+  "entry_type": "peinture",
+  "materialsAndTechniques": null,
+  "dateCreated": {
+    "startYear": "1448",
+    "endYear": "1448",
+    "text": "Vers 1448 environ"
+  },
+  "holding_institution": {
+    "place": "",
+    "name": null,
+    "inventory_number": "",
+    "URL": ""
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "commentary": "Œuvre détruite au cours du XVIIème siècle ",
+  "history": [
+    {
+      "date": "2026-01-19T14:17:33.782149",
+      "type": "created",
+      "author": "Carla"
+    }
+  ]
+}
