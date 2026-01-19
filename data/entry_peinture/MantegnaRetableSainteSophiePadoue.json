@@ -1,7 +1,7 @@
 {
   "id": "MantegnaRetableSainteSophiePadoue",
   "QID_wikidata": "",
-  "title": "Tableau d'autel",
+  "title": "Tableau d'autel pour l'église Sainte-Sophie de Padoue",
   "creator": [
     {
       "xml_id": "AndreaMantegna",
@@ -29,6 +29,11 @@
     {
       "date": "2026-01-19T14:17:33.782149",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-19T14:18:12.026089",
+      "type": "modified",
       "author": "Carla"
     }
   ]
