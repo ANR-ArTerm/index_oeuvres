@@ -4,15 +4,15 @@
   "title": "Les Triomphes de Jules César",
   "creator": [
     {
-      "xml_id": "AndreaAndreani",
-      "role": "graveur"
+      "xml_id": "AndreaMantegna",
+      "role": "peintre"
     }
   ],
   "entry_type": "peinture",
   "materialsAndTechniques": "gravure sur bois en clair-obscur",
   "dateCreated": {
-    "startYear": "1599",
-    "endYear": "1599",
+    "startYear": "",
+    "endYear": "",
     "text": "1599"
   },
   "holding_institution": {
@@ -21,12 +21,7 @@
     "inventory_number": "",
     "URL": ""
   },
-  "related_works": [
-    {
-      "link_type": "gravé d'après",
-      "xml_id_work": "MantegnaTriompheCesar"
-    }
-  ],
+  "related_works": [],
   "bibliography": [],
   "illustrations": [
     {
@@ -40,7 +35,7 @@
   "commentary": "",
   "history": [
     {
-      "date": "2026-01-19T15:51:10.587315",
+      "date": "2026-01-19T15:36:05.059765",
       "type": "created",
       "author": "Carla"
     }
