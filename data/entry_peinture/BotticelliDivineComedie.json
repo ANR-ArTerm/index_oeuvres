@@ -1,0 +1,58 @@
+{
+  "id": "BotticelliDivineComedie",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q16912485",
+  "title": "Commentaire et illustration de la Divine Comédie de Dante",
+  "creator": [
+    {
+      "xml_id": "SandroBotticelli",
+      "role": "peintre"
+    }
+  ],
+  "entry_type": "peinture",
+  "materialsAndTechniques": "Pointe d'argent et encre, coloré à la détrempe sur parchemin",
+  "dateCreated": {
+    "startYear": "1480",
+    "endYear": "1490",
+    "text": "1480-1490 Dates incertaines"
+  },
+  "holding_institution": {
+    "place": "Berlin",
+    "name": null,
+    "inventory_number": "",
+    "URL": ""
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Sandro_Botticelli_-_La_Carte_de_l%27Enfer.jpg",
+      "copyright": "",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-19T12:17:50.026384",
+      "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-19T14:07:55.143314",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-19T14:08:25.084842",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-19T14:08:57.178939",
+      "type": "modified",
+      "author": "Carla"
+    }
+  ]
+}

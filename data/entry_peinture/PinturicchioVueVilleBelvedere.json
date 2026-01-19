@@ -1,0 +1,43 @@
+{
+  "id": "PinturicchioVueVilleBelvedere",
+  "QID_wikidata": "",
+  "title": "Vues de villes italiennes",
+  "creator": [
+    {
+      "xml_id": "Pinturicchio",
+      "role": "peintre"
+    }
+  ],
+  "entry_type": "peinture",
+  "materialsAndTechniques": "fresque",
+  "dateCreated": {
+    "startYear": "1488",
+    "endYear": "1490",
+    "text": "1488-1490"
+  },
+  "holding_institution": {
+    "place": "Rome",
+    "name": "Vatican, Musée Pio-Clementino",
+    "inventory_number": "",
+    "URL": ""
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "storage": "online",
+      "url": "",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "commentary": "créer la notice wikidata",
+  "history": [
+    {
+      "date": "2026-01-19T11:51:06.649858",
+      "type": "created",
+      "author": "Carla"
+    }
+  ]
+}

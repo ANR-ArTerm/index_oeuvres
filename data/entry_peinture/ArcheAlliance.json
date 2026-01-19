@@ -1,0 +1,30 @@
+{
+  "id": "ArcheAlliance",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q131316",
+  "title": "Arche d'alliance ",
+  "creator": [],
+  "entry_type": "peinture",
+  "materialsAndTechniques": null,
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "holding_institution": {
+    "place": "",
+    "name": null,
+    "inventory_number": "",
+    "URL": ""
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "commentary": "Arche d'alliance citée dans la Bible. ",
+  "history": [
+    {
+      "date": "2026-01-19T10:33:34.440758",
+      "type": "created",
+      "author": "Carla"
+    }
+  ]
+}

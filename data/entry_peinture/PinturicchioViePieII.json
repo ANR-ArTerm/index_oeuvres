@@ -6,6 +6,10 @@
     {
       "xml_id": "Pinturicchio",
       "role": "peintre"
+    },
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
     }
   ],
   "entry_type": "peinture",
@@ -17,7 +21,7 @@
   },
   "holding_institution": {
     "place": "Sienne",
-    "name": null,
+    "name": "Libreria Piccolomini, Cathédrale de Sienne.",
     "inventory_number": "",
     "URL": ""
   },
@@ -37,6 +41,16 @@
     {
       "date": "2026-01-19T09:57:48.672804",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-19T11:31:25.316986",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-19T11:32:26.170438",
+      "type": "modified",
       "author": "Carla"
     }
   ]

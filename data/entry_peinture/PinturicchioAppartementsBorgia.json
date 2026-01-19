@@ -1,0 +1,43 @@
+{
+  "id": "PinturicchioAppartementsBorgia",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q498557",
+  "title": "Peintures des apparetements Borgia ",
+  "creator": [
+    {
+      "xml_id": "Pinturicchio",
+      "role": "peintre"
+    }
+  ],
+  "entry_type": "peinture",
+  "materialsAndTechniques": "fresque",
+  "dateCreated": {
+    "startYear": "1492",
+    "endYear": "1494",
+    "text": "1492-1494"
+  },
+  "holding_institution": {
+    "place": "Rome",
+    "name": "Vatican, Palais apostolique",
+    "inventory_number": "",
+    "URL": ""
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "storage": "online",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Appartamento_borgia%2C_05.JPG",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-19T11:59:05.484219",
+      "type": "created",
+      "author": "Carla"
+    }
+  ]
+}
