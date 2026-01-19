@@ -1,0 +1,33 @@
+{
+  "id": "LouvreParis",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1075988",
+  "title": "Palais du Louvre",
+  "creator": [],
+  "entry_type": "architecture",
+  "typology": null,
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "location": {
+    "city": "",
+    "country": "",
+    "coordinates": {
+      "latitude": "",
+      "longitude": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-19T16:01:42.335789",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}
