@@ -1,5 +1,5 @@
 {
-  "id": "RaphaelBelleJardiniere",
+  "id": "RaphaelBelleJardiniere2",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q2343778",
   "title": "La Vierge à l'Enfant avec le petit saint Jean-Baptiste ou la Belle Jardinière",
   "creator": [
@@ -53,6 +53,11 @@
       "date": "2026-01-12T17:37:57.222782",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-01-19T14:21:53.370706",
+      "type": "modified",
+      "author": null
     }
   ]
 }

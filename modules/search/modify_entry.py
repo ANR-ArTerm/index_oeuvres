@@ -349,22 +349,23 @@ def edit_json_notice(json_path=None, data=None):
 
     # Boutons d'action
     st.divider()
-    col1, col2, col3 = st.columns([1, 1, 2])
-    
-    with col1:
-        if st.button("💾 Sauvegarder", type="primary"):
-            try:
-                entry_editor = st.selectbox("Auteur des modifications :",
+    entry_editor = st.selectbox("Auteur des modifications :",
                                 load_list_form("usernames"),
                                 index=index_username()
                                 )
+    col1, col2, col3 = st.columns([1, 1, 2])
+
+    with col1:
+        if st.button("💾 Sauvegarder", type="primary"):
+            try:
                 notice["history"].append({
                     "date": datetime.now().isoformat(),
                     "type": "modified",
                     "author": entry_editor
                 })
-                saved_path = save_notice(notice, path=json_path)
+                saved_path = save_notice(notice, path=json_path, old_id=st.session_state.original_id)
                 st.success(f"✅ Modifications sauvegardées dans : {saved_path}")
+                st.session_state.pop("original_id", None)
             except Exception as e:
                 st.error(f"❌ Erreur lors de la sauvegarde : {str(e)}")
     

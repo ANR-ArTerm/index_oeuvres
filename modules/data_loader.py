@@ -217,7 +217,7 @@ def load_notice(path):
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
 
-def save_notice(oeuvre, path=None):
+def save_notice(oeuvre, path=None, old_id=None):
     """
     Sauvegarde une œuvre dans un fichier JSON.
     - Si path est None → génère automatiquement :
@@ -225,16 +225,26 @@ def save_notice(oeuvre, path=None):
     """
 
     # obtenir le type de l'œuvre
-    type_oeuvre = oeuvre.get("entry_type", "inconnu")
+    type_oeuvre = oeuvre.get("entry_type", "error_type")
     base_dir = TYPE_DIRS.get(type_oeuvre, DATA_DIR)
 
     if not os.path.exists(base_dir):
         os.makedirs(base_dir)
+    
+    new_id = oeuvre.get("id") or "nouvelle_notice"
+    new_path = os.path.join(base_dir, f"{new_id}.json")
+
+    if old_id != new_id and os.path.exists(new_path):
+        raise ValueError("Un fichier avec cet ID existe déjà.")
+
+    if path and old_id and old_id != new_id:
+        if os.path.exists(path):
+            os.remove(path)  # supprimer l'ancien fichier
+        path = new_path
 
     # nom de fichier
     if path is None:
-        id_oeuvre = oeuvre.get("id") or "nouvelle_notice"
-        path = os.path.join(base_dir, f"{id_oeuvre}.json")
+        path = new_path
 
     # sauvegarde
     with open(path, "w", encoding="utf-8") as f:
@@ -319,7 +329,8 @@ def save_to_list_form(key: str, value: str):
 
 def load_username(default=None):
     load_dotenv()
-    return os.getenv("USERNAME", default)
+    username = os.getenv("USERNAME", default)
+    return username.strip() if username else None
 
 def index_username():
     username = load_username()

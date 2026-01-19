@@ -8,49 +8,54 @@ def normalize_notice_painting(o):
     """
     Remplace les champs vides par des chaînes 'AUCUN ...' pour que la recherche fonctionne.
     """
+
+    o_display = {}
+
     # Champs principaux
-    o['id'] = o.get('id') or "AUCUN ID"
-    o['title'] = o.get('title') or "AUCUN TITRE"
-    o['entry_type'] = o.get('entry_type') or "AUCUN TYPE"
-    o['materialsAndTechniques'] = o.get('materialsAndTechniques') or "AUCUNE TECHNIQUE"
-    o['commentary'] = o.get('commentary') or "AUCUN COMMENTAIRE"
+    o_display['id'] = o.get('id') or "AUCUN ID"
+    o_display['title'] = o.get('title') or "AUCUN TITRE"
+    o_display['entry_type'] = o.get('entry_type') or "AUCUN TYPE"
+    o_display['materialsAndTechniques'] = o.get('materialsAndTechniques') or "AUCUNE TECHNIQUE"
+    o_display['commentary'] = o.get('commentary') or "AUCUN COMMENTAIRE"
     
     # Date
     date = o.get('dateCreated', {})
-    o['date_text'] = date.get('text') or "AUCUNE DATE"
+    o_display['date_text'] = date.get('text') or "AUCUNE DATE"
     
     # Lieu
     holding_institution = o.get('holding_institution', {})
-    o['city'] = holding_institution.get('place') or "AUCUNE VILLE"
-    o['name'] = holding_institution.get('name') or "AUCUNE INSTITUTION"
-    o['URL'] = holding_institution.get('URL') or "AUCUN URL"
+    o_display['city'] = holding_institution.get('place') or "AUCUNE VILLE"
+    o_display['name'] = holding_institution.get('name') or "AUCUNE INSTITUTION"
+    o_display['URL'] = holding_institution.get('URL') or "AUCUN URL"
 
 
     # Créateurs
     creators = o.get('creator', [])
     if not creators:
-        o['creators_display'] = ["AUCUN CRÉATEUR"]
+        o_display['creators_display'] = ["AUCUN CRÉATEUR"]
     else:
         display_list = []
         for c in creators:
             nom = c.get('xml_id', 'Créateur inconnu')
             role = c.get('role')
             display_list.append(f"{nom} ({role})" if role else nom)
-        o['creators_display'] = display_list
+        o_display['creators_display'] = display_list
 
     # Bibliographie
     biblio = o.get('bibliography', [])
     if not biblio:
-        o['biblio_display'] = ["AUCUNE BIBLIOGRAPHIE"]
+        o_display['biblio_display'] = ["AUCUNE BIBLIOGRAPHIE"]
     else:
-        o['biblio_display'] = [f"{b.get('zotero_key', '')} ({b.get('location', '')})" for b in biblio]
+        o_display['biblio_display'] = [f"{b.get('zotero_key', '')} ({b.get('location', '')})" for b in biblio]
 
     # Illustrations
     illus = o.get('illustrations', [])
     if not illus:
-        o['illustrations_display'] = ["AUCUNE ILLUSTRATION"]
+        o_display['illustrations_display'] = ["AUCUNE ILLUSTRATION"]
     else:
-        o['illustrations_display'] = [i.get('url', 'AUCUNE URL') for i in illus]
+        o_display['illustrations_display'] = [i.get('url', 'AUCUNE URL') for i in illus]
+
+    return o_display
 
 def render_search_entries_painting():
     st.header("🔍 Recherche dans les notices peintures")
@@ -64,9 +69,9 @@ def render_search_entries_painting():
     filtered = []
 
     for idx, (o, json_path) in enumerate(oeuvres):
-        normalize_notice_painting(o)
-        if search_query.lower() in json.dumps(o, ensure_ascii=False).lower():
-            filtered.append((idx, o, json_path))
+        o_display = normalize_notice_painting(o)
+        if search_query.lower() in json.dumps(o_display, ensure_ascii=False).lower():
+            filtered.append((idx, o, o_display, json_path))
 
     if not filtered:
         st.info("Aucun résultat trouvé.")
@@ -74,11 +79,11 @@ def render_search_entries_painting():
 
     cols = st.columns(3)
 
-    for i, (idx, o, json_path) in enumerate(filtered):
+    for i, (idx, o, o_display, json_path) in enumerate(filtered):
         with cols[i % 3]:
-            creators_str = " ; ".join(o.get('creators_display', []))
-            biblio_str = " ; ".join(o.get('biblio_display', []))
-            illustrations_list = o.get('illustrations_display', [])
+            creators_str = " ; ".join(o_display.get('creators_display', []))
+            biblio_str = " ; ".join(o_display.get('biblio_display', []))
+            illustrations_list = o_display.get('illustrations_display', [])
 
             with st.container(border=True):
                 # Image en haut si elle existe (première illustration)
@@ -90,16 +95,17 @@ def render_search_entries_painting():
                         st.warning("⚠️ Image non disponible")
                 
                 # Type d'entrée
-                st.caption(o['entry_type'])
+                st.caption(o_display['entry_type'])
 
                 # ID
-                st.markdown(f"xml:id : **{o['id']}**")
+                st.markdown(f"xml:id : **{o_display['id']}**")
 
                 col_mod, col_del = st.columns([1, 1])
 
                 with col_mod:
                     if st.button("Modifier ✏️", key=f"mod_painting_{idx}"):
                         st.session_state.editing_notice = json_path
+                        st.session_state.original_id = o.get("id")
                         st.session_state.active_menu = "edit"
                         st.rerun()
 
@@ -111,14 +117,14 @@ def render_search_entries_painting():
                         st.rerun()
                 
                 # Titre principal
-                st.text(o['title'])
+                st.text(o_display['title'])
                 
                 # Créateurs en italique
                 st.markdown(f"*{creators_str}*")
                 
                 # Informations secondaires
-                st.text(f"{o['date_text']}, {o['materialsAndTechniques']}")
-                st.text(f"{o['city']} – {o['name']}")
+                st.text(f"{o_display['date_text']}, {o_display['materialsAndTechniques']}")
+                st.text(f"{o_display['city']} – {o_display['name']}")
                 
                 # Informations bibliographiques
                 st.caption(f"📚 {biblio_str}")
