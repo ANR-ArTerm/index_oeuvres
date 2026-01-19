@@ -1,0 +1,43 @@
+{
+  "id": "MantegnaTriompheCesar",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q385499",
+  "title": "Les Triomphes de César",
+  "creator": [
+    {
+      "xml_id": "AndreaMantegna",
+      "role": "peintre"
+    }
+  ],
+  "entry_type": "peinture",
+  "materialsAndTechniques": "tempera sur toile",
+  "dateCreated": {
+    "startYear": "1486",
+    "endYear": "1492",
+    "text": "1486-1492"
+  },
+  "holding_institution": {
+    "place": "Londres",
+    "name": "Royal Collection de Hampton Court Palace",
+    "inventory_number": "",
+    "URL": ""
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "storage": "online",
+      "url": "",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-19T15:13:51.785518",
+      "type": "created",
+      "author": "Carla"
+    }
+  ]
+}

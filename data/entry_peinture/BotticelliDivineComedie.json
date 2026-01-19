@@ -17,7 +17,7 @@
   },
   "holding_institution": {
     "place": "Berlin",
-    "name": null,
+    "name": "Kupferstichkabinett",
     "inventory_number": "",
     "URL": ""
   },
@@ -52,6 +52,16 @@
     },
     {
       "date": "2026-01-19T14:08:57.178939",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-19T14:45:48.454454",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-19T14:56:04.405990",
       "type": "modified",
       "author": "Carla"
     }

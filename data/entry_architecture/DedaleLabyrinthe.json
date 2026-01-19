@@ -1,0 +1,37 @@
+{
+  "id": "DedaleLabyrinthe",
+  "QID_wikidata": "",
+  "title": "Labyrinthe",
+  "creator": [
+    {
+      "xml_id": "Dedale",
+      "role": "architecte"
+    }
+  ],
+  "entry_type": "architecture",
+  "typology": "Monument",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": "Antiquité"
+  },
+  "location": {
+    "city": "",
+    "country": "",
+    "coordinates": {
+      "latitude": "",
+      "longitude": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "commentary": "œuvre mythologique",
+  "history": [
+    {
+      "date": "2026-01-19T15:04:08.058001",
+      "type": "created",
+      "author": "Julia"
+    }
+  ]
+}
