@@ -1,0 +1,35 @@
+{
+  "id": "BotticelliDivineComedie",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q16912485",
+  "title": "Commentaire et illustration de la Divine Comédie de Dante",
+  "creator": [
+    {
+      "xml_id": "SandroBotticelli",
+      "role": "peintre"
+    }
+  ],
+  "entry_type": "peinture",
+  "materialsAndTechniques": null,
+  "dateCreated": {
+    "startYear": "1480",
+    "endYear": "1490",
+    "text": "1480-1490 Dates incertaines"
+  },
+  "holding_institution": {
+    "place": "",
+    "name": null,
+    "inventory_number": "",
+    "URL": ""
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-19T12:17:50.026384",
+      "type": "created",
+      "author": "Carla"
+    }
+  ]
+}
