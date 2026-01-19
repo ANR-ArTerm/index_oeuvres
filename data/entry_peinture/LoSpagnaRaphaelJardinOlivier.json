@@ -1,0 +1,39 @@
+{
+  "id": "LoSpagnaRaphaelJardinOlivier",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q26493104",
+  "title": "Copie du Jardin des oliviers Raphael",
+  "creator": [
+    {
+      "xml_id": "LoSpagna",
+      "role": "peintre"
+    },
+    {
+      "xml_id": "Raphael",
+      "role": "auteur du modèle"
+    }
+  ],
+  "entry_type": "painting",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "holding_institution": {
+    "place": "",
+    "name": "",
+    "inventory_number": "",
+    "URL": "https://www.nationalgallery.org.uk/paintings/probably-by-lo-spagna-the-agony-in-the-garden"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-15T16:40:40.185237",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

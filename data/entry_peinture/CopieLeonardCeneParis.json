@@ -1,0 +1,30 @@
+{
+  "id": "CopieLeonardCeneParis",
+  "QID_wikidata": "",
+  "title": "",
+  "creator": [],
+  "entry_type": "painting",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "holding_institution": {
+    "place": "",
+    "name": "",
+    "inventory_number": "",
+    "URL": ""
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "commentary": "https://agorha.inha.fr/ark:/54721/de2c4ece-6102-4ce5-b74e-15be9bfa6522",
+  "history": [
+    {
+      "date": "2026-01-15T16:40:40.416734",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

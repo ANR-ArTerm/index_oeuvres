@@ -1,0 +1,40 @@
+{
+  "id": "RaphaelJulesII",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q686848",
+  "title": "Portrait du pape Jules II",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
+  "entry_type": "painting",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "holding_institution": {
+    "place": "",
+    "name": "",
+    "inventory_number": "",
+    "URL": ""
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "meyerzurcapellenRaphaelCriticalCatalogue2008",
+      "location": "n° 71"
+    }
+  ],
+  "illustrations": [],
+  "commentary": "dussler p. 29",
+  "history": [
+    {
+      "date": "2026-01-15T16:40:40.237111",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

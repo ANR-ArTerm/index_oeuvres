@@ -1,0 +1,35 @@
+{
+  "id": "DaCarpiVeroniquePaulPierre",
+  "QID_wikidata": "",
+  "title": "",
+  "creator": [
+    {
+      "xml_id": "UgoDaCarpi",
+      "role": "peintre"
+    }
+  ],
+  "entry_type": "painting",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "holding_institution": {
+    "place": "",
+    "name": "",
+    "inventory_number": "",
+    "URL": ""
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-15T16:40:40.370157",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "RaphaelDisputeSacrement",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q549953",
+  "title": "La Dispute du saint Sacrement",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
+  "entry_type": "painting",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "holding_institution": {
+    "place": "",
+    "name": "",
+    "inventory_number": "",
+    "URL": ""
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "dusslerRaphaelCriticalCatalogue1971",
+      "location": "p. 71"
+    }
+  ],
+  "illustrations": [],
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-15T16:40:40.228352",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

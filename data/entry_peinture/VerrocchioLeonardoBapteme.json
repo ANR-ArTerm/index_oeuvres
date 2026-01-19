@@ -1,0 +1,40 @@
+{
+  "id": "VerrocchioLeonardoBapteme",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1059211",
+  "title": "Baptême du Christ",
+  "creator": [
+    {
+      "xml_id": "Verrocchio",
+      "role": "peintre"
+    }
+  ],
+  "entry_type": "painting",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "holding_institution": {
+    "place": "",
+    "name": "",
+    "inventory_number": "",
+    "URL": ""
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "maraniLeonardVinciCarriere1999",
+      "location": "n° 10"
+    }
+  ],
+  "illustrations": [],
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-15T16:40:40.384174",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

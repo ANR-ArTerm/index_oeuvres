@@ -1,0 +1,35 @@
+{
+  "id": "RaphaelEtudeOstie",
+  "QID_wikidata": "/",
+  "title": "Etude de deux hommes nus pour la bataille d'Ostie (Stanza dell'Incendio di Borgo)",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
+  "entry_type": "painting",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "holding_institution": {
+    "place": "",
+    "name": "Vienne",
+    "inventory_number": "17575",
+    "URL": "https://sammlungenonline.albertina.at/en/objects/26262/zwei-mannerakte-mit-kopfstudie-studie-fur-die-schlacht-von"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-15T16:40:40.297550",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

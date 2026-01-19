@@ -1,0 +1,40 @@
+{
+  "id": "LeonardMadoneOeillet",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q698015",
+  "title": "Madonne à l'oeillet",
+  "creator": [
+    {
+      "xml_id": "LeonardoDaVinci",
+      "role": "peintre"
+    }
+  ],
+  "entry_type": "painting",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "holding_institution": {
+    "place": "",
+    "name": "",
+    "inventory_number": "",
+    "URL": ""
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "maraniLeonardVinciCarriere1999",
+      "location": "n° 6"
+    }
+  ],
+  "illustrations": [],
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-15T16:40:40.390578",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

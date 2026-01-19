@@ -1,0 +1,40 @@
+{
+  "id": "LeonardSainteAnne",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q563727",
+  "title": "Sainte Anne, la Vierge et l'Enfant Jésus jouant avec un agneau",
+  "creator": [
+    {
+      "xml_id": "LeonardoDaVinci",
+      "role": "peintre"
+    }
+  ],
+  "entry_type": "painting",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "holding_institution": {
+    "place": "",
+    "name": "",
+    "inventory_number": "",
+    "URL": ""
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "maraniLeonardVinciCarriere1999",
+      "location": "n° 30"
+    }
+  ],
+  "illustrations": [],
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-15T16:40:40.404524",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

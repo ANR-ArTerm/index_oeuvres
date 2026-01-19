@@ -1,0 +1,40 @@
+{
+  "id": "RaphaelLorenzoMedici",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3399434",
+  "title": "Portrait de Lorenzo de' Medici",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
+  "entry_type": "painting",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "holding_institution": {
+    "place": "",
+    "name": "",
+    "inventory_number": "",
+    "URL": ""
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "meyerzurcapellenRaphaelCriticalCatalogue2008",
+      "location": "n° 80"
+    }
+  ],
+  "illustrations": [],
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-15T16:40:40.291788",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

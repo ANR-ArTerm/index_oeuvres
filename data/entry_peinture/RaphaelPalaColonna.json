@@ -1,0 +1,40 @@
+{
+  "id": "RaphaelPalaColonna",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q27033728",
+  "title": "Retable Colonna",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
+  "entry_type": "painting",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "holding_institution": {
+    "place": "",
+    "name": "",
+    "inventory_number": "",
+    "URL": ""
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "meyerzurcapellenRaphaelCriticalCatalogue2001",
+      "location": "n° 17"
+    }
+  ],
+  "illustrations": [],
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-15T16:40:40.195057",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

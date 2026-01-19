@@ -1,0 +1,40 @@
+{
+  "id": "RaphaelJGiulianoMedici",
+  "QID_wikidata": "/",
+  "title": "Portrait de Giuliano de' Medici",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
+  "entry_type": "painting",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "holding_institution": {
+    "place": "",
+    "name": "",
+    "inventory_number": "",
+    "URL": "https://www.metmuseum.org/fr/art/collection/search/437373"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "meyerzurcapellenRaphaelCriticalCatalogue2008",
+      "location": "n° A22"
+    }
+  ],
+  "illustrations": [],
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-15T16:40:40.294568",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

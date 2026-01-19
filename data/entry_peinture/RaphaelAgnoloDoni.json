@@ -1,0 +1,40 @@
+{
+  "id": "RaphaelAgnoloDoni",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2515309",
+  "title": "Portrait d'Agnolo Doni",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
+  "entry_type": "painting",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "holding_institution": {
+    "place": "",
+    "name": "",
+    "inventory_number": "",
+    "URL": ""
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "meyerzurcapellenRaphaelCriticalCatalogue2001",
+      "location": "n° 45 A"
+    }
+  ],
+  "illustrations": [],
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-15T16:40:40.197370",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

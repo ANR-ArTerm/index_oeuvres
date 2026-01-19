@@ -1,0 +1,40 @@
+{
+  "id": "RaphaelBelleJardiniere",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2343778",
+  "title": "La Belle Jardinière",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
+  "entry_type": "painting",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "holding_institution": {
+    "place": "",
+    "name": "",
+    "inventory_number": "",
+    "URL": ""
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "meyerzurcapellenRaphaelCriticalCatalogue2001",
+      "location": "n° 35"
+    }
+  ],
+  "illustrations": [],
+  "commentary": "Erreur chez Daret : bien destinée à l'église santo Spirito, il mélange avec la belle jardinière (peut-être destinée à Sienne mais on n'est pas sûr) qui fut terminée par Ghirlandaio",
+  "history": [
+    {
+      "date": "2026-01-15T16:40:40.213354",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

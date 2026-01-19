@@ -1,0 +1,30 @@
+{
+  "id": "ViergeAuxBalancesLouvre",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q18565884",
+  "title": "Vierge aux Balances",
+  "creator": [],
+  "entry_type": "painting",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "holding_institution": {
+    "place": "",
+    "name": "",
+    "inventory_number": "",
+    "URL": "https://collections.louvre.fr/ark:/53355/cl010066558"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-15T16:40:40.439713",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

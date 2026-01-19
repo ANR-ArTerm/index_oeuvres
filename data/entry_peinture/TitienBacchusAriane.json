@@ -1,0 +1,35 @@
+{
+  "id": "TitienBacchusAriane",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1206860",
+  "title": "Bacchus et Ariane",
+  "creator": [
+    {
+      "xml_id": "Titien",
+      "role": "peintre"
+    }
+  ],
+  "entry_type": "painting",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "holding_institution": {
+    "place": "",
+    "name": "National Gallery",
+    "inventory_number": "NG35",
+    "URL": "https://www.nationalgallery.org.uk/paintings/titian-bacchus-and-ariadne"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-15T16:40:40.123766",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

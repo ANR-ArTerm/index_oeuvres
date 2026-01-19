@@ -1,0 +1,40 @@
+{
+  "id": "RaphaelAnnonciationOddi",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q116286717",
+  "title": "Annonciation (Prédelle de la Pala Oddi)",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
+  "entry_type": "painting",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "holding_institution": {
+    "place": "",
+    "name": "",
+    "inventory_number": "",
+    "URL": ""
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "meyerzurcapellenRaphaelCriticalCatalogue2001",
+      "location": "n° 8 B"
+    }
+  ],
+  "illustrations": [],
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-15T16:40:40.136591",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

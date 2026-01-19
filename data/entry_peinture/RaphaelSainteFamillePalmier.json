@@ -1,0 +1,40 @@
+{
+  "id": "RaphaelSainteFamillePalmier",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3212679",
+  "title": "La Sainte Famille au palmier",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
+  "entry_type": "painting",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "holding_institution": {
+    "place": "",
+    "name": "",
+    "inventory_number": "",
+    "URL": ""
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "meyerzurcapellenRaphaelCriticalCatalogue2001",
+      "location": "n° 32"
+    }
+  ],
+  "illustrations": [],
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-15T16:40:40.170173",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

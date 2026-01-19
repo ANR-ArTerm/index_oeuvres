@@ -1,0 +1,40 @@
+{
+  "id": "LeonardAdamEve",
+  "QID_wikidata": "",
+  "title": "Adam et Eve",
+  "creator": [
+    {
+      "xml_id": "LeonardoDaVinci",
+      "role": "peintre"
+    }
+  ],
+  "entry_type": "painting",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "holding_institution": {
+    "place": "",
+    "name": "",
+    "inventory_number": "",
+    "URL": ""
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "maraniLeonardVinciCarriere1999",
+      "location": "perdues n°2"
+    }
+  ],
+  "illustrations": [],
+  "commentary": "Carton perdu de Léonard de Vinci.",
+  "history": [
+    {
+      "date": "2026-01-15T16:40:40.392679",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}
