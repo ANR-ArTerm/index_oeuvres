@@ -254,7 +254,8 @@ def edit_json_notice(json_path=None, data=None):
             notice["holding_institution"]["name"] = st.selectbox(
                     "Institution de conservation",
                     load_list_form("institutions"),
-                    index=index_list_form(notice["holding_institution"].get("name", ""), "institutions")
+                    index=index_list_form(notice["holding_institution"].get("name", ""), "institutions"),
+                    accept_new_options=True
                     )
             notice["holding_institution"]["place"] = st.text_input(
                 "Lieu", 
