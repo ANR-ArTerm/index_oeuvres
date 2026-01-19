@@ -11,9 +11,9 @@
   "entry_type": "peinture",
   "materialsAndTechniques": "",
   "dateCreated": {
-    "startYear": "",
-    "endYear": "",
-    "text": ""
+    "startYear": "1514",
+    "endYear": "1515",
+    "text": "1514 - 1515"
   },
   "holding_institution": {
     "place": "",
@@ -28,14 +28,32 @@
       "location": "n° 55"
     }
   ],
-  "illustrations": [],
-  "description": "",
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Bologna_Pinacoteca_Nazionale_-_Rafa%C3%ABl_Santi_%281483-1520%29_-_Heilige_Cecilia_in_extase_met_Paulus%2C_Johannes_%28evangelist%29%2C_Augustinus_en_Maria_Magdalena_-_26-04-2012_9-13-18.jpg",
+      "copyright": "",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description":"",
   "commentary": "",
   "history": [
     {
       "date": "2026-01-15T16:40:40.275378",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-01-19T16:05:41.655373",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-19T16:06:12.330117",
+      "type": "modified",
+      "author": "Carla"
     }
   ]
 }
