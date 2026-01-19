@@ -1,0 +1,30 @@
+{
+  "id": "Louvre",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1075988",
+  "title": "Louvre",
+  "creator": [],
+  "entry_type": "peinture",
+  "materialsAndTechniques": null,
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "holding_institution": {
+    "place": "",
+    "name": null,
+    "inventory_number": "",
+    "URL": ""
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-19T15:25:36.933366",
+      "type": "created",
+      "author": "Julia"
+    }
+  ]
+}
