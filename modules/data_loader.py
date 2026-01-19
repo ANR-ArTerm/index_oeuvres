@@ -20,6 +20,7 @@ TYPE_DIRS = {
     }
 
 LIST_FORM = {
+    "persons":"persons.json",
     "artists_names": "artists_names.json",
     "artists_roles": "artists_roles.json",
     "architects_roles":"architects_roles.json",

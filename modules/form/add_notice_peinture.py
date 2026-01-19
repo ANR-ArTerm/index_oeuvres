@@ -50,7 +50,7 @@ def add_notice_peinture():
             with col1:
                 artiste_id = st.selectbox(
                     f"XML:ID Artiste {i+1}",
-                    load_list_form("artists_names"),
+                    load_list_form("persons"),
                     index=None,
                     placeholder="XML:ID de l'artiste, selectionner ou entrer un nouveau",
                     accept_new_options=True,
