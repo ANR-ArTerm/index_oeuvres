@@ -9,15 +9,15 @@
     }
   ],
   "entry_type": "peinture",
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": "tempera sur toile",
   "dateCreated": {
     "startYear": "1514",
     "endYear": "1515",
     "text": "1514 - 1515"
   },
   "holding_institution": {
-    "place": "",
-    "name": "",
+    "place": "Bologne",
+    "name": "Pinacothèque Nationale",
     "inventory_number": "",
     "URL": ""
   },
@@ -37,7 +37,7 @@
       "storage": "online"
     }
   ],
-  "description":"",
+  "description": "",
   "commentary": "",
   "history": [
     {
@@ -52,6 +52,11 @@
     },
     {
       "date": "2026-01-19T16:06:12.330117",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-19T16:18:29.845334",
       "type": "modified",
       "author": "Carla"
     }
