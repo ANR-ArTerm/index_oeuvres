@@ -2,6 +2,7 @@ import streamlit as st
 import json
 import os
 import time
+from pathlib import Path
 
 from modules.data_loader import load_all_entries, delete_notice
 
@@ -102,7 +103,7 @@ def render_search_entries_architecture():
                 
                 with col_mod:
                     if st.button("Modifier ✏️", key=f"mod_architecture_{idx}"):
-                        st.session_state.editing_notice = json_path
+                        st.session_state.editing_notice = str(Path(json_path).resolve())
                         st.session_state.original_id = o.get("id")
                         st.session_state.active_menu = "edit"
                         st.rerun()

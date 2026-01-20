@@ -4,7 +4,7 @@ from datetime import datetime
 
 from modules.data_loader import load_notice, save_notice, index_list_form, load_list_form, index_username, get_all_objects_ids, save_image
 
-def edit_creator(creator, idx, type_entry):
+def edit_creator(xml_id, creator, idx, type_entry):
     """Édite un artiste"""
     st.subheader(f"Artiste {idx + 1}")
     col1, col2 = st.columns(2)
@@ -13,24 +13,24 @@ def edit_creator(creator, idx, type_entry):
                                      load_list_form("persons"),
                                      index=index_list_form(creator.get("xml_id", ""), "persons"),
                                      accept_new_options=True,
-                                     key=f"creator_xmlid_{idx}"
+                                     key=f"{xml_id}_creator_xmlid_{idx}"
                                      )
     with col2:
         if type_entry == "peinture":
             creator["role"] = st.selectbox("Rôle :",
                                             load_list_form("artists_roles"),
                                             index=index_list_form(creator.get("role", ""), "artists_roles"),
-                                            key=f"creator_painting_xmlid_{idx}"
+                                            key=f"{xml_id}_creator_painting_xmlid_{idx}"
                                             )
         if type_entry == "architecture":
             creator["role"] = st.selectbox("Rôle :",
                                             load_list_form("architects_roles"),
                                             index=index_list_form(creator.get("role", ""), "architects_roles"),
-                                            key=f"creator_architect_xmlid_{idx}"
+                                            key=f"{xml_id}_creator_architect_xmlid_{idx}"
                                             )
     return creator
 
-def edit_related_work(work, idx, list_xml_id):
+def edit_related_work(xml_id, work, idx, list_xml_id):
     """Édite une œuvre liée"""
     st.subheader(f"Œuvre liée {idx + 1}")
     col1, col2 = st.columns(2)
@@ -38,7 +38,7 @@ def edit_related_work(work, idx, list_xml_id):
         work["link_type"] = st.selectbox(
                     f"Type de lien",
                     load_list_form("link_types"),
-                    key=f"work_type_{idx}",
+                    key=f"{xml_id}_work_type_{idx}",
                     accept_new_options=True,
                     index=index_list_form(work.get("link_type", ""),"link_types")
                     )
@@ -55,24 +55,24 @@ def edit_related_work(work, idx, list_xml_id):
             index=xml_index,
             placeholder="XML:ID de l'oeuvre liée",
             accept_new_options=False,
-            key=f"work_xmlid_{idx}"
+            key=f"{xml_id}_work_xmlid_{idx}"
         )
     return work
 
-def edit_bibliography(biblio, idx):
+def edit_bibliography(xml_id, biblio, idx):
     """Édite une référence bibliographique"""
     st.subheader(f"Référence {idx + 1}")
     col1, col2 = st.columns(2)
     with col1:
-        biblio["zotero_key"] = st.text_input(f"Clé Zotero", biblio.get("zotero_key", ""), key=f"biblio_key_{idx}")
+        biblio["zotero_key"] = st.text_input(f"Clé Zotero", biblio.get("zotero_key", ""), key=f"{xml_id}_biblio_key_{idx}")
     with col2:
-        biblio["location"] = st.text_input(f"Localisation", biblio.get("location", ""), key=f"biblio_loc_{idx}")
+        biblio["location"] = st.text_input(f"Localisation", biblio.get("location", ""), key=f"{xml_id}_biblio_loc_{idx}")
     return biblio
 
 
 # ==== Illustrations ====
 
-def edit_illustration(illus, idx):
+def edit_illustration(xml_id, illus, idx):
     """Édite une illustration existante (hors formulaire)."""
 
     st.markdown(f"### Illustration {idx + 1}")
@@ -101,18 +101,18 @@ def edit_illustration(illus, idx):
 
     # --- Choix du mode (boutons) ---
     with colA:
-        if st.button("➕ URL", key=f"edit_url_btn_{idx}"):
+        if st.button("➕ URL", key=f"{xml_id}_edit_url_btn_{idx}"):
             st.session_state.type_illustration_edit[idx] = "URL"
             st.session_state.show_image_edit[idx] = False
 
-        if st.button("📁 Local", key=f"edit_local_btn_{idx}"):
+        if st.button("📁 Local", key=f"{xml_id}_edit_local_btn_{idx}"):
             st.session_state.type_illustration_edit[idx] = "local"
             st.session_state.show_image_edit[idx] = False
 
 
     # --- Champs selon le mode ---
     with colB:
-        illus_id = st.number_input("ID", value=illus.get("id", idx), key=f"edit_illus_id_{idx}")
+        illus_id = st.number_input("ID", value=illus.get("id", idx), key=f"{xml_id}_edit_illus_id_{idx}")
         illus["id"] = illus_id
 
         mode = st.session_state.type_illustration_edit[idx]
@@ -121,9 +121,9 @@ def edit_illustration(illus, idx):
         if mode == "URL":
             col_url, col_btn = st.columns([5,1])
             with col_url:
-                url = st.text_input("URL", illus.get("url", ""), key=f"edit_illus_url_{idx}")
+                url = st.text_input("URL", illus.get("url", ""), key=f"{xml_id}_edit_illus_url_{idx}")
             with col_btn:
-                if st.button("Voir", key=f"edit_show_url_{idx}"):
+                if st.button("Voir", key=f"{xml_id}_edit_show_url_{idx}"):
                     st.session_state.show_image_edit[idx] = True
 
             illus["storage"] = "online"
@@ -136,10 +136,10 @@ def edit_illustration(illus, idx):
                 uploaded = st.file_uploader(
                     "Fichier (jpg/png)",
                     type=["jpg", "jpeg", "png"],
-                    key=f"edit_upload_{idx}"
+                    key=f"{xml_id}_edit_upload_{idx}"
                 )
             with col_btn:
-                if st.button("Voir/Sauvegarder", key=f"edit_show_local_{idx}"):
+                if st.button("Voir/Sauvegarder", key=f"{xml_id}_edit_show_local_{idx}"):
                     st.session_state.show_image_edit[idx] = True
 
             illus["storage"] = "local"
@@ -160,13 +160,13 @@ def edit_illustration(illus, idx):
         illus["copyright"] = st.text_input(
             "Droits",
             illus.get("copyright", ""),
-            key=f"edit_illus_copyright_{idx}"
+            key=f"{xml_id}_edit_illus_copyright_{idx}"
         )
 
         illus["caption"] = st.text_input(
             "Légende",
             illus.get("caption", ""),
-            key=f"edit_illus_caption_{idx}"
+            key=f"{xml_id}_edit_illus_caption_{idx}"
         )
 
 
@@ -208,6 +208,7 @@ def edit_json_notice(json_path=None, data=None):
     # 3. Récupération de la notice active
     notice = st.session_state.notice_data
 
+    id_entry = notice["id"]
     entry_type = notice["entry_type"]
 
     
@@ -232,8 +233,8 @@ def edit_json_notice(json_path=None, data=None):
         notice["creator"] = []
     
     for idx, creator in enumerate(notice["creator"]):
-        notice["creator"][idx] = edit_creator(creator, idx, entry_type)
-        if st.button(f"Supprimer créateur {idx + 1}", key=f"del_creator_{idx}"):
+        notice["creator"][idx] = edit_creator(id_entry, creator, idx, entry_type)
+        if st.button(f"Supprimer créateur {idx + 1}", key=f"{id_entry}_del_creator_{idx}"):
             notice["creator"].pop(idx)
             st.rerun()
     
@@ -305,8 +306,8 @@ def edit_json_notice(json_path=None, data=None):
         list_xml_id = get_all_objects_ids("architecture")
     
     for idx, work in enumerate(notice["related_works"]):
-        notice["related_works"][idx] = edit_related_work(work, idx, list_xml_id)
-        if st.button(f"Supprimer œuvre {idx + 1}", key=f"del_work_{idx}"):
+        notice["related_works"][idx] = edit_related_work(id_entry, work, idx, list_xml_id)
+        if st.button(f"Supprimer œuvre {idx + 1}", key=f"{id_entry}_del_work_{idx}"):
             notice["related_works"].pop(idx)
             st.rerun()
     
@@ -320,8 +321,8 @@ def edit_json_notice(json_path=None, data=None):
         notice["bibliography"] = []
     
     for idx, biblio in enumerate(notice["bibliography"]):
-        notice["bibliography"][idx] = edit_bibliography(biblio, idx)
-        if st.button(f"Supprimer référence {idx + 1}", key=f"del_biblio_{idx}"):
+        notice["bibliography"][idx] = edit_bibliography(id_entry, biblio, idx)
+        if st.button(f"Supprimer référence {idx + 1}", key=f"{id_entry}_del_biblio_{idx}"):
             notice["bibliography"].pop(idx)
             st.rerun()
     
@@ -335,8 +336,8 @@ def edit_json_notice(json_path=None, data=None):
         notice["illustrations"] = []
     
     for idx, illus in enumerate(notice["illustrations"]):
-        notice["illustrations"][idx] = edit_illustration(illus, idx)
-        if st.button(f"Supprimer illustration {idx + 1}", key=f"del_illus_{idx}"):
+        notice["illustrations"][idx] = edit_illustration(id_entry, illus, idx)
+        if st.button(f"Supprimer illustration {idx + 1}", key=f"{id_entry}_del_illus_{idx}"):
             notice["illustrations"].pop(idx)
             st.rerun()
     

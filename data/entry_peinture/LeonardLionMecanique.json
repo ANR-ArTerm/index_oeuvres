@@ -1,15 +1,15 @@
 {
   "id": "LeonardLionMecanique",
   "QID_wikidata": "",
-  "title": "",
+  "title": "Lion mécanique",
   "creator": [
     {
       "xml_id": "LeonardoDaVinci",
-      "role": "peintre"
+      "role": "auteur du modèle"
     }
   ],
   "entry_type": "peinture",
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": null,
   "dateCreated": {
     "startYear": "",
     "endYear": "",
@@ -17,7 +17,7 @@
   },
   "holding_institution": {
     "place": "",
-    "name": "",
+    "name": null,
     "inventory_number": "",
     "URL": ""
   },
@@ -30,6 +30,11 @@
     {
       "date": "2026-01-15T16:40:40.421591",
       "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-01-20T18:26:28.596238",
+      "type": "modified",
       "author": "Pierre"
     }
   ]

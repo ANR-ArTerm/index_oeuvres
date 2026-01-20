@@ -1,10 +1,10 @@
 {
   "id": "CopieLeonardCeneParis",
   "QID_wikidata": "",
-  "title": "",
+  "title": "Copie de la Cène de Léonard de Vinci",
   "creator": [],
   "entry_type": "peinture",
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": null,
   "dateCreated": {
     "startYear": "",
     "endYear": "",
@@ -12,7 +12,7 @@
   },
   "holding_institution": {
     "place": "",
-    "name": "",
+    "name": null,
     "inventory_number": "",
     "URL": ""
   },
@@ -25,6 +25,11 @@
     {
       "date": "2026-01-15T16:40:40.416734",
       "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-01-20T18:04:27.739370",
+      "type": "modified",
       "author": "Pierre"
     }
   ]

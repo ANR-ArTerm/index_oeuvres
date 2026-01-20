@@ -1,7 +1,7 @@
 {
   "id": "LeonardGinevraBenci",
   "QID_wikidata": "",
-  "title": "",
+  "title": "Portrait de Ginevra Benci",
   "creator": [
     {
       "xml_id": "LeonardoDaVinci",
@@ -9,7 +9,7 @@
     }
   ],
   "entry_type": "peinture",
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": null,
   "dateCreated": {
     "startYear": "",
     "endYear": "",
@@ -17,7 +17,7 @@
   },
   "holding_institution": {
     "place": "",
-    "name": "",
+    "name": null,
     "inventory_number": "",
     "URL": ""
   },
@@ -35,6 +35,11 @@
     {
       "date": "2026-01-15T16:40:40.410507",
       "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-01-20T18:07:36.697479",
+      "type": "modified",
       "author": "Pierre"
     }
   ]

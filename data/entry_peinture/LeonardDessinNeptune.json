@@ -1,7 +1,7 @@
 {
   "id": "LeonardDessinNeptune",
   "QID_wikidata": "",
-  "title": "",
+  "title": "Dessin de Neptune pour Antonio Segni",
   "creator": [
     {
       "xml_id": "LeonardoDaVinci",
@@ -9,7 +9,7 @@
     }
   ],
   "entry_type": "peinture",
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": null,
   "dateCreated": {
     "startYear": "",
     "endYear": "",
@@ -17,7 +17,7 @@
   },
   "holding_institution": {
     "place": "",
-    "name": "",
+    "name": null,
     "inventory_number": "",
     "URL": ""
   },
@@ -35,6 +35,11 @@
     {
       "date": "2026-01-15T16:40:40.395120",
       "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-01-20T18:06:42.900351",
+      "type": "modified",
       "author": "Pierre"
     }
   ]
