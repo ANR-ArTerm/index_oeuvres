@@ -12,6 +12,7 @@ from modules.form.add_notice_peinture import add_notice_peinture
 from modules.search.search_architecture import render_search_entries_architecture
 from modules.search.search_painting import render_search_entries_painting
 from modules.search.modify_entry import edit_json_notice
+from modules.data.index_xml_persons import sync_person_ids
 
 
 st.set_page_config(layout="wide")
@@ -59,6 +60,27 @@ if st.session_state.get("show_commit_box", False):
                 st.sidebar.session_state.show_commit_box = False
             else:
                 st.error(f"⚠️ Erreur : {out}")
+
+st.sidebar.title("Mise à jour des index")
+
+if st.sidebar.button("👥 Synchroniser l'index XML des personnes"):
+    try:
+        new_json_ids, json_only_ids = sync_person_ids()
+
+        if new_json_ids:
+            st.sidebar.subheader("🆕 Personnes ajoutées au JSON")
+            st.sidebar.success(new_json_ids)
+        else:
+            st.sidebar.info("Aucune nouvelle personne ajoutée au JSON")
+
+        if json_only_ids:
+            st.sidebar.subheader("⚠️ Personnes à ajouter dans l’index XML")
+            st.sidebar.warning(json_only_ids)
+        else:
+            st.sidebar.success("L’index XML est à jour")
+
+    except FileNotFoundError as e:
+        st.sidebar.error(str(e))
 
 # Zone principale
 if st.session_state.active_menu is None:

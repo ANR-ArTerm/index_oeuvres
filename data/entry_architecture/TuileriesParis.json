@@ -1,0 +1,33 @@
+{
+  "id": "TuileriesParis",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q234364",
+  "title": "Palais des Tuileries",
+  "creator": [],
+  "entry_type": "architecture",
+  "typology": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "location": {
+    "city": "",
+    "country": "",
+    "coordinates": {
+      "latitude": "",
+      "longitude": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-20T11:47:35.406462",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

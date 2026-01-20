@@ -1,0 +1,33 @@
+{
+  "id": "PalazzoBranconioAquilaRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1267485 ",
+  "title": "Palazzo Branconio dell'Aquila",
+  "creator": [],
+  "entry_type": "architecture",
+  "typology": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "location": {
+    "city": "",
+    "country": "",
+    "coordinates": {
+      "latitude": "",
+      "longitude": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-20T11:47:35.298115",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

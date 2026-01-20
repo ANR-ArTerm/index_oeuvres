@@ -1,0 +1,33 @@
+{
+  "id": "SainteMariePaixRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1514683",
+  "title": "Sainte Marie de la Paix",
+  "creator": [],
+  "entry_type": "architecture",
+  "typology": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "location": {
+    "city": "",
+    "country": "",
+    "coordinates": {
+      "latitude": "",
+      "longitude": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-20T11:47:35.258934",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}
