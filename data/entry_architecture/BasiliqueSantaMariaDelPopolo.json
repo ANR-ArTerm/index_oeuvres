@@ -2,13 +2,18 @@
   "id": "BasiliqueSantaMariaDelPopolo",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q869513",
   "title": "Basilique Santa Maria del Popolo",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": null,
+      "role": "architecte"
+    }
+  ],
   "entry_type": "architecture",
-  "typology": "",
+  "typology": "église",
   "dateCreated": {
-    "startYear": "",
-    "endYear": "",
-    "text": ""
+    "startYear": "1472",
+    "endYear": "1477",
+    "text": " 1472-1477"
   },
   "location": {
     "city": "",
@@ -21,13 +26,33 @@
   "related_works": [],
   "bibliography": [],
   "illustrations": [],
-  "description": "",
+  "description": "Au sein de l'église Saint-Marie-de-la-Paix se trouve la chapelle Chigi dont Raphael à peint les fresques. Elle ne doit pas être confondue avec son homonyme (la chapelle Chigi) située dans la basilique Santa Maria del Popolo (Rome), pour laquelle Raphaël n'a fait que concevoir les dessins de l'ensemble. ",
   "commentary": "",
   "history": [
     {
       "date": "2026-01-20T11:47:35.240883",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-01-21T16:34:06.845182",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-21T16:57:50.558359",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-21T17:02:05.889112",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-21T17:21:59.992090",
+      "type": "modified",
+      "author": "Carla"
     }
   ]
 }
