@@ -9,15 +9,15 @@
     }
   ],
   "entry_type": "peinture",
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": "fresque",
   "dateCreated": {
-    "startYear": "",
-    "endYear": "",
-    "text": ""
+    "startYear": "1508",
+    "endYear": "1512",
+    "text": "1508-1512"
   },
   "holding_institution": {
-    "place": "",
-    "name": "",
+    "place": "Rome",
+    "name": "Vatican, Palais apostolique",
     "inventory_number": "",
     "URL": ""
   },
@@ -28,14 +28,37 @@
       "location": "p. 73"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg",
+      "copyright": "",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
-  "commentary": "",
+  "commentary": "à lier avec notice ensemble Stanze ET chambre de la signature Vatican",
   "history": [
     {
       "date": "2026-01-15T16:40:40.221255",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-01-21T12:44:09.302557",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-21T12:44:41.166848",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-21T12:47:45.499067",
+      "type": "modified",
+      "author": "Carla"
     }
   ]
 }

@@ -9,15 +9,15 @@
     }
   ],
   "entry_type": "peinture",
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": "fresque",
   "dateCreated": {
-    "startYear": "",
-    "endYear": "",
-    "text": ""
+    "startYear": "1513",
+    "endYear": "1513",
+    "text": "1513"
   },
   "holding_institution": {
-    "place": "",
-    "name": "",
+    "place": "Rome",
+    "name": "Villa Farnesina",
     "inventory_number": "",
     "URL": ""
   },
@@ -28,7 +28,15 @@
       "location": "p. 99"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Raffael_012.jpg",
+      "copyright": "",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -36,6 +44,11 @@
       "date": "2026-01-15T16:40:40.245132",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-01-21T16:09:47.205470",
+      "type": "modified",
+      "author": "Carla"
     }
   ]
 }

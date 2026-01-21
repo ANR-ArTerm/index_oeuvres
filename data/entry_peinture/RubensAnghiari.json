@@ -37,12 +37,17 @@
       "caption": ""
     }
   ],
-  "description": "La bataille d'Anghiari étant détruite dès les années 1560, Rubens aurait utilisé des dessins de Léonard de Vinci.  Ce dessin est une copie de l'immense carton préparatoire de la Bataille par un anonyme italien du XVIe siècle",
+  "description": "Rubens aurait eu accès à des dessins de Léonard de Vinci ainsi qu'à une copie du carton préparatoire de la 'Bataille' peinte par un anonyme italien du XVIe siècle.",
   "commentary": "",
   "history": [
     {
       "date": "2026-01-21T10:27:39.224111",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-21T10:36:48.582429",
+      "type": "modified",
       "author": "Carla"
     }
   ]

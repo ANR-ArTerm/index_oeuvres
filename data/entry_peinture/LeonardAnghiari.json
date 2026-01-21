@@ -9,7 +9,7 @@
     }
   ],
   "entry_type": "peinture",
-  "materialsAndTechniques": null,
+  "materialsAndTechniques": "fresque",
   "dateCreated": {
     "startYear": "1504",
     "endYear": "1506",
@@ -23,13 +23,13 @@
   },
   "related_works": [
     {
-      "link_type": null,
-      "xml_id_work": null
+      "link_type": "copié par",
+      "xml_id_work": "RubensAnghiari"
     }
   ],
   "bibliography": [],
   "illustrations": [],
-  "description": "Cette œuvre a disparu, on ne la connaît que par un dessin de Rubens d'après le carton de Léonard. ",
+  "description": "Détruite vers 1560.",
   "commentary": "",
   "history": [
     {
@@ -39,6 +39,11 @@
     },
     {
       "date": "2026-01-21T10:10:57.888501",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-21T10:32:06.974178",
       "type": "modified",
       "author": "Carla"
     }
