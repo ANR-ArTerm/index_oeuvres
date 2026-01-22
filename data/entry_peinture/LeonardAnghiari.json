@@ -1,7 +1,7 @@
 {
   "id": "LeonardAnghiari",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q2045726",
-  "title": "Bataille d'Anghiari",
+  "title": "Bataille d'Anghiari, Salle des Cinq-Cents au Palazzo Vecchio, Florence",
   "creator": [
     {
       "xml_id": "LeonardoDaVinci",
@@ -9,11 +9,11 @@
     }
   ],
   "entry_type": "peinture",
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": "fresque",
   "dateCreated": {
-    "startYear": "",
-    "endYear": "",
-    "text": ""
+    "startYear": "1504",
+    "endYear": "1506",
+    "text": "1504-1506"
   },
   "location": {
     "type": "holding_institution",
@@ -22,18 +22,32 @@
       "place": "",
       "inventory_number": "",
       "url": ""
+    },
+  "related_works": [
+    {
+      "link_type": "copié par",
+      "xml_id_work": "RubensAnghiari"
     }
-  },
-  "related_works": [],
+  ],
   "bibliography": [],
   "illustrations": [],
-  "description": "",
+  "description": "Détruite vers 1560.",
   "commentary": "",
   "history": [
     {
       "date": "2026-01-15T16:40:40.163415",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-01-21T10:10:57.888501",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-21T10:32:06.974178",
+      "type": "modified",
+      "author": "Carla"
     }
   ]
 }

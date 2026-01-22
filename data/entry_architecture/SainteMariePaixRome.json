@@ -1,20 +1,29 @@
 {
   "id": "SainteMariePaixRome",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q1514683",
-  "title": "Sainte Marie de la Paix",
-  "creator": [],
+  "title": "Église Sainte-Marie-de-la-Paix",
+  "creator": [
+    {
+      "xml_id": "Bramante",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "PierreDeCortone",
+      "role": "architecte"
+    }
+  ],
   "entry_type": "architecture",
-  "typology": "",
+  "typology": "église",
   "dateCreated": {
-    "startYear": "",
-    "endYear": "",
-    "text": ""
+    "startYear": "1482",
+    "endYear": "1656",
+    "text": "1482-1656"
   },
   "location": {
     "type": "place",
     "place": {
-      "city": "",
-      "country": "",
+      "city": "Rome",
+      "country": "Italie",
       "coordinates": {
         "latitude": "",
         "longitude": ""
@@ -23,14 +32,42 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [],
-  "description": "",
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ponte-_Chiesa_di_S.Maria_della_Pace.jpg",
+      "copyright": "",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "Au sein de l'église Saint-Marie-de-la-Paix se trouve la chapelle Chigi dont Raphael à peint les fresques. Elle ne doit pas être confondue avec son homonyme (la chapelle Chigi) située dans la basilique Santa Maria del Popolo (Rome), pour laquelle Raphaël n'a fait que concevoir les dessins de l'ensemble. ",
   "commentary": "",
   "history": [
     {
-      "date": "2026-01-20T11:47:35.258934",
+      "date": "2026-01-21T16:29:51.910954",
       "type": "created",
-      "author": "Pierre"
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-21T16:40:22.042199",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-21T16:40:33.572054",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-21T16:42:47.599531",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-21T16:48:38.379769",
+      "type": "modified",
+      "author": "Carla"
     }
   ]
 }
