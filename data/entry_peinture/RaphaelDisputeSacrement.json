@@ -1,6 +1,7 @@
 {
   "id": "RaphaelDisputeSacrement",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q549953",
+  "entry_type": "peinture",
   "title": "La Dispute du saint Sacrement",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "fresque",
   "dateCreated": {
     "startYear": "1509",
     "endYear": "1510",
     "text": "1509 - 1510"
   },
+  "materialsAndTechniques": "fresque",
   "location": {
     "type": "holding_institution",
     "institution": {

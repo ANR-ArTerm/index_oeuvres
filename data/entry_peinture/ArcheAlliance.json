@@ -1,19 +1,19 @@
 {
   "id": "ArcheAlliance",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q131316",
+  "entry_type": "peinture",
   "title": "Arche d'alliance ",
   "creator": [],
-  "entry_type": "peinture",
-  "materialsAndTechniques": null,
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "materialsAndTechniques": "",
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": null,
+      "name": "",
       "place": "",
       "inventory_number": "",
       "url": ""

@@ -313,15 +313,21 @@ def _load_json(path):
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
 
-def load_list_form(key: str):
-    """
-    key ex: 'artists_roles', 'techniques', etc.
-    """
-    if key not in LIST_FORM:
-        raise ValueError(f"Clé inconnue : {key}")
+def load_list_form(*keys: str):
+    seen = set()
+    merged = []
 
-    path = os.path.join(LIST_FORM_DIR, LIST_FORM[key])
-    return _load_json(path)
+    for key in keys:
+        if key not in LIST_FORM:
+            raise ValueError(f"Clé inconnue : {key}")
+
+        path = os.path.join(LIST_FORM_DIR, LIST_FORM[key])
+        for item in _load_json(path):
+            if item not in seen:
+                seen.add(item)
+                merged.append(item)
+
+    return merged
 
 
 def save_to_list_form(key: str, value: str):

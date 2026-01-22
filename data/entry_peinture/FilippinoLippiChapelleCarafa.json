@@ -1,6 +1,7 @@
 {
   "id": "FilippinoLippiChapelleCarafa",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q769964",
+  "entry_type": "peinture",
   "title": "Chapelle Carafa",
   "creator": [
     {
@@ -8,17 +9,16 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "fresque",
   "dateCreated": {
     "startYear": "1488",
     "endYear": "1493",
     "text": "1488-1493"
   },
+  "materialsAndTechniques": "fresque",
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": null,
+      "name": "",
       "place": "Rome",
       "inventory_number": "",
       "url": ""
@@ -29,10 +29,10 @@
   "illustrations": [
     {
       "id": 0,
-      "storage": "online",
       "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/SMsM_Cappella_Carafa_Lippi.jpg",
       "copyright": "",
-      "caption": ""
+      "caption": "",
+      "storage": "online"
     }
   ],
   "description": "",

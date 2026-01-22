@@ -1,6 +1,7 @@
 {
   "id": "RaphaelGalatee",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q2344368",
+  "entry_type": "peinture",
   "title": "Le triomphe de Galatée",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "fresque",
   "dateCreated": {
     "startYear": "1513",
     "endYear": "1513",
     "text": "1513"
   },
+  "materialsAndTechniques": "fresque",
   "location": {
     "type": "holding_institution",
     "institution": {

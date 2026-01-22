@@ -1,6 +1,7 @@
 {
   "id": "DedaleLabyrinthe",
   "QID_wikidata": "",
+  "entry_type": "architecture",
   "title": "Labyrinthe",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "architecte"
     }
   ],
-  "entry_type": "architecture",
-  "typology": "Monument",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": "Antiquité"
   },
+  "typology": "Monument",
   "location": {
     "type": "place",
     "place": {

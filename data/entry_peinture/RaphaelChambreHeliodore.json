@@ -1,6 +1,7 @@
 {
   "id": "RaphaelChambreHeliodore",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q774018",
+  "entry_type": "peinture",
   "title": "Chambre d'Heliodore",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "materialsAndTechniques": "",
   "location": {
     "type": "holding_institution",
     "institution": {

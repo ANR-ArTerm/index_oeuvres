@@ -1,15 +1,15 @@
 {
   "id": "ColonneAntonine",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q599302",
+  "entry_type": "architecture",
   "title": "Colonne Antonine",
   "creator": [],
-  "entry_type": "architecture",
-  "typology": null,
   "dateCreated": {
     "startYear": "161",
     "endYear": "161",
     "text": "161 "
   },
+  "typology": null,
   "location": {
     "type": "place",
     "place": {
@@ -26,10 +26,10 @@
   "illustrations": [
     {
       "id": 0,
-      "storage": "online",
       "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Musei_vaticani_-_base_colonna_antonina_01106.JPG",
       "copyright": "",
-      "caption": ""
+      "caption": "",
+      "storage": "online"
     }
   ],
   "description": "",

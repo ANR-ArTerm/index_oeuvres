@@ -1,6 +1,7 @@
 {
   "id": "SainteMariePaixRome",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q1514683",
+  "entry_type": "architecture",
   "title": "Église Sainte-Marie-de-la-Paix",
   "creator": [
     {
@@ -12,13 +13,12 @@
       "role": "architecte"
     }
   ],
-  "entry_type": "architecture",
-  "typology": "église",
   "dateCreated": {
     "startYear": "1482",
     "endYear": "1656",
     "text": "1482-1656"
   },
+  "typology": "église",
   "location": {
     "type": "place",
     "place": {

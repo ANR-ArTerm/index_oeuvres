@@ -1,6 +1,7 @@
 {
   "id": "RaphaelAnnonciationOddi",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q116286717",
+  "entry_type": "peinture",
   "title": "Annonciation (Prédelle de la Pala Oddi)",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "materialsAndTechniques": "",
   "location": {
     "type": "holding_institution",
     "institution": {

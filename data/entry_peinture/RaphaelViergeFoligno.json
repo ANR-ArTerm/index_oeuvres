@@ -1,6 +1,7 @@
 {
   "id": "RaphaelViergeFoligno",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q2610709",
+  "entry_type": "peinture",
   "title": "Vierge de Foligno",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "materialsAndTechniques": "",
   "location": {
     "type": "holding_institution",
     "institution": {

@@ -1,6 +1,7 @@
 {
   "id": "ZuccariCardinaleBorromeo",
   "QID_wikidata": "",
+  "entry_type": "peinture",
   "title": "Imposizione del cappello cardinalizio a Carlo Borromeo",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "fresque",
   "dateCreated": {
     "startYear": "1604",
     "endYear": "1604",
     "text": "1604"
   },
+  "materialsAndTechniques": "fresque",
   "location": {
     "type": "holding_institution",
     "institution": {
@@ -29,10 +29,10 @@
   "illustrations": [
     {
       "id": 0,
-      "storage": "online",
       "url": "https://www.lombardiabeniculturali.it/assets/immagini/liv2/OA310RL/SC/OA/1j570/00/OA_1j570-00055_IMG-0000494997.jpg",
       "copyright": "",
-      "caption": ""
+      "caption": "",
+      "storage": "online"
     }
   ],
   "description": "",

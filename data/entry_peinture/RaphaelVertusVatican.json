@@ -1,6 +1,7 @@
 {
   "id": "RaphaelVertusVatican",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q2568776",
+  "entry_type": "peinture",
   "title": "Les Vertus cardinales et théologales",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "materialsAndTechniques": "",
   "location": {
     "type": "holding_institution",
     "institution": {

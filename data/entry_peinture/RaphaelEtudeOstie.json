@@ -1,6 +1,7 @@
 {
   "id": "RaphaelEtudeOstie",
   "QID_wikidata": "/",
+  "entry_type": "peinture",
   "title": "Etude de deux hommes nus pour la bataille d'Ostie (Stanza dell'Incendio di Borgo)",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "materialsAndTechniques": "",
   "location": {
     "type": "holding_institution",
     "institution": {

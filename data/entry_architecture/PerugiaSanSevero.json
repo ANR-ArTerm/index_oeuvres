@@ -1,15 +1,15 @@
 {
   "id": "PerugiaSanSevero",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q2957143",
+  "entry_type": "architecture",
   "title": "Chapelle Saint Severe",
   "creator": [],
-  "entry_type": "architecture",
-  "typology": "",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "typology": "",
   "location": {
     "type": "place",
     "place": {

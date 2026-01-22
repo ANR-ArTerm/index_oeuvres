@@ -1,6 +1,7 @@
 {
   "id": "DurerPetitePassion",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q3377374",
+  "entry_type": "peinture",
   "title": "La Petite Passion du Christ",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "graveur"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "gravure sur bois",
   "dateCreated": {
     "startYear": "1508",
     "endYear": "1511",
     "text": "1508-1511 "
   },
+  "materialsAndTechniques": "gravure sur bois",
   "location": {
     "type": "holding_institution",
     "institution": {

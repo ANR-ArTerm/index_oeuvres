@@ -1,15 +1,15 @@
 {
   "id": "BibliothequeAmbrosienneMilan",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q815611",
+  "entry_type": "architecture",
   "title": "Bibliothèque Ambrosienne",
   "creator": [],
-  "entry_type": "architecture",
-  "typology": "",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "typology": "",
   "location": {
     "type": "place",
     "place": {

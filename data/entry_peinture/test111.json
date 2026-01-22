@@ -1,24 +1,34 @@
 {
   "id": "test111",
+  "QID_wikidata": "",
   "entry_type": "peinture",
+  "title": "test111",
   "creator": [],
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "materialsAndTechniques": "",
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "",
+      "place": "",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
   "related_works": [],
   "bibliography": [],
   "illustrations": [],
+  "description": "",
+  "commentary": "",
   "history": [
     {
       "date": "2026-01-21T15:35:52.555218",
       "type": "created",
       "author": "Pierre"
     }
-  ],
-  "QID_wikidata": "",
-  "title": "test111",
-  "dateCreated": {
-    "startYear": "",
-    "endYear": "",
-    "text": ""
-  },
-  "description": "",
-  "commentary": ""
+  ]
 }

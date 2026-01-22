@@ -1,15 +1,15 @@
 {
   "id": "SaintThomasPavie",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q62008175",
+  "entry_type": "architecture",
   "title": "Eglise de Saint-Thomas de Pavie",
   "creator": [],
-  "entry_type": "architecture",
-  "typology": "Edifice religieux",
   "dateCreated": {
     "startYear": "1478",
     "endYear": "",
     "text": "1478"
   },
+  "typology": "Edifice religieux",
   "location": {
     "type": "place",
     "place": {

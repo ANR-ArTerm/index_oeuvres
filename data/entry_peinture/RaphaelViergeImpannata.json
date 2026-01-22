@@ -1,6 +1,7 @@
 {
   "id": "RaphaelViergeImpannata",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q2052275",
+  "entry_type": "peinture",
   "title": "Vierge de l'Impannata",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "materialsAndTechniques": "",
   "location": {
     "type": "holding_institution",
     "institution": {

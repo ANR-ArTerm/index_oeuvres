@@ -1,15 +1,15 @@
 {
   "id": "SantaMariaGrazieMilan",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q1638622",
+  "entry_type": "architecture",
   "title": "Église Santa Maria delle Grazie (Milan)",
   "creator": [],
-  "entry_type": "architecture",
-  "typology": "",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "typology": "",
   "location": {
     "type": "place",
     "place": {

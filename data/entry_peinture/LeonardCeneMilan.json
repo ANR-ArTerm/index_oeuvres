@@ -1,6 +1,7 @@
 {
   "id": "LeonardCeneMilan",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q128910",
+  "entry_type": "peinture",
   "title": "La Cène",
   "creator": [
     {
@@ -8,17 +9,16 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "fresque",
   "dateCreated": {
     "startYear": "1495",
     "endYear": "1498",
     "text": "1495-1498"
   },
+  "materialsAndTechniques": "fresque",
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": null,
+      "name": "",
       "place": "Milan",
       "inventory_number": "",
       "url": ""
@@ -29,10 +29,10 @@
   "illustrations": [
     {
       "id": 0,
-      "storage": "online",
       "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Leonardo_da_Vinci_%281452-1519%29_-_The_Last_Supper_%281495-1498%29.jpg",
       "copyright": "",
-      "caption": ""
+      "caption": "",
+      "storage": "online"
     }
   ],
   "description": "",

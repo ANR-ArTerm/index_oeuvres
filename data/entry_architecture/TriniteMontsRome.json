@@ -1,15 +1,15 @@
 {
   "id": "TriniteMontsRome",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q1229008",
+  "entry_type": "architecture",
   "title": "Eglise et couvent de la Trinité-des-Monts de Rome",
   "creator": [],
-  "entry_type": "architecture",
-  "typology": "",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "typology": "",
   "location": {
     "type": "place",
     "place": {

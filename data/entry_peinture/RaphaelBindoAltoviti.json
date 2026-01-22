@@ -1,6 +1,7 @@
 {
   "id": "RaphaelBindoAltoviti",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q2528106",
+  "entry_type": "peinture",
   "title": "Portrait de Bindo Altoviti\r",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "materialsAndTechniques": "",
   "location": {
     "type": "holding_institution",
     "institution": {

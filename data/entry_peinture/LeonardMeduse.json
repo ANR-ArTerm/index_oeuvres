@@ -1,6 +1,7 @@
 {
   "id": "LeonardMeduse",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q3492887",
+  "entry_type": "peinture",
   "title": "Tête de Méduse",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "materialsAndTechniques": "",
   "location": {
     "type": "holding_institution",
     "institution": {

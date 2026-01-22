@@ -1,6 +1,7 @@
 {
   "id": "RaphaelIncendieBorgo",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q2531790",
+  "entry_type": "peinture",
   "title": "Incendie de Borgo",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "materialsAndTechniques": "",
   "location": {
     "type": "holding_institution",
     "institution": {

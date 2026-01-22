@@ -1,15 +1,15 @@
 {
   "id": "PantheonRome",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q99309",
+  "entry_type": "architecture",
   "title": "Panthéon",
   "creator": [],
-  "entry_type": "architecture",
-  "typology": "",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "typology": "",
   "location": {
     "type": "place",
     "place": {

@@ -1,6 +1,7 @@
 {
   "id": "AgnoloGaddiTour",
   "QID_wikidata": "",
+  "entry_type": "architecture",
   "title": "Campanile de Santa Maria del Fiore",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "architecte"
     }
   ],
-  "entry_type": "architecture",
-  "typology": "Tour",
   "dateCreated": {
     "startYear": "1298",
     "endYear": "1298",
     "text": "À partir de 1298 "
   },
+  "typology": "Tour",
   "location": {
     "type": "place",
     "place": {

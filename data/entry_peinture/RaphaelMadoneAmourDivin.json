@@ -1,6 +1,7 @@
 {
   "id": "RaphaelMadoneAmourDivin",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q3842605",
+  "entry_type": "peinture",
   "title": "La Madone de l'Amour divin\r",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "materialsAndTechniques": "",
   "location": {
     "type": "holding_institution",
     "institution": {

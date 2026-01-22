@@ -1,6 +1,7 @@
 {
   "id": "RaphaelEcoleAthenes",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q186953",
+  "entry_type": "peinture",
   "title": "Ecole d'Athènes",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "fresque",
   "dateCreated": {
     "startYear": "1508",
     "endYear": "1512",
     "text": "1508-1512"
   },
+  "materialsAndTechniques": "fresque",
   "location": {
     "type": "holding_institution",
     "institution": {

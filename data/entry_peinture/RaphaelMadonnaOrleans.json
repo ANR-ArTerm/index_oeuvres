@@ -1,6 +1,7 @@
 {
   "id": "RaphaelMadonnaOrleans",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q1986597",
+  "entry_type": "peinture",
   "title": "Madone d'Orleans",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "materialsAndTechniques": "",
   "location": {
     "type": "holding_institution",
     "institution": {

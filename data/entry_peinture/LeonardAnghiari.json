@@ -1,6 +1,7 @@
 {
   "id": "LeonardAnghiari",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q2045726",
+  "entry_type": "peinture",
   "title": "Bataille d'Anghiari, Salle des Cinq-Cents au Palazzo Vecchio, Florence",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "fresque",
   "dateCreated": {
     "startYear": "1504",
     "endYear": "1506",
     "text": "1504-1506"
   },
+  "materialsAndTechniques": "fresque",
   "location": {
     "type": "holding_institution",
     "institution": {
@@ -22,7 +22,8 @@
       "place": "",
       "inventory_number": "",
       "url": ""
-    },
+    }
+  },
   "related_works": [
     {
       "link_type": "copié par",

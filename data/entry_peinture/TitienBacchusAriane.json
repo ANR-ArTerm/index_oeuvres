@@ -1,6 +1,7 @@
 {
   "id": "TitienBacchusAriane",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q1206860",
+  "entry_type": "peinture",
   "title": "Bacchus et Ariane",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "materialsAndTechniques": "",
   "location": {
     "type": "holding_institution",
     "institution": {

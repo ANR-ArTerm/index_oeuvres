@@ -1,6 +1,7 @@
 {
   "id": "",
   "QID_wikidata": "",
+  "entry_type": "peinture",
   "title": "",
   "creator": [
     {
@@ -8,19 +9,21 @@
       "role": ""
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "huile sur toile",
   "dateCreated":
     {
       "startYear": "",
       "endYear":"",
       "text": ""
     },
-  "holding_institution": {
-    "place":"",
-    "name": "",
-    "inventory_number": "",
-    "URL":""
+  "materialsAndTechniques": "huile sur toile",
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "",
+      "place": "",
+      "inventory_number": "",
+      "url": ""
+    }
   },
   "related_works": [
     {

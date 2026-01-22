@@ -1,6 +1,7 @@
 {
   "id": "RaphaelPresentationTempleOddi",
   "QID_wikidata": "AUCUN",
+  "entry_type": "peinture",
   "title": "Presentation au temple (Prédelle de la Pala Oddi)",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "materialsAndTechniques": "",
   "location": {
     "type": "holding_institution",
     "institution": {

@@ -1,6 +1,7 @@
 {
   "id": "LeonardSainteAnne",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q563727",
+  "entry_type": "peinture",
   "title": "Sainte Anne, la Vierge et l'Enfant Jésus jouant avec un agneau",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "materialsAndTechniques": "",
   "location": {
     "type": "holding_institution",
     "institution": {

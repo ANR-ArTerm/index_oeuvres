@@ -1,6 +1,7 @@
 {
   "id": "VeroneseCana",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q185255",
+  "entry_type": "peinture",
   "title": "Les Noces de Cana",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "huile sur toile",
   "dateCreated": {
     "startYear": "1500",
     "endYear": "1600",
     "text": "XVIème siècle "
   },
+  "materialsAndTechniques": "huile sur toile",
   "location": {
     "type": "holding_institution",
     "institution": {
@@ -29,10 +29,10 @@
   "illustrations": [
     {
       "id": 0,
-      "storage": "online",
       "url": "https://collections.louvre.fr/media/cache/large/0000000021/0000064382/0001288788_OG.JPG",
       "copyright": "© 2019 GrandPalaisRmn (musée du Louvre) / Michel Urtado",
-      "caption": ""
+      "caption": "",
+      "storage": "online"
     }
   ],
   "description": "",

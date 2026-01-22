@@ -1,15 +1,15 @@
 {
   "id": "ChapelleSixtine",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q2943",
+  "entry_type": "architecture",
   "title": "Chapelle Sixtine",
   "creator": [],
-  "entry_type": "architecture",
-  "typology": "",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "typology": "",
   "location": {
     "type": "place",
     "place": {

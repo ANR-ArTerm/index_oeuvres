@@ -1,6 +1,7 @@
 {
   "id": "ZeuxisCentaure",
   "QID_wikidata": "",
+  "entry_type": "peinture",
   "title": "La famille d'un centaure",
   "creator": [
     {
@@ -8,17 +9,16 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": null,
   "dateCreated": {
     "startYear": "-464",
     "endYear": "-398 ",
     "text": "464-398 av J.-C."
   },
+  "materialsAndTechniques": "",
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": null,
+      "name": "",
       "place": "",
       "inventory_number": "",
       "url": ""

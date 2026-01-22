@@ -1,15 +1,15 @@
 {
   "id": "ViergeAuxBalancesLouvre",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q18565884",
+  "entry_type": "peinture",
   "title": "Vierge aux Balances",
   "creator": [],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "materialsAndTechniques": "",
   "location": {
     "type": "holding_institution",
     "institution": {

@@ -1,6 +1,7 @@
 {
   "id": "SaintLucEtMartineRome",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q1813867",
+  "entry_type": "architecture",
   "title": "Eglise de Saint-Luc-et-Martine",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "architecte"
     }
   ],
-  "entry_type": "architecture",
-  "typology": "Eglise",
   "dateCreated": {
     "startYear": "1635",
     "endYear": "1666",
     "text": "1666"
   },
+  "typology": "Eglise",
   "location": {
     "type": "place",
     "place": {

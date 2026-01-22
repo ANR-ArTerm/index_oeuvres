@@ -1,6 +1,7 @@
 {
   "id": "RaphaelLaPerla",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q427390",
+  "entry_type": "peinture",
   "title": "La Sainte Famille dite La Perla",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "materialsAndTechniques": "",
   "location": {
     "type": "holding_institution",
     "institution": {

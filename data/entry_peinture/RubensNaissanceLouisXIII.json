@@ -1,6 +1,7 @@
 {
   "id": "RubensNaissanceLouisXIII",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q29655353",
+  "entry_type": "peinture",
   "title": "Naissance de Louis XIII à Fontainebleau le 27 septembre 1601",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "huile sur toile",
   "dateCreated": {
     "startYear": "1622",
     "endYear": "1625",
     "text": "1622-1625"
   },
+  "materialsAndTechniques": "huile sur toile",
   "location": {
     "type": "holding_institution",
     "institution": {
@@ -29,10 +29,10 @@
   "illustrations": [
     {
       "id": 0,
-      "storage": "online",
       "url": "https://collections.louvre.fr/media/cache/large/0000000021/0000060841/0000394500_OG.JPG",
       "copyright": "2000 GrandPalaisRmn (musée du Louvre) / Thierry Le Mage",
-      "caption": ""
+      "caption": "",
+      "storage": "online"
     }
   ],
   "description": "",

@@ -1,15 +1,15 @@
 {
   "id": "FraAngelicoChapelleNicoline",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q249973",
+  "entry_type": "peinture",
   "title": "Fresques de la chapelle Nicoline",
   "creator": [],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "fresque",
   "dateCreated": {
     "startYear": "1447",
     "endYear": "1447",
     "text": "1447"
   },
+  "materialsAndTechniques": "fresque",
   "location": {
     "type": "holding_institution",
     "institution": {
@@ -24,10 +24,10 @@
   "illustrations": [
     {
       "id": 0,
-      "storage": "online",
       "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/St._Peter_Niccoline_Chapel.jpg",
       "copyright": "",
-      "caption": ""
+      "caption": "",
+      "storage": "online"
     }
   ],
   "description": "",

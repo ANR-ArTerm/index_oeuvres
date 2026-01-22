@@ -1,6 +1,7 @@
 {
   "id": "RaphaelJulesII",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q686848",
+  "entry_type": "peinture",
   "title": "Portrait du pape Jules II",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "materialsAndTechniques": "",
   "location": {
     "type": "holding_institution",
     "institution": {

@@ -1,6 +1,7 @@
 {
   "id": "ApelleCalomnie",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q3207003",
+  "entry_type": "peinture",
   "title": "Calomnie",
   "creator": [
     {
@@ -8,17 +9,16 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": null,
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "materialsAndTechniques": "",
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": null,
+      "name": "",
       "place": "",
       "inventory_number": "",
       "url": ""

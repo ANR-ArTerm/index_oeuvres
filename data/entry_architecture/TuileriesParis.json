@@ -1,15 +1,15 @@
 {
   "id": "TuileriesParis",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q234364",
+  "entry_type": "architecture",
   "title": "Palais des Tuileries",
   "creator": [],
-  "entry_type": "architecture",
-  "typology": "",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "typology": "",
   "location": {
     "type": "place",
     "place": {

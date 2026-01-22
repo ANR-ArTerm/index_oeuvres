@@ -1,6 +1,7 @@
 {
   "id": "GiottoNacelleSaintPierreRome",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q1311080",
+  "entry_type": "peinture",
   "title": "La Nacelle ou la Barque de Saint Pierre agitée par la tempête",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "mosaïque",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": "Avant 1304 = mort de Benoit IX"
   },
+  "materialsAndTechniques": "mosaïque",
   "location": {
     "type": "holding_institution",
     "institution": {

@@ -1,6 +1,7 @@
 {
   "id": "LeonardAssomptionMilan",
   "QID_wikidata": "",
+  "entry_type": "peinture",
   "title": "Assomption avec saint Dominique et saint Pierre de Vérone, Ludovic le More et Béatrice d'Este",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "materialsAndTechniques": "",
   "location": {
     "type": "holding_institution",
     "institution": {

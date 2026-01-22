@@ -1,6 +1,7 @@
 {
   "id": "LoSpagnaRaphaelJardinOlivier",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q26493104",
+  "entry_type": "peinture",
   "title": "Copie du Jardin des oliviers Raphael",
   "creator": [
     {
@@ -12,13 +13,12 @@
       "role": "auteur du modèle"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "materialsAndTechniques": "",
   "location": {
     "type": "holding_institution",
     "institution": {

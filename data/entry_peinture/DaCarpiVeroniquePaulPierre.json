@@ -1,6 +1,7 @@
 {
   "id": "DaCarpiVeroniquePaulPierre",
   "QID_wikidata": "",
+  "entry_type": "peinture",
   "title": "Sainte Véronique entre les saints Pierre et Paul",
   "creator": [
     {
@@ -8,17 +9,16 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": null,
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "materialsAndTechniques": "",
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": null,
+      "name": "",
       "place": "",
       "inventory_number": "",
       "url": ""

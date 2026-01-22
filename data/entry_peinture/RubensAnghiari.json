@@ -1,6 +1,7 @@
 {
   "id": "RubensAnghiari",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q15981394",
+  "entry_type": "peinture",
   "title": "Bataille d'Anghiari",
   "creator": [
     {
@@ -8,18 +9,20 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "Pierre noire, plume et encre brune",
   "dateCreated": {
     "startYear": "1600",
     "endYear": "1608",
     "text": "Vers 1600-1608 (dates du voyage de Rubens en Italie)"
   },
-  "holding_institution": {
-    "place": "Paris",
-    "name": "Musée du Louvre",
-    "inventory_number": "",
-    "URL": "https://collections.louvre.fr/ark:/53355/cl020110446"
+  "materialsAndTechniques": "Pierre noire, plume et encre brune",
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "",
+      "place": "",
+      "inventory_number": "",
+      "url": ""
+    }
   },
   "related_works": [
     {
@@ -31,10 +34,10 @@
   "illustrations": [
     {
       "id": 0,
-      "storage": "online",
       "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Peter_Paul_Ruben%27s_copy_of_the_lost_Battle_of_Anghiari.jpg",
       "copyright": "",
-      "caption": ""
+      "caption": "",
+      "storage": "online"
     }
   ],
   "description": "Rubens aurait eu accès à des dessins de Léonard de Vinci ainsi qu'à une copie du carton préparatoire de la 'Bataille' peinte par un anonyme italien du XVIe siècle.",

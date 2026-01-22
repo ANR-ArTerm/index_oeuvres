@@ -1,6 +1,7 @@
 {
   "id": "PinturicchioVueVilleBelvedere",
   "QID_wikidata": "",
+  "entry_type": "peinture",
   "title": "Vues de villes italiennes",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "fresque",
   "dateCreated": {
     "startYear": "1488",
     "endYear": "1490",
     "text": "1488-1490"
   },
+  "materialsAndTechniques": "fresque",
   "location": {
     "type": "holding_institution",
     "institution": {
@@ -29,10 +29,10 @@
   "illustrations": [
     {
       "id": 0,
-      "storage": "online",
       "url": "",
       "copyright": "",
-      "caption": ""
+      "caption": "",
+      "storage": "online"
     }
   ],
   "description": "",

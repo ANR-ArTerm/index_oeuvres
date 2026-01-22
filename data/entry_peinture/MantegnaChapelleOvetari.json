@@ -1,6 +1,7 @@
 {
   "id": "MantegnaChapelleOvetari",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q3087562",
+  "entry_type": "peinture",
   "title": "Fresque de la chapelle Ovetari à Padoue représentant ; le saint Jacques le Majeur et saint Christophe",
   "creator": [
     {
@@ -20,13 +21,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "fresque",
   "dateCreated": {
     "startYear": "1443",
     "endYear": "1457",
     "text": "1448-1457 Date de début incertaine "
   },
+  "materialsAndTechniques": "fresque",
   "location": {
     "type": "holding_institution",
     "institution": {
@@ -41,10 +41,10 @@
   "illustrations": [
     {
       "id": 0,
-      "storage": "online",
       "url": "",
       "copyright": "",
-      "caption": ""
+      "caption": "",
+      "storage": "online"
     }
   ],
   "description": "",

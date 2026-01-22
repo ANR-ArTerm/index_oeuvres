@@ -1,6 +1,7 @@
 {
   "id": "LogesVatican",
   "QID_wikidata": "",
+  "entry_type": "ensemble",
   "title": "",
   "creator": [
     {
@@ -8,14 +9,13 @@
       "role": ""
     }
   ],
-  "entry_type": "ensemble",
-  "typology": "",
   "dateCreated":
     {
       "startYear": "",
       "endYear":"",
       "text": ""
     },
+  "typology": "",
   "location": {
     "type": "holding_institution",
     "institution": {

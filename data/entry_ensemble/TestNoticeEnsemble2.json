@@ -1,15 +1,14 @@
 {
-  "id": "VillaFarnesineRome",
-  "QID_wikidata": "https://www.wikidata.org/wiki/Q1126723",
-  "entry_type": "architecture",
-  "title": "Villa Farnesine",
+  "id": "TestNoticeEnsemble2",
+  "entry_type": "ensemble",
+  "QID_wikidata": "",
+  "title": "Test2",
   "creator": [],
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
-  "typology": "",
   "location": {
     "type": "place",
     "place": {
@@ -24,13 +23,14 @@
   "related_works": [],
   "bibliography": [],
   "illustrations": [],
-  "description": "",
+  "description": "Je suis pas sûr que tout marche bien ",
   "commentary": "",
   "history": [
     {
-      "date": "2026-01-20T11:47:35.322902",
+      "date": "2026-01-22T13:58:17.191870",
       "type": "created",
       "author": "Pierre"
     }
-  ]
+  ],
+  "typology": "suite d'estampes"
 }

@@ -1,15 +1,15 @@
 {
   "id": "PalaisCapriniRome",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q2047517",
+  "entry_type": "architecture",
   "title": "Palais Caprini",
   "creator": [],
-  "entry_type": "architecture",
-  "typology": "",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "typology": "",
   "location": {
     "type": "place",
     "place": {

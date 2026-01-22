@@ -1,15 +1,15 @@
 {
   "id": "ColonneTrajane",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q192784",
+  "entry_type": "architecture",
   "title": "Colonne Trajane",
   "creator": [],
-  "entry_type": "architecture",
-  "typology": null,
   "dateCreated": {
     "startYear": "113",
     "endYear": "113",
     "text": "113"
   },
+  "typology": null,
   "location": {
     "type": "place",
     "place": {
@@ -26,10 +26,10 @@
   "illustrations": [
     {
       "id": 0,
-      "storage": "online",
       "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Trajan_column_%28Rome%29_September_2015-2.jpg",
       "copyright": "",
-      "caption": ""
+      "caption": "",
+      "storage": "online"
     }
   ],
   "description": "",

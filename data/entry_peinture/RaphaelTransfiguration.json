@@ -1,6 +1,7 @@
 {
   "id": "RaphaelTransfiguration",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q2344437",
+  "entry_type": "peinture",
   "title": "La Transfiguration",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "huile sur bois",
   "dateCreated": {
     "startYear": "1516",
     "endYear": "1520",
     "text": "1516-1520"
   },
+  "materialsAndTechniques": "huile sur bois",
   "location": {
     "type": "holding_institution",
     "institution": {
@@ -34,10 +34,10 @@
   "illustrations": [
     {
       "id": 0,
-      "storage": "online",
       "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Transfigurazione_%28Raffaello%29_September_2015-1a.jpg",
       "copyright": "Wikipedia Commons",
-      "caption": ""
+      "caption": "",
+      "storage": "online"
     }
   ],
   "description": "",

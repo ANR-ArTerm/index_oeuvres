@@ -1,6 +1,7 @@
 {
   "id": "AgnoloGaddiArno",
   "QID_wikidata": "",
+  "entry_type": "architecture",
   "title": "Ponte Vecchio traversant l'Arno",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "architecte"
     }
   ],
-  "entry_type": "architecture",
-  "typology": "Pont",
   "dateCreated": {
     "startYear": "1335",
     "endYear": "1345",
     "text": "1335-1345"
   },
+  "typology": "Pont",
   "location": {
     "type": "place",
     "place": {

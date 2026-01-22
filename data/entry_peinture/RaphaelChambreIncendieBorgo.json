@@ -1,6 +1,7 @@
 {
   "id": "RaphaelChambreIncendieBorgo",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q3968260",
+  "entry_type": "peinture",
   "title": "Chambre de l'Incendie de Borgo",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "materialsAndTechniques": "",
   "location": {
     "type": "holding_institution",
     "institution": {

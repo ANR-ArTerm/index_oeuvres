@@ -1,6 +1,7 @@
 {
   "id": "RaphaelSaintJeanBaptisteFlorence",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q3463871",
+  "entry_type": "peinture",
   "title": "Saint Jean-Baptiste",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "materialsAndTechniques": "",
   "location": {
     "type": "holding_institution",
     "institution": {

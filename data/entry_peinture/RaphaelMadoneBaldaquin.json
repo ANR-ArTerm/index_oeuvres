@@ -1,6 +1,7 @@
 {
   "id": "RaphaelMadoneBaldaquin",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q3842604",
+  "entry_type": "peinture",
   "title": "Madone au baldaquin",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "materialsAndTechniques": "",
   "location": {
     "type": "holding_institution",
     "institution": {

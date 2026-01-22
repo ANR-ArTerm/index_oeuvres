@@ -1,6 +1,7 @@
 {
   "id": "CavalliniCrucifixSaintPaul",
   "QID_wikidata": "",
+  "entry_type": "peinture",
   "title": "Crucifix de bois",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "sculpteur"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "sculpture",
   "dateCreated": {
     "startYear": "1240",
     "endYear": "1330",
     "text": "1240-1330"
   },
+  "materialsAndTechniques": "sculpture",
   "location": {
     "type": "holding_institution",
     "institution": {

@@ -1,6 +1,7 @@
 {
   "id": "RaphaelLeonAttila",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q2716974",
+  "entry_type": "peinture",
   "title": "La Rencontre entre Léon Ier le Grand et Attila",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "materialsAndTechniques": "",
   "location": {
     "type": "holding_institution",
     "institution": {

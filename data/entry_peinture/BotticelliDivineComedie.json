@@ -1,6 +1,7 @@
 {
   "id": "BotticelliDivineComedie",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q16912485",
+  "entry_type": "peinture",
   "title": "Commentaire et illustration de la Divine Comédie de Dante",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "Pointe d'argent et encre, coloré à la détrempe sur parchemin",
   "dateCreated": {
     "startYear": "1480",
     "endYear": "1490",
     "text": "1480-1490 Dates incertaines"
   },
+  "materialsAndTechniques": "Pointe d'argent et encre, coloré à la détrempe sur parchemin",
   "location": {
     "type": "holding_institution",
     "institution": {

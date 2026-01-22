@@ -1,6 +1,7 @@
 {
   "id": "VerrocchioBartolomeoColleoni",
   "QID_wikidata": "",
+  "entry_type": "peinture",
   "title": "Statue équestre du Colleone ; Bartolomeo Colleoni de Bergame",
   "creator": [
     {
@@ -8,17 +9,16 @@
       "role": "fondeur"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "sculpture en bronze",
   "dateCreated": {
     "startYear": "1483",
     "endYear": "1488",
     "text": "1483-1488"
   },
+  "materialsAndTechniques": "sculpture en bronze",
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": null,
+      "name": "",
       "place": "",
       "inventory_number": "",
       "url": ""

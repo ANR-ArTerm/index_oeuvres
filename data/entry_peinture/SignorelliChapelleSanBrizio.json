@@ -1,6 +1,7 @@
 {
   "id": "SignorelliChapelleSanBrizio",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q3657553",
+  "entry_type": "peinture",
   "title": "Chapelle San Brizio, jugement dernier",
   "creator": [
     {
@@ -16,13 +17,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "fresque",
   "dateCreated": {
     "startYear": "1396",
     "endYear": "1502",
     "text": "1396-1502"
   },
+  "materialsAndTechniques": "fresque",
   "location": {
     "type": "holding_institution",
     "institution": {
@@ -37,10 +37,10 @@
   "illustrations": [
     {
       "id": 0,
-      "storage": "online",
       "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Luca_signorelli%2C_cappella_di_san_brizio_00.jpg",
       "copyright": "",
-      "caption": ""
+      "caption": "",
+      "storage": "online"
     }
   ],
   "description": "",

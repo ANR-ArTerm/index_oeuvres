@@ -1,6 +1,7 @@
 {
   "id": "RaphaelJourdainVatican",
   "QID_wikidata": "",
+  "entry_type": "peinture",
   "title": "Le Passage du Jourdain",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "fresque",
   "dateCreated": {
     "startYear": "1518",
     "endYear": "1519",
     "text": "1518-1519"
   },
+  "materialsAndTechniques": "fresque",
   "location": {
     "type": "holding_institution",
     "institution": {
@@ -29,10 +29,10 @@
   "illustrations": [
     {
       "id": 0,
-      "storage": "online",
       "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Israelites_Crossing_the_Jordan_Carrying_the_Ark_of_the_Covenant_by_Raphael_in_the_Vatican.jpg",
       "copyright": "",
-      "caption": ""
+      "caption": "",
+      "storage": "online"
     }
   ],
   "description": "",

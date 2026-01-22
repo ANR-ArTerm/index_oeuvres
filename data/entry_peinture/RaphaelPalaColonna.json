@@ -1,6 +1,7 @@
 {
   "id": "RaphaelPalaColonna",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q27033728",
+  "entry_type": "peinture",
   "title": "Retable Colonna",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "materialsAndTechniques": "",
   "location": {
     "type": "holding_institution",
     "institution": {

@@ -1,6 +1,7 @@
 {
   "id": "RaphaelSainteCecile",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q1103801",
+  "entry_type": "peinture",
   "title": "L'Extase de sainte Cécile\r",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "tempera sur toile",
   "dateCreated": {
     "startYear": "1514",
     "endYear": "1515",
     "text": "1514 - 1515"
   },
+  "materialsAndTechniques": "tempera sur toile",
   "location": {
     "type": "holding_institution",
     "institution": {

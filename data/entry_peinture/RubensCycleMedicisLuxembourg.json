@@ -1,6 +1,7 @@
 {
   "id": "RubensCycleMedicisLuxembourg",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q2558141",
+  "entry_type": "peinture",
   "title": "Cycle de Marie de Médicis",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": null,
   "dateCreated": {
     "startYear": "1621",
     "endYear": "1624",
     "text": "Années 1620"
   },
+  "materialsAndTechniques": "",
   "location": {
     "type": "holding_institution",
     "institution": {

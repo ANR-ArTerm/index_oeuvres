@@ -1,6 +1,7 @@
 {
   "id": "TimantheCyclope",
   "QID_wikidata": "",
+  "entry_type": "peinture",
   "title": "Le cyclope dormant",
   "creator": [
     {
@@ -8,17 +9,16 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": null,
   "dateCreated": {
     "startYear": "-500",
     "endYear": "-401",
     "text": "fin du Ve siècle av. J.-C."
   },
+  "materialsAndTechniques": "",
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": null,
+      "name": "",
       "place": "",
       "inventory_number": "",
       "url": ""

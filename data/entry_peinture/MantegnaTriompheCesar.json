@@ -1,6 +1,7 @@
 {
   "id": "MantegnaTriompheCesar",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q385499",
+  "entry_type": "peinture",
   "title": "Les Triomphes de César",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "tempera sur toile",
   "dateCreated": {
     "startYear": "1486",
     "endYear": "1492",
     "text": "1486-1492"
   },
+  "materialsAndTechniques": "tempera sur toile",
   "location": {
     "type": "holding_institution",
     "institution": {
@@ -29,10 +29,10 @@
   "illustrations": [
     {
       "id": 0,
-      "storage": "online",
       "url": "",
       "copyright": "",
-      "caption": ""
+      "caption": "",
+      "storage": "online"
     }
   ],
   "description": "",

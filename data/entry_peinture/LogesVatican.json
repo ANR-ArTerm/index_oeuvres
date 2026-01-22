@@ -1,15 +1,15 @@
 {
   "id": "LogesVatican",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q3836415",
+  "entry_type": "peinture",
   "title": "Loges vaticanes",
   "creator": [],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "materialsAndTechniques": "",
   "location": {
     "type": "holding_institution",
     "institution": {

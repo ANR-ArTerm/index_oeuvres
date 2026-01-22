@@ -1,15 +1,15 @@
 {
   "id": "Salle500Florence",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q234364",
+  "entry_type": "architecture",
   "title": "Salle des Cinq-Cents, Palazzo Vecchio",
   "creator": [],
-  "entry_type": "architecture",
-  "typology": "",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "typology": "",
   "location": {
     "type": "place",
     "place": {

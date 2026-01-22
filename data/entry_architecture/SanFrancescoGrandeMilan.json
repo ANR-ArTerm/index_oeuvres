@@ -1,15 +1,15 @@
 {
   "id": "SanFrancescoGrandeMilan",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q18223420",
+  "entry_type": "architecture",
   "title": "Eglise Saint-François-Majeur à Milan",
   "creator": [],
-  "entry_type": "architecture",
-  "typology": "",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "typology": "",
   "location": {
     "type": "place",
     "place": {

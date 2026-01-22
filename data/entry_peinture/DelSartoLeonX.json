@@ -1,6 +1,7 @@
 {
   "id": "DelSartoLeonX",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q107273576",
+  "entry_type": "peinture",
   "title": "Portrait de Léon X",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "huile sur bois",
   "dateCreated": {
     "startYear": "1525",
     "endYear": "1525",
     "text": "1525"
   },
+  "materialsAndTechniques": "huile sur bois",
   "location": {
     "type": "holding_institution",
     "institution": {
@@ -27,18 +27,17 @@
   "related_works": [
     {
       "link_type": "copié d'après",
-      "xml_id_work": "RaphaelLeonX",
-      "xml_id": "RaphaelLeonX"
+      "xml_id_work": "RaphaelLeonX"
     }
   ],
   "bibliography": [],
   "illustrations": [
     {
       "id": 0,
-      "storage": "online",
       "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Ritratto_di_papa_Leone_X_con_due_cardinali%2C_Andrea_del_Sarto_001.JPG",
       "copyright": "",
-      "caption": ""
+      "caption": "",
+      "storage": "online"
     }
   ],
   "description": "",

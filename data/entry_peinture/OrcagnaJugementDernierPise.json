@@ -1,6 +1,7 @@
 {
   "id": "OrcagnaJugementDernierPise",
   "QID_wikidata": "",
+  "entry_type": "peinture",
   "title": "Fresque du jugement dernier ",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "fresque",
   "dateCreated": {
     "startYear": "1330",
     "endYear": "1368",
     "text": "vers 1330-1368, Début du chantier - mort de Andrea Orcagna"
   },
+  "materialsAndTechniques": "fresque",
   "location": {
     "type": "holding_institution",
     "institution": {

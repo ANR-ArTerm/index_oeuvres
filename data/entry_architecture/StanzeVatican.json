@@ -1,15 +1,15 @@
 {
   "id": "StanzeVatican",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q249449",
+  "entry_type": "architecture",
   "title": "Chambres de Raphaël au Vatican",
   "creator": [],
-  "entry_type": "architecture",
-  "typology": "",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "typology": "",
   "location": {
     "type": "place",
     "place": {

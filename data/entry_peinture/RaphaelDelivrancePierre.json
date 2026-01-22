@@ -1,6 +1,7 @@
 {
   "id": "RaphaelDelivrancePierre",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q2719737",
+  "entry_type": "peinture",
   "title": "La Délivrance de saint Pierre ou Saint Pierre dans sa Prison",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "fresque",
   "dateCreated": {
     "startYear": "1514",
     "endYear": "1514",
     "text": "1514"
   },
+  "materialsAndTechniques": "fresque",
   "location": {
     "type": "holding_institution",
     "institution": {
@@ -34,10 +34,10 @@
   "illustrations": [
     {
       "id": 0,
-      "storage": "online",
       "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Deliveranceofstpeter.jpg",
       "copyright": "",
-      "caption": ""
+      "caption": "",
+      "storage": "online"
     }
   ],
   "description": "",

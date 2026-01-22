@@ -1,15 +1,15 @@
 {
   "id": "LibreriaPiccolomini",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q3237948",
+  "entry_type": "architecture",
   "title": "Libreria Piccolomini",
   "creator": [],
-  "entry_type": "architecture",
-  "typology": "",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "typology": "",
   "location": {
     "type": "place",
     "place": {

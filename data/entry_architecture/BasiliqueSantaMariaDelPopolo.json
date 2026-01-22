@@ -1,6 +1,7 @@
 {
   "id": "BasiliqueSantaMariaDelPopolo",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q869513",
+  "entry_type": "architecture",
   "title": "Basilique Santa Maria del Popolo",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "architecte"
     }
   ],
-  "entry_type": "architecture",
-  "typology": "église",
   "dateCreated": {
     "startYear": "1472",
     "endYear": "1477",
     "text": " 1472-1477"
   },
+  "typology": "église",
   "location": {
     "type": "place",
     "place": {

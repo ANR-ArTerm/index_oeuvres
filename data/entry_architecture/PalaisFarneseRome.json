@@ -1,15 +1,15 @@
 {
   "id": "PalaisFarneseRome",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q848386",
+  "entry_type": "architecture",
   "title": "Palais Farnese",
   "creator": [],
-  "entry_type": "architecture",
-  "typology": "",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "typology": "",
   "location": {
     "type": "place",
     "place": {

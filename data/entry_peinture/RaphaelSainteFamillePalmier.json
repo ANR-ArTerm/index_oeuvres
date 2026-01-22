@@ -1,6 +1,7 @@
 {
   "id": "RaphaelSainteFamillePalmier",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q3212679",
+  "entry_type": "peinture",
   "title": "La Sainte Famille au palmier",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "materialsAndTechniques": "",
   "location": {
     "type": "holding_institution",
     "institution": {

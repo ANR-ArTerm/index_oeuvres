@@ -1,15 +1,15 @@
 {
   "id": "LouvreParis",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q1075988",
+  "entry_type": "architecture",
   "title": "Palais du Louvre",
   "creator": [],
-  "entry_type": "architecture",
-  "typology": null,
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "typology": null,
   "location": {
     "type": "place",
     "place": {

@@ -1,15 +1,15 @@
 {
   "id": "SallePalfreniersVatican",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q3945241",
+  "entry_type": "peinture",
   "title": "Salle des Palefreniers",
   "creator": [],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "materialsAndTechniques": "",
   "location": {
     "type": "holding_institution",
     "institution": {

@@ -1,6 +1,7 @@
 {
   "id": "RaphaelViergeEnfantErmitage",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q2629419",
+  "entry_type": "peinture",
   "title": "La Vierge à l'Enfant et saint Joseph",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "materialsAndTechniques": "",
   "location": {
     "type": "holding_institution",
     "institution": {

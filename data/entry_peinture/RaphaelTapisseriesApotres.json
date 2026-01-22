@@ -1,6 +1,7 @@
 {
   "id": "RaphaelTapisseriesApotres",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q76844726",
+  "entry_type": "peinture",
   "title": "Tapisseries des actes des apotres",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "materialsAndTechniques": "",
   "location": {
     "type": "holding_institution",
     "institution": {

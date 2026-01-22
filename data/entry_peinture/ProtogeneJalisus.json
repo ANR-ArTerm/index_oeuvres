@@ -1,6 +1,7 @@
 {
   "id": "ProtogeneJalisus",
   "QID_wikidata": "",
+  "entry_type": "peinture",
   "title": "Tableau représentant Ialyssós ou Jalisus, héros de la ville éponyme",
   "creator": [
     {
@@ -8,17 +9,16 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": null,
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": "Date de vie de Protogene = Seconde moitié du IVème siècle av J.-C."
   },
+  "materialsAndTechniques": "",
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": null,
+      "name": "",
       "place": "",
       "inventory_number": "",
       "url": ""

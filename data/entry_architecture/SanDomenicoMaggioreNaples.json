@@ -1,15 +1,15 @@
 {
   "id": "SanDomenicoMaggioreNaples",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q897603",
+  "entry_type": "architecture",
   "title": "Église San Domenico Maggiore",
   "creator": [],
-  "entry_type": "architecture",
-  "typology": "",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "typology": "",
   "location": {
     "type": "place",
     "place": {

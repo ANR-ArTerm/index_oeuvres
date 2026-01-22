@@ -1,6 +1,7 @@
 {
   "id": "LeonardViergeRochers",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q269342",
+  "entry_type": "peinture",
   "title": "La Vierge au Rocher",
   "creator": [
     {
@@ -8,17 +9,16 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": null,
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "materialsAndTechniques": "",
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": null,
+      "name": "",
       "place": "",
       "inventory_number": "",
       "url": ""

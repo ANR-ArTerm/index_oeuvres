@@ -1,15 +1,15 @@
 {
   "id": "TempleSalomonJérusalem",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q223644",
+  "entry_type": "architecture",
   "title": "Temple de Salomon à Jérusalem",
   "creator": [],
-  "entry_type": "architecture",
-  "typology": null,
   "dateCreated": {
     "startYear": "Xe",
     "endYear": "Xe",
     "text": "Xème siècle avant J.-C."
   },
+  "typology": null,
   "location": {
     "type": "place",
     "place": {

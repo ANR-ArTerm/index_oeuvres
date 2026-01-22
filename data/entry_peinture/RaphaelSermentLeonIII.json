@@ -1,6 +1,7 @@
 {
   "id": "RaphaelSermentLeonIII",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q1619548",
+  "entry_type": "peinture",
   "title": "Serment de Léon III",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "materialsAndTechniques": "",
   "location": {
     "type": "holding_institution",
     "institution": {

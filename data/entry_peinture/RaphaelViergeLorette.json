@@ -1,6 +1,7 @@
 {
   "id": "RaphaelViergeLorette",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q2427320",
+  "entry_type": "peinture",
   "title": "La Vierge de Lorette",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "materialsAndTechniques": "",
   "location": {
     "type": "holding_institution",
     "institution": {

@@ -1,6 +1,7 @@
 {
   "id": "MantegnaRetableSainteSophiePadoue",
   "QID_wikidata": "",
+  "entry_type": "peinture",
   "title": "Tableau d'autel pour l'église Sainte-Sophie de Padoue",
   "creator": [
     {
@@ -8,17 +9,16 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": null,
   "dateCreated": {
     "startYear": "1448",
     "endYear": "1448",
     "text": "Vers 1448 environ"
   },
+  "materialsAndTechniques": "",
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": null,
+      "name": "",
       "place": "",
       "inventory_number": "",
       "url": ""

@@ -180,7 +180,6 @@ def edit_illustration(xml_id, illus, idx):
     
     return illus
 
-
     # ╔═══════════════════════════════════════════╗
     #            Fonction principale
     # ╚═══════════════════════════════════════════╝

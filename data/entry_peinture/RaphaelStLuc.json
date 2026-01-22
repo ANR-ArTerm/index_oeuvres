@@ -1,6 +1,7 @@
 {
   "id": "RaphaelStLuc",
   "QID_wikidata": "",
+  "entry_type": "peinture",
   "title": "Saint Luc peignant la Vierge en présence de Raphaël",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "huile sur bois transposé sur toile",
   "dateCreated": {
     "startYear": "1500",
     "endYear": "1600",
     "text": "XVIe siècle"
   },
+  "materialsAndTechniques": "huile sur bois transposé sur toile",
   "location": {
     "type": "holding_institution",
     "institution": {
@@ -29,10 +29,10 @@
   "illustrations": [
     {
       "id": 0,
-      "storage": "online",
       "url": "https://accademiasanluca.it/uploads/large_san_luca_c76157c683.jpg",
       "copyright": "Accademia di San Luca",
-      "caption": ""
+      "caption": "",
+      "storage": "online"
     }
   ],
   "description": "",

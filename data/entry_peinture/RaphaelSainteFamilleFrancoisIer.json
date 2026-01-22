@@ -1,6 +1,7 @@
 {
   "id": "RaphaelSainteFamilleFrancoisIer",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q2467141",
+  "entry_type": "peinture",
   "title": "Sainte Famille de François Ier",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "materialsAndTechniques": "",
   "location": {
     "type": "holding_institution",
     "institution": {

@@ -9,8 +9,8 @@ from modules.git_tools import git_commit_and_push
 def init_empty_notice(xml_id, entry_type):
     return {
         "id": xml_id,
-        "entry_type": entry_type,
         "QID_wikidata": "",
+        "entry_type": entry_type,
         "title": "",
         "creator": [],
         "dateCreated": {
@@ -48,6 +48,12 @@ def add_creator(xml_id, creator, idx, type_entry):
             creator["role"] = st.selectbox("Rôle :",
                                             load_list_form("architects_roles"),
                                             key=f"{xml_id}_creator_architect_xmlid_{idx}"
+                                            )
+        
+        if type_entry == "ensemble":
+            creator["role"] = st.selectbox("Rôle :",
+                                            load_list_form("artists_roles", "architects_roles"),
+                                            key=f"{xml_id}_creator_ensemble_xmlid_{idx}"
                                             )
     return creator
 
@@ -89,22 +95,32 @@ def add_illustration(xml_id, illus, idx):
     st.markdown(f"### Illustration {idx + 1}")
 
     # --- Initialisations dans session_state ---
-    if "type_illustration_edit" not in st.session_state:
-        st.session_state.type_illustration_edit = {}
-    if "show_image_edit" not in st.session_state:
-        st.session_state.show_image_edit = {}
+    if "type_illustration_add" not in st.session_state:
+        st.session_state.type_illustration_add = {}
+    if "show_image_add" not in st.session_state:
+        st.session_state.show_image_add = {}
+
+    if illus is None:
+        illus = {
+            "id": idx,
+            "url": "",
+            "storage": "",
+            "copyright": "",
+            "caption": ""
+        }
+
 
     # Déduction automatique du type si non défini
-    if idx not in st.session_state.type_illustration_edit:
+    if idx not in st.session_state.type_illustration_add:
         existing_storage = illus.get("storage", "")
-        st.session_state.type_illustration_edit[idx] = (
+        st.session_state.type_illustration_add[idx] = (
             "URL" if existing_storage == "online" else
             "local" if existing_storage == "local" else
             None
         )
 
-    if idx not in st.session_state.show_image_edit:
-        st.session_state.show_image_edit[idx] = False
+    if idx not in st.session_state.show_image_add:
+        st.session_state.show_image_add[idx] = False
 
 
     # --- Colonnes de structure ---
@@ -113,12 +129,12 @@ def add_illustration(xml_id, illus, idx):
     # --- Choix du mode (boutons) ---
     with colA:
         if st.button("➕ URL", key=f"{xml_id}_edit_url_btn_{idx}"):
-            st.session_state.type_illustration_edit[idx] = "URL"
-            st.session_state.show_image_edit[idx] = False
+            st.session_state.type_illustration_add[idx] = "URL"
+            st.session_state.show_image_add[idx] = False
 
         if st.button("📁 Local", key=f"{xml_id}_edit_local_btn_{idx}"):
-            st.session_state.type_illustration_edit[idx] = "local"
-            st.session_state.show_image_edit[idx] = False
+            st.session_state.type_illustration_add[idx] = "local"
+            st.session_state.show_image_add[idx] = False
 
 
     # --- Champs selon le mode ---
@@ -126,7 +142,7 @@ def add_illustration(xml_id, illus, idx):
         illus_id = st.number_input("ID", value=illus.get("id", idx), key=f"{xml_id}_edit_illus_id_{idx}")
         illus["id"] = illus_id
 
-        mode = st.session_state.type_illustration_edit[idx]
+        mode = st.session_state.type_illustration_add[idx]
 
         # ---- MODE URL ----
         if mode == "URL":
@@ -135,7 +151,7 @@ def add_illustration(xml_id, illus, idx):
                 url = st.text_input("URL", illus.get("url", ""), key=f"{xml_id}_edit_illus_url_{idx}")
             with col_btn:
                 if st.button("Voir", key=f"{xml_id}_edit_show_url_{idx}"):
-                    st.session_state.show_image_edit[idx] = True
+                    st.session_state.show_image_add[idx] = True
 
             illus["storage"] = "online"
             illus["url"] = url
@@ -151,12 +167,13 @@ def add_illustration(xml_id, illus, idx):
                 )
             with col_btn:
                 if st.button("Voir/Sauvegarder", key=f"{xml_id}_edit_show_local_{idx}"):
-                    st.session_state.show_image_edit[idx] = True
+                    st.session_state.show_image_add[idx] = True
+                    st.image(url, caption="Prévisualisation")
 
             illus["storage"] = "local"
 
             # Si on voit l'image + fichier chargé → sauvegarde
-            if st.session_state.show_image_edit[idx] and uploaded is not None:
+            if st.session_state.show_image_add[idx] and uploaded is not None:
                 local_path = save_image(uploaded)
                 illus["url"] = local_path
             else:
@@ -165,6 +182,13 @@ def add_illustration(xml_id, illus, idx):
 
         else:
             st.info("Choisissez un mode : URL ou Local")
+        
+        with colPreview:
+            if st.session_state.show_image_add[idx]:
+                if illus.get("url", None):
+                    st.image(illus["url"], caption="Prévisualisation")
+                else:
+                    st.warning("Aucune image à afficher.")
 
 
         # Champs communs
@@ -189,6 +213,19 @@ def add_notice_ensemble():
         index=index_username()
     )
 
+    entry_type_display = st.radio(
+        "Type de notice *",
+        ["🖼️ Œuvre", "🏛️ Architecture", "🌿 Ensemble"],
+        horizontal=True
+    )
+
+    entry_type = {
+        "🖼️ Œuvre": "peinture",
+        "🏛️ Architecture": "architecture",
+        "🌿 Ensemble": "ensemble"
+    }[entry_type_display]
+
+
     # =========================
     # Choix ID + type
     # =========================
@@ -201,17 +238,6 @@ def add_notice_ensemble():
         st.warning("Veuillez saisir un XML:ID")
         st.stop()
 
-    entry_type_display = st.radio(
-        "Type de notice *",
-        ["🖼️ Œuvre", "🏛️ Architecture", "🌿 Ensemble"],
-        horizontal=True
-    )
-
-    entry_type = {
-        "🖼️ Œuvre": "peinture",
-        "🏛️ Architecture": "architecture",
-        "🌿 Ensemble": "ensemble"
-    }[entry_type_display]
 
     # =========================
     # Initialisation session
@@ -454,15 +480,15 @@ def add_notice_ensemble():
         notice["illustrations"] = []
 
     for idx, illus in enumerate(notice["illustrations"]):
-        notice["illustrations"][idx] = add_illustration(
-            notice["id"], illus, idx
-        )
+        add_illustration(notice["id"], illus, idx)
+
         if st.button(
             f"Supprimer illustration {idx + 1}",
             key=f"del_illus_create_{idx}"
         ):
             notice["illustrations"].pop(idx)
             st.rerun()
+
 
     if st.button("➕ Ajouter une illustration"):
         notice["illustrations"].append({

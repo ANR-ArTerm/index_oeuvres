@@ -1,6 +1,7 @@
 {
   "id": "RaphaelSibyllesProphetesChigi",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q1639900",
+  "entry_type": "peinture",
   "title": "Les Sibylles et les Prophètes (Raphaël)\r",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "materialsAndTechniques": "",
   "location": {
     "type": "holding_institution",
     "institution": {

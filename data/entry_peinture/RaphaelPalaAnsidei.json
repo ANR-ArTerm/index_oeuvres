@@ -1,6 +1,7 @@
 {
   "id": "RaphaelPalaAnsidei",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q2713620",
+  "entry_type": "peinture",
   "title": "Retable Ansidei",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "materialsAndTechniques": "",
   "location": {
     "type": "holding_institution",
     "institution": {

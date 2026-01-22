@@ -1,6 +1,7 @@
 {
   "id": "PinturicchioAppartementsBorgia",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q498557",
+  "entry_type": "peinture",
   "title": "Peintures des apparetements Borgia ",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "fresque",
   "dateCreated": {
     "startYear": "1492",
     "endYear": "1494",
     "text": "1492-1494"
   },
+  "materialsAndTechniques": "fresque",
   "location": {
     "type": "holding_institution",
     "institution": {
@@ -29,10 +29,10 @@
   "illustrations": [
     {
       "id": 0,
-      "storage": "online",
       "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Appartamento_borgia%2C_05.JPG",
       "copyright": "",
-      "caption": ""
+      "caption": "",
+      "storage": "online"
     }
   ],
   "description": "",

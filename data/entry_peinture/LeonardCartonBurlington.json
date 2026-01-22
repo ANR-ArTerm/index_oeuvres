@@ -1,6 +1,7 @@
 {
   "id": "LeonardCartonBurlington",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q2471531",
+  "entry_type": "peinture",
   "title": "La Vierge, l'Enfant Jésus avec sainte Anne et saint Jean-Baptiste",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "peintre"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "",
   "dateCreated": {
     "startYear": "",
     "endYear": "",
     "text": ""
   },
+  "materialsAndTechniques": "",
   "location": {
     "type": "holding_institution",
     "institution": {

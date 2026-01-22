@@ -1,6 +1,7 @@
 {
   "id": "TafiDiRicoChristFlorence",
   "QID_wikidata": "",
+  "entry_type": "peinture",
   "title": "Le Christ Pantocrator au plafond du baptistère Saint-Jean-Baptiste de Florence",
   "creator": [
     {
@@ -8,13 +9,12 @@
       "role": "auteur du modèle"
     }
   ],
-  "entry_type": "peinture",
-  "materialsAndTechniques": "mosaïque",
   "dateCreated": {
     "startYear": "1294",
     "endYear": "1294",
     "text": "Avant la mort de l'artiste = 1294"
   },
+  "materialsAndTechniques": "mosaïque",
   "location": {
     "type": "holding_institution",
     "institution": {
