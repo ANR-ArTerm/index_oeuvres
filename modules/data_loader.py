@@ -10,6 +10,7 @@ import csv
 DATA_DIR = "data"
 PEINTURE_DIR = os.path.join(DATA_DIR, "entry_peinture")
 ARCHITECTURE_DIR = os.path.join(DATA_DIR, "entry_architecture")
+ENSEMBLE_DIR = os.path.join(DATA_DIR, "entry_ensemble")
 IMAGES_DIR = os.path.join(DATA_DIR, "images")
 LIST_FORM_DIR = os.path.join(DATA_DIR, "list_form")
 WIKIDATA_DIR = os.path.join(DATA_DIR, "wikidata_list")
@@ -17,6 +18,7 @@ WIKIDATA_DIR = os.path.join(DATA_DIR, "wikidata_list")
 TYPE_DIRS = {
         "peinture": PEINTURE_DIR,
         "architecture": ARCHITECTURE_DIR,
+        "ensemble": ENSEMBLE_DIR
     }
 
 LIST_FORM = {
@@ -24,12 +26,13 @@ LIST_FORM = {
     "artists_names": "artists_names.json",
     "artists_roles": "artists_roles.json",
     "architects_roles":"architects_roles.json",
-    "typologies": "typologies.json",
+    "typologies_architecture": "typologies_architecture.json",
     "institutions": "institutions.json",
     "techniques": "techniques.json",
     "zotero_keys": "zotero_keys.json",
     "usernames": "usernames.json",
-    "link_types":"link_types.json"
+    "link_types":"link_types.json",
+    "typologies_ensemble":"typologies_ensemble.json"
 }
 
 LIST_CSV_QID = {
@@ -150,7 +153,7 @@ def load_all_notices():
         existing_institution,
     )
 
-def get_all_objects_ids(type_name: str):
+def get_all_objects_ids_by_type(type_name: str):
     """
     Récupère la liste des 'id' dans tous les fichiers JSON d'un dossier.
 
@@ -185,6 +188,19 @@ def get_all_objects_ids(type_name: str):
                     objects_ids.append(data["id"])
 
     return objects_ids
+
+def get_all_objects_ids_flat_sorted():
+    """
+    Récupère tous les IDs pour tous les types définis dans TYPE_DIRS,
+    retourne une liste unique triée alphabétiquement.
+    """
+    all_ids = set()
+
+    for type_name in TYPE_DIRS.keys():
+        ids = get_all_objects_ids_by_type(type_name)
+        all_ids.update(ids)
+
+    return sorted(all_ids)
 
 def save_image(uploaded_file, save_path=None):
     # Utiliser pathlib pour une meilleure compatibilité multiplateforme

@@ -11,11 +11,14 @@
     "text": "Xème siècle avant J.-C."
   },
   "location": {
-    "city": "Jérusalem",
-    "country": "Israël",
-    "coordinates": {
-      "latitude": "31° 46′ 40″ N",
-      "longitude": "35° 14′ 07″ E"
+    "type": "place",
+    "place": {
+      "city": "Jérusalem",
+      "country": "Israël",
+      "coordinates": {
+        "latitude": "31° 46′ 40″ N",
+        "longitude": "35° 14′ 07″ E"
+      }
     }
   },
   "related_works": [],

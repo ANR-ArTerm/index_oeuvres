@@ -15,11 +15,14 @@
     "endYear": "",
     "text": ""
   },
-  "holding_institution": {
-    "place": "",
-    "name": "Vienne",
-    "inventory_number": "17575",
-    "URL": "https://sammlungenonline.albertina.at/en/objects/26262/zwei-mannerakte-mit-kopfstudie-studie-fur-die-schlacht-von"
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Vienne",
+      "place": "",
+      "inventory_number": "17575",
+      "url": "https://sammlungenonline.albertina.at/en/objects/26262/zwei-mannerakte-mit-kopfstudie-studie-fur-die-schlacht-von"
+    }
   },
   "related_works": [],
   "bibliography": [],

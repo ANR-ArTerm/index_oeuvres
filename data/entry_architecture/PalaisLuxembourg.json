@@ -16,11 +16,14 @@
     "text": "1615-1631 La construction est tout d'abord confiée à Salomon de Brosse, mais c'est Marin de la Vallée qui est finalement choisi."
   },
   "location": {
-    "city": "Paris",
-    "country": "France",
-    "coordinates": {
-      "latitude": "48° 50′ 54″ N",
-      "longitude": "2° 20′ 15″ E"
+    "type": "place",
+    "place": {
+      "city": "Paris",
+      "country": "France",
+      "coordinates": {
+        "latitude": "48° 50′ 54″ N",
+        "longitude": "2° 20′ 15″ E"
+      }
     }
   },
   "related_works": [],

@@ -9,7 +9,10 @@ from modules.form.home import render_home
 from modules.form.search import render_search_notices
 from modules.form.add_notice_architecture import add_notice_architecture
 from modules.form.add_notice_peinture import add_notice_peinture
+from modules.form.add_notice_ensemble import add_notice_ensemble
 
+
+from modules.search.search import render_search_entries_all
 from modules.search.search_architecture import render_search_entries_architecture
 from modules.search.search_painting import render_search_entries_painting
 from modules.search.modify_entry import edit_json_notice
@@ -137,26 +140,24 @@ if st.session_state.active_menu is None:
     render_home()
 elif st.session_state.active_menu == "add":
     st.header("Ajouter une notice")
-    tab1, tab2 = st.tabs(["🖼️ Œuvre", "🏛️ Bâtiment"])
+    tab1, tab2, tab3 = st.tabs(["🖼️ Œuvre", "🏛️ Bâtiment", "🌿 Ensemble"])
     
     with tab1:
         st.session_state.type_notice = "peinture"
         add_notice_peinture()
-    
+
     with tab2:
         st.session_state.type_notice = "architecture"
         add_notice_architecture()
 
+    with tab3:
+        st.session_state.type_notice = "ensemble"
+        add_notice_ensemble()
+
 elif st.session_state.active_menu == "search":
     st.header("Ajouter une notice")
-    tab1, tab2, tab3 = st.tabs(["🖼️ Œuvre", "🏛️ Bâtiments", "Corbeille"])
-    with tab1:
-        st.session_state.type_notice = "peinture"
-        render_search_entries_painting()
+    render_search_entries_all()
 
-    with tab2:
-        st.session_state.type_notice = "architecture"
-        render_search_entries_architecture()
 
 
 elif st.session_state.active_menu == "edit":

@@ -2,7 +2,7 @@ import streamlit as st
 import json
 from datetime import datetime
 
-from modules.data_loader import load_notice, save_notice, index_list_form, load_list_form, index_username, get_all_objects_ids, save_image
+from modules.data_loader import load_notice, save_notice, index_list_form, load_list_form, index_username, get_all_objects_ids_flat_sorted, save_image
 
 def edit_creator(xml_id, creator, idx, type_entry):
     """Édite un artiste"""
@@ -196,6 +196,7 @@ def edit_json_notice(json_path=None, data=None):
     elif data is None:
         st.error("Aucune donnée fournie")
         return None
+    
 
     # 2. Réinitialiser notice_data quand on change de fichier
     if (
@@ -223,8 +224,15 @@ def edit_json_notice(json_path=None, data=None):
     if notice["entry_type"] == "architecture": 
         notice["typology"] = st.selectbox(
                     "Typologie de monument",
-                    load_list_form("typologies"),
-                    index=index_list_form(notice.get("typology", ""), "typologies")
+                    load_list_form("typologies_architecture"),
+                    index=index_list_form(notice.get("typology", ""), "typologies_architecture")
+                    )
+    
+    if notice["entry_type"] == "ensemble": 
+        notice["typology"] = st.selectbox(
+                    "Typologie d'ensemble (ex : ensemble décoratif, retable,...)",
+                    load_list_form("typologies_ensemble"),
+                    index=index_list_form(notice.get("typology", ""), "typologies_ensemble")
                     )
 
     # Section Créateurs
@@ -300,10 +308,7 @@ def edit_json_notice(json_path=None, data=None):
     if "related_works" not in notice or not isinstance(notice["related_works"], list):
         notice["related_works"] = []
 
-    if entry_type == "peinture":
-        list_xml_id = get_all_objects_ids("peinture")
-    if entry_type == "architecture":
-        list_xml_id = get_all_objects_ids("architecture")
+    list_xml_id = get_all_objects_ids_flat_sorted()
     
     for idx, work in enumerate(notice["related_works"]):
         notice["related_works"][idx] = edit_related_work(id_entry, work, idx, list_xml_id)

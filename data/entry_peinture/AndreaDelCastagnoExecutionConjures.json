@@ -15,11 +15,14 @@
     "endYear": "1440",
     "text": "1440"
   },
-  "holding_institution": {
-    "place": "",
-    "name": null,
-    "inventory_number": "",
-    "URL": ""
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": null,
+      "place": "",
+      "inventory_number": "",
+      "url": ""
+    }
   },
   "related_works": [],
   "bibliography": [],

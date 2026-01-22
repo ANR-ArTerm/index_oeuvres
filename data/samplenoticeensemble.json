@@ -1,0 +1,64 @@
+{
+  "id": "LogesVatican",
+  "QID_wikidata": "",
+  "title": "",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": ""
+    }
+  ],
+  "entry_type": "ensemble",
+  "typology": "",
+  "dateCreated":
+    {
+      "startYear": "",
+      "endYear":"",
+      "text": ""
+    },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "",
+      "place": "",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "",
+      "xml_id_work": "",
+      "n":""
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id":0,
+      "url":"",
+      "copyright":"",
+      "caption":"Image générale de l'œuvre",
+      "storage":""
+    }
+  ],
+  "description":"",
+  "commentary":"",
+  "history": [
+    {
+      "date": "",
+      "type": "created",
+      "author": ""
+    },
+    {
+      "date": "",
+      "type": "modified",
+      "author": ""
+    }
+  ]
+}

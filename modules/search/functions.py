@@ -9,3 +9,6 @@ def display_value(val, label_if_empty=None):
         return f"<span style='color:red;'>{label_if_empty}</span>"
     else:
         return "—"
+
+def truncate(text, max_len=120):
+    return text if len(text) <= max_len else text[:max_len] + "…"

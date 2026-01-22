@@ -16,11 +16,14 @@
     "text": "Antiquité"
   },
   "location": {
-    "city": "",
-    "country": "",
-    "coordinates": {
-      "latitude": "",
-      "longitude": ""
+    "type": "place",
+    "place": {
+      "city": "",
+      "country": "",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
     }
   },
   "related_works": [],

@@ -11,11 +11,14 @@
     "text": "1478"
   },
   "location": {
-    "city": "Pavie",
-    "country": "Italie",
-    "coordinates": {
-      "latitude": "",
-      "longitude": ""
+    "type": "place",
+    "place": {
+      "city": "Pavie",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
     }
   },
   "related_works": [],

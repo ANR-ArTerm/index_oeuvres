@@ -16,11 +16,14 @@
     "text": "1335-1345"
   },
   "location": {
-    "city": "Florence",
-    "country": "Italie",
-    "coordinates": {
-      "latitude": "43°46'5\"N",
-      "longitude": "11°15'11\"E"
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "43°46'5\"N",
+        "longitude": "11°15'11\"E"
+      }
     }
   },
   "related_works": [],

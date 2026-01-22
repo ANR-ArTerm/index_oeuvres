@@ -5,6 +5,7 @@ import time
 from pathlib import Path
 
 from modules.data_loader import load_all_entries, delete_notice
+from modules.search.functions import truncate
 
 def normalize_notice_architecture(o):
     """
@@ -56,29 +57,81 @@ def normalize_notice_architecture(o):
 
     return o_display
 
-def render_search_entries_architecture():
-    st.header("🔍 Recherche dans les notices d'architecture")
-    
-    # Charger toutes les œuvres
+@st.cache_data(show_spinner="Chargement des notices…")
+def load_architecture_index():
     oeuvres = load_all_entries("architecture")
-
-    search_query = st.text_input("Rechercher dans toutes les œuvres", key="search_architecture")
-
-    st.subheader("Résultats")
-    filtered = []
+    index = []
 
     for idx, (o, json_path) in enumerate(oeuvres):
         o_display = normalize_notice_architecture(o)
-        if search_query.lower() in json.dumps(o_display, ensure_ascii=False).lower():
-            filtered.append((idx, o, o_display, json_path))
+        search_blob = json.dumps(o_display, ensure_ascii=False).lower()
+        index.append((idx, o, o_display, json_path, search_blob))
+
+    return index
+
+def render_search_entries_architecture():
+    st.header("🔍 Recherche dans les notices d'architecture")
+
+    ITEMS_PER_PAGE = 12
+
+    if "archi_page" not in st.session_state:
+        st.session_state.archi_page = 0
+
+    # Chargement CACHÉ
+    index = load_architecture_index()
+
+    def reset_archi_page():
+        st.session_state.archi_page = 0
+
+    search_query = st.text_input(
+        "Rechercher dans toutes les œuvres",
+        key="search_architecture",
+        on_change=reset_archi_page
+    ).lower()
+
+    # Filtrage rapide
+    if search_query:
+        filtered = [item for item in index if search_query in item[4]]
+    else:
+        filtered = index
 
     if not filtered:
         st.info("Aucun résultat trouvé.")
         return
 
+    total_items = len(filtered)
+    total_pages = (total_items - 1) // ITEMS_PER_PAGE + 1
+
+    # Sécurité : si page hors limites
+    if st.session_state.archi_page >= total_pages:
+        st.session_state.archi_page = 0
+
+    start = st.session_state.archi_page * ITEMS_PER_PAGE
+    end = start + ITEMS_PER_PAGE
+    paged_results = filtered[start:end]
+
+    # Pagination UI
+    col_prev, col_info, col_next = st.columns([1, 2, 1])
+
+    with col_prev:
+        if st.button("⬅️ Précédent", disabled=st.session_state.archi_page == 0):
+            st.session_state.archi_page -= 1
+            st.rerun()
+
+    with col_info:
+        st.markdown(
+            f"<div style='text-align:center'>Page {st.session_state.archi_page + 1} / {total_pages}</div>",
+            unsafe_allow_html=True
+        )
+
+    with col_next:
+        if st.button("Suivant ➡️", disabled=st.session_state.archi_page >= total_pages - 1):
+            st.session_state.archi_page += 1
+            st.rerun()
+
     cols = st.columns(3)
 
-    for i, (idx, o, o_display, json_path) in enumerate(filtered):
+    for i, (idx, o, o_display, json_path, _) in enumerate(paged_results):
         with cols[i % 3]:
             creators_str = " ; ".join(o_display.get('creators_display', []))
             biblio_str = " ; ".join(o_display.get('biblio_display', []))
@@ -126,7 +179,7 @@ def render_search_entries_architecture():
                 st.text(f"{o_display['city']} – {o_display['country']}")
                 
                 # Informations bibliographiques
-                st.caption(f"📚 {biblio_str}")
+                st.caption(f"📚 {truncate(biblio_str)}")
                 
                 # Afficher toutes les illustrations
                 if len(illustrations_list) > 1:

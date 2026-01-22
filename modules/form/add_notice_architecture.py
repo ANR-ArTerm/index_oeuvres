@@ -4,7 +4,7 @@ from datetime import datetime
 import time
 import uuid
 
-from modules.data_loader import save_notice, exist_notice, save_image, load_list_form, index_username, save_to_list_form, get_all_objects_ids
+from modules.data_loader import save_notice, exist_notice, save_image, load_list_form, index_username, save_to_list_form, get_all_objects_ids_flat_sorted
 from modules.git_tools import git_commit_and_push
 from modules.wikidata.data_treatment import extract_wikidata_id
 from modules.wikidata.query_architecture import get_monument_data
@@ -91,14 +91,14 @@ def add_notice_architecture():
 
         typology = st.selectbox(
             "Typologie de monument",
-            load_list_form("typologies"),
+            load_list_form("typologies_architecture"),
             accept_new_options=True,
             index = None,
             placeholder = "Selectionner ou ajouter une option"
         )
 
-        if typology not in load_list_form("typologies"):
-            save_to_list_form("typologies", typology)
+        if typology not in load_list_form("typologies_architecture"):
+            save_to_list_form("typologies_architecture", typology)
 
         st.subheader("Datation de l'oeuvre")
         col_date_1, col_date_2, col_date_3 = st.columns([1, 1, 8])
@@ -140,7 +140,7 @@ def add_notice_architecture():
         
         # Champs artistes dynamiques
         related_works_list = []
-        architecture_ids = get_all_objects_ids("architecture")
+        all_ids = get_all_objects_ids_flat_sorted()
         
         for i in range(st.session_state.nb_related_architectures):
             col1, col2 = st.columns(2)
@@ -160,7 +160,7 @@ def add_notice_architecture():
             with col2:
                 related_work_id = st.selectbox(
                     f"Oeuvres liées {i+1}",
-                    architecture_ids,
+                    all_ids,
                     index=None,
                     placeholder="XML:ID de l'oeuvre liée ou entrer un nouveau",
                     accept_new_options=False,

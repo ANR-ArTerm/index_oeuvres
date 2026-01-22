@@ -10,11 +10,14 @@
     "endYear": "",
     "text": ""
   },
-  "holding_institution": {
-    "place": "",
-    "name": "",
-    "inventory_number": "",
-    "URL": "https://collections.louvre.fr/ark:/53355/cl010066558"
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "",
+      "place": "",
+      "inventory_number": "",
+      "url": "https://collections.louvre.fr/ark:/53355/cl010066558"
+    }
   },
   "related_works": [],
   "bibliography": [],

@@ -15,11 +15,14 @@
     "endYear": "1520",
     "text": "1516-1520"
   },
-  "holding_institution": {
-    "place": "Rome",
-    "name": "Pinacothèque vaticane",
-    "inventory_number": "Inv. 40333",
-    "URL": "https://www.museivaticani.va/content/museivaticani/fr/collezioni/musei/la-pinacoteca/sala-viii---secolo-xvi/raffaello-sanzio--trasfigurazione.html"
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Pinacothèque vaticane",
+      "place": "Rome",
+      "inventory_number": "Inv. 40333",
+      "url": "https://www.museivaticani.va/content/museivaticani/fr/collezioni/musei/la-pinacoteca/sala-viii---secolo-xvi/raffaello-sanzio--trasfigurazione.html"
+    }
   },
   "related_works": [],
   "bibliography": [

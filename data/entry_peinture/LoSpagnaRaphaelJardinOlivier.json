@@ -19,11 +19,14 @@
     "endYear": "",
     "text": ""
   },
-  "holding_institution": {
-    "place": "",
-    "name": "",
-    "inventory_number": "",
-    "URL": "https://www.nationalgallery.org.uk/paintings/probably-by-lo-spagna-the-agony-in-the-garden"
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "",
+      "place": "",
+      "inventory_number": "",
+      "url": "https://www.nationalgallery.org.uk/paintings/probably-by-lo-spagna-the-agony-in-the-garden"
+    }
   },
   "related_works": [],
   "bibliography": [],

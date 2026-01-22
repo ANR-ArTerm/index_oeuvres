@@ -15,11 +15,14 @@
     "endYear": "1624",
     "text": "Années 1620"
   },
-  "holding_institution": {
-    "place": "Paris",
-    "name": "Musée du Louvre",
-    "inventory_number": "",
-    "URL": ""
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Musée du Louvre",
+      "place": "Paris",
+      "inventory_number": "",
+      "url": ""
+    }
   },
   "related_works": [],
   "bibliography": [],

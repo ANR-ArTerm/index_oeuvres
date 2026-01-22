@@ -15,11 +15,14 @@
     "endYear": "",
     "text": ""
   },
-  "holding_institution": {
-    "place": "",
-    "name": "National Gallery",
-    "inventory_number": "NG35",
-    "URL": "https://www.nationalgallery.org.uk/paintings/titian-bacchus-and-ariadne"
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "National Gallery",
+      "place": "",
+      "inventory_number": "NG35",
+      "url": "https://www.nationalgallery.org.uk/paintings/titian-bacchus-and-ariadne"
+    }
   },
   "related_works": [],
   "bibliography": [],

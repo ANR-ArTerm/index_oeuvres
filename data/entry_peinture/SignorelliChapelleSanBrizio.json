@@ -23,11 +23,14 @@
     "endYear": "1502",
     "text": "1396-1502"
   },
-  "holding_institution": {
-    "place": "Orvieto",
-    "name": "Cathédrale d'Orvieto",
-    "inventory_number": "",
-    "URL": ""
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Cathédrale d'Orvieto",
+      "place": "Orvieto",
+      "inventory_number": "",
+      "url": ""
+    }
   },
   "related_works": [],
   "bibliography": [],

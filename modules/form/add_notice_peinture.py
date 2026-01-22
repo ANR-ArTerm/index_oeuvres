@@ -4,7 +4,7 @@ from datetime import datetime
 import time
 import uuid
 
-from modules.data_loader import save_notice, exist_notice, save_image, load_list_form, index_username, save_to_list_form, get_all_objects_ids
+from modules.data_loader import save_notice, exist_notice, save_image, load_list_form, index_username, save_to_list_form, get_all_objects_ids_flat_sorted
 from modules.git_tools import git_commit_and_push
 
 def add_notice_peinture():
@@ -66,8 +66,8 @@ def add_notice_peinture():
                     accept_new_options=True,
                     placeholder="ex: peintre"
                     )
-                if artiste_role not in load_list_form("architects_roles"):
-                    save_to_list_form("architects_roles", artiste_role)
+                if artiste_role not in load_list_form("artists_roles"):
+                    save_to_list_form("artists_roles", artiste_role)
             if artiste_id:
                 creators_list.append({
                     "xml_id": artiste_id,
@@ -134,7 +134,7 @@ def add_notice_peinture():
         
         # Champs artistes dynamiques
         related_works_list = []
-        paintings_ids = get_all_objects_ids("peinture")
+        all_ids = get_all_objects_ids_flat_sorted()
         
         for i in range(st.session_state.nb_related_paintings):
             col1, col2 = st.columns(2)
@@ -153,7 +153,7 @@ def add_notice_peinture():
             with col2:
                 related_work_id = st.selectbox(
                     f"Oeuvres liées {i+1}",
-                    paintings_ids,
+                    all_ids,
                     index=None,
                     placeholder="XML:ID de l'oeuvre liée ou entrer un nouveau",
                     accept_new_options=False,

@@ -15,11 +15,14 @@
     "endYear": "1600",
     "text": "XVIème siècle "
   },
-  "holding_institution": {
-    "place": "Paris",
-    "name": "Musée du Louvre",
-    "inventory_number": "INV 142 ; MR 384",
-    "URL": "https://collections.louvre.fr/ark:/53355/cl010064382"
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Musée du Louvre",
+      "place": "Paris",
+      "inventory_number": "INV 142 ; MR 384",
+      "url": "https://collections.louvre.fr/ark:/53355/cl010064382"
+    }
   },
   "related_works": [],
   "bibliography": [],

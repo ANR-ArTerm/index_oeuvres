@@ -15,11 +15,14 @@
     "endYear": "1604",
     "text": "1604"
   },
-  "holding_institution": {
-    "place": "Pavie",
-    "name": "Collegio Borromeo",
-    "inventory_number": "1j570-00050",
-    "URL": "https://www.lombardiabeniculturali.it/opere-arte/schede/1j570-00055/"
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Collegio Borromeo",
+      "place": "Pavie",
+      "inventory_number": "1j570-00050",
+      "url": "https://www.lombardiabeniculturali.it/opere-arte/schede/1j570-00055/"
+    }
   },
   "related_works": [],
   "bibliography": [],
