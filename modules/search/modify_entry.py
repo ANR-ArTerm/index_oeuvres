@@ -260,30 +260,47 @@ def edit_json_notice(json_path=None, data=None):
                     )
 
         st.header("🏛️ Institution de conservation")
-        if "holding_institution" not in notice:
-            notice["holding_institution"] = {}
+
+        # Initialisation de la nouvelle structure
+        if "location" not in notice:
+            notice["location"] = {
+                "type": "holding_institution",
+                "institution": {}
+            }
+
+        if "institution" not in notice["location"]:
+            notice["location"]["institution"] = {}
+
+        institution = notice["location"]["institution"]
 
         col1, col2 = st.columns(2)
+
         with col1:
-            notice["holding_institution"]["name"] = st.selectbox(
-                    "Institution de conservation",
-                    load_list_form("institutions"),
-                    index=index_list_form(notice["holding_institution"].get("name", ""), "institutions"),
-                    accept_new_options=True
-                    )
-            notice["holding_institution"]["place"] = st.text_input(
-                "Lieu", 
-                notice["holding_institution"].get("place", "")
+            institution["name"] = st.selectbox(
+                "Institution de conservation",
+                load_list_form("institutions"),
+                index=index_list_form(
+                    institution.get("name", ""),
+                    "institutions"
+                ),
+                accept_new_options=True
             )
+
+            institution["place"] = st.text_input(
+                "Lieu",
+                institution.get("place", "")
+            )
+
         with col2:
-            notice["holding_institution"]["inventory_number"] = st.text_input(
-                "Numéro d'inventaire", 
-                notice["holding_institution"].get("inventory_number", "")
+            institution["inventory_number"] = st.text_input(
+                "Numéro d'inventaire",
+                institution.get("inventory_number", "")
             )
-            notice["holding_institution"]["URL"] = st.text_input(
-                "URL institution", 
-                notice["holding_institution"].get("URL", "")
-            )
+
+            institution["url"] = st.text_input(
+                "URL institution",
+                institution.get("url", "")
+            )        
 
     
     # Section Date de création
