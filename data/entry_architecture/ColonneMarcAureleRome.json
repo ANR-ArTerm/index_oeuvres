@@ -11,11 +11,14 @@
     "text": "176-193"
   },
   "location": {
-    "city": "Rome",
-    "country": "Italie",
-    "coordinates": {
-      "latitude": "",
-      "longitude": ""
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
     }
   },
   "related_works": [],
@@ -27,6 +30,13 @@
       "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Colonna_di_Marcus_Aurelius_-_venosa.jpg",
       "copyright": "Venosa (30 avril 2006) : https://www.flickr.com/photos/angven/142054180/ (CC by 2.0)",
       "caption": ""
+    },
+    {
+      "id": 1,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Column_of_Marcus_Aurelius_-_detail2.jpg/960px-Column_of_Marcus_Aurelius_-_detail2.jpg?20090710105719",
+      "copyright": "Barosaurus Lentus (7 juillet 2009) : https://commons.wikimedia.org/wiki/File:Column_of_Marcus_Aurelius_-_detail2.jpg (CC 3.0)",
+      "caption": "La pluie miraculeuse de Jupiter",
+      "storage": "online"
     }
   ],
   "description": "",
@@ -35,6 +45,16 @@
     {
       "date": "2026-01-26T16:39:07.543418",
       "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-01-26T16:53:12.745620",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-01-26T17:03:49.011136",
+      "type": "modified",
       "author": "Pierre"
     }
   ]

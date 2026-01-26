@@ -322,6 +322,8 @@ def edit_json_notice(json_path=None, data=None):
 
     if entry_type == "architecture":
         # Initialisation de la nouvelle structure
+        st.header("🏛️ Localisation du monument")
+        
         if "location" not in notice:
             notice["location"] = {
                 "type": "place",
