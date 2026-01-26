@@ -28,6 +28,15 @@ def edit_creator(xml_id, creator, idx, type_entry):
                                             index=index_list_form(creator.get("role", ""), "architects_roles"),
                                             key=f"{xml_id}_creator_architect_xmlid_{idx}"
                                             )
+            
+        if type_entry == "ensemble":
+            creator["role"] = st.selectbox("Rôle :",
+                                            load_list_form("artists_roles", "architects_roles"),
+                                            index=index_list_form(creator.get("role", ""), 
+                                                                  ["artists_roles", "architects_roles"]),
+                                            key=f"{xml_id}_creator_ensemble_xmlid_{idx}"
+                                            )
+
     return creator
 
 def edit_related_work(xml_id, work, idx, list_xml_id):

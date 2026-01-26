@@ -361,11 +361,38 @@ def index_username():
     index = options.index(username) if username in options else None
     return index
 
-def index_list_form(value, key: str):
+def index_list_form(value, keys):
+    """
+    Retourne l'index de `value` dans la ou les listes fusionnées issues de load_list_form.
+    
+    Args:
+        value (str): valeur à rechercher.
+        keys (str | list[str]): clé ou liste de clés pour load_list_form.
+    ATTENTION PEUT PRENDRE UNE LISTE DE CLÉS.
+    
+    Returns:
+        int: index de la valeur dans la liste fusionnée, 0 si non trouvée ou si value est None.
+    """
     if value is None:
-        return None
-    options = load_list_form(key)
-    return options.index(value) if value in options else None
+        return 0  # sécurité : retourne 0 pour selectbox
+
+    # convertir en liste si c'est une seule clé
+    if isinstance(keys, str):
+        keys = [keys]
+
+    # fusionner toutes les listes via load_list_form
+    try:
+        options = load_list_form(*keys)
+    except Exception as e:
+        # sécurité : si erreur, on retourne 0
+        print(f"⚠️ index_list_form : impossible de charger les listes {keys} : {e}")
+        return 0
+
+    # retour de l'index
+    try:
+        return options.index(value)
+    except ValueError:
+        return 0  # valeur non trouvée → première option
 
 
 def get_wikidata_csv_path(key: str):
