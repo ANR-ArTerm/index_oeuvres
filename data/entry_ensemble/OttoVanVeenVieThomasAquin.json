@@ -1,0 +1,41 @@
+{
+  "id": "OttoVanVeenVieThomasAquin",
+  "QID_wikidata": "https://gallica.bnf.fr/ark:/12148/bpt6k1518672p/f7.item",
+  "entry_type": "ensemble",
+  "title": "Recueil de la vie de saint Thomas d'Aquin, Vita D. Thomae Aquinatis",
+  "creator": [
+    {
+      "xml_id": "OttoVanVeen",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": "1610",
+    "endYear": "1610",
+    "text": "1610"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://gallica.bnf.fr/ark:/12148/bpt6k1518672p/f7.highres",
+      "storage": "online",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "pas de lien wikidata, donc j'ai mis celui de gallica",
+  "history": [
+    {
+      "date": "2026-01-26T17:02:49.189263",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "typology": "suite d'estampes"
+}
