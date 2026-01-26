@@ -1,7 +1,7 @@
 {
   "id": "RubensCycleMedicisLuxembourg",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q2558141",
-  "entry_type": "peinture",
+  "entry_type": "ensemble",
   "title": "Cycle de Marie de Médicis",
   "creator": [
     {
@@ -34,6 +34,12 @@
       "date": "2026-01-15T17:04:26.902058",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-01-26T11:08:25.254364",
+      "type": "modified",
+      "author": "Pierre"
     }
-  ]
+  ],
+  "typology": "cycle de peintures"
 }

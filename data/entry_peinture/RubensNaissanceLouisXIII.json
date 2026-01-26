@@ -21,10 +21,15 @@
       "name": "Musée du Louvre",
       "place": "Paris",
       "inventory_number": "INV 1776 ; MR 967",
-      "url": ""
+      "url": "https://collections.louvre.fr/ark:/53355/cl010060841"
     }
   },
-  "related_works": [],
+  "related_works": [
+    {
+      "link_type": "copié d'après",
+      "xml_id_work": "RubensCycleMedicisLuxembourg"
+    }
+  ],
   "bibliography": [],
   "illustrations": [
     {
@@ -60,6 +65,21 @@
     },
     {
       "date": "2026-01-15T16:59:00.000000",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-01-26T11:10:27.395898",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-01-26T11:10:41.710336",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-01-26T11:11:06.192614",
       "type": "modified",
       "author": "Pierre"
     }

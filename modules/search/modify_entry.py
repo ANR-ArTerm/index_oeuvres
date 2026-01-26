@@ -2,7 +2,7 @@ import streamlit as st
 import json
 from datetime import datetime
 
-from modules.data_loader import load_notice, save_notice, index_list_form, load_list_form, index_username, get_all_objects_ids_flat_sorted, save_image
+from modules.data_loader import load_notice, save_notice, index_list_form, load_list_form, index_username, get_all_objects_ids_flat_sorted, save_image, save_to_list_form
 
 def edit_creator(xml_id, creator, idx, type_entry):
     """Édite un artiste"""
@@ -233,15 +233,24 @@ def edit_json_notice(json_path=None, data=None):
         notice["typology"] = st.selectbox(
                     "Typologie de monument",
                     load_list_form("typologies_architecture"),
+                    accept_new_options=True,
                     index=index_list_form(notice.get("typology", ""), "typologies_architecture")
                     )
+        
+        if notice["typology"] not in load_list_form("typologies_architecture"):
+            save_to_list_form("typologies_architecture", notice["typology"])
     
     if entry_type == "ensemble": 
         notice["typology"] = st.selectbox(
                     "Typologie d'ensemble (ex : ensemble décoratif, retable,...)",
                     load_list_form("typologies_ensemble"),
+                    accept_new_options=True,
                     index=index_list_form(notice.get("typology", ""), "typologies_ensemble")
                     )
+        
+        if notice["typology"] not in load_list_form("typologies_ensemble"):
+            save_to_list_form("typologies_ensemble", notice["typology"])
+
 
     # Section Créateurs
     st.header("👥 Créateurs")

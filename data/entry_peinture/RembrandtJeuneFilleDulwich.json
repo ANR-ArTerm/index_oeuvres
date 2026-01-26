@@ -1,0 +1,36 @@
+{
+  "id": "RembrandtJeuneFilleDulwich",
+  "QID_wikidata": "",
+  "title": "Jeune fille à la fenêtre",
+  "creator": [
+    {
+      "xml_id": "Rembrandt",
+      "role": "peintre"
+    }
+  ],
+  "entry_type": "peinture",
+  "materialsAndTechniques": "huile sur toile",
+  "dateCreated": {
+    "startYear": "1645",
+    "endYear": "1645",
+    "text": "1645"
+  },
+  "holding_institution": {
+    "place": "Londres",
+    "name": "Dulwich Picture Gallery",
+    "inventory_number": "DPG163",
+    "URL": "https://www.dulwichpicturegallery.org.uk/explore/explore-the-collection/girl-at-a-window/"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "ATTENTION Décrite par Piles dans ses cours de peinture mais c'est incertain, doute",
+  "history": [
+    {
+      "date": "2026-01-26T11:55:09.690156",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}
