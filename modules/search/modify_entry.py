@@ -344,9 +344,116 @@ def edit_json_notice(json_path=None, data=None):
                 "Longitude",
                 value=place["coordinates"]["longitude"]
             )
-      
+        
+    # — ENSEMBLE —
+    if entry_type == "ensemble":
+        st.header("🏛️ Localisation de l'ensemble")
 
-    
+        # Initialisation robuste
+        notice.setdefault("location", {})
+        notice["location"].setdefault("type", "")
+
+        location_type = notice["location"]["type"]
+
+        # Liste des options
+        options = ["unlocated", "holding_institution", "place"]
+
+        # Sécurisation : si la valeur actuelle n’est pas dans la liste, prendre l’index 0
+        try:
+            selected_index = options.index(location_type)
+        except ValueError:
+            selected_index = 0
+
+        location_type = st.selectbox(
+            "Type de localisation",
+            options,
+            index=selected_index
+        )
+
+        notice["location"]["type"] = location_type
+
+
+        # --- CAS : INSTITUTION DE CONSERVATION ---
+        if location_type == "holding_institution":
+
+            notice["location"].pop("place", None)  # évite les structures parasites
+            notice["location"].setdefault("institution", {})
+
+            institution = notice["location"]["institution"]
+            institution.setdefault("name", "")
+            institution.setdefault("place", "")
+            institution.setdefault("inventory_number", "")
+            institution.setdefault("url", "")
+
+            col1, col2 = st.columns(2)
+
+            with col1:
+                institution["name"] = st.selectbox(
+                    "Institution de conservation",
+                    load_list_form("institutions"),
+                    index=index_list_form(
+                        institution["name"],
+                        "institutions"
+                    ),
+                    accept_new_options=True
+                )
+
+                institution["place"] = st.text_input(
+                    "Lieu (ville)",
+                    institution["place"]
+                )
+
+            with col2:
+                institution["inventory_number"] = st.text_input(
+                    "Numéro d'inventaire",
+                    institution["inventory_number"]
+                )
+
+                institution["url"] = st.text_input(
+                    "URL de l'institution",
+                    institution["url"]
+                )
+
+        # --- CAS : LIEU GÉOGRAPHIQUE ---
+        elif location_type == "place":
+
+            notice["location"].pop("institution", None)
+            notice["location"].setdefault("place", {})
+
+            place = notice["location"]["place"]
+            place.setdefault("city", "")
+            place.setdefault("country", "")
+            place.setdefault("coordinates", {})
+            place["coordinates"].setdefault("latitude", "")
+            place["coordinates"].setdefault("longitude", "")
+
+            col1, col2 = st.columns(2)
+
+            with col1:
+                place["city"] = st.text_input(
+                    "Ville",
+                    place["city"]
+                )
+
+                place["coordinates"]["latitude"] = st.text_input(
+                    "Latitude",
+                    place["coordinates"]["latitude"]
+                )
+
+            with col2:
+                place["country"] = st.text_input(
+                    "Pays",
+                    place["country"]
+                )
+
+                place["coordinates"]["longitude"] = st.text_input(
+                    "Longitude",
+                    place["coordinates"]["longitude"]
+                )
+
+        
+
+        
     # Section Date de création
     st.header("📅 Date de création")
     if "dateCreated" not in notice:
