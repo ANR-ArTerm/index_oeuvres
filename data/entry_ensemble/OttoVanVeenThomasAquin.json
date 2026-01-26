@@ -3,7 +3,12 @@
   "QID_wikidata": "",
   "entry_type": "ensemble",
   "title": "Recueil de la Vie de saint Thomas d'Aquin",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "OttoVanVeen",
+      "role": "graveur"
+    }
+  ],
   "dateCreated": {
     "startYear": "1610",
     "endYear": "1610",
@@ -29,6 +34,11 @@
     {
       "date": "2026-01-26T17:05:59.166892",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-26T17:19:05.041556",
+      "type": "modified",
       "author": "Carla"
     }
   ],
