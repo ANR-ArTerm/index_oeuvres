@@ -52,7 +52,7 @@ def normalize_notice(o, entry_type):
     return d
 
 
-@st.cache_data(show_spinner="Chargement des notices…")
+# @st.cache_data(show_spinner="Chargement des notices…")
 def load_all_entries_index():
     index = []
 

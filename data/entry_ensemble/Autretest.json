@@ -1,0 +1,60 @@
+{
+  "id": "Autretest",
+  "entry_type": "ensemble",
+  "QID_wikidata": "",
+  "title": "TestNoticeEnsemble",
+  "creator": [
+    {
+      "xml_id": "AbrahamBloemaert",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": "1500",
+    "endYear": "1600",
+    "text": ""
+  },
+  "location": {
+    "type": "place",
+    "institution": {
+      "name": "",
+      "place": "",
+      "inventory_number": "",
+      "url": ""
+    },
+    "place": {
+      "city": "Essai",
+      "country": "bobo",
+      "coordinates": {
+        "latitude": "cool",
+        "longitude": "cool"
+      }
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "copié d'après",
+      "xml_id_work": "AgnoloGaddiArno"
+    }
+  ],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/UtrechtIconoclasm.jpg/960px-UtrechtIconoclasm.jpg",
+      "storage": "online",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "description": "Je suis pas sûr que tout marche bien ",
+  "commentary": "on essaie c'est pas sûr",
+  "history": [
+    {
+      "date": "2026-01-22T13:56:00.491379",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "typology": "suite d'estampes"
+}

@@ -155,7 +155,7 @@ elif st.session_state.active_menu == "add":
         add_notice_ensemble()
 
 elif st.session_state.active_menu == "search":
-    st.header("Ajouter une notice")
+    st.header("Consulter les notices")
     render_search_entries_all()
 
 
