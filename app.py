@@ -138,6 +138,27 @@ if "corrupted_files" in st.session_state and st.session_state.corrupted_files:
 # Zone principale
 if st.session_state.active_menu is None:
     render_home()
+
+elif st.session_state.active_menu == "add":
+    st.session_state.type_notice = "ensemble"
+    add_notice_ensemble()
+
+elif st.session_state.active_menu == "edit":
+    if "editing_notice" in st.session_state and st.session_state.editing_notice:
+
+        json_path = Path(st.session_state.editing_notice)
+
+        st.header("✏️ Édition de la notice")
+        
+        if st.button("← Retour à la liste"):
+            del st.session_state.editing_notice
+            st.session_state.active_menu = "search"
+            st.rerun()
+        
+        edit_json_notice(json_path=json_path)
+
+"""
+
 elif st.session_state.active_menu == "add":
     st.header("Ajouter une notice")
     tab1, tab2, tab3 = st.tabs(["🖼️ Œuvre", "🏛️ Bâtiment", "🌿 Ensemble"])
@@ -159,18 +180,7 @@ elif st.session_state.active_menu == "search":
     render_search_entries_all()
 
 
+"""
 
-elif st.session_state.active_menu == "edit":
-    if "editing_notice" in st.session_state and st.session_state.editing_notice:
 
-        json_path = Path(st.session_state.editing_notice)
-
-        st.header("✏️ Édition de la notice")
-        
-        if st.button("← Retour à la liste"):
-            del st.session_state.editing_notice
-            st.session_state.active_menu = "search"
-            st.rerun()
-        
-        edit_json_notice(json_path=json_path)
 
