@@ -1,0 +1,41 @@
+{
+  "id": "ColonneMarcAureleRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q265384",
+  "title": "Colonne de Marc-Aurèle",
+  "creator": [],
+  "entry_type": "architecture",
+  "typology": "Colonne",
+  "dateCreated": {
+    "startYear": "176",
+    "endYear": "193",
+    "text": "176-193"
+  },
+  "location": {
+    "city": "Rome",
+    "country": "Italie",
+    "coordinates": {
+      "latitude": "",
+      "longitude": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "storage": "online",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Colonna_di_Marcus_Aurelius_-_venosa.jpg",
+      "copyright": "Venosa (30 avril 2006) : https://www.flickr.com/photos/angven/142054180/ (CC by 2.0)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-26T16:39:07.543418",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "id": "RembrandtJeuneFilleDulwich",
-  "QID_wikidata": "",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q11824948",
   "title": "Jeune fille à la fenêtre",
   "creator": [
     {
@@ -42,6 +42,11 @@
     },
     {
       "date": "2026-01-26T11:56:42.888699",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-01-26T14:05:25.729443",
       "type": "modified",
       "author": "Pierre"
     }
