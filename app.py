@@ -157,6 +157,10 @@ elif st.session_state.active_menu == "edit":
         
         edit_json_notice(json_path=json_path)
 
+elif st.session_state.active_menu == "search":
+    st.header("Consulter les notices")
+    render_search_entries_all()
+
 """
 
 elif st.session_state.active_menu == "add":
@@ -174,11 +178,6 @@ elif st.session_state.active_menu == "add":
     with tab3:
         st.session_state.type_notice = "ensemble"
         add_notice_ensemble()
-
-elif st.session_state.active_menu == "search":
-    st.header("Consulter les notices")
-    render_search_entries_all()
-
 
 """
 
