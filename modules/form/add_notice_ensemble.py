@@ -536,4 +536,5 @@ def add_notice_ensemble():
         st.success(f"✅ Notice créée : {path}")
 
         st.session_state.pop("creating_notice")
+        time.sleep(2)
         st.rerun()
