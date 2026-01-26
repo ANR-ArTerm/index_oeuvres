@@ -23,7 +23,15 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://assets.dulwich-gallery.substrakt.net/images/Girl_at_a_Window_ECVai9o.width-2000.jpg",
+      "copyright": "Dulwich Picture Gallery",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "ATTENTION Décrite par Piles dans ses cours de peinture mais c'est incertain, doute",
   "history": [
@@ -31,6 +39,20 @@
       "date": "2026-01-26T11:55:09.690156",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-01-26T11:56:42.888699",
+      "type": "modified",
+      "author": "Pierre"
     }
-  ]
+  ],
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Musée du Louvre",
+      "place": "",
+      "inventory_number": "",
+      "url": ""
+    }
+  }
 }
