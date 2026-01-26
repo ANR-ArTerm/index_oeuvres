@@ -220,14 +220,14 @@ def edit_json_notice(json_path=None, data=None):
     notice["title"] = st.text_input("Titre", notice.get("title", ""))
 
     
-    if notice["entry_type"] == "architecture": 
+    if entry_type == "architecture": 
         notice["typology"] = st.selectbox(
                     "Typologie de monument",
                     load_list_form("typologies_architecture"),
                     index=index_list_form(notice.get("typology", ""), "typologies_architecture")
                     )
     
-    if notice["entry_type"] == "ensemble": 
+    if entry_type == "ensemble": 
         notice["typology"] = st.selectbox(
                     "Typologie d'ensemble (ex : ensemble décoratif, retable,...)",
                     load_list_form("typologies_ensemble"),
@@ -300,7 +300,51 @@ def edit_json_notice(json_path=None, data=None):
             institution["url"] = st.text_input(
                 "URL institution",
                 institution.get("url", "")
-            )        
+            )
+
+    if entry_type == "architecture":
+        # Initialisation de la nouvelle structure
+        if "location" not in notice:
+            notice["location"] = {
+                "type": "place",
+                "place": {}
+            }
+
+        if "place" not in notice["location"]:
+            notice["location"]["place"] = {}
+
+        place = notice["location"]["place"]
+
+        col1, col2 = st.columns(2)
+
+        with col1:
+            place["city"] = st.text_input(
+                "Ville",
+                place.get("city", "")
+            )
+       
+        with col2:
+            place["country"] = st.text_input(
+                "Pays",
+                place.get("country", "")
+            )
+        
+        # Coordonnées géographiques
+        st.markdown("**Coordonnées géographiques**")
+        col3, col4 = st.columns(2)
+
+        with col3:
+            place["coordinates"]["latitude"] = st.text_input(
+                "Latitude",
+                value=place["coordinates"]["latitude"]
+            )
+
+        with col4:
+            place["coordinates"]["longitude"] = st.text_input(
+                "Longitude",
+                value=place["coordinates"]["longitude"]
+            )
+      
 
     
     # Section Date de création

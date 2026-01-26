@@ -4,6 +4,7 @@ import time
 import streamlit as st
 from modules.search.search_painting import normalize_notice_painting
 from modules.search.search_architecture import normalize_notice_architecture
+from modules.search.search_ensemble import normalize_notice_ensemble
 from modules.data_loader import load_all_entries, delete_notice
 import json
 from modules.search.functions import truncate
@@ -13,21 +14,40 @@ def reset_all_page():
 
 
 def normalize_notice(o, entry_type):
-    if entry_type == "architecture":
-        d = normalize_notice_architecture(o)
-        d["location_display"] = f"{d.get('city')} – {d.get('country')}"
-        d["secondary"] = d.get("typology")
-    elif entry_type == "peinture":
-        d = normalize_notice_painting(o)
-        d["location_display"] = f"{d.get('city')} – {d.get('name')}"
-        d["secondary"] = d.get("materialsAndTechniques")
-    else:
-        return None
+    d = {}
 
-    # clés communes obligatoires
+    if entry_type == "architecture":
+        d = normalize_notice_architecture(o) or {}
+        d["location_display"] = f"{d.get('city', 'AUCUNE VILLE')} – {d.get('country', 'AUCUN PAYS')}"
+        d["secondary"] = d.get("typology", "AUCUNE TYPOLOGIE")
+
+    elif entry_type == "peinture":
+        d = normalize_notice_painting(o) or {}
+        d["location_display"] = f"{d.get('city', 'AUCUNE VILLE')} – {d.get('name', 'AUCUNE INSTITUTION')}"
+        d["secondary"] = d.get("materialsAndTechniques", "AUCUNE TECHNIQUE")
+
+    elif entry_type == "ensemble":
+        d = normalize_notice_ensemble(o) or {}
+
+        location_type = d.get("location_type")
+        if location_type == "institution":
+            d["location_display"] = f"{d.get('location_name', 'AUCUNE INSTITUTION')} – {d.get('location_city', 'AUCUNE VILLE')}"
+        elif location_type == "lieu":
+            d["location_display"] = f"{d.get('location_city', 'AUCUNE VILLE')} – {d.get('location_country', 'AUCUN PAYS')}"
+        else:
+            d["location_display"] = "AUCUNE LOCALISATION"
+
+        d["secondary"] = d.get("typology", "AUCUNE TYPOLOGIE")
+
+    # 🔒 Sécurité ultime : schéma garanti
+    d.setdefault("id", "AUCUN ID")
+    d.setdefault("title", "AUCUN TITRE")
+    d.setdefault("date_text", "AUCUNE DATE")
+    d.setdefault("location_display", "AUCUNE LOCALISATION")
+    d.setdefault("secondary", "")
     d.setdefault("illustrations_display", [])
-    d.setdefault("creators_display", [])
-    d.setdefault("biblio_display", [])
+    d.setdefault("creators_display", ["AUCUN CRÉATEUR"])
+    d.setdefault("biblio_display", ["AUCUNE BIBLIOGRAPHIE"])
 
     return d
 
@@ -40,7 +60,7 @@ def load_all_entries_index():
         oeuvres = load_all_entries(entry_type)
 
         for idx, (o, json_path) in enumerate(oeuvres):
-            o_display = normalize_notice(o, entry_type)
+            o_display = normalize_notice(o, entry_type) or {}
             search_blob = json.dumps(o_display, ensure_ascii=False).lower()
 
             index.append({
@@ -133,14 +153,14 @@ def render_search_entries_all():
 
     for i, item in enumerate(paged):
         o = item["o"]
-        d = item["o_display"]
+        d = item.get("o_display") or {}
         json_path = item["json_path"]
         entry_type = item["entry_type"]
 
         with cols[i % 3]:
             with st.container(border=True):
 
-                illus = d["illustrations_display"]
+                illus = d.get("illustrations_display", ["AUCUNE ILLUSTRATION"])
                 if illus and illus[0] != "AUCUNE ILLUSTRATION":
                     try:
                         st.image(illus[0], width="stretch")
