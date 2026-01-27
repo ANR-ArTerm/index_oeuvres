@@ -1,0 +1,61 @@
+{
+  "id": "AgostinoVenezianoEcoleAthenes",
+  "QID_wikidata": "",
+  "entry_type": "peinture",
+  "title": "Groupe de figures issues de l'Ecole d'Athènes de Raphaël",
+  "creator": [
+    {
+      "xml_id": "AgostinoVeneziano",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "Raphael",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": "1523",
+    "endYear": "1523",
+    "text": "1523"
+  },
+  "location": {
+    "type": "unlocated",
+    "institution": {
+      "name": "Musée du Louvre",
+      "place": "",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "gravé d'après",
+      "xml_id_work": "RaphaelEcoleAthenes"
+    }
+  ],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/342969/1924348/main-image",
+      "storage": "online",
+      "copyright": "New York, Metropolitan Museum of Arts, inv. 49.97.171 (https://www.metmuseum.org/fr/art/collection/search/342969)",
+      "caption": "Premier état sur deux"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-27T11:13:48.209817",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-01-27T11:14:58.235358",
+      "type": "modified",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "burin"
+}

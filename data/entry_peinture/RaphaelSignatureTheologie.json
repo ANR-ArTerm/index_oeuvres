@@ -1,0 +1,60 @@
+{
+  "id": "RaphaelSignatureTheologie",
+  "QID_wikidata": "",
+  "entry_type": "peinture",
+  "title": "Allégorie de la Théologie au plafond de la Chambre de la Signature",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "location": {
+    "type": "holding_institution",
+    "place": {
+      "city": "",
+      "country": "",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    },
+    "institution": {
+      "name": "",
+      "place": "",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "RaphaelChambreSignature"
+    }
+  ],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Volta_della_stanza_della_segnatura_04_teologia.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia commons (WGA work ID: r/raphael/4stanze/1segnatu/5/1tondo3)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-27T11:27:04.007070",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "fresque"
+}

@@ -38,21 +38,34 @@ def add_creator(xml_id, creator, idx, type_entry):
                                      index=None,
                                      key=f"{xml_id}_creator_xmlid_{idx}"
                                      )
+        if not creator["xml_id"] in load_list_form("persons"):
+            save_to_list_form("persons", creator["xml_id"])
+
     with col2:
         if type_entry == "peinture":
             creator["role"] = st.selectbox("Rôle :",
                                             load_list_form("artists_roles"),
-                                            key=f"{xml_id}_creator_painting_xmlid_{idx}"
+                                            index=None,
+                                            key=f"{xml_id}_creator_painting_xmlid_{idx}",
+                                            accept_new_options=True
                                             )
+            if not creator["role"] in load_list_form("artists_roles"):
+                save_to_list_form("artists_roles", creator["role"])
+
         if type_entry == "architecture":
             creator["role"] = st.selectbox("Rôle :",
                                             load_list_form("architects_roles"),
-                                            key=f"{xml_id}_creator_architect_xmlid_{idx}"
+                                            index=None,
+                                            key=f"{xml_id}_creator_architect_xmlid_{idx}",
+                                            accept_new_options=True
                                             )
+            if not creator["role"] in load_list_form("architects_roles"):
+                save_to_list_form("architects_roles", creator["role"])
         
         if type_entry == "ensemble":
             creator["role"] = st.selectbox("Rôle :",
                                             load_list_form("artists_roles", "architects_roles"),
+                                            index=None,
                                             key=f"{xml_id}_creator_ensemble_xmlid_{idx}"
                                             )
     return creator
@@ -66,14 +79,19 @@ def add_related_work(xml_id, work, idx, list_xml_id):
                     f"Type de lien",
                     load_list_form("link_types"),
                     key=f"{xml_id}_work_type_{idx}",
+                    index=None,
                     accept_new_options=True,
                     )
+        if not work["link_type"] in load_list_form("link_types"):
+            save_to_list_form("link_types", work["link_type"])
+        
     with col2:
         work["xml_id_work"] = st.selectbox(
             f"XML:id de l'oeuvre liée {idx + 1}",
             list_xml_id,
             placeholder="XML:ID de l'oeuvre liée",
             accept_new_options=False,
+            index=None,
             key=f"{xml_id}_work_xmlid_{idx}"
         )
     return work
@@ -294,31 +312,45 @@ def add_notice_ensemble():
 
         notice["materialsAndTechniques"] = st.selectbox(
                     "Matériaux et techniques",
-                    load_list_form("techniques")
+                    load_list_form("techniques"),
+                    index=None,
+                    accept_new_options=True
                     )
+        if not notice["materialsAndTechniques"] in load_list_form("techniques"):
+            save_to_list_form("techniques", notice["materialsAndTechniques"])
     
     if entry_type == "architecture":
         st.header("Typologie de monument")
 
         notice["typology"] = st.selectbox(
                     "Typologie",
-                    load_list_form("typologies_architecture")
+                    load_list_form("typologies_architecture"),
+                    index=None,
+                    accept_new_options=True
                     )
+
+        if not notice["typology"] in load_list_form("typologies_architecture"):
+            save_to_list_form("typologies_architecture", notice["typology"])
+
     
     if entry_type == "ensemble":
         st.header("Typologie d'ensemble")
 
         notice["typology"] = st.selectbox(
                     "Typologie",
-                    load_list_form("typologies_ensemble")
+                    load_list_form("typologies_ensemble"),
+                    index=None,
+                    accept_new_options=True
                     )
+        if not notice["typology"] in load_list_form("typologies_ensemble"):
+            save_to_list_form("typologies_ensemble", notice["typology"])
 
     # =========================
     # DATATION
     # =========================
     st.header("📅 Date de création")
 
-    col1, col2, col3 = st.columns(3)
+    col1, col2, col3 = st.columns([1,1,3])
     with col1:
         notice["dateCreated"]["startYear"] = st.text_input(
             "Année début",

@@ -1,8 +1,8 @@
 {
-  "id": "RaphaelChambreSignature",
-  "QID_wikidata": "https://www.wikidata.org/wiki/Q9292247",
+  "id": "RaphaelChambreHeliodore",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q774018",
   "entry_type": "peinture",
-  "title": "Chambre de la Signature",
+  "title": "Chambre d'Heliodore",
   "creator": [
     {
       "xml_id": "Raphael",
@@ -14,7 +14,7 @@
     "endYear": "",
     "text": ""
   },
-  "materialsAndTechniques": "",
+  "typology": "ensemble décoratif",
   "location": {
     "type": "holding_institution",
     "institution": {
@@ -31,7 +31,7 @@
   "commentary": "",
   "history": [
     {
-      "date": "2026-01-15T16:40:40.216182",
+      "date": "2026-01-15T16:40:40.263144",
       "type": "created",
       "author": "Pierre"
     }
