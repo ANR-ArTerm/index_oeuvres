@@ -1,0 +1,52 @@
+{
+  "id": "RaphaelGracesFarnesina",
+  "QID_wikidata": "",
+  "entry_type": "peinture",
+  "title": "Cupidon et les grâces",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1518,
+    "endYear": 1518,
+    "text": "1518"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Villa Farnesina",
+      "place": "Rome",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "LoggiaPsyche"
+    }
+  ],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Raffael%2C_Loggia_di_Psiche%2C_Villa_Farnesina%2C_Rome_09.jpg",
+      "storage": "online",
+      "copyright": "Public Domain, Web Gallery of Art : https://www.wga.hu/index_artists.html, ",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-27T17:19:04.614668",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": "fresque"
+}
