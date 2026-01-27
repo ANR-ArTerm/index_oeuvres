@@ -1,0 +1,47 @@
+{
+  "id": "LoggiaPsyche",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3836436",
+  "entry_type": "ensemble",
+  "title": "La Loggia de Psyché",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1518,
+    "endYear": 1518,
+    "text": "1518"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Villa Farnesina",
+      "place": "Rome",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Villa_farnesina%2C_loggia_di_psiche_02.JPG",
+      "storage": "online",
+      "copyright": "CC BY-SA 3.0, par Combusken, https://commons.wikimedia.org/wiki/File:Villa_farnesina,_loggia_di_psiche_02.JPG",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-27T17:09:42.818146",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "typology": "ensemble décoratif"
+}
