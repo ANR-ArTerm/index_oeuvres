@@ -1,0 +1,47 @@
+{
+  "id": "TitienSaintJeanBaptisteAccademia",
+  "QID_wikidata": "",
+  "entry_type": "peinture",
+  "title": "Portrait de Saint Jean-Baptiste dans le désert",
+  "creator": [
+    {
+      "xml_id": "Titien",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1540,
+    "endYear": 1542,
+    "text": "1540-1542"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Galeries de l’Académie",
+      "place": "Venice",
+      "inventory_number": "",
+      "url": "https://www.gallerieaccademia.it/"
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Accademia_-_St_John_the_Baptist_by_Titian_Cat314.jpg",
+      "storage": "online",
+      "copyright": "Public Domain, Photographie personnelle Didier Descouens. ",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-27T17:48:33.374317",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": "huile sur toile"
+}

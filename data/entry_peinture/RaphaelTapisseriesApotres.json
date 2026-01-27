@@ -2,7 +2,7 @@
   "id": "RaphaelTapisseriesApotres",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q76844726",
   "entry_type": "peinture",
-  "title": "Tapisseries des actes des apotres",
+  "title": "Tapisseries des actes des apôtres",
   "creator": [
     {
       "xml_id": "Raphael",
@@ -10,23 +10,31 @@
     }
   ],
   "dateCreated": {
-    "startYear": "",
-    "endYear": "",
-    "text": ""
+    "startYear": 1515,
+    "endYear": 1516,
+    "text": "1515-1516"
   },
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": "huile sur toile",
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": "",
-      "place": "",
+      "name": "Victoria and Albert Museum",
+      "place": "Londres",
       "inventory_number": "",
-      "url": ""
+      "url": "https://www.vam.ac.uk/"
     }
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Raphael_-_The_Miraculous_Draft_of_Fishes_-_Google_Art_Project.jpg",
+      "copyright": "Public Domain, ywH0tF2CcmYUxA at Google Cultural Institute",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -34,6 +42,11 @@
       "date": "2026-01-15T16:40:40.349347",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-01-27T17:36:38.190797",
+      "type": "modified",
+      "author": "Carla"
     }
   ]
 }
