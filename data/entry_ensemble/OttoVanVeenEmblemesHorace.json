@@ -1,0 +1,41 @@
+{
+  "id": "OttoVanVeenEmblemesHorace",
+  "QID_wikidata": "",
+  "entry_type": "ensemble",
+  "title": "Les emblêmes d'Horace",
+  "creator": [
+    {
+      "xml_id": "OttoVanVeen",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": "1607",
+    "endYear": "1607",
+    "text": "1607"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://ia902805.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/qhoratiflacciemb00veen/qhoratiflacciemb00veen_jp2.zip&file=qhoratiflacciemb00veen_jp2/qhoratiflacciemb00veen_0007.jp2&id=qhoratiflacciemb00veen&scale=4&rotate=0",
+      "storage": "online",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "https://archive.org/details/qhoratiflacciemb00veen/page/n5/mode/2up",
+  "history": [
+    {
+      "date": "2026-01-26T17:18:17.206366",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "typology": "suite d'estampes"
+}
