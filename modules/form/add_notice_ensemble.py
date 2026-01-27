@@ -468,7 +468,7 @@ def add_notice_ensemble():
             index=None,
             value=institution.get("place", ""),
             accept_new_options=True,
-            key=f"{notice['id']}_institution_name"
+            key=f"{xml_id}_institution"
         )
         if not institution["name"] in load_list_form("institutions"):
             save_to_list_form("institutions", institution["name"])
@@ -481,7 +481,7 @@ def add_notice_ensemble():
             "Numéro d'inventaire",
             value=institution.get("inventory_number", "")
         )
-        
+
         institution["url"] = st.text_input(
             "URL de l'oeuvre sur le site de l'institution",
             value=institution.get("url", "")
