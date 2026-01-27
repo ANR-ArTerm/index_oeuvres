@@ -1,6 +1,6 @@
 import csv
 
-from modules.data_loader import get_wikidata_csv_path
+from modules.data.load import get_wikidata_csv_path
 
 def wikidata_to_xml_ids_or_qid(qid_list, key):
     """

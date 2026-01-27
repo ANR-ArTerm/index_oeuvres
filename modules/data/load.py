@@ -349,6 +349,34 @@ def save_to_list_form(key: str, value: str):
         with open(path, "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
 
+def save_list_to_list_form(key: str, values: list[str], *, sort: bool = True):
+    if key not in LIST_FORM:
+        raise ValueError(f"Clé inconnue : {key}")
+
+    if not values:
+        return
+
+    path = os.path.join(LIST_FORM_DIR, LIST_FORM[key])
+
+    # Charger les données existantes
+    existing = _load_json(path)
+
+    # Fusion + dédoublonnage
+    merged = set(existing)
+    for value in values:
+        if value is None:
+            continue
+        value = str(value).strip()
+        if value:
+            merged.add(value)
+
+    # Tri optionnel
+    result = sorted(merged) if sort else list(merged)
+
+    # Écriture
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(result, f, ensure_ascii=False, indent=2)
+
 
 def load_username(default=None):
     load_dotenv()

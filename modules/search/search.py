@@ -5,7 +5,7 @@ import streamlit as st
 from modules.search.search_painting import normalize_notice_painting
 from modules.search.search_architecture import normalize_notice_architecture
 from modules.search.search_ensemble import normalize_notice_ensemble
-from modules.data_loader import load_all_entries, delete_notice
+from modules.data.load import load_all_entries, delete_notice
 import json
 from modules.search.functions import truncate
 

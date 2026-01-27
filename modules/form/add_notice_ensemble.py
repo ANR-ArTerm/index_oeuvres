@@ -3,7 +3,7 @@ from datetime import datetime
 import time
 import uuid
 
-from modules.data_loader import save_notice, exist_notice, save_image, load_list_form, index_username, save_to_list_form, get_all_objects_ids_flat_sorted
+from modules.data.load import save_notice, exist_notice, save_image, load_list_form, index_username, save_to_list_form, get_all_objects_ids_flat_sorted
 from modules.git_tools import git_commit_and_push
 
 def init_empty_notice(xml_id, entry_type):
@@ -584,10 +584,13 @@ def add_notice_ensemble():
             "author": entry_editor
         })
 
-        path = save_notice(notice)
-        st.success(f"✅ Notice créée : {path}")
-
-        st.session_state.pop("creating_notice")
-        st.balloons()
-        time.sleep(2)
+        with st.spinner("Enregistement de la notice et ajout sur github"):
+            path = save_notice(notice)
+            message = f"ajout notice {xml_id} par {entry_editor} {datetime.now().isoformat()}"
+            git_commit_and_push(message)
+            st.success(f"✅ Notice ajoutée avec succès sur github !\n\n📁 Fichier créé : `{path}`")
+            st.balloons()
+            st.session_state.pop("creating_notice")
+        time.sleep(3)
+        
         st.rerun()

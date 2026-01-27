@@ -1,6 +1,6 @@
 import streamlit as st
 
-from modules.data_loader import load_all_entries
+from modules.data.load import load_all_entries
 
 def render_home():
     # Section guide rapide

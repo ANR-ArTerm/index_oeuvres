@@ -1,7 +1,7 @@
 import streamlit as st
 import json
 
-from modules.data_loader import load_all_notices, delete_notice
+from modules.data.load import load_all_notices, delete_notice
 
 def display_value(val, label_if_empty=None):
     """

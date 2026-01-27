@@ -1,9 +1,12 @@
 import json
 from pathlib import Path
 
+from modules.data.load import load_all_entries, load_list_form, save_list_to_list_form
+
 DATA_DIRS = [
     Path("data") / "entry_architecture",
     Path("data") / "entry_peinture",
+    Path("data") / "entry_ensemble"
 ]
 
 def verify_json_entries(data_dirs=DATA_DIRS):
@@ -36,3 +39,7 @@ def verify_json_entries(data_dirs=DATA_DIRS):
         else "❌ Problèmes détectés :\n" + "\n".join(errors)
 
     return text, corrupted
+
+
+
+

@@ -2,7 +2,7 @@ import streamlit as st
 import json
 from datetime import datetime
 
-from modules.data_loader import load_notice, save_notice, index_list_form, load_list_form, index_username, get_all_objects_ids_flat_sorted, save_image, save_to_list_form
+from modules.data.load import load_notice, save_notice, index_list_form, load_list_form, index_username, get_all_objects_ids_flat_sorted, save_image, save_to_list_form
 from modules.utils.functions import safe_int
 
 def edit_creator(xml_id, creator, idx, type_entry):

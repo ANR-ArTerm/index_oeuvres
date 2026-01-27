@@ -3,7 +3,7 @@ import json
 import time
 from pathlib import Path
 
-from modules.data_loader import load_all_entries, delete_notice
+from modules.data.load import load_all_entries, delete_notice
 
 def normalize_notice_painting(o):
     """
