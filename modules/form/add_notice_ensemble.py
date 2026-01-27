@@ -591,5 +591,5 @@ def add_notice_ensemble():
             st.balloons()
             st.session_state.pop("creating_notice")
         time.sleep(3)
-        
+
         st.rerun()
