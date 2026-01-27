@@ -386,13 +386,13 @@ def index_list_form(value, keys):
     except Exception as e:
         # sécurité : si erreur, on retourne 0
         print(f"⚠️ index_list_form : impossible de charger les listes {keys} : {e}")
-        return 0
+        return None
 
     # retour de l'index
     try:
         return options.index(value)
     except ValueError:
-        return 0  # valeur non trouvée → première option
+        return None  # valeur non trouvée → returne None pour ne pas présélectionner
 
 
 def get_wikidata_csv_path(key: str):
