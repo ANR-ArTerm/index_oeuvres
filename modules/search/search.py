@@ -149,7 +149,7 @@ def render_search_entries_all():
             st.session_state.all_page += 1
             st.rerun()
 
-    cols = st.columns(3)
+    cols = st.columns(4)
 
     for i, item in enumerate(paged):
         o = item["o"]
@@ -157,7 +157,7 @@ def render_search_entries_all():
         json_path = item["json_path"]
         entry_type = item["entry_type"]
 
-        with cols[i % 3]:
+        with cols[i % 4]:
             with st.container(border=True):
 
                 illus = d.get("illustrations_display", ["AUCUNE ILLUSTRATION"])
