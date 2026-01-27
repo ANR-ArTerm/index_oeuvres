@@ -305,6 +305,9 @@ def edit_json_notice(json_path=None, data=None):
                 accept_new_options=True
             )
 
+            if not institution["name"] in load_list_form("institutions"):
+                save_to_list_form("institutions", institution["name"])
+
             institution["place"] = st.text_input(
                 "Lieu",
                 institution.get("place", "")
