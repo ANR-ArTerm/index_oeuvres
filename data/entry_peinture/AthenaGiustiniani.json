@@ -3,12 +3,7 @@
   "QID_wikidata": "https://www.wikidata.org/wiki/Q4813374",
   "entry_type": "peinture",
   "title": "Athena Giustiniani",
-  "creator": [
-    {
-      "xml_id": "Aaron",
-      "role": "sculpteur"
-    }
-  ],
+  "creator": [],
   "dateCreated": {
     "startYear": -425,
     "endYear": -375,
@@ -44,6 +39,16 @@
     },
     {
       "date": "2026-01-27T14:49:10.321728",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-27T14:54:50.734221",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-27T14:56:58.045300",
       "type": "modified",
       "author": "Carla"
     }

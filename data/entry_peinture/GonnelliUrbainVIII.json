@@ -2,7 +2,7 @@
   "id": "GonnelliUrbainVIII",
   "QID_wikidata": "",
   "entry_type": "peinture",
-  "title": "Buste de Urbain VIII",
+  "title": "Buste d'Urbain VIII",
   "creator": [
     {
       "xml_id": "GiovanniGonnelli",
@@ -10,8 +10,8 @@
     }
   ],
   "dateCreated": {
-    "startYear": "1637",
-    "endYear": "1637",
+    "startYear": 1637,
+    "endYear": 1637,
     "text": "1637"
   },
   "location": {
@@ -44,6 +44,11 @@
     },
     {
       "date": "2026-01-27T14:42:31.157740",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-27T14:59:00.344362",
       "type": "modified",
       "author": "Carla"
     }
