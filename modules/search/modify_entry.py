@@ -3,6 +3,7 @@ import json
 from datetime import datetime
 
 from modules.data_loader import load_notice, save_notice, index_list_form, load_list_form, index_username, get_all_objects_ids_flat_sorted, save_image, save_to_list_form
+from modules.utils.functions import safe_int
 
 def edit_creator(xml_id, creator, idx, type_entry):
     """Édite un artiste"""
@@ -478,18 +479,33 @@ def edit_json_notice(json_path=None, data=None):
     st.header("📅 Date de création")
     if "dateCreated" not in notice:
         notice["dateCreated"] = {}
-    
-    col1, col2, col3 = st.columns(3)
+
+    col1, col2, col3 = st.columns([1,1,4])
     with col1:
-        notice["dateCreated"]["startYear"] = st.text_input("Année de début", 
-                                                            notice["dateCreated"].get("startYear", ""))
+        notice["dateCreated"]["startYear"] = st.number_input(
+            "Année de début",
+            min_value=-10000,
+            max_value=3000,
+            value=safe_int(notice["dateCreated"].get("startYear")),
+            step=1,
+            format="%d",
+            help="Valeurs négatives pour avant J.-C."
+        )
+
     with col2:
-        notice["dateCreated"]["endYear"] = st.text_input("Année de fin", 
-                                                          notice["dateCreated"].get("endYear", ""))
+        notice["dateCreated"]["endYear"] = st.number_input(
+            "Année de fin",
+            min_value=-10000,
+            max_value=3000,
+            value=safe_int(notice["dateCreated"].get("endYear")),
+            step=1,
+            format="%d",
+            help="Valeurs négatives pour avant J.-C."
+        )
     with col3:
         notice["dateCreated"]["text"] = st.text_input("Texte date", 
                                                        notice["dateCreated"].get("text", ""))
-    
+                    
     # Section Œuvres liées
     st.header("🔗 Œuvres liées")
     if "related_works" not in notice or not isinstance(notice["related_works"], list):

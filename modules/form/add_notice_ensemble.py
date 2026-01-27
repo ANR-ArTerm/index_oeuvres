@@ -351,15 +351,27 @@ def add_notice_ensemble():
     st.header("📅 Date de création")
 
     col1, col2, col3 = st.columns([1,1,3])
+    start_year = notice["dateCreated"].get("startYear")
+    end_year = notice["dateCreated"].get("endYear")
+
     with col1:
-        notice["dateCreated"]["startYear"] = st.text_input(
+        notice["dateCreated"]["startYear"] = st.number_input(
             "Année début",
-            notice["dateCreated"].get("startYear", "")
+            min_value=-10000,
+            max_value=3000,
+            value = int(start_year) if start_year not in ("", None) else None,
+            step=1,
+            format="%d"
         )
+
     with col2:
-        notice["dateCreated"]["endYear"] = st.text_input(
+        notice["dateCreated"]["endYear"] = st.number_input(
             "Année fin",
-            notice["dateCreated"].get("endYear", "")
+            min_value=-10000,
+            max_value=3000,
+            value=int(end_year) if end_year not in ("", None) else None,
+            step=1,
+            format="%d"
         )
     with col3:
         notice["dateCreated"]["text"] = st.text_input(
