@@ -5,27 +5,32 @@
   "title": "La Cène",
   "creator": [
     {
-      "xml_id": "LeonardDeVinci",
+      "xml_id": null,
       "role": "peintre"
     }
   ],
   "dateCreated": {
-    "startYear": "1495",
-    "endYear": "1498",
+    "startYear": 1495,
+    "endYear": 1498,
     "text": "1495-1498"
   },
   "materialsAndTechniques": "fresque",
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": "",
+      "name": "Académie de Saint-Luc",
       "place": "Milan",
       "inventory_number": "",
       "url": ""
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "maraniLeonardVinciCarriere1999",
+      "location": "n°18"
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -41,6 +46,11 @@
     {
       "date": "2026-01-19T17:19:11.175275",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-27T15:38:17.321077",
+      "type": "modified",
       "author": "Carla"
     }
   ]

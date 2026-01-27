@@ -1,0 +1,37 @@
+{
+  "id": "TitienCopieBacchanale",
+  "QID_wikidata": "",
+  "entry_type": "peinture",
+  "title": "Bacchanale copiée d'après Titien, collection de Roger de Piles",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [
+    {
+      "link_type": "copié d'après",
+      "xml_id_work": "TitienBacchusAriane"
+    },
+    {
+      "link_type": "copié d'après",
+      "xml_id_work": "TitienBacchanaleAndriens"
+    }
+  ],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-27T15:28:02.541163",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": null
+}
