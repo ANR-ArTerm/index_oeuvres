@@ -10,11 +10,11 @@
     }
   ],
   "dateCreated": {
-    "startYear": "",
-    "endYear": "",
-    "text": ""
+    "startYear": 1620,
+    "endYear": 1523,
+    "text": "1520-1523"
   },
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": "huile sur toile",
   "location": {
     "type": "holding_institution",
     "institution": {
@@ -26,7 +26,15 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Titian_Bacchus_and_Ariadne.jpg",
+      "copyright": "",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -34,6 +42,11 @@
       "date": "2026-01-15T16:40:40.123766",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-01-27T15:19:12.412448",
+      "type": "modified",
+      "author": "Carla"
     }
   ]
 }
