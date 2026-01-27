@@ -466,7 +466,6 @@ def add_notice_ensemble():
             "Nom de l'institution",
             load_list_form("institutions"),
             index=None,
-            value=institution.get("place", ""),
             accept_new_options=True,
             key=f"{xml_id}_institution"
         )

@@ -1,0 +1,55 @@
+{
+  "id": "TitienBacchanaleAndriens",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3632485",
+  "entry_type": "peinture",
+  "title": "La Bacchanale des Andriens",
+  "creator": [
+    {
+      "xml_id": "Titien",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1523,
+    "endYear": 1526,
+    "text": "1523-1526"
+  },
+  "location": {
+    "type": "holding_institution",
+    "place": {
+      "city": "",
+      "country": "",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    },
+    "institution": {
+      "name": "Musée du Prado",
+      "place": "Madrid",
+      "inventory_number": "P000418",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Bacanal_de_los_andrios.jpg",
+      "storage": "online",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-27T15:25:25.193129",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": "huile sur toile"
+}
