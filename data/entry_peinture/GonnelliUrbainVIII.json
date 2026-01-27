@@ -1,0 +1,52 @@
+{
+  "id": "GonnelliUrbainVIII",
+  "QID_wikidata": "",
+  "entry_type": "peinture",
+  "title": "Buste de Urbain VIII",
+  "creator": [
+    {
+      "xml_id": "GiovanniGonnelli",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": "1637",
+    "endYear": "1637",
+    "text": "1637"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Palais Barberini",
+      "place": "Rome",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Giovanni_Gonnelli%2C_Busto_di_Urbano_VIII.jpg",
+      "storage": "online",
+      "copyright": "wikimedia commons, P. Damiano Neri",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-27T14:41:34.753853",
+      "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-27T14:42:31.157740",
+      "type": "modified",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": "sculpture"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "AthenaGiustiniani",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q4813374",
+  "entry_type": "peinture",
+  "title": "Athena Giustiniani",
+  "creator": [
+    {
+      "xml_id": null,
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": "-425",
+    "endYear": "-375",
+    "text": "Fin Ve siècle – début du IVe siècle avant J.-C."
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Musée du Vatican",
+      "place": "Rome",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Atena-Giustiniani---Vatican.jpg",
+      "storage": "online",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-27T12:24:48.246362",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": "sculpture"
+}
