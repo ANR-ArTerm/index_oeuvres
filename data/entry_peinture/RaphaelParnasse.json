@@ -1,5 +1,5 @@
 {
-  "id": "RaphaelPanasse",
+  "id": "RaphaelParnasse",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q2715152",
   "entry_type": "peinture",
   "title": "Parnasse",
@@ -14,11 +14,11 @@
     "endYear": "",
     "text": ""
   },
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": "huile sur toile",
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": "",
+      "name": "Musée du Louvre",
       "place": "",
       "inventory_number": "",
       "url": ""
@@ -38,6 +38,11 @@
     {
       "date": "2026-01-15T16:40:40.224130",
       "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-01-27T10:19:53.687775",
+      "type": "modified",
       "author": "Pierre"
     }
   ]
