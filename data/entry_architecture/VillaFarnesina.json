@@ -1,0 +1,49 @@
+{
+  "id": "VillaFarnesina",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1126723",
+  "entry_type": "architecture",
+  "title": "La villa Farnesina anciennement appelée Palais Chigi ",
+  "creator": [
+    {
+      "xml_id": "BaldassarrePeruzzi",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1508,
+    "endYear": 1511,
+    "text": "1508-1511"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/La_villa_Farnesina_%28Rome%29_%2834029492720%29.jpg",
+      "storage": "online",
+      "copyright": "CC BY 2.0, Jean-Pierre Dalbéra,  www.villafarnesina.it/?lang=en",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-27T17:01:49.151364",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "typology": "Palais"
+}

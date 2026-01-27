@@ -10,21 +10,26 @@
     }
   ],
   "dateCreated": {
-    "startYear": "",
-    "endYear": "",
-    "text": ""
+    "startYear": 1514,
+    "endYear": 1514,
+    "text": "1514"
   },
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": "huile sur toile",
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": "",
-      "place": "",
+      "name": "Église Sainte-Marie-de-la-Paix",
+      "place": "Rome",
       "inventory_number": "",
       "url": ""
     }
   },
-  "related_works": [],
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "SainteMariePaixRome"
+    }
+  ],
   "bibliography": [
     {
       "zotero_key": "dusslerRaphaelCriticalCatalogue1971",
@@ -39,6 +44,11 @@
       "date": "2026-01-15T16:40:40.247879",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-01-27T16:40:52.500248",
+      "type": "modified",
+      "author": "Carla"
     }
   ]
 }
