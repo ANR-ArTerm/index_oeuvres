@@ -462,18 +462,26 @@ def add_notice_ensemble():
 
         institution = notice["location"].get("institution", {})
 
-        institution["name"] = st.text_input(
+        institution["name"] = st.selectbox(
             "Nom de l'institution",
-            value=institution.get("name", "")
+            load_list_form("institutions"),
+            index=None,
+            value=institution.get("place", ""),
+            accept_new_options=True,
+            key=f"{notice['id']}_institution_name"
         )
+        if not institution["name"] in load_list_form("institutions"):
+            save_to_list_form("institutions", institution["name"])
+        
         institution["place"] = st.text_input(
-            "Lieu",
+            "Ville",
             value=institution.get("place", "")
         )
         institution["inventory_number"] = st.text_input(
             "Numéro d'inventaire",
             value=institution.get("inventory_number", "")
         )
+        
         institution["url"] = st.text_input(
             "URL de l'oeuvre sur le site de l'institution",
             value=institution.get("url", "")
