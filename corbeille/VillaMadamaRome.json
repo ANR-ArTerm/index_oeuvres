@@ -1,0 +1,36 @@
+{
+  "id": "VillaMadamaRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1267485 ",
+  "entry_type": "architecture",
+  "title": "Villa Madame",
+  "creator": [],
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "typology": "",
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "",
+      "country": "",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-20T11:47:35.289869",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

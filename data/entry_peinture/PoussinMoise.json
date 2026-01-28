@@ -1,0 +1,28 @@
+{
+  "id": "PoussinMoise",
+  "QID_wikidata": "",
+  "entry_type": "peinture",
+  "title": "Moïse ",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "Nous ne sommes pas en capacité de définir de quelle version il s'agit, il existe cinq versions du même épisode. Il est malgré tout plus probable que De Piles ait vu une des versions suivantes ;  celle commandé par Jacques Stella, ",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-28T19:16:54.134314",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": "huile sur toile"
+}

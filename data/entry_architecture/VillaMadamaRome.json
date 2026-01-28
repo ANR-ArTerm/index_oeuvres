@@ -1,20 +1,28 @@
 {
   "id": "VillaMadamaRome",
-  "QID_wikidata": "https://www.wikidata.org/wiki/Q1267485 ",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1267485",
   "entry_type": "architecture",
-  "title": "Villa Madame",
-  "creator": [],
+  "title": "Villa Madame aussi appelée Vigne Madame",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "GiulioRomano",
+      "role": "architecte"
+    }
+  ],
   "dateCreated": {
-    "startYear": "",
-    "endYear": "",
-    "text": ""
+    "startYear": 1525,
+    "endYear": 1525,
+    "text": "1525"
   },
-  "typology": "",
   "location": {
     "type": "place",
     "place": {
-      "city": "",
-      "country": "",
+      "city": "Rome",
+      "country": "Italie",
       "coordinates": {
         "latitude": "",
         "longitude": ""
@@ -23,14 +31,33 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Il_giardino_di_Villa_Madama.jpg",
+      "storage": "online",
+      "copyright": "CC BY-SA 3.0, Pierreci, https://www.wikidata.org/wiki/Q1267485#/media/File:Il_giardino_di_Villa_Madama.jpg",
+      "caption": ""
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
     {
-      "date": "2026-01-20T11:47:35.289869",
+      "date": "2026-01-27T18:12:59.076574",
       "type": "created",
-      "author": "Pierre"
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-27T18:13:55.055652",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-27T18:14:48.069790",
+      "type": "modified",
+      "author": "Carla"
     }
-  ]
+  ],
+  "typology": "Palais"
 }
