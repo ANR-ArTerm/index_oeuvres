@@ -10,17 +10,42 @@
     "text": ""
   },
   "location": {
-    "type": "unlocated"
+    "type": "unlocated",
+    "institution": {
+      "name": "Académie de Saint-Luc",
+      "place": "",
+      "inventory_number": "",
+      "url": ""
+    }
   },
-  "related_works": [],
+  "related_works": [
+    {
+      "link_type": "œuvre incertaine, peut-être à identifier avec",
+      "xml_id_work": "PoussinMoiseLeNotre"
+    },
+    {
+      "link_type": "œuvre incertaine, peut-être à identifier avec",
+      "xml_id_work": "PoussinMoisePointel"
+    }
+  ],
   "bibliography": [],
   "illustrations": [],
-  "description": "Nous ne sommes pas en capacité de définir de quelle version il s'agit, il existe cinq versions du même épisode. Il est malgré tout plus probable que De Piles ait vu une des versions suivantes ;  celle commandé par Jacques Stella, ",
+  "description": "Nous ne sommes pas en capacité de définir de quelle version il s'agit, il existe deux versions du même épisode et trois versions différentes de Moïse exposé aux eaux. Il est malgré tout plus probable que De Piles fasse référence à l'une des deux versions suivantes :  celle commandée par Pointel ou celle acquise par André le Nôtre, toutes deux conservée au musée du Louvre, d'une part puisqu'elles sont très tôt visible sur Paris et surtout parce qu'elle représentent bien le moment où Moïse est \"trouvé\" comme l'indique Piles et pas le moment où il est \"exposé\" sur les eaux. ",
   "commentary": "",
   "history": [
     {
       "date": "2026-01-28T19:16:54.134314",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-28T22:35:29.343688",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-28T22:40:49.257261",
+      "type": "modified",
       "author": "Carla"
     }
   ],

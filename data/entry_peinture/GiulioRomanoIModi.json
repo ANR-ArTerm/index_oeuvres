@@ -1,0 +1,33 @@
+{
+  "id": "GiulioRomanoIModi",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2464946",
+  "entry_type": "peinture",
+  "title": "I Modi ou illustrations des Sonetti lussuriosi",
+  "creator": [
+    {
+      "xml_id": "GiulioRomano",
+      "role": "dessinateur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1524,
+    "endYear": 1527,
+    "text": "1524"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-28T22:53:34.531802",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": null
+}
