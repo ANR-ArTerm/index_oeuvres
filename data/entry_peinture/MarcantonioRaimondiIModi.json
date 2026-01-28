@@ -1,0 +1,46 @@
+{
+  "id": "MarcantonioRaimondiIModi",
+  "QID_wikidata": "",
+  "entry_type": "peinture",
+  "title": "I Modi ou illustration des ",
+  "creator": [
+    {
+      "xml_id": "MarcantonioRaimondi",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1524,
+    "endYear": 1527,
+    "text": "1524-1527"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [
+    {
+      "link_type": "gravé d'après",
+      "xml_id_work": "GiulioRomanoIModi"
+    }
+  ],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Marcantonio_-_A_nude_God_and_Goddess_laying_on_a_bed_embracing%2C_1857%2C0711.20.jpg",
+      "storage": "online",
+      "copyright": "Domaine public,  Agostino Veneziano, https://www.britishmuseum.org/collection/object/P_1857-0711-20",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-28T22:58:25.089152",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": null
+}
