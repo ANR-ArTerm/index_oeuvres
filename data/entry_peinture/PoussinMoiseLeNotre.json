@@ -1,0 +1,47 @@
+{
+  "id": "PoussinMoiseLeNotre",
+  "QID_wikidata": "",
+  "entry_type": "peinture",
+  "title": "Moïse sauvé des eaux",
+  "creator": [
+    {
+      "xml_id": "NicolasPoussin",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1638,
+    "endYear": 1638,
+    "text": "1638"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Musée du Louvre",
+      "place": "Paris",
+      "inventory_number": "INV 7271",
+      "url": "https://collections.louvre.fr/ark:/53355/cl010066620"
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Poussin_finding_of_moses_1638.jpg",
+      "storage": "online",
+      "copyright": "Domaine public, photo Shonagon 2024-02-15",
+      "caption": ""
+    }
+  ],
+  "description": "Cette version du Moïse a appartenu au célèbre jardinier André Le Nôtre ; on l'a nommée ainsi pour la distinguer d'une version identique également conservée au musée du Louvre.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-28T22:31:29.801398",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": "huile sur toile"
+}

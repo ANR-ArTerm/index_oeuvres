@@ -34,12 +34,17 @@
       "caption": ""
     }
   ],
-  "description": "",
+  "description": "Cette version du Moïse a appartenu au célèbre collectionneur Pointel, on l'a nommée ainsi pour le distingué d'une même version conservée également au musée du Louvre. ",
   "commentary": "",
   "history": [
     {
       "date": "2026-01-28T19:26:49.570083",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-28T22:20:07.787301",
+      "type": "modified",
       "author": "Carla"
     }
   ],
