@@ -1,0 +1,47 @@
+{
+  "id": "PoussinMoiseOxford",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q9380048",
+  "entry_type": "peinture",
+  "title": "Moïse exposé sur les eaux est",
+  "creator": [
+    {
+      "xml_id": "NicolasPoussin",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1654,
+    "endYear": 1654,
+    "text": "1654"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Ashmolean Museum",
+      "place": "Oxford",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Moise_expos%C3%A9_sur_les_eaux_-_AshmoleanMuseum.jpg",
+      "storage": "online",
+      "copyright": "Public Domain",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-28T19:20:12.349231",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": "huile sur toile"
+}
