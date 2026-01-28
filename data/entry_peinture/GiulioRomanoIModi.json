@@ -15,9 +15,20 @@
     "text": "1524"
   },
   "location": {
-    "type": "unlocated"
+    "type": "unlocated",
+    "institution": {
+      "name": "Académie de Saint-Luc",
+      "place": "",
+      "inventory_number": "",
+      "url": ""
+    }
   },
-  "related_works": [],
+  "related_works": [
+    {
+      "link_type": "Autre version",
+      "xml_id_work": "MarcantonioRaimondiIModi"
+    }
+  ],
   "bibliography": [],
   "illustrations": [],
   "description": "",
@@ -27,7 +38,12 @@
       "date": "2026-01-28T22:53:34.531802",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-01-28T22:59:46.370530",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
-  "materialsAndTechniques": null
+  "materialsAndTechniques": "huile sur toile"
 }

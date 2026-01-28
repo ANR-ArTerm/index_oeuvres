@@ -1,0 +1,49 @@
+{
+  "id": "PalaisduTe",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1261544",
+  "entry_type": "architecture",
+  "title": "Palais du Té",
+  "creator": [
+    {
+      "xml_id": "GiulioRomano",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1536,
+    "endYear": 1536,
+    "text": "1536"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Mantoue",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Palazzo_te%2C_loggia_di_david_03.jpg",
+      "storage": "online",
+      "copyright": "CC BY 3.0, Sailko, https://commons.wikimedia.org/wiki/File:Palazzo_te,_loggia_di_david_03.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-28T23:10:57.180423",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "typology": "Palais"
+}

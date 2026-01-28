@@ -28,7 +28,12 @@
       "url": ""
     }
   },
-  "related_works": [],
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "StanzeVatican"
+    }
+  ],
   "bibliography": [
     {
       "zotero_key": "dusslerRaphaelCriticalCatalogue1971",
@@ -54,6 +59,11 @@
     },
     {
       "date": "2026-01-28T22:46:45.285173",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-28T23:00:24.987998",
       "type": "modified",
       "author": "Carla"
     }
