@@ -1,0 +1,52 @@
+{
+  "id": "AndreaDelSartoLeonX",
+  "QID_wikidata": "",
+  "entry_type": "peinture",
+  "title": "Portrait de Léon X",
+  "creator": [
+    {
+      "xml_id": "AndreaDelSarto",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1525,
+    "endYear": 1525,
+    "text": "1525"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "musée de Capodimonte",
+      "place": "Rome",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "copié d'après",
+      "xml_id_work": "RaphaelLeonX"
+    }
+  ],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Ritratto_di_papa_Leone_X_con_due_cardinali%2C_Andrea_del_Sarto_001.JPG",
+      "storage": "online",
+      "copyright": "Domaine public",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-29T16:05:13.907993",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": "huile sur bois"
+}
