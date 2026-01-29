@@ -1,0 +1,41 @@
+{
+  "id": "AndreaDelSartoSebastien",
+  "QID_wikidata": "",
+  "entry_type": "peinture",
+  "title": "Saint Sébastien ",
+  "creator": [
+    {
+      "xml_id": "AndreaDelSarto",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1500,
+    "endYear": 1525,
+    "text": "début XVIème siècle"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Andrea_del_Sarto_%28da%29_-_San_Sebastiano_che_tiene_due_frecce_e_la_palma_del_martirio.jpg",
+      "storage": "online",
+      "copyright": "Domaine public, Bridgeman art library : objet 222728",
+      "caption": "copié d'après Andrea Del Sarto "
+    }
+  ],
+  "description": "On ne connaît l'œuvre d'Andrea Del Sarto que par la copie conservée au musée de Caen ",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-29T15:19:14.944251",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": "huile sur toile"
+}

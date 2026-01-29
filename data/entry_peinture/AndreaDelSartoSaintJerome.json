@@ -1,0 +1,41 @@
+{
+  "id": "AndreaDelSartoSaintJerome",
+  "QID_wikidata": "",
+  "entry_type": "peinture",
+  "title": "Saint Jérôme",
+  "creator": [
+    {
+      "xml_id": "AndreaDelSarto",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1500,
+    "endYear": 1525,
+    "text": "début XVIème siècle"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://agorha.inha.fr/ark:/54721/153c3ca8-bed0-4f13-b71a-b40504fab898/doc/7e3b02d2-c06b-4efe-8d05-ebf8015e1491/thumbnail.jpg",
+      "storage": "online",
+      "copyright": "Mairie d'Aire-sur-Adour, Institut national d'histoire de l'art (France) - licence : Attribution 4.0 International (CC BY 4.0), https://agorha.inha.fr/ark:/54721/02645b03-d199-4366-bb1f-3e666fe5a523",
+      "caption": "Copié d'après l'original de Andrea del Sarto. "
+    }
+  ],
+  "description": "On ne connaît le Saint Jérôme de Andrea Dal Sarto que par sa copie conservée Oiron ",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-29T15:44:23.756916",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": "huile sur toile"
+}
