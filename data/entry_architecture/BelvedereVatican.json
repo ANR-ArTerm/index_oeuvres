@@ -1,0 +1,53 @@
+{
+  "id": "BelvedereVatican",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q17354885",
+  "entry_type": "architecture",
+  "title": "Palais du Belvédère (Vatican)",
+  "creator": [
+    {
+      "xml_id": "AntonioPollaiuolo",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "Bramante",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1482,
+    "endYear": 1482,
+    "text": "1482"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/0_Chapelle_Sixtine_-_Palais_du_Belv%C3%A9d%C3%A8re_et_Mus%C3%A9es_du_Vatican.JPG",
+      "storage": "online",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-29T12:16:28.543885",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "typology": "Palais"
+}
