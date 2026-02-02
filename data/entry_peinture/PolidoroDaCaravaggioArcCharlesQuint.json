@@ -1,0 +1,28 @@
+{
+  "id": "PolidoroDaCaravaggioArcCharlesQuint",
+  "QID_wikidata": "",
+  "entry_type": "peinture",
+  "title": "Arcs de Triomphe en l'honneur de Charles ",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1535,
+    "endYear": 1535,
+    "text": "1535"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "Cette œuvre a disparu.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-02T15:33:57.809892",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": null
+}
