@@ -2,7 +2,7 @@
   "id": "PolidoroDaCaravaggioArcCharlesQuint",
   "QID_wikidata": "",
   "entry_type": "peinture",
-  "title": "Arcs de Triomphe en l'honneur de Charles ",
+  "title": "Arcs de Triomphe en l'honneur de Charles Quint à Messine",
   "creator": [],
   "dateCreated": {
     "startYear": 1535,
@@ -10,7 +10,13 @@
     "text": "1535"
   },
   "location": {
-    "type": "unlocated"
+    "type": "unlocated",
+    "institution": {
+      "name": "Académie de Saint-Luc",
+      "place": "",
+      "inventory_number": "",
+      "url": ""
+    }
   },
   "related_works": [],
   "bibliography": [],
@@ -22,7 +28,12 @@
       "date": "2026-02-02T15:33:57.809892",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-02-02T15:36:52.363543",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
-  "materialsAndTechniques": null
+  "materialsAndTechniques": "huile sur toile"
 }
