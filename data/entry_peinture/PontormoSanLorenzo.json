@@ -1,0 +1,33 @@
+{
+  "id": "PontormoSanLorenzo",
+  "QID_wikidata": "",
+  "entry_type": "peinture",
+  "title": "Chœur de la basilique San Lorenzo",
+  "creator": [
+    {
+      "xml_id": "Pontormo",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1546,
+    "endYear": null,
+    "text": "1546-"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "Les fresques ayant été détruites au ",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-02T12:06:49.042140",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": "fresque"
+}
