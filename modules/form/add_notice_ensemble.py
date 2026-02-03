@@ -96,6 +96,32 @@ def add_related_work(xml_id, work, idx, list_xml_id):
         )
     return work
 
+def add_contained_work(xml_id, work, idx, list_xml_id):
+    """Édite une œuvre liée"""
+    st.subheader(f"Œuvre liée {idx + 1}")
+    col1, col2 = st.columns(2)
+    with col1:
+        work["link_type"] = st.selectbox(
+                    f"Type de lien",
+                    load_list_form("link_types"),
+                    key=f"{xml_id}_work_type_{idx}",
+                    index=None,
+                    accept_new_options=True,
+                    )
+        if not work["link_type"] in load_list_form("link_types"):
+            save_to_list_form("link_types", work["link_type"])
+        
+    with col2:
+        work["xml_id_work"] = st.selectbox(
+            f"XML:id de l'oeuvre liée {idx + 1}",
+            list_xml_id,
+            placeholder="XML:ID de l'oeuvre liée",
+            accept_new_options=False,
+            index=None,
+            key=f"{xml_id}_work_xmlid_{idx}"
+        )
+    return work
+
 def add_bibliography(xml_id, biblio, idx):
     """Édite une référence bibliographique"""
     st.subheader(f"Référence {idx + 1}")
@@ -521,6 +547,27 @@ def add_notice_ensemble():
             "xml_id_work": ""
         })
         st.rerun()
+
+    # =========================
+    # ENSEMBLE : oeuvres constituantes et oeuvres d'enesemble
+    # =========================
+
+    if entry_type == "ensemble":
+        st.header("🏛️ Œuvres constituantes de l'ensemble")
+        notice["contains_entries"] = []
+        for idx, work in enumerate(notice["contains_entries"]):
+            notice["contains_entries"][idx] = add_related_work(
+                notice["id"], work, idx, list_xml_id
+            )
+            if st.button(
+                f"Supprimer œuvre constituante {idx + 1}",
+                key=f"del_constit_work_create_{idx}"
+            ):
+                notice["contains_entries"].pop(idx)
+                st.rerun()
+
+
+
 
     # =========================
     # ILLUSTRATIONS (MENU ÉDITION)

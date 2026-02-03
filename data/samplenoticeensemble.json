@@ -28,8 +28,13 @@
   "related_works": [
     {
       "link_type": "",
-      "xml_id_work": "",
-      "n":""
+      "xml_id_work": ""
+    }
+  ],
+  "contains_works": [
+    {
+    "link_type": "",
+    "xml_id_work": ""
     }
   ],
   "bibliography": [
