@@ -5,15 +5,15 @@
   "title": "Loges vaticanes",
   "creator": [],
   "dateCreated": {
-    "startYear": "",
-    "endYear": "",
+    "startYear": null,
+    "endYear": null,
     "text": ""
   },
-  "typology": "",
+  "typology": "ensemble décoratif",
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": "",
+      "name": "Académie de Saint-Luc",
       "place": "",
       "inventory_number": "",
       "url": ""
@@ -29,6 +29,11 @@
       "date": "2026-01-15T16:40:40.333922",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-02-03T14:15:56.147683",
+      "type": "modified",
+      "author": "Carla"
     }
   ]
 }
