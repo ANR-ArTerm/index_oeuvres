@@ -1,0 +1,47 @@
+{
+  "id": "RaphaelCeneVatican",
+  "QID_wikidata": "",
+  "entry_type": "peinture",
+  "title": "La Cène ",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1517,
+    "endYear": 1519,
+    "text": "1517-1519"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Vatican, Palais apostolique",
+      "place": "Rome",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Loggia_di_raffaello%2C_13%2C_04.jpg",
+      "storage": "online",
+      "copyright": "Domaine public, https://fr.wikipedia.org/wiki/Loggia_de_Rapha%C3%ABl#/media/Fichier:Loggia_di_raffaello,_13,_04.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-03T14:41:48.267167",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": "fresque"
+}

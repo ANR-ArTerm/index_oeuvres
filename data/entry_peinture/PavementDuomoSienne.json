@@ -1,0 +1,47 @@
+{
+  "id": "PavementDuomoSienne",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3372988",
+  "entry_type": "peinture",
+  "title": "Pavement intérieur du Duomo de Sienne",
+  "creator": [
+    {
+      "xml_id": "DomenicoBeccafumi",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1300,
+    "endYear": 1900,
+    "text": "du XIVe au XIXe "
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Cathédrale Santa Maria Assunta de Sienne",
+      "place": "Sienne",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Giovanni_paciarelli%2C_schema_del_pavimento_del_duomo_di_siena%2C_1884.jpg",
+      "storage": "online",
+      "copyright": "Domaine public, https://commons.wikimedia.org/wiki/File:Giovanni_paciarelli,_schema_del_pavimento_del_duomo_di_siena,_1884.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-03T17:16:42.548985",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": "mosaïque"
+}

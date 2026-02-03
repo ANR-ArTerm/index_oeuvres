@@ -1,0 +1,51 @@
+{
+  "id": "RaphaelSainteCecileBologne",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1103801",
+  "entry_type": "peinture",
+  "title": "L'extase de Saint Cécile",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    },
+    {
+      "xml_id": "GiovanniDaUdine",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1514,
+    "endYear": 1515,
+    "text": "1514-1515"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Pinacothèque Nationale",
+      "place": "Bologne",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Saint_Cecilia_by_Raphael.jpg",
+      "storage": "online",
+      "copyright": "Domaine public, https://commons.wikimedia.org/wiki/File:Saint_Cecilia_by_Raphael.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-03T16:22:51.626273",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": "huile sur toile"
+}

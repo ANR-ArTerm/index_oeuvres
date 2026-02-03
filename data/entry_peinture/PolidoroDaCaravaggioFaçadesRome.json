@@ -1,0 +1,47 @@
+{
+  "id": "PolidoroDaCaravaggioFaçadesRome",
+  "QID_wikidata": "",
+  "entry_type": "peinture",
+  "title": "Façades peintes dans la ville de Rome",
+  "creator": [
+    {
+      "xml_id": "PolidoroDaCaravaggio",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "place",
+    "institution": {
+      "name": null,
+      "place": "",
+      "inventory_number": "",
+      "url": ""
+    },
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "Les maisons de Pietro Paolo Francisci, les Palais Milesi  et Ricci à Rome sont les ",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-02T16:00:59.929765",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": "fresque"
+}

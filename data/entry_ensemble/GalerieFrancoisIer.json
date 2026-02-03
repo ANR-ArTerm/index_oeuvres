@@ -1,0 +1,47 @@
+{
+  "id": "GalerieFrancoisIer",
+  "QID_wikidata": "GalerieFrancoisIer",
+  "entry_type": "ensemble",
+  "title": "Galerie François Ier ",
+  "creator": [
+    {
+      "xml_id": "RossoFiorentino",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Château de Fontainebleau",
+      "place": "Fontainebleau",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Chateau_de_Fontainebleau_FRA_007.JPG",
+      "storage": "online",
+      "copyright": "CC BY-SA 3.0, GFDL,cc-by-sa-2.5,2.0,1.0.",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-02T17:08:40.689519",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "typology": "ensemble décoratif"
+}
