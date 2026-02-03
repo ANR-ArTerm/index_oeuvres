@@ -21,6 +21,9 @@ from modules.data.index_xml_personnes import sync_person_ids
 from modules.data.index_xml_oeuvres import sync_oeuvres_from_json
 from modules.data.verify_data import verify_json_entries
 
+from modules.notes_csv.notes import notes_editor
+
+
 
 st.set_page_config(layout="wide")
 st.title("🖼️ Editeur de notices d'oeuvres")
@@ -42,6 +45,10 @@ if st.sidebar.button("➕ Ajouter une notice"):
 
 if st.sidebar.button("🔍 Rechercher dans les notices"):
     st.session_state.active_menu = "search" if st.session_state.active_menu != "search" else None
+
+if st.sidebar.button("🔍 Editer les notes CSV"):
+    st.session_state.active_menu = "notes_csv" if st.session_state.active_menu != "notes_csv" else None
+
 
 st.sidebar.subheader("Stockage en ligne des données")
 if st.sidebar.button("⤵️ Télécharger les données (Git Pull)"):
@@ -161,25 +168,7 @@ elif st.session_state.active_menu == "search":
     st.header("Consulter les notices")
     render_search_entries_all()
 
-"""
-
-elif st.session_state.active_menu == "add":
-    st.header("Ajouter une notice")
-    tab1, tab2, tab3 = st.tabs(["🖼️ Œuvre", "🏛️ Bâtiment", "🌿 Ensemble"])
-    
-    with tab1:
-        st.session_state.type_notice = "peinture"
-        add_notice_peinture()
-
-    with tab2:
-        st.session_state.type_notice = "architecture"
-        add_notice_architecture()
-
-    with tab3:
-        st.session_state.type_notice = "ensemble"
-        add_notice_ensemble()
-
-"""
-
+elif st.session_state.active_menu == "notes_csv":
+    notes_editor()
 
 
