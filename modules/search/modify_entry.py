@@ -43,15 +43,26 @@ def edit_creator(xml_id, creator, idx, type_entry):
 def edit_related_work(xml_id, work, idx, list_xml_id):
     """Édite une œuvre liée"""
     st.subheader(f"Œuvre liée {idx + 1}")
+
+    work.setdefault("link_type", None)
+    work.setdefault("xml_id_work", None)
+
+    link_types = load_list_form("link_types")
+
     col1, col2 = st.columns(2)
+
     with col1:
         work["link_type"] = st.selectbox(
-                    f"Type de lien",
-                    load_list_form("link_types"),
-                    key=f"{xml_id}_work_type_{idx}",
-                    accept_new_options=True,
-                    index=index_list_form(work.get("link_type", ""),"link_types")
-                    )
+            "Type de lien",
+            link_types,
+            key=f"{xml_id}_work_type_{idx}",
+            accept_new_options=True,
+            index=index_list_form(work.get("link_type"), "link_types"),
+        )
+
+        if work["link_type"] and work["link_type"] not in link_types:
+            save_to_list_form("link_types", work["link_type"])
+
     with col2:
         xml_id_value = work.get("xml_id_work")
         xml_index = (
@@ -59,14 +70,62 @@ def edit_related_work(xml_id, work, idx, list_xml_id):
             if xml_id_value in list_xml_id
             else None
         )
+
         work["xml_id_work"] = st.selectbox(
             f"XML:id de l'oeuvre liée {idx + 1}",
             list_xml_id,
             index=xml_index,
             placeholder="XML:ID de l'oeuvre liée",
-            accept_new_options=False,
-            key=f"{xml_id}_work_xmlid_{idx}"
+            key=f"{xml_id}_work_xmlid_{idx}",
         )
+
+    return work
+
+def edit_contained_work(xml_id, work, idx, list_xml_id):
+    """Édite une œuvre contenue dans un ensemble"""
+    st.subheader(f"Œuvre contenue {idx + 1}")
+
+    work.setdefault("link_types_contained", None)
+    work.setdefault("xml_id_work", None)
+
+    link_types_contained = load_list_form("link_types_contained")
+
+    col1, col2 = st.columns(2)
+
+    with col1:
+        work["link_type"] = st.selectbox(
+            "Type de lien",
+            link_types_contained,
+            key=f"{xml_id}_contained_work_type_{idx}",
+            accept_new_options=True,
+            index=index_list_form(
+                work.get("link_type"),
+                "link_types_contained",
+            ),
+        )
+
+        if work["link_type"] and work["link_type"] not in link_types_contained:
+            save_to_list_form(
+                "link_types_contained",
+                work["link_type"],
+            )
+
+    with col2:
+        xml_id_value = work.get("xml_id_work")
+        xml_index = (
+            list_xml_id.index(xml_id_value)
+            if xml_id_value in list_xml_id
+            else None
+        )
+
+        work["xml_id_work"] = st.selectbox(
+            "Œuvre contenue dans l'ensemble",
+            list_xml_id,
+            index=xml_index,
+            placeholder="XML:ID de l'œuvre",
+            key=f"{xml_id}_contained_work_xmlid_{idx}",
+        )
+
     return work
 
 def edit_bibliography(xml_id, biblio, idx):
@@ -525,6 +584,72 @@ def edit_json_notice(json_path=None, data=None):
     if st.button("➕ Ajouter une œuvre liée"):
         notice["related_works"].append({"link_type": "", "xml_id_work": ""})
         st.rerun()
+
+    if entry_type == "ensemble":
+        st.header("📦 Œuvres contenues dans l'ensemble")
+
+        if "contains_works" not in notice or not isinstance(
+            notice["contains_works"], list
+        ):
+            notice["contains_works"] = []
+
+        list_xml_id_contained = get_all_objects_ids_flat_sorted(["peinture", "architecture"])
+
+        for idx, work in enumerate(notice["contains_works"]):
+            notice["contains_works"][idx] = edit_contained_work(
+                id_entry,
+                work,
+                idx,
+                list_xml_id_contained,
+            )
+
+            if st.button(
+                f"Supprimer œuvre {idx + 1}",
+                key=f"{id_entry}_del_contained_work_{idx}",
+            ):
+                notice["contains_works"].pop(idx)
+                st.rerun()
+
+        if st.button("➕ Ajouter une œuvre à l'ensemble"):
+            notice["contains_works"].append(
+                {"link_type": "", "xml_id_work": ""}
+            )
+            st.rerun()
+
+    if entry_type in {"architecture", "peinture"}:
+        st.header("🌿 Ensemble contenant l'œuvre")
+        if "contained_by_ensemble" not in notice:
+            notice["contained_by_ensemble"] = {}
+        
+        list_xml_id_ensemble = get_all_objects_ids_flat_sorted(["ensemble"])
+
+        col1, col2 = st.columns(2)
+        with col1:
+            notice["contained_by_ensemble"]["link_type"] = st.selectbox(
+                        f"Type de lien",
+                        load_list_form("link_types_contained"),
+                        key=f"{id_entry}_contained_by_ensemble_type",
+                        index=index_list_form(notice["contained_by_ensemble"].get("link_type", ""), "link_types_contained"),
+                        accept_new_options=True,
+                        )
+            if not notice["contained_by_ensemble"]["link_type"] in load_list_form("link_types_contained"):
+                save_to_list_form("link_types_contained", notice["contained_by_ensemble"]["link_type"])
+    
+        with col2:
+            xml_id_value = notice["contained_by_ensemble"].get("xml_id_work", "")
+            xml_index = (
+                list_xml_id_ensemble.index(xml_id_value)
+                if xml_id_value in list_xml_id_ensemble
+                else None
+            )
+            notice["contained_by_ensemble"]["xml_id_work"] = st.selectbox(
+                f"Ensemble contenant l'œuvre",
+                list_xml_id_ensemble,
+                index=xml_index,
+                placeholder="XML:ID de l'oeuvre liée",
+                accept_new_options=False,
+                key=f"{id_entry}_contained_by_ensemble_xmlid"
+            )
     
     # Section Bibliographie
     st.header("📚 Bibliographie")

@@ -32,7 +32,9 @@ LIST_FORM = {
     "zotero_keys": "zotero_keys.json",
     "usernames": "usernames.json",
     "link_types":"link_types.json",
-    "typologies_ensemble":"typologies_ensemble.json"
+    "typologies_ensemble":"typologies_ensemble.json",
+    "link_types_contained":"link_types_contained.json",
+    "link_types_contains":"link_types_contains.json"
 }
 
 LIST_CSV_QID = {
@@ -189,18 +191,29 @@ def get_all_objects_ids_by_type(type_name: str):
 
     return objects_ids
 
-def get_all_objects_ids_flat_sorted():
+def get_all_objects_ids_flat_sorted(types=None):
     """
-    Récupère tous les IDs pour tous les types définis dans TYPE_DIRS,
-    retourne une liste unique triée alphabétiquement.
+    Récupère tous les IDs pour les types demandés dans TYPE_DIRS.
+    - Si types est None : tous les types sont utilisés
+    - Sinon : seulement les types fournis (liste, tuple ou set)
+    Retourne une liste unique triée alphabétiquement.
+    ["peinture", "architecture"]
     """
     all_ids = set()
 
-    for type_name in TYPE_DIRS.keys():
+    # Si aucun type précisé, on prend tout
+    if types is None:
+        types = TYPE_DIRS.keys()
+
+    for type_name in types:
+        if type_name not in TYPE_DIRS:
+            raise ValueError(f"Type inconnu : {type_name}")
+
         ids = get_all_objects_ids_by_type(type_name)
         all_ids.update(ids)
 
     return sorted(all_ids)
+
 
 def save_image(uploaded_file, save_path=None):
     # Utiliser pathlib pour une meilleure compatibilité multiplateforme

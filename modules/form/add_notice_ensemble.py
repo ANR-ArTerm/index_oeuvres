@@ -70,57 +70,45 @@ def add_creator(xml_id, creator, idx, type_entry):
                                             )
     return creator
 
-def add_related_work(xml_id, work, idx, list_xml_id):
-    """Édite une œuvre liée"""
-    st.subheader(f"Œuvre liée {idx + 1}")
+def _add_work_core(xml_id, work, idx, list_xml_id, title, link_types_key, key_prefix):
+    st.subheader(f"{title} {idx + 1}")
     col1, col2 = st.columns(2)
+
     with col1:
         work["link_type"] = st.selectbox(
-                    f"Type de lien",
-                    load_list_form("link_types"),
-                    key=f"{xml_id}_work_type_{idx}",
-                    index=None,
-                    accept_new_options=True,
-                    )
-        if not work["link_type"] in load_list_form("link_types"):
-            save_to_list_form("link_types", work["link_type"])
-        
+            "Type de lien",
+            load_list_form(link_types_key),
+            key=f"{xml_id}_{key_prefix}_type_{idx}",
+            index=None,
+            accept_new_options=True,
+        )
+        if work["link_type"] not in load_list_form(link_types_key):
+            save_to_list_form(link_types_key, work["link_type"])
+
     with col2:
         work["xml_id_work"] = st.selectbox(
             f"XML:id de l'oeuvre liée {idx + 1}",
             list_xml_id,
-            placeholder="XML:ID de l'oeuvre liée",
-            accept_new_options=False,
             index=None,
-            key=f"{xml_id}_work_xmlid_{idx}"
+            key=f"{xml_id}_{key_prefix}_xmlid_{idx}",
         )
     return work
 
+def add_related_work(xml_id, work, idx, list_xml_id):
+    return _add_work_core(
+        xml_id, work, idx, list_xml_id,
+        title="Œuvre liée",
+        link_types_key="link_types",
+        key_prefix="related_work",
+    )
+
 def add_contained_work(xml_id, work, idx, list_xml_id):
-    """Édite une œuvre liée"""
-    st.subheader(f"Œuvre liée {idx + 1}")
-    col1, col2 = st.columns(2)
-    with col1:
-        work["link_type"] = st.selectbox(
-                    f"Type de lien",
-                    load_list_form("link_types"),
-                    key=f"{xml_id}_work_type_{idx}",
-                    index=None,
-                    accept_new_options=True,
-                    )
-        if not work["link_type"] in load_list_form("link_types"):
-            save_to_list_form("link_types", work["link_type"])
-        
-    with col2:
-        work["xml_id_work"] = st.selectbox(
-            f"XML:id de l'oeuvre liée {idx + 1}",
-            list_xml_id,
-            placeholder="XML:ID de l'oeuvre liée",
-            accept_new_options=False,
-            index=None,
-            key=f"{xml_id}_work_xmlid_{idx}"
-        )
-    return work
+    return _add_work_core(
+        xml_id, work, idx, list_xml_id,
+        title="Œuvre contenue dans l'ensemble",
+        link_types_key="link_types_contained",
+        key_prefix="contained_work",
+    )
 
 def add_bibliography(xml_id, biblio, idx):
     """Édite une référence bibliographique"""
@@ -553,21 +541,57 @@ def add_notice_ensemble():
     # =========================
 
     if entry_type == "ensemble":
-        st.header("🏛️ Œuvres constituantes de l'ensemble")
-        notice["contains_entries"] = []
-        for idx, work in enumerate(notice["contains_entries"]):
-            notice["contains_entries"][idx] = add_related_work(
-                notice["id"], work, idx, list_xml_id
+        st.header("🌿 Œuvres constituantes de l'ensemble")
+        if "contains_works" not in notice:
+            notice["contains_works"] = []
+        
+        list_xml_id_contained = get_all_objects_ids_flat_sorted(["peinture", "architecture"])
+
+        for idx, work in enumerate(notice["contains_works"]):
+            notice["contains_works"][idx] = add_contained_work(
+                notice["id"], work, idx, list_xml_id_contained
             )
             if st.button(
-                f"Supprimer œuvre constituante {idx + 1}",
-                key=f"del_constit_work_create_{idx}"
+                f"Supprimer œuvre {idx + 1}",
+                key=f"{xml_id}_del_contained_work_{idx}"
             ):
-                notice["contains_entries"].pop(idx)
+                notice["contains_works"].pop(idx)
                 st.rerun()
 
+        if st.button("➕ Ajouter une œuvre contenue", key=f"{xml_id}_add_contained_work"):
+            notice["contains_works"].append({
+                "link_type": "",
+                "xml_id_work": ""
+            })
+            st.rerun()
 
+    if entry_type in {"architecture", "peinture"}:
+        st.header("🌿 Ensemble contenant l'œuvre")
+        list_xml_id_ensemble = get_all_objects_ids_flat_sorted(["ensemble"])
 
+        notice.setdefault("contained_by_ensemble", {})
+        col1, col2 = st.columns(2)
+        with col1:
+            link_types_contained = load_list_form("link_types_contained")
+            notice["contained_by_ensemble"]["link_type"] = st.selectbox(
+                        f"Type de lien",
+                        link_types_contained,
+                        key=f"{xml_id}_contained_by_ensemble_type",
+                        index=None,
+                        accept_new_options=True,
+                        )
+            if not notice["contained_by_ensemble"]["link_type"] in link_types_contained:
+                save_to_list_form("link_types_contained", notice["contained_by_ensemble"]["link_type"])
+
+        with col2:
+            notice["contained_by_ensemble"]["xml_id_work"] = st.selectbox(
+                f"Ensemble contenant l'œuvre",
+                list_xml_id_ensemble,
+                placeholder="XML:ID de l'oeuvre liée",
+                accept_new_options=False,
+                index=None,
+                key=f"{xml_id}_contained_by_ensemble_xmlid"
+            )
 
     # =========================
     # ILLUSTRATIONS (MENU ÉDITION)
