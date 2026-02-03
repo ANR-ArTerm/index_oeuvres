@@ -10,15 +10,15 @@
     }
   ],
   "dateCreated": {
-    "startYear": "1518",
-    "endYear": "1519",
-    "text": "1518-1519"
+    "startYear": 1517,
+    "endYear": 1519,
+    "text": "1517-1519"
   },
   "materialsAndTechniques": "fresque",
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": "Vatican",
+      "name": "Vatican, bibliothèque apostolique",
       "place": "Rome",
       "inventory_number": "",
       "url": ""
@@ -50,6 +50,11 @@
     },
     {
       "date": "2026-01-06T13:58:21.307890",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-02-03T16:28:46.611012",
       "type": "modified",
       "author": "Carla"
     }

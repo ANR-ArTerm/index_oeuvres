@@ -1,20 +1,25 @@
 {
   "id": "LogesVatican",
-  "QID_wikidata": "https://www.wikidata.org/wiki/Q3836415",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3836438",
   "entry_type": "ensemble",
   "title": "Loges vaticanes",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1517,
+    "endYear": 1519,
+    "text": "1517-1519"
   },
   "typology": "ensemble décoratif",
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": "Académie de Saint-Luc",
-      "place": "",
+      "name": "Vatican, Palais apostolique",
+      "place": "Rome",
       "inventory_number": "",
       "url": ""
     }
@@ -32,6 +37,16 @@
     },
     {
       "date": "2026-02-03T14:15:56.147683",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-02-03T16:24:54.252942",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-02-03T16:27:11.610167",
       "type": "modified",
       "author": "Carla"
     }
