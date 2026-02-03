@@ -1,0 +1,44 @@
+{
+  "id": "VilladelPrincipeGenes",
+  "QID_wikidata": "",
+  "entry_type": "architecture",
+  "title": "Villa del Principe ou palazzo di Andrea Doria",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1530,
+    "endYear": 1530,
+    "text": "Vers 1530"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Genes",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Genova_-_Villa_del_Principe_-_202209291439.jpg",
+      "storage": "online",
+      "copyright": "CC BY-SA 4.0, Marta1977, https://commons.wikimedia.org/wiki/File:Genova_-_Villa_del_Principe_-_202209291439.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-03T15:32:42.875349",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "typology": "Palais"
+}
