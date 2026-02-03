@@ -1,0 +1,33 @@
+{
+  "id": "PietroBuonaccorsiTapisserieDiane",
+  "QID_wikidata": "",
+  "entry_type": "peinture",
+  "title": "Tapisserie des sept planètes ",
+  "creator": [
+    {
+      "xml_id": "PietroBuonaccorsi",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "On semble ne plus connaître la fameuse tapisserie conçue pour Diane de Poitier. ",
+  "history": [
+    {
+      "date": "2026-02-03T16:06:46.096529",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": null
+}
