@@ -713,6 +713,7 @@ def edit_json_notice(json_path=None, data=None):
                     "author": entry_editor
                 })
                 # Nettoyage des données :
+                location_type = notice["location"]["type"]
                 if location_type == "unlocated" or location_type == "many_locations":
                     notice["location"].pop("institution", None)
                     notice["location"].pop("place", None)

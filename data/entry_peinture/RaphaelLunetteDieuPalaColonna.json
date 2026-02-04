@@ -28,9 +28,9 @@
   "illustrations": [
     {
       "id": 0,
-      "url": "",
-      "storage": "",
-      "copyright": "",
+      "url": "data/images/palaOddiLunette.jpg",
+      "storage": "local",
+      "copyright": "Metropolitan Museum : https://www.metmuseum.org/fr/art/collection/search/437372",
       "caption": ""
     }
   ],
@@ -40,6 +40,11 @@
     {
       "date": "2026-02-04T12:58:40.643561",
       "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-02-04T13:02:07.483252",
+      "type": "modified",
       "author": "Pierre"
     }
   ],
