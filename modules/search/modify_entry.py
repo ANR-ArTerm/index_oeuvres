@@ -717,9 +717,6 @@ def edit_json_notice(json_path=None, data=None):
                 if location_type == "unlocated" or location_type == "many_locations":
                     notice["location"].pop("institution", None)
                     notice["location"].pop("place", None)
-                
-                if "orinal_id" not in st.session_state:
-                    st.session_state.original_id = id_entry
 
                 saved_path = save_notice(notice, path=json_path, old_id=st.session_state.original_id)
                 st.success(f"✅ Modifications sauvegardées dans : {saved_path}")

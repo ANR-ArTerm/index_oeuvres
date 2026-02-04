@@ -17,3 +17,4 @@ __pycache__
 *.log
 .streamlit/
 .DS_Store
+modules/.DS_Store
