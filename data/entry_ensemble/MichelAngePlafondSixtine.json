@@ -1,7 +1,7 @@
 {
   "id": "MichelAngePlafondSixtine",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q844675",
-  "entry_type": "peinture",
+  "entry_type": "ensemble",
   "title": "Plafond de la chapelle Sixtine",
   "creator": [
     {
@@ -14,7 +14,6 @@
     "endYear": 1512,
     "text": "1508-1512"
   },
-  "materialsAndTechniques": "fresque",
   "location": {
     "type": "holding_institution",
     "institution": {
@@ -48,9 +47,5 @@
       "type": "modified",
       "author": "Carla"
     }
-  ],
-  "contained_by_ensemble": {
-    "link_type": "appartient à l'ensemble",
-    "xml_id_work": "ChapelleSixtine"
-  }
+  ]
 }
