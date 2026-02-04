@@ -1,0 +1,59 @@
+{
+  "id": "CasaBuonarroti",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2418618",
+  "entry_type": "architecture",
+  "title": "Casa Buonarroti, maison de MichelAnge",
+  "creator": [
+    {
+      "xml_id": "MichelAnge",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1546,
+    "endYear": 1553,
+    "text": "1546-1553"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    },
+    "institution": {
+      "name": null,
+      "place": "",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Casa_buonarroti%2C_portale.JPG",
+      "storage": "online",
+      "copyright": "CC BY 2.5, Sailko, https://commons.wikimedia.org/wiki/File:Casa_buonarroti,_portale.JPG",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-04T16:07:03.489398",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "typology": null,
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
