@@ -25,7 +25,15 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Jesaja_%28Michelangelo%29.jpg",
+      "copyright": "Domaine public, Immanuel, https://commons.wikimedia.org/wiki/File:Jesaja_(Michelangelo).jpg",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -33,11 +41,16 @@
       "date": "2026-02-04T12:50:25.891548",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-02-04T14:49:15.995930",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
   "materialsAndTechniques": "fresque",
   "contained_by_ensemble": {
     "link_type": "appartient à l'ensemble",
-    "xml_id_work": null
+    "xml_id_work": "MichelAngePlafondSixtine"
   }
 }

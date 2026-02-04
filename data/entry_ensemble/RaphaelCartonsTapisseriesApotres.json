@@ -24,7 +24,12 @@
       "url": "https://www.vam.ac.uk/"
     }
   },
-  "related_works": [],
+  "related_works": [
+    {
+      "link_type": "œuvre associée",
+      "xml_id_work": "RaphaelTapisseriesSixtine"
+    }
+  ],
   "bibliography": [],
   "illustrations": [
     {
@@ -57,6 +62,11 @@
       "date": "2026-02-04T13:14:40.639242",
       "type": "modified",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-02-04T14:49:59.668880",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
   "contains_works": []

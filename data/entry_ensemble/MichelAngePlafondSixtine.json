@@ -46,6 +46,24 @@
       "date": "2026-02-04T12:59:56.450730",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-02-04T14:41:41.164148",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-02-04T14:44:18.199891",
+      "type": "modified",
+      "author": "Carla"
+    }
+  ],
+  "typology": "ensemble décoratif",
+  "contains_works": [
+    {
+      "link_type": "appartient à l'ensemble",
+      "xml_id_work": "MichelAngeIsaieSixtine",
+      "link_types_contained": null
     }
   ]
 }

@@ -17,7 +17,7 @@
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": "Vatican, Musées du Vatican",
+      "name": "Vatican, Chapelle Sixtine",
       "place": "Rome",
       "inventory_number": "",
       "url": ""
@@ -33,7 +33,7 @@
   "illustrations": [
     {
       "id": 0,
-      "url": " https://upload.wikimedia.org/wikipedia/commons/c/c6/Sistina_con_arazzi.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Sistina_con_arazzi.jpg",
       "storage": "online",
       "copyright": "Domaine public, https://commons.wikimedia.org/wiki/File:Sistina_con_arazzi.jpg",
       "caption": ""
@@ -43,14 +43,24 @@
   "commentary": "",
   "history": [
     {
-      "date": "2026-02-04T14:53:08.533965",
+      "date": "2026-02-04T13:04:13.159693",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-02-04T13:10:50.366799",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-02-04T14:51:27.081812",
+      "type": "modified",
       "author": "Carla"
     }
   ],
   "materialsAndTechniques": "Tapisserie",
   "contained_by_ensemble": {
-    "link_type": null,
-    "xml_id_work": null
+    "link_type": "appartient à l'ensemble",
+    "xml_id_work": "ChapelleSixtine"
   }
 }

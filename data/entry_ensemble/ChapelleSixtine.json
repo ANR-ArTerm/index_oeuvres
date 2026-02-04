@@ -32,7 +32,7 @@
   "bibliography": [],
   "illustrations": [],
   "description": "",
-  "commentary": "",
+  "commentary": "mettre le plafond en notice-ensemble \"fille\"",
   "history": [
     {
       "date": "2026-02-04T12:58:25.151624",
@@ -48,18 +48,23 @@
       "date": "2026-02-04T13:12:08.398941",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-02-04T14:46:59.142391",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
   "typology": "ensemble décoratif",
   "contains_works": [
     {
       "link_type": "appartient à l'ensemble",
-      "xml_id_work": "MichelAngePlafondSixtine",
+      "xml_id_work": "MichelAngeJugementSixtine",
       "link_types_contained": null
     },
     {
       "link_type": "appartient à l'ensemble",
-      "xml_id_work": "MichelAngeJugementSixtine",
+      "xml_id_work": null,
       "link_types_contained": null
     }
   ]
