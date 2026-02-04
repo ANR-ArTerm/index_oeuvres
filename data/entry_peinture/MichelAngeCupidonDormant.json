@@ -1,0 +1,45 @@
+{
+  "id": "MichelAngeCupidonDormant",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q581925",
+  "entry_type": "peinture",
+  "title": "Le Cupidon dormant",
+  "creator": [
+    {
+      "xml_id": "MichelAnge",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1495,
+    "endYear": 1496,
+    "text": "1495-1496 "
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "",
+      "storage": "",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "description": "L'œuvre a disparu aujourd'hui. ",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-04T11:50:05.263214",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": "Sculpture en marbre",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
