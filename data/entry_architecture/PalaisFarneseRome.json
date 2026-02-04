@@ -17,7 +17,7 @@
       "role": "architecte"
     },
     {
-      "xml_id": "GiacomoDellaPorta",
+      "xml_id": null,
       "role": "architecte"
     }
   ],
@@ -59,6 +59,11 @@
     },
     {
       "date": "2026-02-04T15:55:21.076581",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-02-04T16:23:23.043118",
       "type": "modified",
       "author": "Carla"
     }
