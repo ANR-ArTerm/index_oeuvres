@@ -10,28 +10,49 @@
     }
   ],
   "dateCreated": {
-    "startYear": "",
-    "endYear": "",
-    "text": ""
+    "startYear": 1502,
+    "endYear": 1504,
+    "text": "1502-1504"
   },
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": "peinture grasse à tempera sur bois transférée sur toile",
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": "",
+      "name": "Vatican, Musées du Vatican",
       "place": "",
-      "inventory_number": "",
-      "url": ""
+      "inventory_number": "inv. 40334",
+      "url": "https://www.museivaticani.va/content/museivaticani/fr/collezioni/musei/la-pinacoteca/sala-viii---secolo-xvi/raffaello-sanzio--incoronazione-della-vergine.html"
     }
   },
-  "related_works": [],
+  "related_works": [
+    {
+      "link_type": "œuvre associée",
+      "xml_id_work": "RaphaelAnnonciationOddi"
+    },
+    {
+      "link_type": "œuvre associée",
+      "xml_id_work": "RaphaelAdorationMagesOddi"
+    },
+    {
+      "link_type": "œuvre associée",
+      "xml_id_work": "RaphaelPresentationTempleOddi"
+    }
+  ],
   "bibliography": [
     {
       "zotero_key": "meyerzurcapellenRaphaelCriticalCatalogue2001",
       "location": "n° 8 A"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Raffaello_Sanzio_-_The_Crowning_of_the_Virgin_%28Oddi_Altarpiece%29_-_WGA18609.jpg",
+      "copyright": "Wikimedia Commons, https://commons.wikimedia.org/wiki/File:Raffaello_Sanzio_-_The_Crowning_of_the_Virgin_(Oddi_Altarpiece)_-_WGA18609.jpg",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -39,6 +60,25 @@
       "date": "2026-01-15T16:40:40.132285",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-02-04T12:21:25.392909",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-02-04T12:23:35.406157",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-02-04T12:25:45.504387",
+      "type": "modified",
+      "author": "Pierre"
     }
-  ]
+  ],
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
 }

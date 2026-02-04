@@ -10,18 +10,18 @@
     }
   ],
   "dateCreated": {
-    "startYear": 1503,
+    "startYear": 1502,
     "endYear": 1504,
-    "text": "1503-1504"
+    "text": "1502-1504"
   },
-  "materialsAndTechniques": "huile sur bois",
+  "materialsAndTechniques": "peinture grasse à tempera sur bois",
   "location": {
     "type": "holding_institution",
     "institution": {
       "name": "Vatican, Musées du Vatican",
       "place": "",
-      "inventory_number": "inv. 335",
-      "url": ""
+      "inventory_number": "inv. 40335",
+      "url": "https://www.museivaticani.va/content/museivaticani/fr/collezioni/musei/la-pinacoteca/sala-viii---secolo-xvi/raffaello-sanzio--incoronazione-della-vergine.html"
     }
   },
   "related_works": [
@@ -63,6 +63,21 @@
     },
     {
       "date": "2026-02-04T12:12:55.444503",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-02-04T12:19:45.836260",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-02-04T12:22:05.190104",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-02-04T12:25:57.337478",
       "type": "modified",
       "author": "Pierre"
     }
