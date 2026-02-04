@@ -1,11 +1,15 @@
 {
-  "id": "RaphaelNocesPsycheFarnesina",
+  "id": "RaphaelMercureFarnesine",
   "QID_wikidata": "",
   "entry_type": "peinture",
-  "title": "Noces de Psyché",
+  "title": "Mercure ",
   "creator": [
     {
       "xml_id": "Raphael",
+      "role": "peintre"
+    },
+    {
+      "xml_id": "GiulioRomano",
       "role": "peintre"
     }
   ],
@@ -25,26 +29,13 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [
-    {
-      "id": 0,
-      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Raffaello%2C_banchetto_nuziale_02.jpg",
-      "copyright": "Wikimedia Commons, https://commons.wikimedia.org/wiki/File:Raffaello,_banchetto_nuziale_02.jpg",
-      "caption": "",
-      "storage": "online"
-    }
-  ],
+  "illustrations": [],
   "description": "",
   "commentary": "",
   "history": [
     {
-      "date": "2026-02-04T15:45:41.167889",
+      "date": "2026-02-04T16:12:09.368332",
       "type": "created",
-      "author": "Pierre"
-    },
-    {
-      "date": "2026-02-04T15:54:19.144166",
-      "type": "modified",
       "author": "Pierre"
     }
   ],

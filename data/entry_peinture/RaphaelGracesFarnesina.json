@@ -7,6 +7,10 @@
     {
       "xml_id": "Raphael",
       "role": "peintre"
+    },
+    {
+      "xml_id": "GiulioRomano",
+      "role": "peintre"
     }
   ],
   "dateCreated": {
@@ -46,7 +50,16 @@
       "date": "2026-01-27T17:19:04.614668",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-02-04T16:10:24.415181",
+      "type": "modified",
+      "author": "Pierre"
     }
   ],
-  "materialsAndTechniques": "fresque"
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
 }

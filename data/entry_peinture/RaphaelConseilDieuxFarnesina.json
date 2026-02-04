@@ -33,13 +33,26 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Psyche_Received_on_Olympus_1517_RAFFAELLO_Sanzio.jpg",
+      "copyright": "Wikimedia Commons : https://upload.wikimedia.org/wikipedia/commons/4/4a/Psyche_Received_on_Olympus_1517_RAFFAELLO_Sanzio.jpg",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
     {
       "date": "2026-02-04T15:43:58.393734",
       "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-02-04T15:55:17.609552",
+      "type": "modified",
       "author": "Pierre"
     }
   ],

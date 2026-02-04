@@ -24,7 +24,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "dusslerRaphaelCriticalCatalogue1971",
+      "location": "p. 96-99"
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -41,7 +46,13 @@
       "date": "2026-01-27T17:09:42.818146",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-02-04T15:52:14.662931",
+      "type": "modified",
+      "author": "Pierre"
     }
   ],
-  "typology": "ensemble décoratif"
+  "typology": "ensemble décoratif",
+  "contains_works": []
 }
