@@ -1,0 +1,45 @@
+{
+  "id": "ChapelleSixtine",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2943",
+  "entry_type": "ensemble",
+  "title": "Chapelle Sixtine",
+  "creator": [
+    {
+      "xml_id": "MichelAnge",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1477,
+    "endYear": 1541,
+    "text": "1477-1541"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Vatican, Chapelle Sixtine",
+      "place": "Rome",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [
+    {
+      "link_type": null,
+      "xml_id_work": null
+    }
+  ],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-04T12:58:25.151624",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "typology": "ensemble décoratif",
+  "contains_works": []
+}
