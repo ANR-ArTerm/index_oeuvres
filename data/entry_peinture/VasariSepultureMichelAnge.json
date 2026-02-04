@@ -1,0 +1,67 @@
+{
+  "id": "VasariSepultureMichelAnge",
+  "QID_wikidata": "",
+  "entry_type": "peinture",
+  "title": "Tombeau de Michel Ange à Florence",
+  "creator": [
+    {
+      "xml_id": "GiorgioVasari",
+      "role": "auteur du modèle"
+    },
+    {
+      "xml_id": "AntonioGamberelli",
+      "role": "sculpteur"
+    },
+    {
+      "xml_id": "GiovanniDiBenedettoBandini",
+      "role": "sculpteur"
+    },
+    {
+      "xml_id": "ValerioCigoli",
+      "role": "sculpteur"
+    },
+    {
+      "xml_id": "GiovanniBattistaLorenzi",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1578,
+    "endYear": 1578,
+    "text": "Achevée en 1578"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Basilique Santa Croce",
+      "place": "Florence",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Grab_Michelangelo_Buonarroti_Santa_Croce_Florenz-2.jpg",
+      "storage": "online",
+      "copyright": "CC BY-SA 3.0, Rufus46, https://commons.wikimedia.org/wiki/File:Grab_Michelangelo_Buonarroti_Santa_Croce_Florenz-2.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "Roger de Piles, dans son Abrégé, attribut à Michel-Ange lui même la réalisation de ce tombeau. En réalité, Giorgio Vasari est l'auteur du modèle, et chaque groupe ou figure a été sculpté par divers sculpteurs mentionnés ci-dessus. ",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-04T12:45:32.920540",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": "Sculpture en marbre",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
