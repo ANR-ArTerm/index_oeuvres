@@ -38,7 +38,21 @@
       "date": "2026-02-03T15:32:42.875349",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-02-04T16:59:49.511088",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-02-04T16:59:52.031479",
+      "type": "modified",
+      "author": "Pierre"
     }
   ],
-  "typology": "Palais"
+  "typology": "Palais",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
 }
