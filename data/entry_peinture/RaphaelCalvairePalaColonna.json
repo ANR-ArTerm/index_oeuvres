@@ -1,8 +1,8 @@
 {
-  "id": "RaphaelChristJardinOliviersPalaColonna",
+  "id": "RaphaelCalvairePalaColonna",
   "QID_wikidata": "",
   "entry_type": "peinture",
-  "title": "Le Christ au jardin des Oliviers (Prédelle du Retable Colonna)",
+  "title": "Procession au Calvaire (Prédelle du Retable Colonna)",
   "creator": [
     {
       "xml_id": "Raphael",
@@ -17,10 +17,10 @@
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": "The Metropolitan Museum of Art",
-      "place": "",
-      "inventory_number": "inv. 32.130.1",
-      "url": "https://www.metmuseum.org/fr/art/collection/search/437371"
+      "name": "National Gallery",
+      "place": "Londres",
+      "inventory_number": "inv. NG2919",
+      "url": "https://www.nationalgallery.org.uk/paintings/raphael-the-procession-to-calvary"
     }
   },
   "related_works": [],
@@ -28,9 +28,9 @@
   "illustrations": [
     {
       "id": 0,
-      "url": "https://images.metmuseum.org/CRDImages/ep/original/DP136373.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Raffaello_Sanzio_-_The_Procession_to_Calvary.jpg",
       "storage": "online",
-      "copyright": "Metropolitan Museum of Arts : https://www.metmuseum.org/fr/art/collection/search/437371",
+      "copyright": "Wikimedia Commons, https://fr.wikipedia.org/wiki/Fichier:Raffaello_Sanzio_-_The_Procession_to_Calvary.jpg",
       "caption": ""
     }
   ],
@@ -38,13 +38,8 @@
   "commentary": "",
   "history": [
     {
-      "date": "2026-02-04T15:09:21.764503",
+      "date": "2026-02-04T15:32:20.725884",
       "type": "created",
-      "author": "Pierre"
-    },
-    {
-      "date": "2026-02-04T15:29:00.084676",
-      "type": "modified",
       "author": "Pierre"
     }
   ],
