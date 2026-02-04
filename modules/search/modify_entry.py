@@ -334,8 +334,13 @@ def edit_json_notice(json_path=None, data=None):
         notice["materialsAndTechniques"] = st.selectbox(
                     "Matériaux et techniques",
                     load_list_form("techniques"),
-                    index=index_list_form(notice.get("materialsAndTechniques", ""), "techniques")
+                    index=index_list_form(notice.get("materialsAndTechniques", ""), "techniques"),
+                    accept_new_options=True
                     )
+        
+        if not notice["materialsAndTechniques"] in load_list_form("techniques"):
+            save_to_list_form("techniques", notice["materialsAndTechniques"])
+
 
         st.header("🏛️ Institution de conservation")
 
