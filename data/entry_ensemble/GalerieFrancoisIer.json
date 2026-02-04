@@ -1,6 +1,6 @@
 {
   "id": "GalerieFrancoisIer",
-  "QID_wikidata": "GalerieFrancoisIer",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3094596",
   "entry_type": "ensemble",
   "title": "Galerie François Ier ",
   "creator": [
@@ -41,7 +41,13 @@
       "date": "2026-02-02T17:08:40.689519",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-02-04T12:40:45.216820",
+      "type": "modified",
+      "author": "Pierre"
     }
   ],
-  "typology": "ensemble décoratif"
+  "typology": "ensemble décoratif",
+  "contains_works": []
 }

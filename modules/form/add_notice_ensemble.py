@@ -200,7 +200,7 @@ def add_illustration(xml_id, illus, idx):
             with col_btn:
                 if st.button("Voir/Sauvegarder", key=f"{xml_id}_edit_show_local_{idx}"):
                     st.session_state.show_image_add[idx] = True
-                    st.image(url, caption="Prévisualisation")
+                    st.image(uploaded, caption="Prévisualisation")
 
             illus["storage"] = "local"
 
@@ -418,7 +418,8 @@ def add_notice_ensemble():
         [
             "🏛️ Institution de conservation (musée, église)",
             "📍 Localisation (pour les bâtiments)",
-            "Non localisée"
+            "Non localisée",
+            "Plusieurs localisations"
         ],
         horizontal=True,
         index=index_type_location
@@ -428,7 +429,8 @@ def add_notice_ensemble():
     location_type = {
         "🏛️ Institution de conservation (musée, église)": "holding_institution",
         "📍 Localisation (pour les bâtiments)": "place",
-        "Non localisée": "unlocated"
+        "Non localisée": "unlocated",
+        "Plusieurs localisations": "many_locations"
     }[type_location_label]
 
     # ----------------------------

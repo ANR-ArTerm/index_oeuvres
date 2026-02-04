@@ -444,7 +444,7 @@ def edit_json_notice(json_path=None, data=None):
         location_type = notice["location"]["type"]
 
         # Liste des options
-        options = ["unlocated", "holding_institution", "place"]
+        options = ["unlocated", "holding_institution", "place", "many_locations"]
 
         # Sécurisation : si la valeur actuelle n’est pas dans la liste, prendre l’index 0
         try:
@@ -538,9 +538,6 @@ def edit_json_notice(json_path=None, data=None):
                     "Longitude",
                     place["coordinates"]["longitude"]
                 )
-
-        
-
         
     # Section Date de création
     st.header("📅 Date de création")
@@ -715,9 +712,15 @@ def edit_json_notice(json_path=None, data=None):
                     "type": "modified",
                     "author": entry_editor
                 })
+                # Nettoyage des données :
+                if location_type == "unlocated" or location_type == "many_locations":
+                    notice["location"].pop("institution", None)
+                    notice["location"].pop("place", None)
+
                 saved_path = save_notice(notice, path=json_path, old_id=st.session_state.original_id)
                 st.success(f"✅ Modifications sauvegardées dans : {saved_path}")
                 st.session_state.pop("original_id", None)
+
             except Exception as e:
                 st.error(f"❌ Erreur lors de la sauvegarde : {str(e)}")
     

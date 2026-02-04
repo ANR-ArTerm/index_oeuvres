@@ -1,0 +1,51 @@
+{
+  "id": "RaphaelLunetteDieuPalaColonna",
+  "QID_wikidata": "",
+  "entry_type": "peinture",
+  "title": "Dieu le père bénissant entouré de deux anges (Lunette du Retable Colonna)",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1504,
+    "endYear": 1505,
+    "text": "1504-1505"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "The Metropolitan Museum of Art",
+      "place": "",
+      "inventory_number": "inv. 16.30ab",
+      "url": "https://www.metmuseum.org/fr/art/collection/search/437372"
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "",
+      "storage": "",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-04T12:58:40.643561",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "huile sur bois",
+  "contained_by_ensemble": {
+    "link_type": "appartient à l'ensemble",
+    "xml_id_work": "RaphaelPalaColonna"
+  }
+}
