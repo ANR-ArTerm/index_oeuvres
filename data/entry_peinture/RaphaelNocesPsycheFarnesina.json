@@ -1,0 +1,43 @@
+{
+  "id": "RaphaelNocesPsycheFarnesina",
+  "QID_wikidata": "",
+  "entry_type": "peinture",
+  "title": "Noces de Psyché",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1518,
+    "endYear": 1518,
+    "text": "1518"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Villa Farnesina",
+      "place": "",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-04T15:45:41.167889",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {
+    "link_type": "appartient à l'ensemble",
+    "xml_id_work": "LoggiaPsyche"
+  }
+}
