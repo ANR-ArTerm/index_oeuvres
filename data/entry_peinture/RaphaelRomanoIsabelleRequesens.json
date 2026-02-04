@@ -14,15 +14,15 @@
     }
   ],
   "dateCreated": {
-    "startYear": "",
-    "endYear": "",
+    "startYear": null,
+    "endYear": null,
     "text": ""
   },
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": null,
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": "",
+      "name": null,
       "place": "",
       "inventory_number": "",
       "url": ""
@@ -35,7 +35,15 @@
       "location": "n° 79"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Portrait_de_Jeanne_d%27Aragon%2C_by_Raffaello_Sanzio%2C_from_C2RMF.jpg/960px-Portrait_de_Jeanne_d%27Aragon%2C_by_Raffaello_Sanzio%2C_from_C2RMF.jpg",
+      "copyright": "Wikimedia Commons, https://commons.wikimedia.org/wiki/File:Portrait_de_Jeanne_d%27Aragon,_by_Raffaello_Sanzio,_from_C2RMF.jpg",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -43,6 +51,15 @@
       "date": "2026-01-15T16:40:40.366690",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-02-04T16:47:38.031151",
+      "type": "modified",
+      "author": "Pierre"
     }
-  ]
+  ],
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
 }

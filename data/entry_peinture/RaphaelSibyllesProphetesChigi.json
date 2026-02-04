@@ -36,7 +36,15 @@
       "location": "p. 93"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Raffaello_Sanzio_-_Sibyls_and_Prophets_-_WGA18807.jpg",
+      "copyright": "Wikimedia Commons, https://commons.wikimedia.org/wiki/File:Raffaello_Sanzio_-_Sibyls_and_Prophets_-_WGA18807.jpg",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -49,6 +57,15 @@
       "date": "2026-01-27T16:40:52.500248",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-02-04T16:45:55.722966",
+      "type": "modified",
+      "author": "Pierre"
     }
-  ]
+  ],
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
 }

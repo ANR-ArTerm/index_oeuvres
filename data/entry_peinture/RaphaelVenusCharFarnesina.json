@@ -28,14 +28,42 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
-  "illustrations": [],
+  "bibliography": [
+    {
+      "zotero_key": "dusslerRaphaelCriticalCatalogue1971",
+      "location": "p. 97"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Raffael%2C_Loggia_di_Psiche%2C_Villa_Farnesina%2C_Rome_13.jpg",
+      "copyright": "Wikimedia Commons, https://commons.wikimedia.org/wiki/File:Raffael,_Loggia_di_Psiche,_Villa_Farnesina,_Rome_13.jpg",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
     {
       "date": "2026-02-04T16:25:15.975838",
       "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-02-04T16:28:50.995425",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-02-04T16:29:40.809170",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-02-04T16:38:31.303093",
+      "type": "modified",
       "author": "Pierre"
     }
   ],

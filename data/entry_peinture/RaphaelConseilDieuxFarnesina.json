@@ -32,7 +32,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "dusslerRaphaelCriticalCatalogue1971",
+      "location": "p. 96"
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -52,6 +57,11 @@
     },
     {
       "date": "2026-02-04T15:55:17.609552",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-02-04T16:38:55.078186",
       "type": "modified",
       "author": "Pierre"
     }
