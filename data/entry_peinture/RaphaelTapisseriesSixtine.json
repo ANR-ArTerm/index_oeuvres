@@ -23,7 +23,12 @@
       "url": ""
     }
   },
-  "related_works": [],
+  "related_works": [
+    {
+      "link_type": "œuvre associée",
+      "xml_id_work": "RaphaelCartonsTapisseriesApotres"
+    }
+  ],
   "bibliography": [],
   "illustrations": [
     {
@@ -40,6 +45,11 @@
     {
       "date": "2026-02-04T13:04:13.159693",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-02-04T13:10:50.366799",
+      "type": "modified",
       "author": "Carla"
     }
   ],

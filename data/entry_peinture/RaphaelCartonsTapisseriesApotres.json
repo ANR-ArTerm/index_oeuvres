@@ -1,8 +1,8 @@
 {
-  "id": "RaphaelTapisseriesApotres",
+  "id": "RaphaelCartonsTapisseriesApotres",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q76844726",
   "entry_type": "peinture",
-  "title": "Tapisseries des actes des apôtres",
+  "title": "Cartons pour la tapisseries des actes des apôtres",
   "creator": [
     {
       "xml_id": "Raphael",
@@ -47,6 +47,15 @@
       "date": "2026-01-27T17:36:38.190797",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-02-04T13:09:49.654124",
+      "type": "modified",
+      "author": "Carla"
     }
-  ]
+  ],
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
 }
