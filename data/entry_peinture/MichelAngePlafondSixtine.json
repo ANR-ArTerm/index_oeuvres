@@ -10,8 +10,8 @@
     }
   ],
   "dateCreated": {
-    "startYear": "1508",
-    "endYear": "1512",
+    "startYear": 1508,
+    "endYear": 1512,
     "text": "1508-1512"
   },
   "materialsAndTechniques": "fresque",
@@ -42,6 +42,15 @@
       "date": "2026-01-19T16:59:00.719225",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-02-04T12:59:56.450730",
+      "type": "modified",
+      "author": "Carla"
     }
-  ]
+  ],
+  "contained_by_ensemble": {
+    "link_type": "appartient à l'ensemble",
+    "xml_id_work": "ChapelleSixtine"
+  }
 }

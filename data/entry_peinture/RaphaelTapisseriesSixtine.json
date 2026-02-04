@@ -1,0 +1,51 @@
+{
+  "id": "RaphaelTapisseriesSixtine",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q76844726",
+  "entry_type": "peinture",
+  "title": "Tenture des Actes des Apôtres",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1521,
+    "endYear": 1521,
+    "text": "1521"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Vatican, Chapelle Sixtine",
+      "place": "Rome",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Sistina_con_arazzi.jpg",
+      "storage": "online",
+      "copyright": "Domaine public, https://commons.wikimedia.org/wiki/File:Sistina_con_arazzi.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-04T13:04:13.159693",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": "Tapisserie",
+  "contained_by_ensemble": {
+    "link_type": "appartient à l'ensemble",
+    "xml_id_work": "ChapelleSixtine"
+  }
+}
