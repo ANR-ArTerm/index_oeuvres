@@ -3,18 +3,35 @@
   "QID_wikidata": "https://www.wikidata.org/wiki/Q848386",
   "entry_type": "architecture",
   "title": "Palais Farnese",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "AntonioDaSangalloIlGiovane",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "MichelAnge",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "JacopoBarozziDaVignola",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "GiacomoDellaPorta",
+      "role": "architecte"
+    }
+  ],
   "dateCreated": {
-    "startYear": "",
-    "endYear": "",
-    "text": ""
+    "startYear": 1514,
+    "endYear": 1549,
+    "text": "1514-1549"
   },
-  "typology": "",
+  "typology": "Palais",
   "location": {
     "type": "place",
     "place": {
-      "city": "",
-      "country": "",
+      "city": "Rome",
+      "country": "Italie",
       "coordinates": {
         "latitude": "",
         "longitude": ""
@@ -23,7 +40,15 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Palais_Farnese.jpg",
+      "copyright": "CC BY-SA 3.0, Myrabella, https://commons.wikimedia.org/wiki/File:Palais_Farnese.jpg",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -31,6 +56,15 @@
       "date": "2026-01-20T11:47:35.388310",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-02-04T15:55:21.076581",
+      "type": "modified",
+      "author": "Carla"
     }
-  ]
+  ],
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
 }
