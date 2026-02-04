@@ -1,0 +1,53 @@
+{
+  "id": "MichelAngeCapitoleRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q34921",
+  "entry_type": "architecture",
+  "title": "Place du Capitole",
+  "creator": [
+    {
+      "xml_id": "MichelAnge",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1534,
+    "endYear": 1534,
+    "text": "Vers 1534"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/0_Cordonata_-_Dioscuri_-_Palazzo_Senatorio.JPG",
+      "storage": "online",
+      "copyright": "CC BY-SA 3.0, Jean-Pol GRANDMONT,  https://commons.wikimedia.org/wiki/File:0_Cordonata_-_Dioscuri_-_Palazzo_Senatorio.JPG",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-04T16:10:39.938850",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "typology": null,
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
