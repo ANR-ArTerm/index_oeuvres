@@ -21,14 +21,6 @@
       "place": "Florence",
       "inventory_number": "",
       "url": ""
-    },
-    "place": {
-      "city": "",
-      "country": "",
-      "coordinates": {
-        "latitude": "",
-        "longitude": ""
-      }
     }
   },
   "related_works": [],
@@ -36,7 +28,7 @@
   "illustrations": [
     {
       "id": 0,
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Fotografi_di_San_Lorenzo_-_Hallwylska_museet_-_107390.tif/lossy-page1-1480px-Fotografi_di_San_Lorenzo_-_Hallwylska_museet_-_107390.tif.jpg?20161204134159",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Fotografi_di_San_Lorenzo_-_Hallwylska_museet_-_107390.tif/lossy-page1-948px-Fotografi_di_San_Lorenzo_-_Hallwylska_museet_-_107390.tif.jpg",
       "storage": "online",
       "copyright": "Public Domain, Giacomo Brogi, https://commons.wikimedia.org/wiki/File:Fotografi_di_San_Lorenzo_-_Hallwylska_museet_-_107390.tif?page=1",
       "caption": ""
@@ -48,6 +40,11 @@
     {
       "date": "2026-02-04T15:07:29.528554",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-02-04T15:08:31.324233",
+      "type": "modified",
       "author": "Carla"
     }
   ],
