@@ -1,7 +1,7 @@
 {
   "id": "RaphaelCartonsTapisseriesApotres",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q76844726",
-  "entry_type": "peinture",
+  "entry_type": "ensemble",
   "title": "Cartons pour la tapisseries des actes des apôtres",
   "creator": [
     {
@@ -14,7 +14,7 @@
     "endYear": 1516,
     "text": "1515-1516"
   },
-  "materialsAndTechniques": "huile sur toile",
+  "typology": "cartons de tapisserie",
   "location": {
     "type": "holding_institution",
     "institution": {
@@ -52,10 +52,12 @@
       "date": "2026-02-04T13:09:49.654124",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-02-04T13:14:40.639242",
+      "type": "modified",
+      "author": "Pierre"
     }
   ],
-  "contained_by_ensemble": {
-    "link_type": null,
-    "xml_id_work": null
-  }
+  "contains_works": []
 }
