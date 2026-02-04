@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 from pathlib import Path
-from modules.data.load import load_list_form
+from modules.data.load import load_list_form, get_all_objects_ids_flat_sorted
 
 DATA_PATH = Path("data/notes_csv/notes.csv")
 
@@ -29,11 +29,21 @@ def notes_editor():
         "text_xml": st.column_config.SelectboxColumn(
             "Texte XML",
             help="Choix du texte XML associé à la note",
-            width="small",
+            width=60,
                 options=load_list_form("text_xml"),
             required=True,
-        )},
+        ),
+        "oeuvre_xml_ids": st.column_config.MultiselectColumn(
+            "XML ID des oeuvres",
+            options=get_all_objects_ids_flat_sorted(),
+            width=60),
+        "note":st.column_config.Column(
+            "Note",
+            width=600
+        )
+        },
         key="notes_editor",
+        hide_index=False       
     )
 
     col1, col2 = st.columns(2)

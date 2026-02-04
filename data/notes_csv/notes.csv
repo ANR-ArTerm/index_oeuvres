@@ -1,1 +1,4 @@
-id_note;text_xml;id_xml;note
+text_xml;oeuvre_xml_ids;note
+Baglione_NoveRoma.xml;['AgnoloGaddiArno', 'AgostinoVenezianoEcoleAthenes'];test
+Bartoli_RagionamentiAccademiciATIR.xml;['AnonymeHelene'];Test2
+Bellori_DescrizzioneImagiDipinteRafelloATIR.xml;;cela ne marche pas toujours
