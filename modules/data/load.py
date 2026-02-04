@@ -416,7 +416,7 @@ def index_list_form(value, keys):
         int: index de la valeur dans la liste fusionnée, 0 si non trouvée ou si value est None.
     """
     if value is None:
-        return 0  # sécurité : retourne 0 pour selectbox
+        return None  # sécurité : retourne None pour selectbox
 
     # convertir en liste si c'est une seule clé
     if isinstance(keys, str):

@@ -21,7 +21,7 @@ from modules.data.index_xml_personnes import sync_person_ids
 from modules.data.index_xml_oeuvres import sync_oeuvres_from_json
 from modules.data.verify_data import verify_json_entries
 
-from modules.notes_csv.notes import notes_editor
+from modules.edit_dataframes.notes import notes_editor
 
 
 

@@ -621,6 +621,7 @@ def edit_json_notice(json_path=None, data=None):
         if "contained_by_ensemble" not in notice:
             notice["contained_by_ensemble"] = {}
         
+        
         list_xml_id_ensemble = get_all_objects_ids_flat_sorted(["ensemble"])
 
         col1, col2 = st.columns(2)
