@@ -1,0 +1,50 @@
+{
+  "id": "MichelAngeLeda",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3829347",
+  "entry_type": "peinture",
+  "title": "Léda et le cygne",
+  "creator": [
+    {
+      "xml_id": "MichelAnge",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1530,
+    "endYear": 1530,
+    "text": "1530"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [
+    {
+      "link_type": null,
+      "xml_id_work": null
+    }
+  ],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Michelangelo%2C_studio_per_la_leda%2C_casa_buonarroti.jpg",
+      "storage": "online",
+      "copyright": "Domaine public, Sailko, https://commons.wikimedia.org/wiki/File:Michelangelo,_studio_per_la_leda,_casa_buonarroti.jpg?uselang=en#Licensing",
+      "caption": ""
+    }
+  ],
+  "description": "Il s'agit d'une étude préparatoire de la main de MichelAnge, la peinture d'origine ayant disparu",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-04T16:18:44.921910",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": null,
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
