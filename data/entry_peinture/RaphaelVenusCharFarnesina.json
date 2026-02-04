@@ -1,8 +1,8 @@
 {
-  "id": "RaphaelJupiterAmourFarnesina",
+  "id": "RaphaelVenusCharFarnesina",
   "QID_wikidata": "",
   "entry_type": "peinture",
-  "title": "Jupiter et l'Amour (Loge de Psyché)",
+  "title": "Vénus sur son char",
   "creator": [
     {
       "xml_id": "Raphael",
@@ -29,26 +29,13 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [
-    {
-      "id": 0,
-      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Raffael%2C_Loggia_di_Psiche%2C_Villa_Farnesina%2C_Rome_10.jpg",
-      "copyright": "Wikimedia Commons, https://upload.wikimedia.org/wikipedia/commons/8/8d/Raffael%2C_Loggia_di_Psiche%2C_Villa_Farnesina%2C_Rome_10.jpg",
-      "caption": "",
-      "storage": "online"
-    }
-  ],
+  "illustrations": [],
   "description": "",
   "commentary": "",
   "history": [
     {
-      "date": "2026-02-04T16:18:18.331687",
+      "date": "2026-02-04T16:25:15.975838",
       "type": "created",
-      "author": "Pierre"
-    },
-    {
-      "date": "2026-02-04T16:19:22.711228",
-      "type": "modified",
       "author": "Pierre"
     }
   ],
