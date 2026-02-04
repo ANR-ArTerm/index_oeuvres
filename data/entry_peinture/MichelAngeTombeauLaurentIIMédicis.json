@@ -23,15 +23,33 @@
       "url": ""
     }
   },
-  "related_works": [],
+  "related_works": [
+    {
+      "link_type": "appartient au même ensemble",
+      "xml_id_work": "MichelAngeTombeauJulienMédicis"
+    }
+  ],
   "bibliography": [],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Life_of_Michael_Angelo%2C_1912_-_Monument_of_Lorenzo_de_Medici.jpg",
+      "copyright": "Domaine public, https://commons.wikimedia.org/wiki/File:Life_of_Michael_Angelo,_1912_-_Monument_of_Lorenzo_de_Medici.jpg",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
     {
       "date": "2026-02-04T15:22:52.899055",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-02-04T15:34:18.279756",
+      "type": "modified",
       "author": "Carla"
     }
   ],

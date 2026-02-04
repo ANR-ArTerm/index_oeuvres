@@ -46,8 +46,24 @@
       "date": "2026-02-04T15:08:31.324233",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-02-04T15:29:54.245550",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
   "typology": "ensemble décoratif",
-  "contains_works": []
+  "contains_works": [
+    {
+      "link_type": "appartient à l'ensemble",
+      "xml_id_work": "MichelAngeTombeauLaurentIIMédicis",
+      "link_types_contained": null
+    },
+    {
+      "link_type": "appartient à l'ensemble",
+      "xml_id_work": "MichelAngeTombeauJulienMédicis",
+      "link_types_contained": null
+    }
+  ]
 }
