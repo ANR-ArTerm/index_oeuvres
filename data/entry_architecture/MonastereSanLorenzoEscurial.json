@@ -1,0 +1,40 @@
+{
+  "id": "MonastereSanLorenzoEscurial",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q28471",
+  "entry_type": "architecture",
+  "title": "Monastère royal de San Lorenzo de El Escorial",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "",
+      "country": "",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-05T16:01:50.523420",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "typology": null,
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
