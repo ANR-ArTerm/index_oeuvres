@@ -20,13 +20,26 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://collections.louvre.fr/media/cache/large/0000000021/0000275681/0000618285_OG.JPG",
+      "copyright": "© 2003 Musée du Louvre, Dist. GrandPalaisRmn / Etienne Revault",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
     {
       "date": "2026-02-05T12:24:02.903443",
       "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-02-05T12:28:03.405478",
+      "type": "modified",
       "author": "Pierre"
     }
   ],
