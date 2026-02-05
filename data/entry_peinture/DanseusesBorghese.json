@@ -1,0 +1,38 @@
+{
+  "id": "DanseusesBorghese",
+  "QID_wikidata": "",
+  "entry_type": "peinture",
+  "title": "Danseuses Borghese",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 125,
+    "endYear": 150,
+    "text": "2e quart IIe s. ap. J.-C. [?]"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Musée du Louvre, Département des Antiquités grecques, étrusques et romaines",
+      "place": "Paris",
+      "inventory_number": "MR 747 ; N 1259 ; Ma 1612",
+      "url": "https://collections.louvre.fr/ark:/53355/cl010275681"
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-05T12:24:02.903443",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "Sculpture en marbre",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
