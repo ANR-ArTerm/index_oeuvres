@@ -1,0 +1,46 @@
+{
+  "id": "ArianeEndormie",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q7539835",
+  "entry_type": "peinture",
+  "title": "L'Ariane endormie, autrefois appellée la Cléopâtre ",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -199,
+    "endYear": -99,
+    "text": "IIe avant J.-C."
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Vatican, Musée Pio-Clementino",
+      "place": "Rome",
+      "inventory_number": "Inv. 548",
+      "url": "https://www.museivaticani.va/content/museivaticani/fr/collezioni/musei/museo-pio-clementino/Galleria-delle-Statue-e-Sala-dei-Busti/arianna.html"
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Sleeping_Ariadne.jpg",
+      "storage": "online",
+      "copyright": "CC BY-SA 3.0, Wknight94, https://commons.wikimedia.org/wiki/File:Sleeping_Ariadne.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-09T16:15:20.053466",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": "Sculpture en marbre",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
