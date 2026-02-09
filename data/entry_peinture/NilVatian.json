@@ -1,0 +1,46 @@
+{
+  "id": "NilVatian",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3968659",
+  "entry_type": "peinture",
+  "title": "Statue du dieu Nil",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1,
+    "endYear": 99,
+    "text": "Ier siècle "
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Vatican, Musées du Vatican",
+      "place": "Rome",
+      "inventory_number": "Inv. 2300",
+      "url": "https://www.museivaticani.va/content/museivaticani/fr/collezioni/musei/braccio-nuovo/Nilo.html"
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/The_Nile%2C_inv._2300_-_Braccio_Nuovo%2C_Museo_Chiaramonti_-_Vatican_Museums_-_DSC00913.jpg",
+      "storage": "online",
+      "copyright": "Domaine public, Daderot, https://commons.wikimedia.org/wiki/File:The_Nile,_inv._2300_-_Braccio_Nuovo,_Museo_Chiaramonti_-_Vatican_Museums_-_DSC00913.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-09T16:07:40.991437",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": "Sculpture en marbre",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
