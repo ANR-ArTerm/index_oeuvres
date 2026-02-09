@@ -30,7 +30,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Sebastiano_del_Piombo%2C_The_Raising_of_Lazarus.jpg",
       "storage": "online",
-      "copyright": "Domaine public",
+      "copyright": "Domaine public, Olpl, https://commons.wikimedia.org/wiki/File:Sebastiano_del_Piombo,_The_Raising_of_Lazarus.jpg",
       "caption": ""
     }
   ],
@@ -40,6 +40,11 @@
     {
       "date": "2026-02-09T11:43:22.158293",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-02-09T11:58:36.645661",
+      "type": "modified",
       "author": "Carla"
     }
   ],
