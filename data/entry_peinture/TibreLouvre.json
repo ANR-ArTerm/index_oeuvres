@@ -1,0 +1,46 @@
+{
+  "id": "TibreLouvre",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q22946197",
+  "entry_type": "peinture",
+  "title": "Statue du Tibre avec Romulus et Rémus",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1,
+    "endYear": 199,
+    "text": "Ier ou IIe siècle"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Musée du Louvre, Département des Antiquités grecques, étrusques et romaines",
+      "place": "paris",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Sculpture_of_Tiber_river_%28Louvre%292.jpg",
+      "storage": "online",
+      "copyright": "CC BY-SA 4.0, Ismoon, https://commons.wikimedia.org/wiki/File:Sculpture_of_Tiber_river_(Louvre)2.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-09T15:42:38.312326",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": "Sculpture en marbre",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
