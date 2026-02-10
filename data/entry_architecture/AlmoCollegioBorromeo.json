@@ -1,0 +1,53 @@
+{
+  "id": "AlmoCollegioBorromeo",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2644227",
+  "entry_type": "architecture",
+  "title": "AlmoCollegioBorromeo",
+  "creator": [
+    {
+      "xml_id": "PellegrinoTibaldi",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1567,
+    "endYear": 1567,
+    "text": "1567"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Pavie",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Collegio_Borromeo_%28Pavia%29.jpg",
+      "storage": "online",
+      "copyright": "CC BY-SA 3.0, Giorgio Gonnella, https://commons.wikimedia.org/wiki/File:Collegio_Borromeo_(Pavia).jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-10T14:38:02.848498",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "typology": null,
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
