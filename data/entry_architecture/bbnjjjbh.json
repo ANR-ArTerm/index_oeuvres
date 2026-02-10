@@ -1,0 +1,45 @@
+{
+  "id": "bbnjjjbh",
+  "QID_wikidata": "",
+  "entry_type": "architecture",
+  "title": "hihi",
+  "creator": [
+    {
+      "xml_id": "Abiron",
+      "role": null
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "",
+      "country": "",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-10T16:26:53.309413",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "typology": null,
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
