@@ -1,0 +1,43 @@
+{
+  "id": "LucaCambiasoParadisEscurial",
+  "QID_wikidata": "",
+  "entry_type": "peinture",
+  "title": "Le Paradis (voûte du monastère de l'Escorial)",
+  "creator": [
+    {
+      "xml_id": "LucaCambiaso",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1583,
+    "endYear": 1585,
+    "text": "1583-1585"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": null,
+      "place": "",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "Image et notices à faire",
+  "history": [
+    {
+      "date": "2026-02-05T16:12:55.979010",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

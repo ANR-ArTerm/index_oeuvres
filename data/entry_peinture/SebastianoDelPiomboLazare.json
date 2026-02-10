@@ -1,0 +1,56 @@
+{
+  "id": "SebastianoDelPiomboLazare",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3933578",
+  "entry_type": "peinture",
+  "title": "La Résurrection de Lazare",
+  "creator": [
+    {
+      "xml_id": "SebastianoDelPiombo",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1516,
+    "endYear": 1519,
+    "text": "1516-1519"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "National Gallery",
+      "place": "Londres",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Sebastiano_del_Piombo%2C_The_Raising_of_Lazarus.jpg",
+      "storage": "online",
+      "copyright": "Domaine public, Olpl, https://commons.wikimedia.org/wiki/File:Sebastiano_del_Piombo,_The_Raising_of_Lazarus.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-09T11:43:22.158293",
+      "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-02-09T11:58:36.645661",
+      "type": "modified",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

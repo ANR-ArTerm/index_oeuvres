@@ -1,0 +1,45 @@
+{
+  "id": "DanieleDaVolterraEquestreHenriII",
+  "QID_wikidata": "",
+  "entry_type": "peinture",
+  "title": "Statue équestre Henri II ",
+  "creator": [
+    {
+      "xml_id": "DanieleDaVolterra",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1560,
+    "endYear": 1567,
+    "text": "1560-1567"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "",
+      "storage": "online",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "description": "Le cheval a été fait pour la statue équestre d'Henri II, commandée par Catherine de Médicis. Inachevée, elle fut remployée pour la statue de Louis XIII mais détruite durant la Révolution française. ",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-09T15:06:00.812651",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": "sculpture en bronze",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

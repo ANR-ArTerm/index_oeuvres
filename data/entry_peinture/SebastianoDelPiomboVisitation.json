@@ -1,0 +1,51 @@
+{
+  "id": "SebastianoDelPiomboVisitation",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q18572220",
+  "entry_type": "peinture",
+  "title": "La Visitation ",
+  "creator": [
+    {
+      "xml_id": "SebastianoDelPiombo",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1519,
+    "endYear": 1519,
+    "text": "\t 1519"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Musée du Louvre",
+      "place": "Paris",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Piombo%2C_Sebastiano_del_-_The_Visitation_-_1518-19.jpg",
+      "storage": "online",
+      "copyright": "Domaine public, Mattes, https://commons.wikimedia.org/wiki/File:Piombo,_Sebastiano_del_-_The_Visitation_-_1518-19.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-09T11:54:26.206588",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": "huile sur bois transposé sur toile",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

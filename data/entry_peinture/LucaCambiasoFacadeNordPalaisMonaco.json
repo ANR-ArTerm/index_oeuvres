@@ -1,0 +1,43 @@
+{
+  "id": "LucaCambiasoFacadeNordPalaisMonaco",
+  "QID_wikidata": "",
+  "entry_type": "peinture",
+  "title": "Fresques de la façade Nord du Palais Princier de Monaco",
+  "creator": [
+    {
+      "xml_id": "LucaCambiaso",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": null,
+      "place": "",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-05T14:43:51.867586",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

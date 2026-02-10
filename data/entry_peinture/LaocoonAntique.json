@@ -1,0 +1,59 @@
+{
+  "id": "LaocoonAntique",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q465762",
+  "entry_type": "peinture",
+  "title": "Le groupe du Laocoon",
+  "creator": [
+    {
+      "xml_id": "Agésandros",
+      "role": "auteur de la sculpture originale"
+    },
+    {
+      "xml_id": "Athénodore",
+      "role": "auteur de la sculpture originale"
+    },
+    {
+      "xml_id": "Polydore",
+      "role": "auteur de la sculpture originale"
+    }
+  ],
+  "dateCreated": {
+    "startYear": -40,
+    "endYear": -40,
+    "text": "40 av. J.-C."
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Vatican, Musée Pio-Clementino",
+      "place": "Rome",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Laoco%C3%B6n_and_his_sons_group.jpg",
+      "storage": "online",
+      "copyright": "Domaine, Wilfredor, https://commons.wikimedia.org/wiki/File:Laoco%C3%B6n_and_his_sons_group.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "L'œuvre originale est perdue, aussi on ne la connaît que par sa copie romaine.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-09T15:28:05.462076",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": "Sculpture en marbre",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
