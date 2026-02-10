@@ -5,15 +5,15 @@
   "title": "Monastère royal de San Lorenzo de El Escorial",
   "creator": [],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1557,
+    "endYear": 1557,
+    "text": "1557"
   },
   "location": {
     "type": "place",
     "place": {
-      "city": "",
-      "country": "",
+      "city": "L'Escurial",
+      "country": "Espagnol",
       "coordinates": {
         "latitude": "",
         "longitude": ""
@@ -22,7 +22,15 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Monasterio_de_El_Escorial_en_Madrid.jpg",
+      "copyright": "CC BY-SA 4.0, Zvonimir Stamenov, https://commons.wikimedia.org/wiki/File:Monasterio_de_El_Escorial_en_Madrid.jpg",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -30,6 +38,11 @@
       "date": "2026-02-05T16:01:50.523420",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-02-10T14:53:45.139661",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
   "typology": null,
