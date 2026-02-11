@@ -1,0 +1,51 @@
+{
+  "id": "TitienRetableSanNicolo",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q124261369",
+  "entry_type": "peinture",
+  "title": "Vierge à l'enfant en gloire avec six saints, dont saint Sébastien, retable de San Niccolò",
+  "creator": [
+    {
+      "xml_id": "Titien",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1520,
+    "endYear": 1525,
+    "text": "1520-1525"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Pinacothèque vaticane",
+      "place": "Rome",
+      "inventory_number": "inv.351",
+      "url": "https://www.museivaticani.va/content/museivaticani/fr/collezioni/musei/la-pinacoteca/sala-x---secolo-xvi/tiziano-vecellio-madonna-col-bambino.html"
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Titian_madonna_of_frari_vatican.jpg",
+      "storage": "online",
+      "copyright": "Domaine public, Never covered, https://commons.wikimedia.org/wiki/File:Titian_madonna_of_frari_vatican.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-11T18:01:34.816887",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": "huile sur bois transposé sur toile",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
