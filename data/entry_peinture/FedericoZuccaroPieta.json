@@ -1,0 +1,37 @@
+{
+  "id": "FedericoZuccaroPieta",
+  "QID_wikidata": "",
+  "entry_type": "peinture",
+  "title": "La Pietà",
+  "creator": [
+    {
+      "xml_id": "FedericoZuccaro",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "L'œuvre est aujourd'hui perdue. ",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-11T14:04:37.256265",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": null,
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
