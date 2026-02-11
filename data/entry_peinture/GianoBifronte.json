@@ -1,0 +1,54 @@
+{
+  "id": "GianoBifronte",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q167685",
+  "entry_type": "peinture",
+  "title": "Buste de Janus bifronts",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -699,
+    "endYear": -600,
+    "text": "environ VIIe siècle av. J.-C."
+  },
+  "location": {
+    "type": "holding_institution",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    },
+    "institution": {
+      "name": "Vatican",
+      "place": "Rome",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Janus-Vatican.JPG",
+      "storage": "online",
+      "copyright": "Domaine public, Fubar Obfusco, https://commons.wikimedia.org/wiki/File:Janus-Vatican.JPG",
+      "caption": ""
+    }
+  ],
+  "description": "Il ne s'agit pas de faire référence à une œuvre précise mais plutôt de se référer à un modèle commun. Le temple et donc le buste auraient été consacré sous le règne de Numa Pompilius ",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-11T18:47:09.658747",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": null,
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

@@ -17,7 +17,16 @@
   "location": {
     "type": "unlocated"
   },
-  "related_works": [],
+  "related_works": [
+    {
+      "link_type": "œuvre associée",
+      "xml_id_work": "TitienSaintSebastienErmitage"
+    },
+    {
+      "link_type": "œuvre associée",
+      "xml_id_work": "TitienRetableSanNicolo"
+    }
+  ],
   "bibliography": [],
   "illustrations": [],
   "description": "Il ne nous a pas été possible d'identifier le Saint-Sébastien auquel faisait référence l'auteur, pour autant, il est probable qu'il soit l'une des œuvres suivantes (voir les notices des \"œuvres liées\").",
@@ -26,6 +35,16 @@
     {
       "date": "2026-02-11T17:48:02.686205",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-02-11T18:10:01.281622",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-02-11T18:11:54.171051",
+      "type": "modified",
       "author": "Carla"
     }
   ],

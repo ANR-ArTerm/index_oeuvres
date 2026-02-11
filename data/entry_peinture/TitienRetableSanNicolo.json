@@ -34,12 +34,17 @@
       "caption": ""
     }
   ],
-  "description": "",
+  "description": "Il pourrait s'agir du saint Sébastien décrit par l'auteur. ",
   "commentary": "",
   "history": [
     {
       "date": "2026-02-11T18:01:34.816887",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-02-11T18:11:00.367014",
+      "type": "modified",
       "author": "Carla"
     }
   ],
