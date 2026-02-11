@@ -20,12 +20,27 @@
   "related_works": [],
   "bibliography": [],
   "illustrations": [],
-  "description": "L'œuvre est aujourd'hui perdue. ",
+  "description": "L'œuvre est aujourd'hui perdue. Elle est très semblable à celle d'Annibale Carrache, aussi il est possible que De Piles ait confondu les deux.",
   "commentary": "",
   "history": [
     {
       "date": "2026-02-11T14:04:37.256265",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-02-11T14:20:35.359193",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-02-11T14:21:04.078091",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-02-11T14:21:15.759847",
+      "type": "modified",
       "author": "Carla"
     }
   ],

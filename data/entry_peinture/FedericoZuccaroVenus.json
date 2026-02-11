@@ -1,0 +1,37 @@
+{
+  "id": "FedericoZuccaroVenus",
+  "QID_wikidata": "",
+  "entry_type": "peinture",
+  "title": "Vénus nue",
+  "creator": [
+    {
+      "xml_id": "FedericoZuccaro",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "Cette œuvre est aujourd'hui perdue, mais on peut le rapprocher de quelques dessins pouvant être préparatoire à l'œuvre en elle même. ",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-11T14:25:46.032390",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": null,
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
