@@ -1,0 +1,46 @@
+{
+  "id": "HerculesCapitolini",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3918317",
+  "entry_type": "peinture",
+  "title": "Hercules Boarium",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -200,
+    "endYear": -101,
+    "text": "IIe siècle av. J.-C."
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Musée Capitolin",
+      "place": "Rome",
+      "inventory_number": "inv. MC1265",
+      "url": "https://www.museicapitolini.org/fr/opera/statua-di-ercole-bronzo-dorato"
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Hercules_Musei_Capitolini_MC1265.jpg",
+      "storage": "online",
+      "copyright": "Domaine public, Marie-Lan Nguyen, https://commons.wikimedia.org/wiki/File:Hercules_Musei_Capitolini_MC1265.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-11T18:56:37.512849",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": "sculpture en bronze",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

@@ -37,12 +37,17 @@
       "caption": ""
     }
   ],
-  "description": "Il ne s'agit pas de faire référence à une œuvre précise mais plutôt de se référer à un modèle commun. Le temple et donc le buste auraient été consacré sous le règne de Numa Pompilius ",
+  "description": "Il ne s'agit pas de faire référence à une œuvre précise mais plutôt de se référer à un modèle commun. Le temple et donc le buste auraient été consacrés sous le règne de Numa Pompilius (au courant du VIIe siècle avant J.-C.). L'œuvre choisie pour illustrer cette notice est un buste d'époque romaine conservé au Vatican.",
   "commentary": "",
   "history": [
     {
       "date": "2026-02-11T18:47:09.658747",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-02-11T18:48:28.091685",
+      "type": "modified",
       "author": "Carla"
     }
   ],
