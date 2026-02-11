@@ -1,0 +1,51 @@
+{
+  "id": "TitienSaintSebastienErmitage",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q7402169",
+  "entry_type": "peinture",
+  "title": "Saint Sébastien",
+  "creator": [
+    {
+      "xml_id": "Titien",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1570,
+    "endYear": 1575,
+    "text": "1570-1575"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Musée de l'Ermitage",
+      "place": "Saint-Pétersbourg",
+      "inventory_number": "inv.191",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Titian_sebastian.jpg",
+      "storage": "online",
+      "copyright": "Domaine public, Dencey, https://commons.wikimedia.org/wiki/File:Titian_sebastian.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "Il pourrait s'agir du saint Sébastien décrit par l'auteur. ",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-11T18:09:01.575494",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
