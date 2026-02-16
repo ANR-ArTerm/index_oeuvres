@@ -1,0 +1,45 @@
+{
+  "id": "MonastereSantAgata",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3672246",
+  "entry_type": "architecture",
+  "title": "Monastère de Sant'Agata",
+  "creator": [
+    {
+      "xml_id": null,
+      "role": null
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1185,
+    "endYear": null,
+    "text": "XIIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-16T15:12:58.066749",
+      "type": "created",
+      "author": "Julia"
+    }
+  ],
+  "typology": "monastère",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
