@@ -1,0 +1,40 @@
+{
+  "id": "SantApolloniaFlorence",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2786038",
+  "entry_type": "architecture",
+  "title": "Monastère de Sant'Apollonia",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-17T16:23:59.147475",
+      "type": "created",
+      "author": "Julia"
+    }
+  ],
+  "typology": "monastère",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
