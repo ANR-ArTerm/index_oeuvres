@@ -1,0 +1,48 @@
+{
+  "id": "SanLorenzoFlorence",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q573881",
+  "entry_type": "architecture",
+  "title": "Duomo San Lorenzo",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": 1421,
+    "text": "1421"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/San_Lorenzo_Florenz-3.jpg/1206px-San_Lorenzo_Florenz-3.jpg",
+      "storage": "online",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-17T16:21:04.207622",
+      "type": "created",
+      "author": "Julia"
+    }
+  ],
+  "typology": "cathédrale",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
