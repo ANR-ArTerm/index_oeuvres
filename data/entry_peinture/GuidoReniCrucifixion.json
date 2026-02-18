@@ -1,0 +1,43 @@
+{
+  "id": "GuidoReniCrucifixion",
+  "QID_wikidata": "",
+  "entry_type": "peinture",
+  "title": "Crucifixion",
+  "creator": [
+    {
+      "xml_id": "GuidoReni",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": null,
+      "place": "",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "La Crucifixion de Guido Reni est déclinée en plusieurs versions, connues par des copies.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-18T17:46:34.610842",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
