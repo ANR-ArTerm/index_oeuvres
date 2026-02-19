@@ -1,8 +1,8 @@
 {
-  "id": "RaphaelRomanoBatailleMilviusVatican",
-  "QID_wikidata": "https://www.wikidata.org/wiki/Q1996932",
+  "id": "RaphaelBaptemeConstantinVatican",
+  "QID_wikidata": "",
   "entry_type": "peinture",
-  "title": "Bataille du pont Milvius",
+  "title": "Baptême de Constantin",
   "creator": [
     {
       "xml_id": "Raphael",
@@ -10,6 +10,10 @@
     },
     {
       "xml_id": "GiulioRomano",
+      "role": "peintre"
+    },
+    {
+      "xml_id": "GiovanniFrancescoPenni",
       "role": "peintre"
     }
   ],
@@ -28,18 +32,13 @@
     }
   },
   "related_works": [],
-  "bibliography": [
-    {
-      "zotero_key": "dusslerRaphaelCriticalCatalogue1971",
-      "location": "p. 86, n° IV(b)"
-    }
-  ],
+  "bibliography": [],
   "illustrations": [
     {
       "id": 0,
-      "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Battle_at_Pont_Milvius.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Raphael_Baptism_Constantine.jpg",
       "storage": "online",
-      "copyright": "Wikimedia commons (https://commons.wikimedia.org/wiki/File:Battle_at_Pont_Milvius.jpg)",
+      "copyright": "Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Raphael_Baptism_Constantine.jpg)",
       "caption": ""
     }
   ],
@@ -47,19 +46,14 @@
   "commentary": "",
   "history": [
     {
-      "date": "2026-02-19T16:58:20.236818",
+      "date": "2026-02-19T17:05:15.597977",
       "type": "created",
-      "author": "Pierre"
-    },
-    {
-      "date": "2026-02-19T17:00:08.529760",
-      "type": "modified",
       "author": "Pierre"
     }
   ],
   "materialsAndTechniques": "fresque",
   "contained_by_ensemble": {
     "link_type": "appartient à l'ensemble",
-    "xml_id_work": "RaphaelLogesVatican"
+    "xml_id_work": null
   }
 }
