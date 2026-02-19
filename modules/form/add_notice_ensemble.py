@@ -114,10 +114,34 @@ def add_bibliography(xml_id, biblio, idx):
     """Édite une référence bibliographique"""
     st.subheader(f"Référence {idx + 1}")
     col1, col2 = st.columns(2)
+
     with col1:
-        biblio["zotero_key"] = st.text_input(f"Clé Zotero", biblio.get("zotero_key", ""), key=f"{xml_id}_biblio_key_{idx}")
+        zotero_list = load_list_form("zotero_keys")
+
+        # Valeur actuelle
+        current_value = biblio.get("zotero_key", None)
+
+        biblio["zotero_key"] = st.selectbox(
+            "Clé Zotero",
+            zotero_list,
+            key=f"{xml_id}_biblio_key_{idx}",
+            index=zotero_list.index(current_value) if current_value in zotero_list else None,
+            accept_new_options=True
+        )
+
+        # Sauvegarde si nouvelle valeur
+        if (
+            biblio["zotero_key"] 
+            and biblio["zotero_key"] not in zotero_list
+        ):
+            save_to_list_form("zotero_keys", biblio["zotero_key"])
+
     with col2:
-        biblio["location"] = st.text_input(f"Localisation", biblio.get("location", ""), key=f"{xml_id}_biblio_loc_{idx}")
+        biblio["location"] = st.text_input(
+            "Localisation",
+            biblio.get("location", ""),
+            key=f"{xml_id}_biblio_loc_{idx}"
+        )
     return biblio
 
 
