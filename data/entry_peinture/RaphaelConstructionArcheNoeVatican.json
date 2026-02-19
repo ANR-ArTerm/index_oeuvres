@@ -1,0 +1,56 @@
+{
+  "id": "RaphaelConstructionArcheNoeVatican",
+  "QID_wikidata": "",
+  "entry_type": "peinture",
+  "title": "Construction de l'arche de Noé",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": null,
+      "place": "",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "dusslerRaphaelCriticalCatalogue1971",
+      "location": "p. 89, n° III(a)"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Loggia_di_raffaello%2C_03%2C_01.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, (https://commons.wikimedia.org/wiki/File:Loggia_di_raffaello,_03,_01.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-19T16:37:29.538180",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {
+    "link_type": "appartient à l'ensemble",
+    "xml_id_work": "RaphaelLogesVatican"
+  }
+}

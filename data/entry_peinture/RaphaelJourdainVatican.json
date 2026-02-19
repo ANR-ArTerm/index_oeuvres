@@ -25,7 +25,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "dusslerRaphaelCriticalCatalogue1971",
+      "location": "p. 90, n° X(a)"
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -57,6 +62,15 @@
       "date": "2026-02-03T16:28:46.611012",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-02-19T16:22:56.187854",
+      "type": "modified",
+      "author": "Pierre"
     }
-  ]
+  ],
+  "contained_by_ensemble": {
+    "link_type": "appartient à l'ensemble",
+    "xml_id_work": "RaphaelLogesVatican"
+  }
 }

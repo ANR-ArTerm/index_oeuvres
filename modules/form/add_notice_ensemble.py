@@ -598,6 +598,41 @@ def add_notice_ensemble():
     # =========================
     # ILLUSTRATIONS (MENU ÉDITION)
     # =========================
+
+    st.header("Bibliographie")
+
+    if "bibliography" not in notice:
+        notice["bibliography"] = []
+
+    colBibl1, colBibl2 = st.columns([1, 4])
+
+    with colBibl1:
+        nbr_bibliography = st.radio(
+            "Nombre d'ouvrages",
+            [0, 1, 2, 3],
+            index=len(notice["bibliography"])
+        )
+
+    with colBibl2:
+        # Ajuster dynamiquement la taille de la liste
+        while len(notice["bibliography"]) < nbr_bibliography:
+            notice["bibliography"].append({
+                "zotero_key": "",
+                "location": ""
+            })
+
+        while len(notice["bibliography"]) > nbr_bibliography:
+            notice["bibliography"].pop()
+
+        # Utilisation de ta fonction existante
+        for idx, biblio in enumerate(notice["bibliography"]):
+            notice["bibliography"][idx] = add_bibliography(xml_id, biblio, idx)
+
+    
+
+    # =========================
+    # ILLUSTRATIONS (MENU ÉDITION)
+    # =========================
     st.header("🖼️ Illustrations")
 
     if "illustrations" not in notice:
