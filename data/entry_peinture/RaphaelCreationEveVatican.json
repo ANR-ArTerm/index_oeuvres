@@ -1,0 +1,51 @@
+{
+  "id": "RaphaelCreationEveVatican",
+  "QID_wikidata": "",
+  "entry_type": "peinture",
+  "title": "Création d'Ève",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": null,
+      "place": "",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Loggia_di_raffaello%2C_02%2C_01.jpg/960px-Loggia_di_raffaello%2C_02%2C_01.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, https://commons.wikimedia.org/wiki/File:Loggia_di_raffaello,_02,_01.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-19T16:04:58.071649",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {
+    "link_type": "appartient à l'ensemble",
+    "xml_id_work": "RaphaelLogesVatican"
+  }
+}

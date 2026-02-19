@@ -1,5 +1,5 @@
 {
-  "id": "LogesVatican",
+  "id": "RaphaelLogesVatican",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q3836438",
   "entry_type": "ensemble",
   "title": "Loges vaticanes",
@@ -49,6 +49,12 @@
       "date": "2026-02-03T16:27:11.610167",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-02-19T15:56:35.758384",
+      "type": "modified",
+      "author": "Pierre"
     }
-  ]
+  ],
+  "contains_works": []
 }
