@@ -1,0 +1,60 @@
+{
+  "id": "RaphaelRomanoBatailleMilviusVatican",
+  "QID_wikidata": "https://fr.wikipedia.org/wiki/La_Bataille_du_pont_Milvius",
+  "entry_type": "peinture",
+  "title": "Bataille du pont Milvius",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "auteur du modèle"
+    },
+    {
+      "xml_id": "GiulioRomano",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1520,
+    "endYear": 1524,
+    "text": "1520-1524"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": null,
+      "place": "",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "dusslerRaphaelCriticalCatalogue1971",
+      "location": "p. 86, n° IV(b)"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Battle_at_Pont_Milvius.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia commons (https://commons.wikimedia.org/wiki/File:Battle_at_Pont_Milvius.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-19T16:58:20.236818",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {
+    "link_type": "appartient à l'ensemble",
+    "xml_id_work": "RaphaelLogesVatican"
+  }
+}
