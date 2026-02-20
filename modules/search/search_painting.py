@@ -24,7 +24,9 @@ def normalize_notice_painting(o):
     o_display['date_text'] = date.get('text') or "AUCUNE DATE"
     
     # Lieu
-    holding_institution = o.get('holding_institution', {})
+    location = o.get('location', {})
+    location_type = location.get('type') or 'PAS DE TYPE DE LOCALISATION'
+    holding_institution = location.get('institution', {})
     o_display['city'] = holding_institution.get('place') or "AUCUNE VILLE"
     o_display['name'] = holding_institution.get('name') or "AUCUNE INSTITUTION"
     o_display['URL'] = holding_institution.get('URL') or "AUCUN URL"

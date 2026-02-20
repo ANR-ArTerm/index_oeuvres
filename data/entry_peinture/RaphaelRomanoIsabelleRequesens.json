@@ -22,10 +22,10 @@
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": null,
-      "place": "",
-      "inventory_number": "",
-      "url": ""
+      "name": "Musée du Louvre",
+      "place": "Paris",
+      "inventory_number": "INV 612 ; MR 434",
+      "url": "https://collections.louvre.fr/ark:/53355/cl010066006"
     }
   },
   "related_works": [],
@@ -54,6 +54,11 @@
     },
     {
       "date": "2026-02-04T16:47:38.031151",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-02-20T16:14:46.454602",
       "type": "modified",
       "author": "Pierre"
     }

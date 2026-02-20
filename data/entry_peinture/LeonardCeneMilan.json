@@ -5,7 +5,7 @@
   "title": "La Cène",
   "creator": [
     {
-      "xml_id": null,
+      "xml_id": "LeonardoDaVinci",
       "role": "peintre"
     }
   ],
@@ -52,6 +52,15 @@
       "date": "2026-01-27T15:38:17.321077",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-02-20T16:15:09.616308",
+      "type": "modified",
+      "author": "Pierre"
     }
-  ]
+  ],
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
 }

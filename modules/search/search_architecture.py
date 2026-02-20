@@ -26,8 +26,10 @@ def normalize_notice_architecture(o):
     
     # Lieu
     location = o.get('location', {})
-    o_display['city'] = location.get('city') or "AUCUNE VILLE"
-    o_display['country'] = location.get('country') or "AUCUN PAYS"
+    o_location_type = location.get('type') or 'PAS DE TYPE DE LOCALISATION'
+    place = location.get('place', {})
+    o_display['city'] = place.get('city') or "AUCUNE VILLE"
+    o_display['country'] = place.get('country') or "AUCUN PAYS"
     
     # Créateurs
     creators = o.get('creator', [])

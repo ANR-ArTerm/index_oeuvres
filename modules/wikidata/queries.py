@@ -3,7 +3,12 @@ import csv
 
 from modules.wikidata.data_treatment import extract_wikidata_id, get_first_or_none, parse_group_concat, get_first_and_last_year, get_first_or_none_list
 
-def get_monument_data(qid):
+def get_monument_data(url):
+    qid = extract_wikidata_id(url)
+    
+    if not qid:
+        raise ValueError("QID Wikidata invalide")
+
     sparql = SPARQLWrapper("https://query.wikidata.org/sparql")
 
     query = f"""
@@ -73,14 +78,16 @@ def get_monument_data(qid):
 
 
     # Variables finales
-    return (
-        first_year,       # ✔ année de début
-        last_year,        # ✔ année de fin
-        instance_of_list,
-        first_image,      
-        first_country,
-        first_city,
-        first_lat,        # ✔️ float
-        first_lon,        # ✔️ float
-        architect_list
-    )
+    monument_data = {
+        "first_year": first_year,
+        "last_year": last_year,
+        "instance_of": instance_of_list,
+        "image": first_image,
+        "country": first_country,
+        "city": first_city,
+        "latitude": first_lat,
+        "longitude": first_lon,
+        "architects": architect_list
+    }
+
+    return monument_data

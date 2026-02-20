@@ -7,7 +7,7 @@ import uuid
 from modules.data.load import save_notice, exist_notice, save_image, load_list_form, index_username, save_to_list_form, get_all_objects_ids_flat_sorted
 from modules.git_tools import git_commit_and_push
 from modules.wikidata.data_treatment import extract_wikidata_id
-from modules.wikidata.query_architecture import get_monument_data
+from modules.wikidata.queries import get_monument_data
 
 
 def add_notice_architecture():

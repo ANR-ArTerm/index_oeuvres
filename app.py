@@ -19,7 +19,7 @@ from modules.search.modify_entry import edit_json_notice
 
 from modules.data.index_xml_personnes import sync_person_ids
 from modules.data.index_xml_oeuvres import sync_oeuvres_from_json
-from modules.data.verify_data import verify_json_entries
+from modules.data.verify_data import verify_json_entries, fix_location_fields
 
 from modules.edit_dataframes.notes import notes_editor
 
@@ -119,6 +119,24 @@ if "json_report" in st.session_state:
     st.sidebar.code(st.session_state.json_report)
 
 if "corrupted_files" in st.session_state and st.session_state.corrupted_files:
+    
+    if st.sidebar.button("🧹 Corriger automatiquement les locations"):
+        fixed = fix_location_fields(st.session_state.corrupted_files)
+
+        if fixed:
+            st.sidebar.success(f"{len(fixed)} fichier(s) corrigé(s)")
+            
+            # relancer la vérification après correction
+            report, corrupted_files = verify_json_entries()
+            st.session_state.json_report = report
+            st.session_state.corrupted_files = corrupted_files
+            
+            st.rerun()
+        else:
+            st.sidebar.info("Aucune correction nécessaire.")
+
+    st.sidebar.markdown("---")
+
     st.sidebar.markdown("### ✏️ Notices à corriger")
 
     for idx, json_path in enumerate(st.session_state.corrupted_files):

@@ -1,8 +1,11 @@
-def extract_wikidata_id(url):
-    # Extraire le QID Wikidata dans un lien
-    if not url:
+import re
+
+def extract_wikidata_id(value):
+    if not value:
         return None
-    return url.rsplit("/", 1)[-1]
+    
+    match = re.search(r"Q\d+", value)
+    return match.group(0) if match else None
 
 def parse_group_concat(value):
     # parser les valeurs concaténées

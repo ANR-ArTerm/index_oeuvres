@@ -21,14 +21,6 @@
       "place": "",
       "inventory_number": "",
       "url": ""
-    },
-    "place": {
-      "city": "",
-      "country": "",
-      "coordinates": {
-        "latitude": "",
-        "longitude": ""
-      }
     }
   },
   "related_works": [],

@@ -181,7 +181,7 @@ def edit_illustration(xml_id, illus, idx):
 
     # --- Champs selon le mode ---
     with colB:
-        illus_id = st.number_input("ID", value=illus.get("id", idx), key=f"{xml_id}_edit_illus_id_{idx}")
+        illus_id = st.number_input("ID", value=illus.get("id", idx), key=f"{xml_id}_edit_illus_id_{idx}", disabled=True)
         illus["id"] = illus_id
 
         mode = st.session_state.type_illustration_edit[idx]

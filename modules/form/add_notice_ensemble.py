@@ -5,6 +5,7 @@ import uuid
 
 from modules.data.load import save_notice, exist_notice, save_image, load_list_form, index_username, save_to_list_form, get_all_objects_ids_flat_sorted
 from modules.git_tools import git_commit_and_push
+from modules.wikidata.queries import get_monument_data
 
 def init_empty_notice(xml_id, entry_type):
     return {
@@ -195,7 +196,7 @@ def add_illustration(xml_id, illus, idx):
 
     # --- Champs selon le mode ---
     with colB:
-        illus_id = st.number_input("ID", value=illus.get("id", idx), key=f"{xml_id}_edit_illus_id_{idx}")
+        illus_id = st.number_input("ID", value=illus.get("id", idx), key=f"{xml_id}_edit_illus_id_{idx}", disabled=True)
         illus["id"] = illus_id
 
         mode = st.session_state.type_illustration_add[idx]
@@ -307,15 +308,35 @@ def add_notice_ensemble():
 
     notice = st.session_state.creating_notice
 
+    if "wikidata_data" not in st.session_state:
+        st.session_state["wikidata_data"] = {}
+    wikidata_data = st.session_state.get("wikidata_data", {})
+
     # =========================
     # INFOS GÉNÉRALES
     # =========================
     st.header("📋 Informations générales")
 
-    notice["QID_wikidata"] = st.text_input(
-        "QID Wikidata",
-        notice.get("QID_wikidata", "")
-    )
+    colWiki1, colWiki2 = st.columns([4, 1])
+    
+    with colWiki1:
+        notice["QID_wikidata"] = st.text_input(
+            "QID Wikidata",
+            notice.get("QID_wikidata", "")
+        )
+    
+    with colWiki2:
+        if st.button("Recherche Wikidata"):
+            url_wikidata = notice.get("QID_wikidata", "")
+            if not url_wikidata:
+                st.warning("Veuillez entrer un QID.")
+            if entry_type == "architecture":
+                wikidata_data = get_monument_data(notice["QID_wikidata"])
+                st.session_state["wikidata_dic"] = wikidata_data
+            if entry_type == "ensemble":
+                st.warning("La fonction n'existe pas encore")
+            if entry_type == "peinture":
+                st.warning("La fonction n'existe pas encore")
 
     notice["title"] = st.text_input(
         "Titre *",
@@ -472,25 +493,43 @@ def add_notice_ensemble():
 
         place = notice["location"].get("place", {})
 
-        place["city"] = st.text_input(
-            "Ville",
-            value=place.get("city", "")
-        )
-        place["country"] = st.text_input(
-            "Pays",
-            value=place.get("country", "")
-        )
+        colVille, colPays = st.columns([1, 1])
+
+        with colVille:
+            place["city"] = st.text_input(
+                "Ville",
+                value=place.get("city", "")
+            )
+        with colPays:
+            place["country"] = st.text_input(
+                "Pays",
+                value=place.get("country", "")
+            )
 
         coordinates = place.get("coordinates", {})
 
-        coordinates["latitude"] = st.text_input(
-            "Latitude",
-            value=coordinates.get("latitude", "")
-        )
-        coordinates["longitude"] = st.text_input(
-            "Longitude",
-            value=coordinates.get("longitude", "")
-        )
+        colLat, colLong = st.columns([1, 1])
+        with colLat:
+            coordinates["latitude"] = st.text_input(
+                "Latitude",
+                value=str(
+                    wikidata_data.get("latitude")
+                    if wikidata_data.get("latitude") is not None
+                    else coordinates.get("latitude", "")
+                ),
+                disabled=True
+            )
+
+        with colLong:
+            coordinates["longitude"] = st.text_input(
+                "Longitude",
+                value=str(
+                    wikidata_data.get("longitude")
+                    if wikidata_data.get("longitude") is not None
+                    else coordinates.get("longitude", "")
+                ),
+                disabled=True
+            )
 
         place["coordinates"] = coordinates
         notice["location"]["place"] = place

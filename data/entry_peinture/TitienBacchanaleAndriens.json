@@ -16,14 +16,6 @@
   },
   "location": {
     "type": "holding_institution",
-    "place": {
-      "city": "",
-      "country": "",
-      "coordinates": {
-        "latitude": "",
-        "longitude": ""
-      }
-    },
     "institution": {
       "name": "Musée du Prado",
       "place": "Madrid",
