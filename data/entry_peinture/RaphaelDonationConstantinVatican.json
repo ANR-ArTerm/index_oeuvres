@@ -1,5 +1,5 @@
 {
-  "id": "RapahelDonationConstantinVatican",
+  "id": "RaphaelDonationConstantinVatican",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q2485424",
   "entry_type": "peinture",
   "title": "La Donation de Constantin",
@@ -48,6 +48,11 @@
     {
       "date": "2026-02-23T10:44:57.353125",
       "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-02-23T10:45:47.475404",
+      "type": "modified",
       "author": "Pierre"
     }
   ],
