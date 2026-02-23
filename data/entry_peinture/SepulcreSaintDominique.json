@@ -1,0 +1,46 @@
+{
+  "id": "SepulcreSaintDominique",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2417706",
+  "entry_type": "peinture",
+  "title": "Sépulcre de saint Dominique",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1264,
+    "endYear": null,
+    "text": "Commencé en 1264"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Basilique Saint-Dominique",
+      "place": "Bologne",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Basilique_San_Domenico_de_Bologne_-_S%C3%A9pulcre_de_Saint_Dominique.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Jean-Christophe BENOIST, CC 4.0(https://commons.wikimedia.org/wiki/File:Basilique_San_Domenico_de_Bologne_-_S%C3%A9pulcre_de_Saint_Dominique.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-23T17:13:54.351583",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "Sculpture en marbre",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
