@@ -3,7 +3,28 @@
   "QID_wikidata": "https://www.wikidata.org/wiki/Q2417706",
   "entry_type": "peinture",
   "title": "Sépulcre de saint Dominique",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "NicolaPisano",
+      "role": "sculpteur"
+    },
+    {
+      "xml_id": "ArnolfoDiCambio",
+      "role": "sculpteur"
+    },
+    {
+      "xml_id": "NiccoloDellArco",
+      "role": "sculpteur"
+    },
+    {
+      "xml_id": "MichelAnge",
+      "role": "sculpteur"
+    },
+    {
+      "xml_id": "AlfonsoLombardi",
+      "role": "sculpteur"
+    }
+  ],
   "dateCreated": {
     "startYear": 1264,
     "endYear": null,
@@ -35,6 +56,11 @@
     {
       "date": "2026-02-23T17:13:54.351583",
       "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-02-23T17:16:46.221717",
+      "type": "modified",
       "author": "Pierre"
     }
   ],
