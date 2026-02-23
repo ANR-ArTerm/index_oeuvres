@@ -1,0 +1,59 @@
+{
+  "id": "RaphaelVisionCroixVatican",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2405750",
+  "entry_type": "peinture",
+  "title": "La Vision de la Croix",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "auteur du modèle"
+    },
+    {
+      "xml_id": "Giulio Romano",
+      "role": "peintre"
+    },
+    {
+      "xml_id": "RaffaellinoDelColle",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1520,
+    "endYear": 1524,
+    "text": "1520-1524"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": null,
+      "place": "",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/School_of_Raphael_-_Vision_of_the_Cross.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons (https://commons.wikimedia.org/wiki/File:School_of_Raphael_-_Vision_of_the_Cross.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-23T10:36:07.341000",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
