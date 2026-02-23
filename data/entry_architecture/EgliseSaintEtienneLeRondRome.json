@@ -1,0 +1,48 @@
+{
+  "id": "EgliseSaintEtienneLeRondRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q919456",
+  "entry_type": "architecture",
+  "title": "Église Saint-Étienne-le-Rond",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.884522",
+        "longitude": "12.496761"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/RomaSStefanoRotIngresso.JPG",
+      "storage": "online",
+      "copyright": "Wikimedia Commons (https://commons.wikimedia.org/wiki/File:RomaSStefanoRotIngresso.JPG)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-23T14:21:41.939955",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "typology": "église",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
