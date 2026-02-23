@@ -1,7 +1,7 @@
 {
   "id": "SalleConstantinVatican",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q3945256",
-  "entry_type": "peinture",
+  "entry_type": "ensemble",
   "title": "Salle de Constantin",
   "creator": [
     {
@@ -14,9 +14,9 @@
     }
   ],
   "dateCreated": {
-    "startYear": 1508,
-    "endYear": 1508,
-    "text": "1508"
+    "startYear": 1517,
+    "endYear": 1524,
+    "text": "1517-1524"
   },
   "materialsAndTechniques": "fresque",
   "location": {
