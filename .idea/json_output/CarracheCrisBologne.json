@@ -1,0 +1,38 @@
+{
+  "id": "CarracheCrisBologne",
+  "QID_wikidata": "",
+  "title": "Cris de Bologne",
+  "creator": [
+    {
+      "xml_id": "Guillain",
+      "role": "graveur"
+    }
+  ],
+  "entry_type": "painting",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "IFF V",
+      "location": "p. 150, n°4-83"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-24T11:12:25.104293",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

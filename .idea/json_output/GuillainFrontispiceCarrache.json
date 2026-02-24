@@ -1,0 +1,33 @@
+{
+  "id": "GuillainFrontispiceCarrache",
+  "QID_wikidata": "",
+  "title": "Frontispice et potrait d'Annibale Carrache",
+  "creator": [],
+  "entry_type": "painting",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "IFF V",
+      "location": "p. 150, n°3"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-24T11:12:25.111045",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

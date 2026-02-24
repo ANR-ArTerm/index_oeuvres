@@ -1,0 +1,33 @@
+{
+  "id": "ParmesanPierreJeanMalades",
+  "QID_wikidata": "",
+  "title": "Saint Pierre et saint Jean guérissent les malades à la porte du temple",
+  "creator": [],
+  "entry_type": "painting",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "straussIllustratedBartsch321979",
+      "location": "n° 7 (9)"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-24T11:12:24.989291",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

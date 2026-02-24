@@ -1,0 +1,33 @@
+{
+  "id": "RaimondiHommeDrapeau",
+  "QID_wikidata": "",
+  "title": "L'homme au drapeau",
+  "creator": [],
+  "entry_type": "painting",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "straussIllustratedBartsch271978",
+      "location": "n° 481 (357)"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-24T11:12:24.754384",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

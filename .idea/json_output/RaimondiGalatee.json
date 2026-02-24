@@ -1,0 +1,28 @@
+{
+  "id": "RaimondiGalatee",
+  "QID_wikidata": "",
+  "title": "Galatée",
+  "creator": [],
+  "entry_type": "painting",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-24T11:12:24.570910",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

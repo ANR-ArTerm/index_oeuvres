@@ -1,0 +1,33 @@
+{
+  "id": "VicoCentauresLapites",
+  "QID_wikidata": "",
+  "title": "",
+  "creator": [],
+  "entry_type": "painting",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "spikeIllustratedBartsch301985",
+      "location": "n° 30 (296)"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-24T11:12:25.090661",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

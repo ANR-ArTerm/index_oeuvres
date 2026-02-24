@@ -1,0 +1,33 @@
+{
+  "id": "CaraglioRaptSabines",
+  "QID_wikidata": "",
+  "title": "Le rapt des sabines",
+  "creator": [],
+  "entry_type": "painting",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "straussIllustratedBartsch281985",
+      "location": "n° 63 (96)"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-24T11:12:25.018237",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

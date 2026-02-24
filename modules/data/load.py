@@ -284,10 +284,21 @@ def save_notice(oeuvre, path=None, old_id=None):
     return path
 
 
-def exist_notice(id):
-    path = os.path.join(DATA_DIR, f"{id}.json")
-    presence_notice = os.path.exists(path)
-    return presence_notice
+import os
+
+def exist_notice(id: str) -> bool:
+    """
+    Vérifie si une notice existe dans l'un des répertoires définis
+    dans TYPE_DIRS.
+    """
+    filename = f"{id}.json"
+
+    for directory in TYPE_DIRS.values():
+        path = os.path.join(directory, filename)
+        if os.path.exists(path):
+            return True
+
+    return False
 
 def delete_notice(path):
     """Déplace une notice dans la corbeille au lieu de la supprimer définitivement."""

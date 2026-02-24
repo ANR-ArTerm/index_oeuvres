@@ -1,0 +1,33 @@
+{
+  "id": "RaimondiNoe",
+  "QID_wikidata": "",
+  "title": "Dieu apparaissant à Noé",
+  "creator": [],
+  "entry_type": "painting",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "straussIllustratedBartsch261978",
+      "location": "n° 3 (4)"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "Noé dans bartsch, abraham selon d'autres",
+  "history": [
+    {
+      "date": "2026-02-24T11:12:24.551408",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "RaimondiVenusAmourNiche",
+  "QID_wikidata": "",
+  "title": "Vénus et l'amour dans une niche",
+  "creator": [],
+  "entry_type": "painting",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-24T11:12:24.540832",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

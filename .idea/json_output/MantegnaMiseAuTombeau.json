@@ -1,0 +1,28 @@
+{
+  "id": "MantegnaMiseAuTombeau",
+  "QID_wikidata": "",
+  "title": "Laquelle ?",
+  "creator": [],
+  "entry_type": "painting",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "PROBLEME",
+  "history": [
+    {
+      "date": "2026-02-24T11:12:24.501226",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

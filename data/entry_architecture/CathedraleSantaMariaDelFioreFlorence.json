@@ -1,5 +1,5 @@
 {
-  "id": "CathedraleSantaMariaDelFiore",
+  "id": "CathedraleSantaMariaDelFioreFlorence",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q191739",
   "entry_type": "architecture",
   "title": "Cathédrale Santa Maria del Fiore",
@@ -37,6 +37,11 @@
     {
       "date": "2026-02-23T17:23:00.800648",
       "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-02-23T17:23:25.409914",
+      "type": "modified",
       "author": "Pierre"
     }
   ],

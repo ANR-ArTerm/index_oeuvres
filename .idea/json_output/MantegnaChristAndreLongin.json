@@ -1,0 +1,33 @@
+{
+  "id": "MantegnaChristAndreLongin",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q56305286",
+  "title": "Le Christ ressuscité entre saint André et Longin\r",
+  "creator": [],
+  "entry_type": "painting",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "lightbrownMantegnaCompleteCatalogue1986",
+      "location": "n° 206"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-24T11:12:24.509914",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

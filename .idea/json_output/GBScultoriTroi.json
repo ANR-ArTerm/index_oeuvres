@@ -1,0 +1,33 @@
+{
+  "id": "GBScultoriTroi",
+  "QID_wikidata": "",
+  "title": "",
+  "creator": [],
+  "entry_type": "painting",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "straussIllustratedBartsch311986",
+      "location": "n° 20 (383)"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-24T11:12:25.077841",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RaimondiMartyreCecile",
+  "QID_wikidata": "",
+  "title": "Martyre de Sainte Cecile",
+  "creator": [],
+  "entry_type": "painting",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "straussIllustratedBartsch261978",
+      "location": "n° 117 (104)"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "Ill. B. sainte félicité",
+  "history": [
+    {
+      "date": "2026-02-24T11:12:24.532352",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

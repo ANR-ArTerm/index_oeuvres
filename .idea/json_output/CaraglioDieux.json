@@ -1,0 +1,33 @@
+{
+  "id": "CaraglioDieux",
+  "QID_wikidata": "",
+  "title": "Série des vingt dieux dans des niches",
+  "creator": [],
+  "entry_type": "painting",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "straussIllustratedBartsch281985",
+      "location": "n° 24 (77) - 43-20 (84)"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-24T11:12:24.996608",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

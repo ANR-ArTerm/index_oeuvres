@@ -1,0 +1,33 @@
+{
+  "id": "DaCarpiDiogene",
+  "QID_wikidata": "",
+  "title": "",
+  "creator": [],
+  "entry_type": "painting",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "straussIllustratedBartsch481983",
+      "location": "n° 10 (100)"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-24T11:12:24.940780",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RaimondiTroisGraces",
+  "QID_wikidata": "",
+  "title": "Les trois graces",
+  "creator": [],
+  "entry_type": "painting",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "straussIllustratedBartsch271978",
+      "location": "n° 340 (255)"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-24T11:12:24.863065",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

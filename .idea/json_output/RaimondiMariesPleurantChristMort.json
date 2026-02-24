@@ -1,0 +1,33 @@
+{
+  "id": "RaimondiMariesPleurantChristMort",
+  "QID_wikidata": "",
+  "title": "Les Maries pleurant le Christ mort",
+  "creator": [],
+  "entry_type": "painting",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "straussIllustratedBartsch261978",
+      "location": "n° 37 (43)"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "PROBLEME",
+  "history": [
+    {
+      "date": "2026-02-24T11:12:24.830389",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

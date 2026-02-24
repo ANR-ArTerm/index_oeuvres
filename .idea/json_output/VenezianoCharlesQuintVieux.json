@@ -1,0 +1,33 @@
+{
+  "id": "VenezianoCharlesQuintVieux",
+  "QID_wikidata": "",
+  "title": "",
+  "creator": [],
+  "entry_type": "painting",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "straussIllustratedBartsch271978",
+      "location": "n° 499 (371)"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "Ni sur Albertina ni sur british museum",
+  "history": [
+    {
+      "date": "2026-02-24T11:12:24.723166",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

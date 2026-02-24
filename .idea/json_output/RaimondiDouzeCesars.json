@@ -1,0 +1,33 @@
+{
+  "id": "RaimondiDouzeCesars",
+  "QID_wikidata": "",
+  "title": "Portraits en médaille des douze Césars",
+  "creator": [],
+  "entry_type": "painting",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "straussIllustratedBartsch271978",
+      "location": "n° 501-I (372) à 512-I (374)"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-24T11:12:24.746539",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

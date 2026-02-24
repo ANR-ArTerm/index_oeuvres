@@ -1,0 +1,33 @@
+{
+  "id": "RaimondiReineSaba",
+  "QID_wikidata": "",
+  "title": "La reine de Saba",
+  "creator": [],
+  "entry_type": "painting",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "straussIllustratedBartsch261978",
+      "location": "n° 13 (13)"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-24T11:12:24.813259",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

@@ -291,6 +291,10 @@ def add_notice_ensemble():
         help="Identifiant unique de la notice"
     )
 
+    if exist_notice(xml_id) == True:
+        st.error(f"Une notice avec le XML:ID '{xml_id}' existe déjà. Veuillez choisir un autre identifiant.")
+        st.stop()
+
     if not xml_id:
         st.warning("Veuillez saisir un XML:ID")
         st.stop()

@@ -1,0 +1,33 @@
+{
+  "id": "RaimondiJugementParis",
+  "QID_wikidata": "",
+  "title": "Le Jugement de Paris",
+  "creator": [],
+  "entry_type": "painting",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "straussIllustratedBartsch261978",
+      "location": "n° 245-I (197)"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "Seulement un lien wikidata pour la fresque perdue",
+  "history": [
+    {
+      "date": "2026-02-24T11:12:24.517807",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

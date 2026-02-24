@@ -1,0 +1,33 @@
+{
+  "id": "RaimondiMadeleineMarie",
+  "QID_wikidata": "",
+  "title": "Notre Dame de l'escalier",
+  "creator": [],
+  "entry_type": "painting",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "straussIllustratedBartsch261978",
+      "location": "n° 45 (51)"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "PROBLEME",
+  "history": [
+    {
+      "date": "2026-02-24T11:12:24.779821",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

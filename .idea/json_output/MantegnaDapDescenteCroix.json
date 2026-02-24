@@ -1,0 +1,33 @@
+{
+  "id": "MantegnaDapDescenteCroix",
+  "QID_wikidata": "",
+  "title": "Descente de croix",
+  "creator": [],
+  "entry_type": "painting",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "lightbrownMantegnaCompleteCatalogue1986",
+      "location": "n° 214"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-24T11:12:24.492750",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

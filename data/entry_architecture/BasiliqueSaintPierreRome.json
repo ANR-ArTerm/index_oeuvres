@@ -1,5 +1,5 @@
 {
-  "id": "SaintPierreRome",
+  "id": "BasiliqueSaintPierreRome",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q12512",
   "entry_type": "architecture",
   "title": "Basilique Saint-Pierre de Rome",
@@ -42,6 +42,11 @@
     },
     {
       "date": "2026-02-23T14:31:22.033453",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-02-23T17:30:59.659275",
       "type": "modified",
       "author": "Pierre"
     }
