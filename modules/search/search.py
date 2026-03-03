@@ -186,7 +186,15 @@ def render_search_entries_all():
                         st.rerun()
 
                 st.text(d["title"])
-                st.markdown(f"*{' ; '.join(d['creators_display'])}*")
+                creators = [
+                    str(c) for c in d.get("creators_display", [])
+                    if c is not None and str(c).strip() != ""
+                ]
+
+                if creators:
+                    st.markdown(f"*{' ; '.join(creators)}*")
+                else:
+                    st.markdown("ERREUR CREATOR")
                 st.text(f"{d['date_text']}, {d['secondary']}")
                 st.text(d["location_display"])
                 st.caption(f"📚 {truncate(' ; '.join(d['biblio_display']))}")

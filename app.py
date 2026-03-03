@@ -5,7 +5,7 @@ from modules.git_tools import git_pull, git_commit_and_push
 
 from modules.data.load import load_all_entries, _load_json
 
-from modules.form.home import render_home
+from modules.pages.home import render_home
 from modules.form.search import render_search_notices
 from modules.form.add_notice_architecture import add_notice_architecture
 from modules.form.add_notice_peinture import add_notice_peinture

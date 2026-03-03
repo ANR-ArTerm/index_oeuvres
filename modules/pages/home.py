@@ -16,11 +16,13 @@ def render_home():
     st.markdown("---")
 
     # Section visual
-    col1, col2, col3 = st.columns(3)
-    total_notices = len(load_all_entries("peinture")) + len(load_all_entries("architecture"))
+    col1, col2, col3, col4 = st.columns(4)
+    total_notices = len(load_all_entries("peinture")) + len(load_all_entries("architecture")) + len(load_all_entries("ensemble"))
     col1.metric("📄 Notices totales", f"{total_notices} notices")  # Tu peux remplacer par une fonction dynamique
     col2.metric("🖌️ Peintures", f"{len(load_all_entries('peinture'))} notices")
     col3.metric("🏛️ Architectures", f"{len(load_all_entries('architecture'))} notices")
+    col4.metric("🌿 Ensembles", f"{len(load_all_entries('ensemble'))} notices")
+
 
     st.markdown("---")
 

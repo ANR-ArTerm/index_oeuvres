@@ -10,8 +10,8 @@
     }
   ],
   "dateCreated": {
-    "startYear": "1488",
-    "endYear": "1490",
+    "startYear": 1488,
+    "endYear": 1490,
     "text": "1488-1490"
   },
   "materialsAndTechniques": "fresque",
@@ -29,8 +29,8 @@
   "illustrations": [
     {
       "id": 0,
-      "url": "",
-      "copyright": "",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Pinturicchio%2C_veduta_di_citt%C3%A0%2C_museo_pio-clementino_%281488-1490_circa%29.jpg",
+      "copyright": "Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Pinturicchio,_veduta_di_citt%C3%A0,_museo_pio-clementino_(1488-1490_circa).jpg)",
       "caption": "",
       "storage": "online"
     }
@@ -42,6 +42,15 @@
       "date": "2026-01-19T11:51:06.649858",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-02-20T16:19:44.306795",
+      "type": "modified",
+      "author": "Pierre"
     }
-  ]
+  ],
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
 }
