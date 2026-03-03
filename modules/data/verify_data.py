@@ -1,5 +1,6 @@
 import json
 from pathlib import Path
+import re
 
 from modules.data.load import load_all_entries, load_list_form, save_list_to_list_form
 
@@ -54,6 +55,9 @@ def verify_json_entries(data_dirs=DATA_DIRS):
     errors = []
     corrupted = []
 
+    # ✅ caractères autorisés : lettres, chiffres, underscore, tiret
+    valid_pattern = re.compile(r"^[A-Za-z0-9]+$")
+
     for data_dir in data_dirs:
         for json_file in data_dir.glob("*.json"):
             try:
@@ -69,6 +73,19 @@ def verify_json_entries(data_dirs=DATA_DIRS):
             if not entry_id or not title:
                 corrupted.append(json_file)
                 errors.append(f"[CHAMPS MANQUANTS] {json_file}")
+
+            # 🔎 Vérification caractères spéciaux (XML:id + nom fichier)
+            if entry_id and not valid_pattern.match(entry_id):
+                corrupted.append(json_file)
+                errors.append(
+                    f"[ID INVALIDE] {json_file.name} : caractères spéciaux dans l'id '{entry_id}'"
+                )
+
+            if not valid_pattern.match(json_file.stem):
+                corrupted.append(json_file)
+                errors.append(
+                    f"[NOM INVALIDE] {json_file.name} : caractères spéciaux dans le nom de fichier"
+                )
 
             elif json_file.stem != entry_id:
                 corrupted.append(json_file)
