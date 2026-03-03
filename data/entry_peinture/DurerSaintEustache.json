@@ -1,0 +1,45 @@
+{
+  "id": "DurerSaintEustache",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3948861",
+  "entry_type": "peinture",
+  "title": "Saint Eustache",
+  "creator": [
+    {
+      "xml_id": "AlbrechtDurer",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1501,
+    "endYear": 1501,
+    "text": "Vers 1501"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Albrecht_D%C3%BCrer%2C_Saint_Eustace%2C_c._1500-1501%2C_NGA_35100.jpg",
+      "storage": "online",
+      "copyright": "Washington, National Gallery of Art, inv. 1949.1.16 (https://www.nga.gov/artworks/35100-saint-eustace)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-03T17:07:01.490277",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
