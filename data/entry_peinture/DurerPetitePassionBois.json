@@ -1,5 +1,5 @@
 {
-  "id": "DurerPetitePassion",
+  "id": "DurerPetitePassionBois",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q3377374",
   "entry_type": "peinture",
   "title": "La Petite Passion du Christ",
@@ -52,6 +52,15 @@
       "date": "2026-01-09T12:24:01.911911",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-03-03T17:09:06.527047",
+      "type": "modified",
+      "author": "Pierre"
     }
-  ]
+  ],
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
 }
