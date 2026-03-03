@@ -1,0 +1,51 @@
+{
+  "id": "GiambolognaStatueHenriIV",
+  "QID_wikidata": "",
+  "entry_type": "peinture",
+  "title": "Statue d'Henri IV",
+  "creator": [
+    {
+      "xml_id": "Giambologna",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": null,
+      "place": "",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b69452555/f1/3500,0,3350,5285/full/0/native.jpg",
+      "storage": "online",
+      "copyright": "BnF Gallica (https://gallica.bnf.fr/ark:/12148/btv1b69452555/f1.item)",
+      "caption": "Pierre Brissart (graveur), statue équestre d'Henri IV telle qu'achevée en 1635, avant 1682, eau-forte, BnF "
+    }
+  ],
+  "description": "",
+  "commentary": "Statue d'Henri IV de Jean de Bologne ",
+  "history": [
+    {
+      "date": "2026-03-03T17:58:06.608558",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": null,
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
