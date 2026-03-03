@@ -1,5 +1,5 @@
 {
-  "id": "MarcantonioRaimondiIModi",
+  "id": "RaimondiRomanoIModi",
   "QID_wikidata": "",
   "entry_type": "peinture",
   "title": "I Modi ou illustration des ",
@@ -40,7 +40,16 @@
       "date": "2026-01-28T22:58:25.089152",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-03-03T16:52:25.106419",
+      "type": "modified",
+      "author": "Pierre"
     }
   ],
-  "materialsAndTechniques": null
+  "materialsAndTechniques": null,
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
 }
