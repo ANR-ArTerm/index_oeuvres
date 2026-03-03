@@ -1,0 +1,38 @@
+{
+  "id": "RaimondiRomanoIModi",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2464946",
+  "entry_type": "ensemble",
+  "title": "I Modi",
+  "creator": [
+    {
+      "xml_id": "MarcantonioRaimondi",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "GiulioRomano",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1524,
+    "endYear": 1527,
+    "text": "1524-1527"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-03T16:51:00.626083",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "typology": "suite d'estampes",
+  "contains_works": []
+}
