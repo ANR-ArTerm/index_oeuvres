@@ -1,0 +1,48 @@
+{
+  "id": "SaintGermainLAuxerroisParis",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1429394",
+  "entry_type": "architecture",
+  "title": "Saint Germain L'Auxerrois",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Paris",
+      "country": "France",
+      "coordinates": {
+        "latitude": "48.859444",
+        "longitude": "2.341111"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/%C3%89glise_Saint_Germain_Auxerrois_-_Paris_I_%28FR75%29_-_2021-06-12_-_1.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, © Chabe01, CC 4.0 (https://commons.wikimedia.org/wiki/File:%C3%89glise_Saint_Germain_Auxerrois_-_Paris_I_(FR75)_-_2021-06-12_-_1.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-05T14:26:39.537244",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "typology": "église",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

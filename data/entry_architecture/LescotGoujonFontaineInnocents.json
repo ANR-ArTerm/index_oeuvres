@@ -1,5 +1,5 @@
 {
-  "id": "LescotGoujonFontaineInnovents",
+  "id": "LescotGoujonFontaineInnocents",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q1435791",
   "entry_type": "architecture",
   "title": "Fontaine des saint Innocents",
@@ -46,6 +46,11 @@
     {
       "date": "2026-03-05T14:06:55.492660",
       "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-03-05T14:07:17.063526",
+      "type": "modified",
       "author": "Pierre"
     }
   ],
