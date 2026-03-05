@@ -19,15 +19,7 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [
-    {
-      "id": 0,
-      "url": "",
-      "storage": "online",
-      "copyright": "",
-      "caption": ""
-    }
-  ],
+  "illustrations": [],
   "description": "Le cheval a été fait pour la statue équestre d'Henri II, commandée par Catherine de Médicis. Inachevée, elle fut remployée pour la statue de Louis XIII mais détruite durant la Révolution française. ",
   "commentary": "",
   "history": [
@@ -35,6 +27,11 @@
       "date": "2026-02-09T15:06:00.812651",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-03-05T15:39:04.660484",
+      "type": "modified",
+      "author": "Pierre"
     }
   ],
   "materialsAndTechniques": "sculpture en bronze",

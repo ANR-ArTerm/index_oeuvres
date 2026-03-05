@@ -1,0 +1,45 @@
+{
+  "id": "LeonardLeda",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2308934",
+  "entry_type": "peinture",
+  "title": "Léda et le cygne",
+  "creator": [
+    {
+      "xml_id": "LeonardoDaVinci",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1505,
+    "endYear": 1510,
+    "text": "1505-1510"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Study_for_the_Kneeling_Leda.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Study_for_the_Kneeling_Leda.jpg)",
+      "caption": "Léonard de Vinci, Étude pour une Léda agenouillée au cygne, plume et encre sur pierre noire, Chatsworth, Devonshire"
+    }
+  ],
+  "description": "Peinture perdue de Léonard de Vinci.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-05T15:53:02.156205",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "huile sur bois",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
