@@ -340,21 +340,58 @@ def edit_json_notice(json_path=None, data=None):
         
         if not notice["materialsAndTechniques"] in load_list_form("techniques"):
             save_to_list_form("techniques", notice["materialsAndTechniques"])
+        
+    # — Localisation globale —
+    
+    st.header("🏛️ Localisation de l'oeuvre")
 
+    # Initialisation robuste
+    notice.setdefault("location", {})
+    notice["location"].setdefault("type", "")
 
-        st.header("🏛️ Institution de conservation")
+    location_type = notice["location"]["type"]
 
-        # Initialisation de la nouvelle structure
-        if "location" not in notice:
-            notice["location"] = {
-                "type": "holding_institution",
-                "institution": {}
-            }
+    # Liste des options
+    LOCATION_OPTIONS = {
+        "Non localisé": "unlocated",
+        "Institution de conservation (musée, église)": "holding_institution",
+        "Lieu (bâtiments)": "place",
+        "Plusieurs localisations": "many_locations"
+    }
 
-        if "institution" not in notice["location"]:
-            notice["location"]["institution"] = {}
+    location_options_list = list(LOCATION_OPTIONS.keys())
+
+    # retrouver la clé correspondant à la valeur stockée
+    reverse_options = {v: k for k, v in LOCATION_OPTIONS.items()}
+
+    try:
+        selected_label = reverse_options[location_type]
+        selected_index = location_options_list.index(selected_label)
+    except KeyError:
+        selected_index = 0
+
+    location_choice = st.radio(
+        "Type de localisation",
+        location_options_list,
+        index=selected_index,
+        horizontal=True
+    )
+
+    # récupérer la valeur associée
+    location_type = LOCATION_OPTIONS[location_choice]
+
+    notice["location"]["type"] = location_type
+
+        # --- CAS : INSTITUTION DE CONSERVATION ---
+    if location_type == "holding_institution":
+
+        notice["location"].setdefault("institution", {})
 
         institution = notice["location"]["institution"]
+        institution.setdefault("name", "")
+        institution.setdefault("place", "")
+        institution.setdefault("inventory_number", "")
+        institution.setdefault("url", "")
 
         col1, col2 = st.columns(2)
 
@@ -363,181 +400,65 @@ def edit_json_notice(json_path=None, data=None):
                 "Institution de conservation",
                 load_list_form("institutions"),
                 index=index_list_form(
-                    institution.get("name", ""),
+                    institution["name"],
                     "institutions"
-                ),
-                accept_new_options=True
-            )
-
-            if not institution["name"] in load_list_form("institutions"):
-                save_to_list_form("institutions", institution["name"])
-
-            institution["place"] = st.text_input(
-                "Lieu",
-                institution.get("place", "")
-            )
-
-        with col2:
-            institution["inventory_number"] = st.text_input(
-                "Numéro d'inventaire",
-                institution.get("inventory_number", "")
-            )
-
-            institution["url"] = st.text_input(
-                "URL institution",
-                institution.get("url", "")
-            )
-
-    if entry_type == "architecture":
-        # Initialisation de la nouvelle structure
-        st.header("🏛️ Localisation du monument")
-        
-        if "location" not in notice:
-            notice["location"] = {
-                "type": "place",
-                "place": {}
-            }
-
-        if "place" not in notice["location"]:
-            notice["location"]["place"] = {}
-
-        place = notice["location"]["place"]
-
-        col1, col2 = st.columns(2)
-
-        with col1:
-            place["city"] = st.text_input(
-                "Ville",
-                place.get("city", "")
-            )
-       
-        with col2:
-            place["country"] = st.text_input(
-                "Pays",
-                place.get("country", "")
-            )
-        
-        # Coordonnées géographiques
-        st.markdown("**Coordonnées géographiques**")
-        col3, col4 = st.columns(2)
-
-        with col3:
-            place["coordinates"]["latitude"] = st.text_input(
-                "Latitude",
-                value=place["coordinates"]["latitude"]
-            )
-
-        with col4:
-            place["coordinates"]["longitude"] = st.text_input(
-                "Longitude",
-                value=place["coordinates"]["longitude"]
-            )
-        
-    # — ENSEMBLE —
-    if entry_type == "ensemble":
-        st.header("🏛️ Localisation de l'ensemble")
-
-        # Initialisation robuste
-        notice.setdefault("location", {})
-        notice["location"].setdefault("type", "")
-
-        location_type = notice["location"]["type"]
-
-        # Liste des options
-        options = ["unlocated", "holding_institution", "place", "many_locations"]
-
-        # Sécurisation : si la valeur actuelle n’est pas dans la liste, prendre l’index 0
-        try:
-            selected_index = options.index(location_type)
-        except ValueError:
-            selected_index = 0
-
-        location_type = st.selectbox(
-            "Type de localisation",
-            options,
-            index=selected_index
-        )
-
-        notice["location"]["type"] = location_type
-
-
-        # --- CAS : INSTITUTION DE CONSERVATION ---
-        if location_type == "holding_institution":
-
-            notice["location"].pop("place", None)  # évite les structures parasites
-            notice["location"].setdefault("institution", {})
-
-            institution = notice["location"]["institution"]
-            institution.setdefault("name", "")
-            institution.setdefault("place", "")
-            institution.setdefault("inventory_number", "")
-            institution.setdefault("url", "")
-
-            col1, col2 = st.columns(2)
-
-            with col1:
-                institution["name"] = st.selectbox(
-                    "Institution de conservation",
-                    load_list_form("institutions"),
-                    index=index_list_form(
-                        institution["name"],
-                        "institutions"
                     ),
                     accept_new_options=True
                 )
 
-                institution["place"] = st.text_input(
+            institution["place"] = st.text_input(
                     "Lieu (ville)",
                     institution["place"]
                 )
 
-            with col2:
-                institution["inventory_number"] = st.text_input(
+        with col2:
+            institution["inventory_number"] = st.text_input(
                     "Numéro d'inventaire",
                     institution["inventory_number"]
                 )
 
-                institution["url"] = st.text_input(
+            institution["url"] = st.text_input(
                     "URL de l'institution",
                     institution["url"]
                 )
 
         # --- CAS : LIEU GÉOGRAPHIQUE ---
-        elif location_type == "place":
+    elif location_type == "place":
+        notice["location"].setdefault("place", {})
 
-            notice["location"].pop("institution", None)
-            notice["location"].setdefault("place", {})
+        place = notice["location"]["place"]
+        place.setdefault("city", "")
+        place.setdefault("country", "")
+        place.setdefault("coordinates", {})
+        place["coordinates"].setdefault("latitude", "")
+        place["coordinates"].setdefault("longitude", "")
 
-            place = notice["location"]["place"]
-            place.setdefault("city", "")
-            place.setdefault("country", "")
-            place.setdefault("coordinates", {})
-            place["coordinates"].setdefault("latitude", "")
-            place["coordinates"].setdefault("longitude", "")
+        col1, col2 = st.columns(2)
 
-            col1, col2 = st.columns(2)
-
-            with col1:
-                place["city"] = st.text_input(
+        with col1:
+            place["city"] = st.text_input(
                     "Ville",
                     place["city"]
                 )
 
-                place["coordinates"]["latitude"] = st.text_input(
+            place["coordinates"]["latitude"] = st.text_input(
                     "Latitude",
-                    place["coordinates"]["latitude"]
+                    place["coordinates"]["latitude"],
+                    disabled=True
                 )
 
-            with col2:
-                place["country"] = st.text_input(
+        with col2:
+            place["country"] = st.text_input(
                     "Pays",
                     place["country"]
                 )
 
-                place["coordinates"]["longitude"] = st.text_input(
+            place["coordinates"]["longitude"] = st.text_input(
                     "Longitude",
-                    place["coordinates"]["longitude"]
+                    place["coordinates"]["longitude"],
+                    disabled=True
                 )
+
         
     # Section Date de création
     st.header("📅 Date de création")
@@ -716,6 +637,12 @@ def edit_json_notice(json_path=None, data=None):
                 location_type = notice["location"]["type"]
                 if location_type == "unlocated" or location_type == "many_locations":
                     notice["location"].pop("institution", None)
+                    notice["location"].pop("place", None)
+                
+                if location_type == "place":
+                    notice["location"].pop("institution", None)
+
+                if location_type == "holding_institution":
                     notice["location"].pop("place", None)
 
                 saved_path = save_notice(notice, path=json_path, old_id=st.session_state.original_id)

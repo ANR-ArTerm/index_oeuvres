@@ -6,13 +6,17 @@
     {
       "xml_id": "MarcantonioRaimondi",
       "role": "graveur"
+    },
+    {
+      "xml_id": "Raphael",
+      "role": "auteur du modèle"
     }
   ],
   "entry_type": "peinture",
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": "burin",
   "dateCreated": {
-    "startYear": "",
-    "endYear": "",
+    "startYear": null,
+    "endYear": null,
     "text": ""
   },
   "location": {
@@ -20,7 +24,15 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/342600/1491973/main-image",
+      "copyright": "MET Museum, inv. 17.50.16-119 (https://www.metmuseum.org/art/collection/search/342600)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -28,6 +40,15 @@
       "date": "2026-03-06T14:48:18.467606",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-03-06T14:52:41.633305",
+      "type": "modified",
+      "author": "Pierre"
     }
-  ]
+  ],
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
 }

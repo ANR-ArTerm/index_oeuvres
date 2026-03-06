@@ -10,6 +10,25 @@ DATA_DIRS = [
     Path("data") / "entry_ensemble"
 ]
 
+
+def fix_date_created(data):
+    """
+    Convertit startYear et endYear en int si ce sont des strings numériques
+    """
+    if "dateCreated" in data and isinstance(data["dateCreated"], dict):
+        dc = data["dateCreated"]
+
+        if "startYear" in dc and isinstance(dc["startYear"], str):
+            if dc["startYear"].isdigit():
+                dc["startYear"] = int(dc["startYear"])
+
+        if "endYear" in dc and isinstance(dc["endYear"], str):
+            if dc["endYear"].isdigit():
+                dc["endYear"] = int(dc["endYear"])
+
+    return data
+
+
 def fix_location_fields(files):
     fixed_files = []
 
@@ -42,7 +61,12 @@ def fix_location_fields(files):
                 location.pop("institution")
                 modified = True
 
-        if modified:
+        # correction dateCreated
+        before = json.dumps(data)
+        data = fix_date_created(data)
+        after = json.dumps(data)
+
+        if modified or before != after:
             json_file.write_text(
                 json.dumps(data, indent=2, ensure_ascii=False),
                 encoding="utf-8"
@@ -51,11 +75,11 @@ def fix_location_fields(files):
 
     return fixed_files
 
+
 def verify_json_entries(data_dirs=DATA_DIRS):
     errors = []
     corrupted = []
 
-    # ✅ caractères autorisés : lettres, chiffres, underscore, tiret
     valid_pattern = re.compile(r"^[A-Za-z0-9]+$")
 
     for data_dir in data_dirs:
@@ -74,7 +98,6 @@ def verify_json_entries(data_dirs=DATA_DIRS):
                 corrupted.append(json_file)
                 errors.append(f"[CHAMPS MANQUANTS] {json_file}")
 
-            # 🔎 Vérification caractères spéciaux (XML:id + nom fichier)
             if entry_id and not valid_pattern.match(entry_id):
                 corrupted.append(json_file)
                 errors.append(
@@ -93,7 +116,6 @@ def verify_json_entries(data_dirs=DATA_DIRS):
                     f"[NOM ≠ ID] {json_file.name} ≠ {entry_id}.json"
                 )
 
-            # 🔎 Vérification location
             location = data.get("location", {})
             loc_type = location.get("type")
 
@@ -131,7 +153,3 @@ def verify_json_entries(data_dirs=DATA_DIRS):
     )
 
     return text, corrupted
-
-
-
-
