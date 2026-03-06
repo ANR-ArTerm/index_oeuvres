@@ -1,0 +1,54 @@
+{
+  "id": "RaimondiPoesieSignature",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q64960146",
+  "entry_type": "peinture",
+  "title": "Poésie",
+  "creator": [
+    {
+      "xml_id": "MarcantonioRaimondi",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "Raphael",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1510,
+    "endYear": 1515,
+    "text": "vers 1515"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [
+    {
+      "link_type": "gravé d'après",
+      "xml_id_work": "RaphaelSignaturePoesie"
+    }
+  ],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://api.nga.gov/iiif/68435d8b-773b-4941-a9a7-a8163978111f/full/!800,800/0/default.jpg",
+      "storage": "online",
+      "copyright": "Washington, National Gallery of Art, inv. 1941.1.72 (https://www.nga.gov/artworks/650-poetry)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-06T15:34:39.372383",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
