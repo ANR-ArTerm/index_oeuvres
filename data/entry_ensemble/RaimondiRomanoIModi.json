@@ -23,7 +23,15 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/4_22/29cc9829_ca93_4a64_8e11_a3ba01758888/mid_00269504_001.jpg",
+      "copyright": "© The Trustees of the British Museum, CC BY-NC-SA 4.0 (https://www.britishmuseum.org/collection/object/P_Ii-16-6-1-9)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "Suite de douze estampes à caractère érotique",
   "commentary": "",
   "history": [
@@ -34,6 +42,11 @@
     },
     {
       "date": "2026-03-03T16:56:54.809123",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-03-06T17:41:30.566185",
       "type": "modified",
       "author": "Pierre"
     }
