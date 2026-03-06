@@ -1,0 +1,50 @@
+{
+  "id": "RaimondiApollonSassi",
+  "QID_wikidata": "",
+  "entry_type": "peinture",
+  "title": "L'Apollon citharède de la Casa Sassi ",
+  "creator": [
+    {
+      "xml_id": "MarcantonioRaimondi",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1500,
+    "endYear": 1527,
+    "text": "entre 1500 et 1527"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "straussIllustratedBartsch271978",
+      "location": "n° 332-333 (250-251)"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/342588/1483291/main-image",
+      "storage": "online",
+      "copyright": "New York, Metropolitan Museum of Art, inv. 49.97.115 (https://www.metmuseum.org/art/collection/search/342588)",
+      "caption": "Deuxième version (Bartsch Ill. vol. 27 n°333)"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-06T16:08:30.548311",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
