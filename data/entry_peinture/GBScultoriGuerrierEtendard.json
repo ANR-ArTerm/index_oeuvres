@@ -8,7 +8,7 @@
       "role": "graveur"
     }
   ],
-  "entry_type": "painting",
+  "entry_type": "peinture",
   "materialsAndTechniques": "",
   "dateCreated": {
     "startYear": "",
@@ -30,7 +30,7 @@
   "commentary": "",
   "history": [
     {
-      "date": "2026-03-06T14:46:11.546806",
+      "date": "2026-03-06T14:48:18.474131",
       "type": "created",
       "author": "Pierre"
     }

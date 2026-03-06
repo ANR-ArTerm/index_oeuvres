@@ -8,7 +8,7 @@
       "role": "graveur"
     }
   ],
-  "entry_type": "painting",
+  "entry_type": "peinture",
   "materialsAndTechniques": "",
   "dateCreated": {
     "startYear": "",
@@ -25,7 +25,7 @@
   "commentary": "PROBLEME ou https://sammlungenonline.albertina.at/en/objects/124959",
   "history": [
     {
-      "date": "2026-03-06T14:46:11.539851",
+      "date": "2026-03-06T14:48:18.468532",
       "type": "created",
       "author": "Pierre"
     }

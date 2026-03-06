@@ -8,7 +8,7 @@
       "role": "graveur"
     }
   ],
-  "entry_type": "painting",
+  "entry_type": "peinture",
   "materialsAndTechniques": "",
   "dateCreated": {
     "startYear": "",
@@ -30,7 +30,7 @@
   "commentary": "Ill. B. sainte félicité",
   "history": [
     {
-      "date": "2026-03-06T14:46:11.537815",
+      "date": "2026-03-06T14:48:18.467493",
       "type": "created",
       "author": "Pierre"
     }

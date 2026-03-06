@@ -8,7 +8,7 @@
       "role": "graveur"
     }
   ],
-  "entry_type": "painting",
+  "entry_type": "peinture",
   "materialsAndTechniques": "",
   "dateCreated": {
     "startYear": "",
@@ -30,7 +30,7 @@
   "commentary": "Noé dans bartsch, abraham selon d'autres",
   "history": [
     {
-      "date": "2026-03-06T14:46:11.538060",
+      "date": "2026-03-06T14:48:18.467714",
       "type": "created",
       "author": "Pierre"
     }
