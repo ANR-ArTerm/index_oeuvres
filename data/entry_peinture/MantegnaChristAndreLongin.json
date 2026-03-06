@@ -2,7 +2,12 @@
   "id": "MantegnaChristAndreLongin",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q56305286",
   "title": "Le Christ ressuscité entre saint André et Longin\r",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "AndreaMantegna",
+      "role": "graveur"
+    }
+  ],
   "entry_type": "painting",
   "materialsAndTechniques": "",
   "dateCreated": {
@@ -25,7 +30,7 @@
   "commentary": "",
   "history": [
     {
-      "date": "2026-02-24T11:12:24.509914",
+      "date": "2026-03-06T14:46:11.537419",
       "type": "created",
       "author": "Pierre"
     }

@@ -2,7 +2,12 @@
   "id": "DenteCene",
   "QID_wikidata": "",
   "title": "Cène",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "MarcoDente",
+      "role": "graveur"
+    }
+  ],
   "entry_type": "painting",
   "materialsAndTechniques": "",
   "dateCreated": {
@@ -25,7 +30,7 @@
   "commentary": "",
   "history": [
     {
-      "date": "2026-02-24T11:12:24.838755",
+      "date": "2026-03-06T14:46:11.543194",
       "type": "created",
       "author": "Pierre"
     }

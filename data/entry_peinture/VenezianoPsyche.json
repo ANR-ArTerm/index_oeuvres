@@ -2,7 +2,12 @@
   "id": "VenezianoPsyche",
   "QID_wikidata": "",
   "title": "Histoire de Psyché (3 planches)",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "AgostinoVeneziano",
+      "role": "graveur"
+    }
+  ],
   "entry_type": "painting",
   "materialsAndTechniques": "",
   "dateCreated": {
@@ -25,7 +30,7 @@
   "commentary": "",
   "history": [
     {
-      "date": "2026-02-24T11:12:24.854245",
+      "date": "2026-03-06T14:46:11.543408",
       "type": "created",
       "author": "Pierre"
     }

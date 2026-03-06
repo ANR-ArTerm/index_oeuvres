@@ -2,7 +2,12 @@
   "id": "ParmesanPierreJeanMalades",
   "QID_wikidata": "",
   "title": "Saint Pierre et saint Jean guérissent les malades à la porte du temple",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "Parmigianino",
+      "role": "graveur"
+    }
+  ],
   "entry_type": "painting",
   "materialsAndTechniques": "",
   "dateCreated": {
@@ -25,7 +30,7 @@
   "commentary": "",
   "history": [
     {
-      "date": "2026-02-24T11:12:24.989291",
+      "date": "2026-03-06T14:46:11.545160",
       "type": "created",
       "author": "Pierre"
     }

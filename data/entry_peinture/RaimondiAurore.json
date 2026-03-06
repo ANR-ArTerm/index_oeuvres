@@ -2,7 +2,12 @@
   "id": "RaimondiAurore",
   "QID_wikidata": "",
   "title": "Le Lever de l'Aurore",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "MarcantonioRaimondi",
+      "role": "graveur"
+    }
+  ],
   "entry_type": "painting",
   "materialsAndTechniques": "",
   "dateCreated": {
@@ -25,7 +30,7 @@
   "commentary": "",
   "history": [
     {
-      "date": "2026-02-24T11:12:24.770684",
+      "date": "2026-03-06T14:46:11.542288",
       "type": "created",
       "author": "Pierre"
     }

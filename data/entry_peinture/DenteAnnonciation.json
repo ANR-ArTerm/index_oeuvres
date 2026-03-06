@@ -2,7 +2,12 @@
   "id": "DenteAnnonciation",
   "QID_wikidata": "",
   "title": "Annonciation",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "MarcoDente",
+      "role": "graveur"
+    }
+  ],
   "entry_type": "painting",
   "materialsAndTechniques": "",
   "dateCreated": {
@@ -25,7 +30,7 @@
   "commentary": "",
   "history": [
     {
-      "date": "2026-02-24T11:12:24.846374",
+      "date": "2026-03-06T14:46:11.543303",
       "type": "created",
       "author": "Pierre"
     }

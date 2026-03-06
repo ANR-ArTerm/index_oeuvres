@@ -4,8 +4,12 @@
   "title": "Cris de Bologne",
   "creator": [
     {
-      "xml_id": "Guillain",
+      "xml_id": "SimonGuillainII",
       "role": "graveur"
+    },
+    {
+      "xml_id": "AnnibaleCarracci",
+      "role": "auteur du modèle"
     }
   ],
   "entry_type": "painting",
@@ -21,7 +25,7 @@
   "related_works": [],
   "bibliography": [
     {
-      "zotero_key": "IFF V",
+      "zotero_key": "bibliothequenationaleInventaireFondsFrancais17V1968",
       "location": "p. 150, n°4-83"
     }
   ],
@@ -30,7 +34,7 @@
   "commentary": "",
   "history": [
     {
-      "date": "2026-02-24T11:12:25.104293",
+      "date": "2026-03-06T14:46:11.547441",
       "type": "created",
       "author": "Pierre"
     }

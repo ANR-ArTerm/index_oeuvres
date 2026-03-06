@@ -2,7 +2,12 @@
   "id": "RaimondiJugementParis",
   "QID_wikidata": "",
   "title": "Le Jugement de Paris",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "MarcantonioRaimondi",
+      "role": "graveur"
+    }
+  ],
   "entry_type": "painting",
   "materialsAndTechniques": "",
   "dateCreated": {
@@ -25,7 +30,7 @@
   "commentary": "Seulement un lien wikidata pour la fresque perdue",
   "history": [
     {
-      "date": "2026-02-24T11:12:24.517807",
+      "date": "2026-03-06T14:46:11.537551",
       "type": "created",
       "author": "Pierre"
     }

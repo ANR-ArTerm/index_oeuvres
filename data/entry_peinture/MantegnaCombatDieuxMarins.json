@@ -2,7 +2,12 @@
   "id": "MantegnaCombatDieuxMarins",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q4024963",
   "title": "Combat des dieux marins",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "AndreaMantegna",
+      "role": "graveur"
+    }
+  ],
   "entry_type": "painting",
   "materialsAndTechniques": "",
   "dateCreated": {
@@ -20,7 +25,7 @@
   "commentary": "",
   "history": [
     {
-      "date": "2026-02-24T11:12:24.485606",
+      "date": "2026-03-06T14:46:11.536929",
       "type": "created",
       "author": "Pierre"
     }

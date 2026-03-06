@@ -2,7 +2,12 @@
   "id": "RaimondiMadeleineMarie",
   "QID_wikidata": "",
   "title": "Notre Dame de l'escalier",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "MarcantonioRaimondi",
+      "role": "graveur"
+    }
+  ],
   "entry_type": "painting",
   "materialsAndTechniques": "",
   "dateCreated": {
@@ -25,7 +30,7 @@
   "commentary": "PROBLEME",
   "history": [
     {
-      "date": "2026-02-24T11:12:24.779821",
+      "date": "2026-03-06T14:46:11.542396",
       "type": "created",
       "author": "Pierre"
     }

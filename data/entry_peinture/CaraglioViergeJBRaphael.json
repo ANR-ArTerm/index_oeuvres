@@ -4,6 +4,10 @@
   "title": "",
   "creator": [
     {
+      "xml_id": "GiovanniJacopoCaraglio",
+      "role": "graveur"
+    },
+    {
       "xml_id": "Raphael",
       "role": "auteur du modèle"
     }
@@ -30,7 +34,7 @@
   "commentary": "",
   "history": [
     {
-      "date": "2026-02-24T11:12:25.043732",
+      "date": "2026-03-06T14:46:11.546041",
       "type": "created",
       "author": "Pierre"
     }

@@ -2,7 +2,12 @@
   "id": "GBScultoriTroi",
   "QID_wikidata": "",
   "title": "",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "GiovanniBattistaScultori",
+      "role": "graveur"
+    }
+  ],
   "entry_type": "painting",
   "materialsAndTechniques": "",
   "dateCreated": {
@@ -25,7 +30,7 @@
   "commentary": "",
   "history": [
     {
-      "date": "2026-02-24T11:12:25.077841",
+      "date": "2026-03-06T14:46:11.547015",
       "type": "created",
       "author": "Pierre"
     }

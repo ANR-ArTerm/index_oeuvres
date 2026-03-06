@@ -2,7 +2,12 @@
   "id": "MantegnaMiseAuTombeau",
   "QID_wikidata": "",
   "title": "Laquelle ?",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "AndreaMantegna",
+      "role": "graveur"
+    }
+  ],
   "entry_type": "painting",
   "materialsAndTechniques": "",
   "dateCreated": {
@@ -20,7 +25,7 @@
   "commentary": "PROBLEME",
   "history": [
     {
-      "date": "2026-02-24T11:12:24.501226",
+      "date": "2026-03-06T14:46:11.537283",
       "type": "created",
       "author": "Pierre"
     }

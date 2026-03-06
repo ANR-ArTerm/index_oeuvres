@@ -2,7 +2,12 @@
   "id": "RaimondiVenusAmourNiche",
   "QID_wikidata": "",
   "title": "Vénus et l'amour dans une niche",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "MarcantonioRaimondi",
+      "role": "graveur"
+    }
+  ],
   "entry_type": "painting",
   "materialsAndTechniques": "",
   "dateCreated": {
@@ -20,7 +25,7 @@
   "commentary": "",
   "history": [
     {
-      "date": "2026-02-24T11:12:24.540832",
+      "date": "2026-03-06T14:46:11.537938",
       "type": "created",
       "author": "Pierre"
     }

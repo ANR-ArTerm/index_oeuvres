@@ -2,7 +2,12 @@
   "id": "RaimondiDouzeCesars",
   "QID_wikidata": "",
   "title": "Portraits en médaille des douze Césars",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "MarcantonioRaimondi",
+      "role": "graveur"
+    }
+  ],
   "entry_type": "painting",
   "materialsAndTechniques": "",
   "dateCreated": {
@@ -25,7 +30,7 @@
   "commentary": "",
   "history": [
     {
-      "date": "2026-02-24T11:12:24.746539",
+      "date": "2026-03-06T14:46:11.541944",
       "type": "created",
       "author": "Pierre"
     }
