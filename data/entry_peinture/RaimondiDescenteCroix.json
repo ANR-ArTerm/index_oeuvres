@@ -1,19 +1,23 @@
 {
   "id": "RaimondiDescenteCroix",
   "QID_wikidata": "",
-  "title": "",
+  "title": "Descente de croix",
   "creator": [
     {
       "xml_id": "MarcantonioRaimondi",
       "role": "graveur"
+    },
+    {
+      "xml_id": "Raphael",
+      "role": "auteur du modèle"
     }
   ],
   "entry_type": "peinture",
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": "burin",
   "dateCreated": {
-    "startYear": "",
-    "endYear": "",
-    "text": ""
+    "startYear": 1520,
+    "endYear": 1521,
+    "text": "vers 1520-1521"
   },
   "location": {
     "type": "unlocated"
@@ -25,7 +29,15 @@
       "location": "n° 32 (37)"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b69532159/f1/full/full/0/native.jpg",
+      "copyright": "Gallica, Bibliothèque nationale de France, département Estampes et photographie, RESERVE EB-5 (+, 2)-BOITE ECU (https://gallica.bnf.fr/ark:/12148/btv1b69532159.item)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -33,6 +45,15 @@
       "date": "2026-03-06T14:48:18.468934",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-03-06T16:45:08.344558",
+      "type": "modified",
+      "author": "Pierre"
     }
-  ]
+  ],
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
 }
