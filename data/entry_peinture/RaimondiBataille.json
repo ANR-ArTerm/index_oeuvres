@@ -1,0 +1,58 @@
+{
+  "id": "RaimondiBataille",
+  "QID_wikidata": "",
+  "entry_type": "peinture",
+  "title": "Scène de bataille",
+  "creator": [
+    {
+      "xml_id": "MarcantonioRaimondi",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "Raphael",
+      "role": "auteur du modèle (?)"
+    },
+    {
+      "xml_id": "GiulioRomano",
+      "role": "auteur du modèle (?)"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "straussIllustratedBartsch271978",
+      "location": "n° 420 (316)"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://www.parismuseescollections.paris.fr/sites/default/files/styles/pm_diaporama/public/atoms/images/PPA/lpdp_87854-24.jpg",
+      "storage": "online",
+      "copyright": "Paris Musées Collections, Petit Palais, inv. GDUT6220",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-06T17:29:28.743134",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
