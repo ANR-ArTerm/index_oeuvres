@@ -1,0 +1,49 @@
+{
+  "id": "MantegnaMiseAuTombeauQuatreOiseaux",
+  "QID_wikidata": "",
+  "entry_type": "peinture",
+  "title": "Mise au tombeau aux quatre oiseaux",
+  "creator": [
+    {
+      "xml_id": "AndreaMantegna",
+      "role": "graveur (attribué à)"
+    },
+    {
+      "xml_id": "GianMarcoCavalli",
+      "role": "graveur (attribué à)"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1475,
+    "endYear": 1475,
+    "text": "Vers 1475"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100242241/f1/full/full/0/native.jpg",
+      "storage": "online",
+      "copyright": "Source gallica.bnf.fr / Bibliothèque nationale de France (https://gallica.bnf.fr/ark:/12148/btv1b100242241.item)",
+      "caption": "Bibliothèque nationale de France, département Estampes et photographie, RESERVE EA-31 (A, 1)-BOITE ECU"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-09T12:05:56.423785",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

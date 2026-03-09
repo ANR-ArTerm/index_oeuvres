@@ -1,5 +1,5 @@
 {
-  "id": "DapMantegnaTriomphesGravures",
+  "id": "DapMantegnaTriomphesBurin",
   "QID_wikidata": "",
   "entry_type": "ensemble",
   "title": "Le Triomphe de César",
@@ -51,6 +51,11 @@
     {
       "date": "2026-03-09T11:38:55.553370",
       "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-03-09T11:42:26.301979",
+      "type": "modified",
       "author": "Pierre"
     }
   ],
