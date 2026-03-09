@@ -26,15 +26,7 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [
-    {
-      "id": 0,
-      "url": "",
-      "copyright": "",
-      "caption": "",
-      "storage": "online"
-    }
-  ],
+  "illustrations": [],
   "description": "",
   "commentary": "",
   "history": [
@@ -42,6 +34,15 @@
       "date": "2026-01-19T15:13:51.785518",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-03-09T10:43:07.137426",
+      "type": "modified",
+      "author": "Pierre"
     }
-  ]
+  ],
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
 }

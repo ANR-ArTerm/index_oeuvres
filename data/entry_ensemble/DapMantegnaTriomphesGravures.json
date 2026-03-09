@@ -1,0 +1,59 @@
+{
+  "id": "DapMantegnaTriomphesGravures",
+  "QID_wikidata": "",
+  "entry_type": "ensemble",
+  "title": "Le Triomphe de César",
+  "creator": [
+    {
+      "xml_id": "AndreaMantegna",
+      "role": "auteur du modèle"
+    },
+    {
+      "xml_id": "GiulioCampagnola",
+      "role": "graveur (attribué à)"
+    },
+    {
+      "xml_id": "GiovanniAntonioDaBrescia",
+      "role": "graveur (attribué à)"
+    },
+    {
+      "xml_id": "GianMarcoCavalli",
+      "role": "graveur (attribué à)"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1495,
+    "endYear": 1505,
+    "text": "Vers 1495-1505"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [
+    {
+      "link_type": "gravé d'après",
+      "xml_id_work": "MantegnaTriompheCesar"
+    }
+  ],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/416017/785325/main-image",
+      "storage": "online",
+      "copyright": "New York, Metropolitan Museum of Arts, inv. 2012.136.864 (https://www.metmuseum.org/art/collection/search/416017)",
+      "caption": "Giulio Campagnola ou Gian Marco Cavalli, Le Triomphe de César : Les éléphants, vers 1497-1498, gravure au burin, Metropolitan Museum of Arts, inv. 2012.136.864."
+    }
+  ],
+  "description": "Sept gravures d'après Le Triomphe de César, suite de neuf toiles conservées actuellement à Hampton Court (Londres), et peint par Andrea Mantegna. Des dessins préparatoires au décor ont probablement été utilisées par les graveurs.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-09T11:38:55.553370",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "typology": "suite d'estampes",
+  "contains_works": []
+}
