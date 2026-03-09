@@ -365,15 +365,16 @@ def edit_json_notice(json_path=None, data=None):
     reverse_options = {v: k for k, v in LOCATION_OPTIONS.items()}
 
     try:
-        selected_label = reverse_options[location_type]
-        selected_index = location_options_list.index(selected_label)
+        location_selected_label = reverse_options[location_type]
+        location_selected_index = location_options_list.index(location_selected_label)
     except KeyError:
-        selected_index = 0
+        location_selected_index = 0
 
     location_choice = st.radio(
         "Type de localisation",
         location_options_list,
-        index=selected_index,
+        index=location_selected_index,
+        key=f"{id_entry}_location_type",
         horizontal=True
     )
 

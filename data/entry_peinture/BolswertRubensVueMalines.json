@@ -1,0 +1,49 @@
+{
+  "id": "BolswertRubensVueMalines",
+  "QID_wikidata": "",
+  "entry_type": "peinture",
+  "title": "Vue de Malines (Suite de six grands paysages)",
+  "creator": [
+    {
+      "xml_id": "SchelteBolswert",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "PeterPaulRubens",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://apicollections.parismusees.paris.fr/sites/default/files/styles/4k/collections/atoms/images/PPA/lpdp_80895-16.jpg?itok=5mr6lUd5",
+      "storage": "online",
+      "copyright": "Petit Palais, Musées des Beaux-arts de la ville de Paris, inv. GDUT8312 (https://www.parismuseescollections.paris.fr/fr/petit-palais/oeuvres/vue-de-malines-d-apres-rubens-dutuit-264-p-249)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-09T14:56:52.991267",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
