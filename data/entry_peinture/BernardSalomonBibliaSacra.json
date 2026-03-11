@@ -29,7 +29,7 @@
       "url": "https://www.mahmah.ch/sites/default/files/styles/scale_w1148/public/image/2026-02/2575490.jpeg",
       "storage": "online",
       "copyright": "Genève, Musée d'art et d'histoire (https://www.mahmah.ch/collection/oeuvres/tour-de-babel-gen-xi/em-0344)",
-      "caption": ""
+      "caption": "La tour de Babel"
     }
   ],
   "description": "",
@@ -38,6 +38,11 @@
     {
       "date": "2026-03-09T15:33:33.164577",
       "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-03-09T15:34:01.444869",
+      "type": "modified",
       "author": "Pierre"
     }
   ],
