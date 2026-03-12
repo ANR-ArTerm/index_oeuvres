@@ -6,14 +6,18 @@
     {
       "xml_id": "MarcantonioRaimondi",
       "role": "graveur"
+    },
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
     }
   ],
   "entry_type": "peinture",
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": "burin",
   "dateCreated": {
-    "startYear": "",
-    "endYear": "",
-    "text": ""
+    "startYear": 1512,
+    "endYear": 1513,
+    "text": "vers 1512-1513"
   },
   "location": {
     "type": "unlocated"
@@ -25,7 +29,15 @@
       "location": "n° 18 (19)"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/342748/1394507/main-image",
+      "copyright": "New York, Metropolitan Museum of Arts, inv. 22.67.21 (https://www.metmuseum.org/fr/art/collection/search/342748)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -33,6 +45,15 @@
       "date": "2026-03-06T14:48:18.465750",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-03-11T16:49:23.196308",
+      "type": "modified",
+      "author": "Pierre"
     }
-  ]
+  ],
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
 }

@@ -1,5 +1,5 @@
 {
-  "id": "SimoneMemmiLaureSade",
+  "id": "SimoneMartiniLaureSade",
   "QID_wikidata": "",
   "entry_type": "peinture",
   "title": "Portrait de La belle Laure",
@@ -10,19 +10,13 @@
     }
   ],
   "dateCreated": {
-    "startYear": "",
-    "endYear": "",
+    "startYear": null,
+    "endYear": null,
     "text": ""
   },
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": null,
   "location": {
-    "type": "holding_institution",
-    "institution": {
-      "name": "",
-      "place": "",
-      "inventory_number": "",
-      "url": ""
-    }
+    "type": "unlocated"
   },
   "related_works": [],
   "bibliography": [],
@@ -34,6 +28,15 @@
       "date": "2026-01-13T16:20:26.639647",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-03-12T12:16:20.108656",
+      "type": "modified",
+      "author": "Pierre"
     }
-  ]
+  ],
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
 }

@@ -1,6 +1,6 @@
 {
   "id": "RaimondiJugementParis",
-  "QID_wikidata": "",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q18579333",
   "title": "Le Jugement de Paris",
   "creator": [
     {
@@ -9,11 +9,11 @@
     }
   ],
   "entry_type": "peinture",
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": null,
   "dateCreated": {
-    "startYear": "",
-    "endYear": "",
-    "text": ""
+    "startYear": 1514,
+    "endYear": 1518,
+    "text": "1514-1518"
   },
   "location": {
     "type": "unlocated"
@@ -25,14 +25,31 @@
       "location": "n° 245-I (197)"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/337058/1914771/main-image",
+      "copyright": "New York, Metropolitan Museum of Arts, inv. 19.74.1 (https://www.metmuseum.org/fr/art/collection/search/337058)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
-  "commentary": "Seulement un lien wikidata pour la fresque perdue",
+  "commentary": "",
   "history": [
     {
       "date": "2026-03-06T14:48:18.467261",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-03-11T16:47:42.900687",
+      "type": "modified",
+      "author": "Pierre"
     }
-  ]
+  ],
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
 }

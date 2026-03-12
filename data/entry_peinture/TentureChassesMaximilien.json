@@ -1,0 +1,51 @@
+{
+  "id": "TentureChassesMaximilien",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q27861181",
+  "entry_type": "peinture",
+  "title": "Tenture des Chasses de Maximilien",
+  "creator": [
+    {
+      "xml_id": "BernaertVanOrley",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1528,
+    "endYear": 1533,
+    "text": "1528-1533"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Musée du Louvre",
+      "place": "Paris",
+      "inventory_number": "OA 7314 - OA 7325",
+      "url": "https://collections.louvre.fr/ark:/53355/cl010116743"
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Le_mois_de_mars_ou_Le_signe_du_b%C3%A9lier_ou_La_chasse_au_faucon%2C_de_la_tenture_dite_des_Chasses_de_Maximilien_-_Mus%C3%A9e_du_Louvre_Objets_d%27Art_OA_7314.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Le_mois_de_mars_ou_Le_signe_du_b%C3%A9lier_ou_La_chasse_au_faucon,_de_la_tenture_dite_des_Chasses_de_Maximilien_-_Mus%C3%A9e_du_Louvre_Objets_d%27Art_OA_7314.jpg)",
+      "caption": "Le mois de mars ou Le signe du bélier ou La chasse au faucon, de la tenture dite des Chasses de Maximilien, Musée du Louvre, Département des Objets d'Art, inv. OA 7314"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-12T12:31:41.805240",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "Tapisserie",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
