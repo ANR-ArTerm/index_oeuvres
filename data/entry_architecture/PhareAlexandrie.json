@@ -1,0 +1,48 @@
+{
+  "id": "PhareAlexandrie",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q43244",
+  "entry_type": "architecture",
+  "title": "Phare d'Alexandrie",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -299,
+    "endYear": -289,
+    "text": "299 à 289 avant notre ère"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Alexandrie",
+      "country": "Egypte",
+      "coordinates": {
+        "latitude": "31.214167",
+        "longitude": "29.885"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Lighthouse_-_Thiersch.png",
+      "storage": "online",
+      "copyright": "Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Lighthouse_-_Thiersch.png)",
+      "caption": "Dessin du phare d'Alexandrie par l'archéologue allemand Hermann Thiersch (1909)."
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-12T12:40:02.939793",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "typology": null,
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
