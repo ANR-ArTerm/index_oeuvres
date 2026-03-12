@@ -38,9 +38,14 @@
       "date": "2026-03-12T12:40:02.939793",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-03-12T12:40:24.355160",
+      "type": "modified",
+      "author": "Pierre"
     }
   ],
-  "typology": null,
+  "typology": "phare",
   "contained_by_ensemble": {
     "link_type": null,
     "xml_id_work": null
