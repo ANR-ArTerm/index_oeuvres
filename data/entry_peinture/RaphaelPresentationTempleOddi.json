@@ -2,7 +2,7 @@
   "id": "RaphaelPresentationTempleOddi",
   "QID_wikidata": "",
   "entry_type": "peinture",
-  "title": "Presentation au temple (Prédelle de la Pala Oddi)",
+  "title": "Présentation au temple (Prédelle de la Pala Oddi)",
   "creator": [
     {
       "xml_id": "Raphael",
@@ -78,6 +78,11 @@
     },
     {
       "date": "2026-02-04T12:25:57.337478",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-03-17T12:07:39.645875",
       "type": "modified",
       "author": "Pierre"
     }

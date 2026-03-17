@@ -9,10 +9,10 @@
     }
   ],
   "entry_type": "peinture",
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": "burin",
   "dateCreated": {
-    "startYear": "",
-    "endYear": "",
+    "startYear": null,
+    "endYear": null,
     "text": ""
   },
   "location": {
@@ -25,14 +25,31 @@
       "location": "n° 117 (104)"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b69532745/f1/full/full/0/native.jpg",
+      "copyright": "Source gallica.bnf.fr / Bibliothèque nationale de France (https://gallica.bnf.fr/ark:/12148/btv1b69532745.item)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
-  "commentary": "Ill. B. sainte félicité",
+  "commentary": "",
   "history": [
     {
       "date": "2026-03-06T14:48:18.467493",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-03-17T12:11:59.582690",
+      "type": "modified",
+      "author": "Pierre"
     }
-  ]
+  ],
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
 }
