@@ -1,5 +1,5 @@
 {
-  "id": "PalaisduTe",
+  "id": "PalaisduTeMantoue",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q1261544",
   "entry_type": "architecture",
   "title": "Palais du Té",
@@ -43,7 +43,16 @@
       "date": "2026-01-28T23:10:57.180423",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-03-17T14:06:20.625413",
+      "type": "modified",
+      "author": "Pierre"
     }
   ],
-  "typology": "Palais"
+  "typology": "Palais",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
 }
