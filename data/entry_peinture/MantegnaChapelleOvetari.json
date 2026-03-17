@@ -2,14 +2,14 @@
   "id": "MantegnaChapelleOvetari",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q3087562",
   "entry_type": "peinture",
-  "title": "Fresque de la chapelle Ovetari à Padoue représentant ; le saint Jacques le Majeur et saint Christophe",
+  "title": "Fresques de la chapelle Ovetari",
   "creator": [
     {
       "xml_id": "AndreaMantegna",
       "role": "peintre"
     },
     {
-      "xml_id": "NiccolòPizzolo",
+      "xml_id": null,
       "role": "peintre"
     },
     {
@@ -17,7 +17,7 @@
       "role": "peintre"
     },
     {
-      "xml_id": "Giovannid'Alemagna",
+      "xml_id": null,
       "role": "peintre"
     }
   ],
@@ -41,19 +41,28 @@
   "illustrations": [
     {
       "id": 0,
-      "url": "",
-      "copyright": "",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Church_of_the_Eremitani_%28Padua%29_-_Interior_-_cappella_Ovetari_-_storie_di_san_giacomo.jpg",
+      "copyright": "Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Church_of_the_Eremitani_(Padua)_-_Interior_-_cappella_Ovetari_-_storie_di_san_giacomo.jpg)",
       "caption": "",
       "storage": "online"
     }
   ],
-  "description": "",
-  "commentary": "Les fresques ont pour la plupart disparu suite aux bombardements du 11 mars 1944. ",
+  "description": "Cycle de fresque de la chapelle Ovetari de l'église des érémitiques de Padoue représentant les vies de saint Christophe et de saint Jacques le Majeur. Les fresques ont pour la plupart disparu suite aux bombardements du 11 mars 1944. ",
+  "commentary": "",
   "history": [
     {
       "date": "2026-01-19T14:43:50.365050",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-03-17T11:50:09.195317",
+      "type": "modified",
+      "author": "Pierre"
     }
-  ]
+  ],
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
 }
