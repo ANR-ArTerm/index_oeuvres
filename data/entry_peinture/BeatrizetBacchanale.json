@@ -1,0 +1,49 @@
+{
+  "id": "BeatrizetBacchanale",
+  "QID_wikidata": "",
+  "entry_type": "peinture",
+  "title": "Bacchanale de putti",
+  "creator": [
+    {
+      "xml_id": "NicolasBeatrizet",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "MichelAnge",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1540,
+    "endYear": 1560,
+    "text": "Vers 1540-1560"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10487730j/f1/full/full/0/native.jpg",
+      "storage": "online",
+      "copyright": "Source gallica.bnf / Bibliothèque nationale de France (https://gallica.bnf.fr/ark:/12148/btv1b10487730j/f1.item)",
+      "caption": "Montpellier, Médiathèque centrale Emile Zola, Est0131"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-18T16:31:32.699750",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
