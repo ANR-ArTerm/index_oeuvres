@@ -1,5 +1,5 @@
 {
-  "id": "BeatrizetCurcifixion",
+  "id": "BeatrizetCrucifixion",
   "QID_wikidata": "",
   "entry_type": "peinture",
   "title": "La Crucifixion",
@@ -38,6 +38,11 @@
     {
       "date": "2026-03-18T16:44:50.515762",
       "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-03-18T16:45:07.294731",
+      "type": "modified",
       "author": "Pierre"
     }
   ],
