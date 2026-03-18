@@ -1,0 +1,49 @@
+{
+  "id": "BeatrizetSongeVieHumaine",
+  "QID_wikidata": "",
+  "entry_type": "peinture",
+  "title": "Le songe de la vie humaine",
+  "creator": [
+    {
+      "xml_id": "NicolasBeatrizet",
+      "role": "graveur (attribué à)"
+    },
+    {
+      "xml_id": "MichelAnge",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1540,
+    "endYear": 1560,
+    "text": "Vers 1540-1560"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://ids.lib.harvard.edu/ids/iiif/18821802/full/full/0/default.jpg",
+      "storage": "online",
+      "copyright": "Photo © President and Fellows of Harvard College (https://harvardartmuseums.org/collections/object/260235)",
+      "caption": "Cambridge, Harvard Art Museums, inv. M2131"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-18T16:36:13.572248",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
