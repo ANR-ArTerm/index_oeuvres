@@ -1,0 +1,45 @@
+{
+  "id": "FrancoAdorationBergers",
+  "QID_wikidata": "",
+  "entry_type": "peinture",
+  "title": "Adoration des bergers",
+  "creator": [
+    {
+      "xml_id": "BattistaFranco",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1530,
+    "endYear": 1560,
+    "text": "Milieu du XVIe siècle"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_17/f26350fa_2935_45fc_b9fe_a3be011c0081/mid_00449128_001.jpg",
+      "storage": "online",
+      "copyright": "© The Trustees of the British Museum, CC BY-NC-SA 4.0",
+      "caption": "Londres, British Museum, inv. 1874,0808.367"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-18T17:41:36.415488",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "eau-forte",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
