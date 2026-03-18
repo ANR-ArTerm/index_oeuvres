@@ -1,0 +1,54 @@
+{
+  "id": "BeatrizetConversionSaintPaul",
+  "QID_wikidata": "",
+  "entry_type": "peinture",
+  "title": "Conversion de saint Paul",
+  "creator": [
+    {
+      "xml_id": "NicolasBeatrizet",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "MichelAnge",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1545,
+    "endYear": 1558,
+    "text": "1545-1558"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": null,
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/2_13/d623720f_cd1a_46c6_a140_a3b800e459f2/mid_00138061_001.jpg",
+      "storage": "online",
+      "copyright": "© The Trustees of the British Museum, CC BY-NC-SA 4.0",
+      "caption": "British Museum, inv. V,2.45"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-18T16:07:50.080752",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
