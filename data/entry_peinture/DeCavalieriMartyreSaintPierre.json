@@ -1,0 +1,49 @@
+{
+  "id": "DeCavalieriMartyreSaintPierre",
+  "QID_wikidata": "",
+  "entry_type": "peinture",
+  "title": "Martyre de saint Pierre",
+  "creator": [
+    {
+      "xml_id": "GiovanniBattistaDeCavalieri",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "MichelAnge",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1577,
+    "endYear": 1600,
+    "text": "1577-1600"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/4_21/73439840_fe22_47ff_8ee6_a3ba015bf050/mid_00262648_001.jpg",
+      "storage": "online",
+      "copyright": "© The Trustees of the British Museum, CC BY-NC-SA 4.0",
+      "caption": "British Museum, inv. V,2.46"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-18T15:54:52.997367",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
