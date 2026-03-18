@@ -1,0 +1,49 @@
+{
+  "id": "BeatrizetPhaeton",
+  "QID_wikidata": "",
+  "entry_type": "peinture",
+  "title": "Chute de Phaeton",
+  "creator": [
+    {
+      "xml_id": "NicolasBeatrizet",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "MichelAnge",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/366439/750586/main-image",
+      "storage": "online",
+      "copyright": "New York, Metropolitan Museum of Arts, inv. 55.590.2 (https://www.metmuseum.org/fr/art/collection/search/366439)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-18T16:11:27.516747",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
