@@ -1,0 +1,45 @@
+{
+  "id": "FrancoNativiteVieChrist",
+  "QID_wikidata": "",
+  "entry_type": "peinture",
+  "title": "Nativité (issue de la suite de neuf gravures de la vie du Christ)",
+  "creator": [
+    {
+      "xml_id": "BattistaFranco",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1530,
+    "endYear": 1560,
+    "text": "Milieu du XVIe siècle."
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://www.lombardiabeniculturali.it/assets/immagini/liv2/S310RL/SC/S/D0080/11/S_D0080-11961_IMG-0000071893.jpg",
+      "storage": "online",
+      "copyright": "@ LombardiaBeniCulturali",
+      "caption": "Brescia, Musei Civici di Arte e Storia. Pinacoteca Tosio Martinengo (https://www.lombardiabeniculturali.it/stampe/schede/D0080-11961/)"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-18T17:59:48.566223",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "eau-forte et burin",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
