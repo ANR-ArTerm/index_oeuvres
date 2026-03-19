@@ -1,0 +1,54 @@
+{
+  "id": "DaCarpiVenusPutti",
+  "QID_wikidata": "",
+  "entry_type": "peinture",
+  "title": "Vénus et les Amours",
+  "creator": [
+    {
+      "xml_id": "UgoDaCarpi",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "BaldassarrePeruzzi",
+      "role": "auteur du modèle (?)"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1520,
+    "endYear": 1527,
+    "text": "Vers 1520-1527"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "straussIllustratedBartsch481983",
+      "location": "n° VIII-3 (107)"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/399809/769140/main-image",
+      "storage": "online",
+      "copyright": "",
+      "caption": "New York, Metropolitan Museum of Arts, inv. 33.102.2 (https://www.metmuseum.org/fr/art/collection/search/399809)"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-19T16:42:39.082692",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "gravure sur bois en clair-obscur",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
