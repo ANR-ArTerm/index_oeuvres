@@ -1,0 +1,49 @@
+{
+  "id": "GhisiEcoleAthenes",
+  "QID_wikidata": "",
+  "entry_type": "peinture",
+  "title": "Ecole d'Athènes",
+  "creator": [
+    {
+      "xml_id": "GiorgioGhisi",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "Raphael",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1550,
+    "endYear": 1550,
+    "text": "1550"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53128754c/f1/full/full/0/native.jpg",
+      "storage": "online",
+      "copyright": "Source gallica.bnf.fr / Bibliothèque nationale de France",
+      "caption": "Paris, Bibliothèque nationale de France, département Estampes et photographie, RESERVE AA-5 (GHISI, Giorgio)"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-19T17:30:58.063468",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
