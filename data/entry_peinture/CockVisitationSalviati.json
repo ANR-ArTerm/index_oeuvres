@@ -1,0 +1,41 @@
+{
+  "id": "CockVisitationSalviati",
+  "QID_wikidata": "",
+  "entry_type": "peinture",
+  "title": "Visitation",
+  "creator": [
+    {
+      "xml_id": "HieronymusCock",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "FrancescoSalviati",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1540,
+    "endYear": 1570,
+    "text": "Milieu du XVIe siècle."
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "Gravure d'après une fresque peinte par Francesco Salviati représentant la Visitation dans l'Oratoire de San Giovanni Decollato à Rome",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-19T17:14:28.003935",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
