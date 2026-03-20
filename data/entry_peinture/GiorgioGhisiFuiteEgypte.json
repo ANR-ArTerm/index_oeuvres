@@ -22,7 +22,12 @@
     "type": "unlocated"
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "straussIllustratedBartsch311986",
+      "location": "n° 4 (385)"
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -38,6 +43,11 @@
     {
       "date": "2026-03-20T14:43:15.815884",
       "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-03-20T14:44:20.956988",
+      "type": "modified",
       "author": "Pierre"
     }
   ],

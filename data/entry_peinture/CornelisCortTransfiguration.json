@@ -1,0 +1,54 @@
+{
+  "id": "CornelisCortTransfiguration",
+  "QID_wikidata": "",
+  "entry_type": "peinture",
+  "title": "La transfiguration",
+  "creator": [
+    {
+      "xml_id": "CornelisCort",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "Raphael",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1573,
+    "endYear": 1573,
+    "text": "1573"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [
+    {
+      "link_type": "copié d'après",
+      "xml_id_work": "RaphaelTransfiguration"
+    }
+  ],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://framemark.vam.ac.uk/collections/2010EJ0474/full/full/0/default.jpg",
+      "storage": "online",
+      "copyright": "© Victoria and Albert Museum, London",
+      "caption": "Londres, Victoria and Albert Museum, inv. DYCE.1960 (https://collections.vam.ac.uk/item/O1155689/transfiguration-print-cort-cornelius/)"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-20T17:40:50.137257",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
