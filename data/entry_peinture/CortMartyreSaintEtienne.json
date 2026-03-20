@@ -1,0 +1,54 @@
+{
+  "id": "CortMartyreSaintEtienne",
+  "QID_wikidata": "",
+  "entry_type": "peinture",
+  "title": "Martyre de saint Etienne",
+  "creator": [
+    {
+      "xml_id": "CornelisCort",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "MarcelloVenusti",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1576,
+    "endYear": 1576,
+    "text": "1576"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "hollsteinNewHollsteinDutchCort2000",
+      "location": "vol. 2, n° 79"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/418142/1449047/main-image",
+      "storage": "online",
+      "copyright": "",
+      "caption": "New York, Metropolitan Museum of Arts, inv. 63.517.23 (https://www.metmuseum.org/fr/art/collection/search/418142)"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-20T18:02:20.731037",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
