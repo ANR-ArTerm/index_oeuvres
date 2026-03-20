@@ -1,15 +1,15 @@
 {
-  "id": "CortAnnonciationZuccaro",
+  "id": "CortMartyreSaintLaurentTitien",
   "QID_wikidata": "",
   "entry_type": "peinture",
-  "title": "Annonciation",
+  "title": "Martyre de saint Laurent",
   "creator": [
     {
       "xml_id": "CornelisCort",
       "role": "graveur"
     },
     {
-      "xml_id": "FedericoZuccaro",
+      "xml_id": "Titien",
       "role": "auteur du modèle"
     }
   ],
@@ -25,29 +25,24 @@
   "bibliography": [
     {
       "zotero_key": "hollsteinNewHollsteinDutchCort2000",
-      "location": "vol. 1, n° 20-22"
+      "location": "vol. 2, n° 126-128"
     }
   ],
   "illustrations": [
     {
       "id": 0,
-      "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/10_11/aff776e0_9fc3_454c_9429_a3c000c32fd7/mid_00551009_001.jpg",
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/356246/1680455/main-image",
       "storage": "online",
       "copyright": "",
-      "caption": "Londres, British Museum, inv. 1917,1208.675.1-2 (https://www.britishmuseum.org/collection/object/P_1917-1208-675-1-2)"
+      "caption": "New York, Metropolitan Museum of Arts, inv. 49.97.537 (https://www.metmuseum.org/fr/art/collection/search/356246)"
     }
   ],
   "description": "",
   "commentary": "",
   "history": [
     {
-      "date": "2026-03-20T18:08:38.870130",
+      "date": "2026-03-20T18:14:33.691417",
       "type": "created",
-      "author": "Pierre"
-    },
-    {
-      "date": "2026-03-20T18:09:22.512568",
-      "type": "modified",
       "author": "Pierre"
     }
   ],
