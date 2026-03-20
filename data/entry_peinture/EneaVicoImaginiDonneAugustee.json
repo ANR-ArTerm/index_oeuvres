@@ -1,8 +1,8 @@
 {
-  "id": "EneaVicoImmaginiDonneAugustee",
+  "id": "EneaVicoImaginiDonneAugustee",
   "QID_wikidata": "",
   "entry_type": "peinture",
-  "title": "Le immagini delle Donne Auguste",
+  "title": "Le imagini delle Donne Auguste",
   "creator": [
     {
       "xml_id": "EneaVico",
@@ -39,6 +39,16 @@
     {
       "date": "2026-03-20T14:14:11.958822",
       "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-03-20T14:14:29.851563",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-03-20T14:14:50.703355",
+      "type": "modified",
       "author": "Pierre"
     }
   ],
