@@ -27,7 +27,12 @@
       "xml_id_work": "RaphaelTransfiguration"
     }
   ],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "hollsteinNewHollsteinDutchCort2000",
+      "location": "vol. I, n° 54"
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -43,6 +48,11 @@
     {
       "date": "2026-03-20T17:40:50.137257",
       "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-03-20T17:44:44.056766",
+      "type": "modified",
       "author": "Pierre"
     }
   ],
