@@ -1,22 +1,22 @@
 {
-  "id": "EneaVicoLedaMichelange",
+  "id": "EneaVicoConversionPaul",
   "QID_wikidata": "",
   "entry_type": "peinture",
-  "title": "Léda et le cygne",
+  "title": "Conversion de saint Paul",
   "creator": [
     {
       "xml_id": "EneaVico",
       "role": "graveur"
     },
     {
-      "xml_id": "MichelAnge",
+      "xml_id": "FrancescoSalviati",
       "role": "auteur du modèle"
     }
   ],
   "dateCreated": {
-    "startYear": 1546,
-    "endYear": 1546,
-    "text": "1546"
+    "startYear": 1545,
+    "endYear": 1545,
+    "text": "1545"
   },
   "location": {
     "type": "unlocated"
@@ -25,29 +25,24 @@
   "bibliography": [
     {
       "zotero_key": "spikeIllustratedBartsch301985",
-      "location": "n° 26 (294)"
+      "location": "n° 13 (286)"
     }
   ],
   "illustrations": [
     {
       "id": 0,
-      "url": "https://framemark.vam.ac.uk/collections/2010EF2851/full/full/0/default.jpg",
+      "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/12_19/adbeed6e_62a5_47cc_a287_a3c2013fda46/mid_00755246_001.jpg",
       "storage": "online",
-      "copyright": "© Victoria and Albert Museum, London",
-      "caption": "Londres, Victorian and Albert Museum, inv. DYCE.1215 (https://collections.vam.ac.uk/item/O1153513/leda-and-the-swan-print-vico-enea/)"
+      "copyright": "",
+      "caption": "Londres, British Museum, inv. 1871,0812.86 (https://www.britishmuseum.org/collection/object/P_1871-0812-86)"
     }
   ],
   "description": "",
   "commentary": "",
   "history": [
     {
-      "date": "2026-03-19T17:40:31.950626",
+      "date": "2026-03-20T12:28:40.191056",
       "type": "created",
-      "author": "Pierre"
-    },
-    {
-      "date": "2026-03-20T12:22:18.191247",
-      "type": "modified",
       "author": "Pierre"
     }
   ],

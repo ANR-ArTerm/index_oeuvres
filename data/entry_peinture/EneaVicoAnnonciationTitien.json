@@ -22,7 +22,12 @@
     "type": "unlocated"
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "spikeIllustratedBartsch301985",
+      "location": "n° 3 (282)"
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -38,6 +43,11 @@
     {
       "date": "2026-03-19T17:42:54.320938",
       "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-03-20T12:20:16.468116",
+      "type": "modified",
       "author": "Pierre"
     }
   ],
