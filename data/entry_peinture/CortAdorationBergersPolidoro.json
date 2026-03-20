@@ -1,0 +1,50 @@
+{
+  "id": "CortAdorationBergersPolidoro",
+  "QID_wikidata": "",
+  "entry_type": "peinture",
+  "title": "Adoration des bergers",
+  "creator": [
+    {
+      "xml_id": "CornelisCort",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1569,
+    "endYear": 1569,
+    "text": "1569"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "hollsteinNewHollsteinDutchCort2000",
+      "location": "vol. 1, n° 27"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_9/29_19/8a415b58_97b6_4c0b_82dc_a3b501472cf2/mid_00161536_001.jpg",
+      "storage": "online",
+      "copyright": "",
+      "caption": "Londres, British Museum, inv. V,8.68 (https://www.britishmuseum.org/collection/object/P_V-8-68)"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-20T17:57:26.923083",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
