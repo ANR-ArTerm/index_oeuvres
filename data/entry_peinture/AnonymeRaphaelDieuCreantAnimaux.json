@@ -1,0 +1,49 @@
+{
+  "id": "AnonymeRaphaelDieuCreantAnimaux",
+  "QID_wikidata": "",
+  "entry_type": "peinture",
+  "title": "Dieu créant les animaux",
+  "creator": [
+    {
+      "xml_id": "anonyme",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "Raphael",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1500,
+    "endYear": 1600,
+    "text": "XVIe siècle"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://apicollections.parismusees.paris.fr/sites/default/files/styles/4k/collections/atoms/images/MVR/lpdp_83316-27.jpg?itok=b7OQ6gPd",
+      "storage": "online",
+      "copyright": "",
+      "caption": "Paris, Musée de la vie romantique, inv. CSR AG 276 (https://www.parismuseescollections.paris.fr/fr/musee-de-la-vie-romantique/oeuvres/la-creation-du-monde-la-creation-des-animaux)"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-23T17:04:05.325247",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
