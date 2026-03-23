@@ -1,0 +1,54 @@
+{
+  "id": "BeatrizetCainAbel",
+  "QID_wikidata": "",
+  "entry_type": "peinture",
+  "title": "Cain et Abel",
+  "creator": [
+    {
+      "xml_id": "NicolasBeatrizet",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1544,
+    "endYear": 1544,
+    "text": "1544"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": null,
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Cain_and_Abel_LACMA_M.88.91.237.jpg",
+      "storage": "online",
+      "copyright": "",
+      "caption": "Los Angeles County Museum of Art, inv. M.88.91.237 (https://collections.lacma.org/node/171066)"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-23T17:11:32.772309",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
