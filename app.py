@@ -6,15 +6,10 @@ from modules.git_tools import git_pull, git_commit_and_push
 from modules.data.load import load_all_entries, _load_json
 
 from modules.pages.home import render_home
-from modules.form.search import render_search_notices
-from modules.form.add_notice_architecture import add_notice_architecture
-from modules.form.add_notice_peinture import add_notice_peinture
-from modules.form.add_notice_ensemble import add_notice_ensemble
+from modules.form.add_notice import add_notice
 
 
 from modules.search.search import render_search_entries_all
-from modules.search.search_architecture import render_search_entries_architecture
-from modules.search.search_painting import render_search_entries_painting
 from modules.search.modify_entry import edit_json_notice
 
 from modules.data.index_xml_personnes import sync_person_ids
@@ -166,7 +161,7 @@ if st.session_state.active_menu is None:
 
 elif st.session_state.active_menu == "add":
     st.session_state.type_notice = "ensemble"
-    add_notice_ensemble()
+    add_notice()
 
 elif st.session_state.active_menu == "edit":
     if "editing_notice" in st.session_state and st.session_state.editing_notice:

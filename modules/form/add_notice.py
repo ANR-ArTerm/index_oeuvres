@@ -261,7 +261,7 @@ def add_illustration(xml_id, illus, idx):
             key=f"{xml_id}_edit_illus_caption_{idx}"
         )
 
-def add_notice_ensemble():
+def add_notice():
     st.title("➕ Ajouter une notice")
 
     entry_editor = st.selectbox(
