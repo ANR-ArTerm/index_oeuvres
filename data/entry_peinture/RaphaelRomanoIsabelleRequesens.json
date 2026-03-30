@@ -14,11 +14,11 @@
     }
   ],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1518,
+    "endYear": 1518,
+    "text": "1518"
   },
-  "materialsAndTechniques": null,
+  "materialsAndTechniques": "huile sur bois transposé sur toile",
   "location": {
     "type": "holding_institution",
     "institution": {
@@ -59,6 +59,11 @@
     },
     {
       "date": "2026-02-20T16:14:46.454602",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-03-30T11:47:10.906646",
       "type": "modified",
       "author": "Pierre"
     }
