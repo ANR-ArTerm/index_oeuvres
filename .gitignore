@@ -18,3 +18,4 @@ __pycache__
 .streamlit/
 .DS_Store
 modules/.DS_Store
+data/.DS_Store

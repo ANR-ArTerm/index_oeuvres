@@ -57,7 +57,7 @@ echo ""
 
 echo "=== Création / Vérification du .env et du username ==="
 
-VALID_USERS=("Pierre" "Julia" "Anna" "Emma" "Carla")
+VALID_USERS=("Pierre" "Julia" "Anna" "Emma" "Carla" "Elisa")
 
 # Fonction pour demander un nom valide
 ask_username() {
