@@ -27,13 +27,26 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Basilica_di_Santa_Maria_degli_Angeli_e_dei_Martiri_-_22-11-2019.jpg",
+      "copyright": "Gustavo La Pizza -  CC BY-SA",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "Voir avec Pierre pas assez d'info ?",
   "history": [
     {
       "date": "2026-04-08T16:54:41.566924",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-04-08T16:56:25.182766",
+      "type": "modified",
       "author": "Carla"
     }
   ],

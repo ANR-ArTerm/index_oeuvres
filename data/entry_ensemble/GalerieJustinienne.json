@@ -1,0 +1,37 @@
+{
+  "id": "GalerieJustinienne",
+  "QID_wikidata": "",
+  "entry_type": "ensemble",
+  "title": "La Galerie Justinienne",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1620,
+    "endYear": 1637,
+    "text": "vers 1620-1637"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Hestia_Giustiniani_%28Louvre%29.jpg",
+      "storage": "online",
+      "copyright": "Domaine public, Ismoon",
+      "caption": "œuvre d'illustration"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-08T17:46:14.037750",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "typology": "collection d'œuvres",
+  "contains_works": []
+}
