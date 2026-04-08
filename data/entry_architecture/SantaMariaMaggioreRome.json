@@ -1,0 +1,53 @@
+{
+  "id": "SantaMariaMaggioreRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q186282",
+  "entry_type": "architecture",
+  "title": "Basilique Santa Maria Maggiore ",
+  "creator": [
+    {
+      "xml_id": "FerdinandoFuga",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 400,
+    "endYear": 1799,
+    "text": "du Ve au XVIIIème siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Basilica_di_Santa_Maria_Maggiore_-_Roma.jpg",
+      "storage": "online",
+      "copyright": "CC BY-SA 4.0, NikonZ7II, https://commons.wikimedia.org/wiki/File:Basilica_di_Santa_Maria_Maggiore_-_Roma.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-08T15:08:52.783739",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "typology": "basilique",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
