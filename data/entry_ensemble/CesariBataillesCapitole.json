@@ -1,0 +1,48 @@
+{
+  "id": "CesariBataillesCapitole",
+  "QID_wikidata": "",
+  "entry_type": "ensemble",
+  "title": "Les batailles du Capitole",
+  "creator": [
+    {
+      "xml_id": "GiuseppeCesari",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1612,
+    "endYear": 1612,
+    "text": "1612 - 1613"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Musée Capitolin",
+      "place": "Rome",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Cavalier_d%27Arpino_-_Combat_of_the_Horatii_and_the_Curiatii_-_Google_Art_Project.jpg",
+      "storage": "online",
+      "copyright": "DcoetzeeBot",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-08T16:38:02.325678",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "typology": "ensemble décoratif",
+  "contains_works": []
+}
