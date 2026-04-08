@@ -1,0 +1,45 @@
+{
+  "id": "SantaMariaDegliAngeliMartiriRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q569253",
+  "entry_type": "architecture",
+  "title": "Basilique Santa Maria Degli Angeli Martiri",
+  "creator": [
+    {
+      "xml_id": "LuigiVanvitelli",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1500,
+    "endYear": 1599,
+    "text": "XVIème siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "Voir avec Pierre pas assez d'info ?",
+  "history": [
+    {
+      "date": "2026-04-08T16:54:41.566924",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "typology": "basilique",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
