@@ -4,7 +4,7 @@ setlocal ENABLEDELAYEDEXPANSION
 echo === Verification du USERNAME ===
 echo.
 
-set "VALID_USERS=Pierre Julia Anna Emma Carla"
+set "VALID_USERS=Pierre Julia Anna Emma Carla Nicolo Elisa"
 set "CURRENT_USER="
 
 :: Lecture du USERNAME existant (première occurrence seulement)
@@ -24,7 +24,7 @@ if defined CURRENT_USER (
 :: Sinon → demander le nom
 :ASK_USERNAME
 color 0A
-set /p USERNAME="Entrez votre nom d'utilisateur (Pierre, Julia, Anna, Emma, Carla) : "
+set /p USERNAME="Entrez votre nom d'utilisateur (Pierre, Julia, Anna, Emma, Carla, Nicolo, Elisa) : "
 color 07
 
 set FOUND=0
