@@ -57,12 +57,12 @@ echo ""
 
 echo "=== Création / Vérification du .env et du username ==="
 
-VALID_USERS=("Pierre" "Julia" "Anna" "Emma" "Carla")
+VALID_USERS=("Pierre" "Julia" "Anna" "Emma" "Carla" "Nicolo" "Elisa")
 
 # Fonction pour demander un nom valide
 ask_username() {
     while true; do
-        read -p "Entrez votre nom d'utilisateur (Pierre, Julia, Anna, Emma, Carla) : " USERNAME
+        read -p "Entrez votre nom d'utilisateur (Pierre, Julia, Anna, Emma, Carla, Nicolo, Elisa) : " USERNAME
         for valid in "${VALID_USERS[@]}"; do
             if [ "$USERNAME" == "$valid" ]; then
                 return 0
