@@ -1,11 +1,11 @@
 {
-  "id": "MonastereSantAgata",
+  "id": "MonastèreSantAgata",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q3672246",
   "entry_type": "architecture",
   "title": "Monastère de Sant'Agata",
   "creator": [
     {
-      "xml_id": null,
+      "xml_id": "AlessandroAllori",
       "role": "architecte"
     }
   ],
@@ -26,32 +26,27 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": null,
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
-      "url": "https://commons.wikimedia.org/wiki/File:Sant%27Agata_crop.jpg#/media/File:Sant'Agata_crop.jpg",
+      "url": "",
+      "storage": "",
       "copyright": "",
-      "caption": "",
-      "storage": "online"
+      "caption": ""
     }
   ],
-  "description": "Église conçue par Alessandro Allori",
+  "description": "L'église du monastère a été conçue par Alessandro Allori.",
   "commentary": "",
   "history": [
     {
-      "date": "2026-02-16T15:12:58.066749",
+      "date": "2026-04-09T15:43:30.581586",
       "type": "created",
-      "author": "Julia"
-    },
-    {
-      "date": "2026-04-08T18:19:09.157634",
-      "type": "modified",
-      "author": "Elisa"
-    },
-    {
-      "date": "2026-04-09T15:23:53.985095",
-      "type": "modified",
       "author": "Elisa"
     }
   ],

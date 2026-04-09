@@ -26,7 +26,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "cammarellafalsittaCelliniBandinelliAmmannati2009",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -42,6 +47,11 @@
     {
       "date": "2026-03-30T15:58:07.697872",
       "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-03-31T12:57:53.206217",
+      "type": "modified",
       "author": "Elisa"
     }
   ],
