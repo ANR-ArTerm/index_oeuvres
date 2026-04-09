@@ -1,0 +1,55 @@
+{
+  "id": "BelliniFestinDesDieuxWashington",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q15008032",
+  "entry_type": "peinture",
+  "title": "Le Festin des Dieux ou la bacchanale ",
+  "creator": [
+    {
+      "xml_id": "GentileBellini",
+      "role": "auteur du modèle"
+    },
+    {
+      "xml_id": "Titien",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1514,
+    "endYear": 1529,
+    "text": "1514-1529"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "National Galerie washington",
+      "place": "Washington",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Giovanni_Bellini_and_Titian_-_The_Feast_of_the_Gods_-_Google_Art_Project.jpg",
+      "storage": "online",
+      "copyright": "Domaine public, DcoetzeeBot, https://commons.wikimedia.org/wiki/File:Giovanni_Bellini_and_Titian_-_The_Feast_of_the_Gods_-_Google_Art_Project.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-09T16:13:21.305692",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
