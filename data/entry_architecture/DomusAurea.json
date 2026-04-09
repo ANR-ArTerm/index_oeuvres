@@ -27,7 +27,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Domus_Aurea_Oppio_-_ricostruzione_ipotetica.png",
       "storage": "online",
-      "copyright": "CC/Cristiano64",
+      "copyright": "wikimedia commons, Cristiano64 CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Domus_Aurea_Oppio_-_ricostruzione_ipotetica.png)",
       "caption": ""
     }
   ],
@@ -37,6 +37,11 @@
     {
       "date": "2026-04-09T10:51:54.319983",
       "type": "created",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-04-09T11:13:52.229495",
+      "type": "modified",
       "author": "Nicolo"
     }
   ],

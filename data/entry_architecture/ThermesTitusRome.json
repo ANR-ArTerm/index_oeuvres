@@ -27,7 +27,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Terme_di_tito_pianta.png",
       "storage": "online",
-      "copyright": "CC3Sailko https://commons.wikimedia.org/wiki/File:Terme_di_tito_pianta.png",
+      "copyright": "wikimedia commons, Sailko CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Terme_di_tito_pianta.png)",
       "caption": ""
     }
   ],
@@ -37,6 +37,11 @@
     {
       "date": "2026-04-09T11:04:05.361990",
       "type": "created",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-04-09T11:15:42.062907",
+      "type": "modified",
       "author": "Nicolo"
     }
   ],

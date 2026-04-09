@@ -1,0 +1,48 @@
+{
+  "id": "ArcCostantinRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q5786",
+  "entry_type": "architecture",
+  "title": "Arc de Costantin",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 312,
+    "endYear": 315,
+    "text": "IVe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.889828",
+        "longitude": "12.490605"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Arch_of_Constantine_%28Rome%29_-_South_side%2C_from_Via_triumphalis.jpg",
+      "storage": "online",
+      "copyright": "wikimedia commons, NikonZ7II CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Arch_of_Constantine_(Rome)_-_South_side,_from_Via_triumphalis.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-09T11:19:31.661377",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Arc",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
