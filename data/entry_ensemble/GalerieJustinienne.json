@@ -30,8 +30,19 @@
       "date": "2026-04-08T17:46:14.037750",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-04-09T12:09:18.744716",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
   "typology": "collection d'œuvres",
-  "contains_works": []
+  "contains_works": [
+    {
+      "link_type": null,
+      "xml_id_work": null,
+      "link_types_contained": null
+    }
+  ]
 }

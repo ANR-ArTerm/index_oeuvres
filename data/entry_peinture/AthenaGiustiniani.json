@@ -51,7 +51,16 @@
       "date": "2026-01-27T14:56:58.045300",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-04-09T12:07:59.542996",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
-  "materialsAndTechniques": "sculpture"
+  "materialsAndTechniques": "sculpture",
+  "contained_by_ensemble": {
+    "link_type": "appartient à l'ensemble",
+    "xml_id_work": "GalerieJustinienne"
+  }
 }
