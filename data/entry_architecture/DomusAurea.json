@@ -1,0 +1,48 @@
+{
+  "id": "DomusAurea",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q622438",
+  "entry_type": "architecture",
+  "title": "Domus Aurea",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 64,
+    "endYear": 68,
+    "text": "Ie siècle "
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.891388888",
+        "longitude": "12.495277777"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Domus_Aurea_Oppio_-_ricostruzione_ipotetica.png",
+      "storage": "online",
+      "copyright": "CC/Cristiano64",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-09T10:51:54.319983",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Maison",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
