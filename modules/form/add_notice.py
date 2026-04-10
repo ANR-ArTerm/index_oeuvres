@@ -580,6 +580,12 @@ def add_notice():
     # ----------------------------
     # CAS : NON LOCALISÉ
     # ----------------------------
+    elif location_type == "unlocated":
+        notice["location"] = {"type": "unlocated"}
+    
+    elif location_type == "many_location":
+        notice["location"] = {"type": "many locations"}
+
     else:
         notice["location"] = {"type": "unlocated"}
 
