@@ -2,7 +2,7 @@ import os
 from pathlib import Path
 import time
 import streamlit as st
-from modules.search.search_painting import normalize_notice_painting
+from modules.search.search_artwork import normalize_notice_artwork
 from modules.search.search_architecture import normalize_notice_architecture
 from modules.search.search_ensemble import normalize_notice_ensemble
 from modules.data.load import load_all_entries, delete_notice
@@ -22,7 +22,7 @@ def normalize_notice(o, entry_type):
         d["secondary"] = d.get("typology", "AUCUNE TYPOLOGIE")
 
     elif entry_type == "artwork":
-        d = normalize_notice_painting(o) or {}
+        d = normalize_notice_artwork(o) or {}
         d["location_display"] = f"{d.get('city', 'AUCUNE VILLE')} – {d.get('name', 'AUCUNE INSTITUTION')}"
         d["secondary"] = d.get("materialsAndTechniques", "AUCUNE TECHNIQUE")
 

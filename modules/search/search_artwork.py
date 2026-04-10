@@ -5,7 +5,7 @@ from pathlib import Path
 
 from modules.data.load import load_all_entries, delete_notice
 
-def normalize_notice_painting(o):
+def normalize_notice_artwork(o):
     """
     Remplace les champs vides par des chaînes 'AUCUN ...' pour que la recherche fonctionne.
     """
@@ -60,19 +60,19 @@ def normalize_notice_painting(o):
 
     return o_display
 
-def render_search_entries_painting():
+def render_search_entries_artwork():
     st.header("🔍 Recherche dans les notices peintures")
     
     # Charger toutes les œuvres
     oeuvres = load_all_entries("artwork")
 
-    search_query = st.text_input("Rechercher dans toutes les œuvres", key="search_painting")
+    search_query = st.text_input("Rechercher dans toutes les œuvres", key="search_artwork")
 
     st.subheader("Résultats")
     filtered = []
 
     for idx, (o, json_path) in enumerate(oeuvres):
-        o_display = normalize_notice_painting(o)
+        o_display = normalize_notice_artwork(o)
         if search_query.lower() in json.dumps(o_display, ensure_ascii=False).lower():
             filtered.append((idx, o, o_display, json_path))
 
@@ -106,14 +106,14 @@ def render_search_entries_painting():
                 col_mod, col_del = st.columns([1, 1])
 
                 with col_mod:
-                    if st.button("Modifier ✏️", key=f"mod_painting_{idx}"):
+                    if st.button("Modifier ✏️", key=f"mod_artwork_{idx}"):
                         st.session_state.editing_notice = str(Path(json_path).resolve())
                         st.session_state.original_id = o.get("id")
                         st.session_state.active_menu = "edit"
                         st.rerun()
 
                 with col_del:
-                    if st.button("Supprimer 🗑️", key=f"del_painting_{idx}"):
+                    if st.button("Supprimer 🗑️", key=f"del_artwork_{idx}"):
                         delete_notice(json_path)
                         st.success(f"Notice déplacée dans la corbeille : {json_path}")
                         time.sleep(1)

@@ -47,7 +47,7 @@ def add_creator(xml_id, creator, idx, type_entry):
             creator["role"] = st.selectbox("Rôle :",
                                             load_list_form("artists_roles"),
                                             index=None,
-                                            key=f"{xml_id}_creator_painting_xmlid_{idx}",
+                                            key=f"{xml_id}_creator_artwork_xmlid_{idx}",
                                             accept_new_options=True
                                             )
             if not creator["role"] in load_list_form("artists_roles"):

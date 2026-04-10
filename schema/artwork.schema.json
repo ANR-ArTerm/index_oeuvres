@@ -39,15 +39,15 @@
       }
     },
     "dateCreated": {
-      "type": ["object", "null"],
+      "type": "object",
       "properties": {
         "startYear": {
-          "type": "integer",
+          "type": ["integer", "null"],
           "minimum": -9999,
           "maximum": 9999
         },
         "endYear": {
-          "type": "integer",
+          "type": ["integer", "null"],
           "minimum": -9999,
           "maximum": 9999
         },
