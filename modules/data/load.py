@@ -35,7 +35,9 @@ LIST_FORM = {
     "typologies_ensemble":"typologies_ensemble.json",
     "link_types_contained":"link_types_contained.json",
     "link_types_contains":"link_types_contains.json",
-    "text_xml":"text_xml.json"
+    "text_xml":"text_xml.json",
+    "places_cities":"places_cities.json",
+    "places_countries":"places_countries.json"
 }
 
 LIST_CSV_QID = {

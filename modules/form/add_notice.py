@@ -15,8 +15,8 @@ def init_empty_notice(xml_id, entry_type):
         "title": "",
         "creator": [],
         "dateCreated": {
-            "startYear": null,
-            "startYear": null,
+            "startYear": None,
+            "endYear": None,
             "text": ""
         },
         "location": "",
@@ -506,15 +506,25 @@ def add_notice():
         colVille, colPays = st.columns([1, 1])
 
         with colVille:
-            place["city"] = st.text_input(
+            place["city"] = st.selectbox(
                 "Ville",
-                value=place.get("city", "")
+                load_list_form("places_cities"),
+                index=None,
+                accept_new_options=True
             )
+            if not place["city"] in load_list_form("places_cities"):
+                save_to_list_form("places_cities", place["city"])
+            
         with colPays:
-            place["country"] = st.text_input(
+            place["country"] = st.selectbox(
                 "Pays",
-                value=place.get("country", "")
+                load_list_form("places_countries"),
+                index=None,
+                accept_new_options=True
             )
+            if not place["country"] in load_list_form("places_countries"):
+                save_to_list_form("places_countries", place["country"])
+
 
         coordinates = place.get("coordinates", {})
 
