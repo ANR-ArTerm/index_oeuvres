@@ -255,6 +255,12 @@ def add_illustration(xml_id, illus, idx):
             key=f"{xml_id}_edit_illus_copyright_{idx}"
         )
 
+        with st.expander("Voir des exemples pour les droits"):
+                st.write('''
+                    Wikimedia Commons, CC BY-SA 4.0, Auteur de l'image (lien de l'image)
+                    Wikimedia Commons, CC BY-SA 4.0, Akinator (https://commons.wikimedia.org/wiki/File:Akinator.svg?lang=fr)
+                ''')
+
         illus["caption"] = st.text_input(
             "Légende",
             illus.get("caption", ""),
