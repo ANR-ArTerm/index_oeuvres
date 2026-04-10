@@ -15,8 +15,8 @@
   "entry_type": "artwork",
   "materialsAndTechniques": "",
   "dateCreated": {
-    "startYear": "",
-    "endYear": "",
+    "startYear": null,
+    "startYear": null,
     "text": ""
   },
   "location": {

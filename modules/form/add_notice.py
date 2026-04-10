@@ -15,8 +15,8 @@ def init_empty_notice(xml_id, entry_type):
         "title": "",
         "creator": [],
         "dateCreated": {
-            "startYear": "",
-            "endYear": "",
+            "startYear": null,
+            "startYear": null,
             "text": ""
         },
         "location": "",

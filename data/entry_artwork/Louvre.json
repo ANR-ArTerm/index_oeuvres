@@ -5,8 +5,8 @@
   "title": "Louvre",
   "creator": [],
   "dateCreated": {
-    "startYear": "",
-    "endYear": "",
+    "startYear": null,
+    "startYear": null,
     "text": ""
   },
   "materialsAndTechniques": "",
