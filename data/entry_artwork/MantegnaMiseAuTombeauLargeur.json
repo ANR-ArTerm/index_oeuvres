@@ -1,0 +1,50 @@
+{
+  "id": "MantegnaMiseAuTombeauLargeur",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q56305283",
+  "title": "La Mise au Tombeau en largeur",
+  "creator": [
+    {
+      "xml_id": "AndreaMantegna",
+      "role": "graveur"
+    }
+  ],
+  "entry_type": "artwork",
+  "materialsAndTechniques": "burin",
+  "dateCreated": {
+    "startYear": 1470,
+    "endYear": 1475,
+    "text": "1470-1475"
+  },
+  "location": {
+    "type": "many locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://api.nga.gov/iiif/4a29ebb4-46e0-4480-9662-14539c383c3f/full/full/0/default.jpg",
+      "copyright": "Washington, National Gallery of Arts, inv. 1986.98.1 (https://www.nga.gov/artworks/69604-entombment)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-06T14:48:18.467019",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-03-09T11:53:24.643972",
+      "type": "modified",
+      "author": "Pierre"
+    }
+  ],
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

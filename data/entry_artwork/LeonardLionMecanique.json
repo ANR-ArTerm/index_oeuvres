@@ -1,0 +1,44 @@
+{
+  "id": "LeonardLionMecanique",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Lion mécanique",
+  "creator": [
+    {
+      "xml_id": "LeonardoDaVinci",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "materialsAndTechniques": "",
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "",
+      "place": "",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-15T16:40:40.421591",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-01-20T18:26:28.596238",
+      "type": "modified",
+      "author": "Pierre"
+    }
+  ]
+}

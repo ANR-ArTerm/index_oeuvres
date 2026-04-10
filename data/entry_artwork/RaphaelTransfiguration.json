@@ -1,0 +1,67 @@
+{
+  "id": "RaphaelTransfiguration",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2344437",
+  "entry_type": "artwork",
+  "title": "La Transfiguration",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1516,
+    "endYear": 1520,
+    "text": "1516-1520"
+  },
+  "materialsAndTechniques": "huile sur bois",
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Pinacothèque vaticane",
+      "place": "Rome",
+      "inventory_number": "Inv. 40333",
+      "url": "https://www.museivaticani.va/content/museivaticani/fr/collezioni/musei/la-pinacoteca/sala-viii---secolo-xvi/raffaello-sanzio--trasfigurazione.html"
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "meyerzurcapellenRaphaelCriticalCatalogue2005",
+      "location": "n° 66"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Transfigurazione_%28Raffaello%29_September_2015-1a.jpg",
+      "copyright": "Wikipedia Commons",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "Potentiellement demander les droits au Vatican.",
+  "history": [
+    {
+      "date": "2026-01-06T14:07:13.270955",
+      "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-06T14:07:42.517150",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-06T14:07:45.386055",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-09T12:32:06.542100",
+      "type": "modified",
+      "author": "Carla"
+    }
+  ]
+}

@@ -17,7 +17,7 @@ def edit_creator(xml_id, creator, idx, type_entry):
                                      key=f"{xml_id}_creator_xmlid_{idx}"
                                      )
     with col2:
-        if type_entry == "peinture":
+        if type_entry == "artwork":
             creator["role"] = st.selectbox("Rôle :",
                                             load_list_form("artists_roles"),
                                             index=index_list_form(creator.get("role", ""), "artists_roles"),
@@ -344,7 +344,7 @@ def edit_json_notice(json_path=None, data=None):
         st.rerun()
 
     # — PEINTURE —
-    if entry_type == "peinture":
+    if entry_type == "artwork":
         st.header("🎨 Matériaux & Techniques")
 
         notice["materialsAndTechniques"] = st.selectbox(
@@ -533,7 +533,7 @@ def edit_json_notice(json_path=None, data=None):
         ):
             notice["contains_works"] = []
 
-        list_xml_id_contained = get_all_objects_ids_flat_sorted(["peinture", "architecture"])
+        list_xml_id_contained = get_all_objects_ids_flat_sorted(["artwork", "architecture"])
 
         for idx, work in enumerate(notice["contains_works"]):
             notice["contains_works"][idx] = edit_contained_work(
@@ -556,7 +556,7 @@ def edit_json_notice(json_path=None, data=None):
             )
             st.rerun()
 
-    if entry_type in {"architecture", "peinture"}:
+    if entry_type in {"architecture", "artwork"}:
         st.header("🌿 Ensemble contenant l'œuvre")
         if "contained_by_ensemble" not in notice:
             notice["contained_by_ensemble"] = {}

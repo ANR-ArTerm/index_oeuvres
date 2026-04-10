@@ -1,0 +1,54 @@
+{
+  "id": "CortCalomnieApelle",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "La Calomnie d'Appelle",
+  "creator": [
+    {
+      "xml_id": "CornelisCort",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "FedericoZuccaro",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1572,
+    "endYear": 1572,
+    "text": "1572"
+  },
+  "location": {
+    "type": "many locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "hollsteinNewHollsteinDutchCort2000",
+      "location": "vol. 3, n° 211"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/422774/1680448/main-image",
+      "storage": "online",
+      "copyright": "",
+      "caption": "New York, Metropolitan Museum of Arts, inv. 51.501.3322 (http://metmuseum.org/fr/art/collection/search/422774)"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-20T18:23:19.308625",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

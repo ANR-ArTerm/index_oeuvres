@@ -64,7 +64,7 @@ def render_search_entries_painting():
     st.header("🔍 Recherche dans les notices peintures")
     
     # Charger toutes les œuvres
-    oeuvres = load_all_entries("peinture")
+    oeuvres = load_all_entries("artwork")
 
     search_query = st.text_input("Rechercher dans toutes les œuvres", key="search_painting")
 

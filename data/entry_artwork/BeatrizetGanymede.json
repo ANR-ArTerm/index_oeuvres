@@ -1,0 +1,49 @@
+{
+  "id": "BeatrizetGanymede",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Le Rapt de Ganymède",
+  "creator": [
+    {
+      "xml_id": "NicolasBeatrizet",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "MichelAnge",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1542,
+    "endYear": 1542,
+    "text": "1542"
+  },
+  "location": {
+    "type": "many locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/679192/1433187/main-image",
+      "storage": "online",
+      "copyright": "New York, Metropolitan Museum of Arts, inv. 50.567.25 (https://www.metmuseum.org/fr/art/collection/search/679192)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-18T16:24:27.541259",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "BeatrizetPropheteJeremie",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Le prophète Jérémie (Chapelle Sixtine)",
+  "creator": [
+    {
+      "xml_id": "NicolasBeatrizet",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "MichelAnge",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1540,
+    "endYear": 1560,
+    "text": "Milieu du XVIe siècle."
+  },
+  "location": {
+    "type": "many locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://framemark.vam.ac.uk/collections/2010EF2793/full/full/0/default.jpg",
+      "storage": "online",
+      "copyright": "© Victoria and Albert Museum, London",
+      "caption": "Londres, Victoria and Albert Museum, inv. DYCE.1170 (https://collections.vam.ac.uk/item/O240290/the-prophet-jeremiah-print-beatrizet-nicolas/)"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-18T16:53:55.440239",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

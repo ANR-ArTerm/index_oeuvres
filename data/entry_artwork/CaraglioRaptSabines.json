@@ -1,0 +1,38 @@
+{
+  "id": "CaraglioRaptSabines",
+  "QID_wikidata": "",
+  "title": "Le rapt des sabines",
+  "creator": [
+    {
+      "xml_id": "GiovanniJacopoCaraglio",
+      "role": "graveur"
+    }
+  ],
+  "entry_type": "artwork",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "location": {
+    "type": "many locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "straussIllustratedBartsch281985",
+      "location": "n° 63 (96)"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-06T14:48:18.473374",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

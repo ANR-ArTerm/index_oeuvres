@@ -1,0 +1,52 @@
+{
+  "id": "AndreaAndreaniTriompheGrave",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Les Triomphes de Jules César",
+  "creator": [
+    {
+      "xml_id": "AndreaAndreani",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1599,
+    "endYear": 1599,
+    "text": "1599"
+  },
+  "materialsAndTechniques": "gravure sur bois en clair-obscur",
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "The Metropolitan Museum of Art",
+      "place": "New York",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "gravé d'après",
+      "xml_id_work": "MantegnaTriompheCesar"
+    }
+  ],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP-16307-001.jpg",
+      "copyright": "",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-19T15:51:10.587315",
+      "type": "created",
+      "author": "Carla"
+    }
+  ]
+}

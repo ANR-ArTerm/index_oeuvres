@@ -1,0 +1,54 @@
+{
+  "id": "BernardSalomonBibliaSacra",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Biblia sacra, ad optima quaeque veteris, ut vocant, tralationis exemplaria summa diligentia, parique, fide castigata cum indicibus copiosissimis",
+  "creator": [
+    {
+      "xml_id": "BernardSalomon",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "JeanIdeTournes",
+      "role": "éditeur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1558,
+    "endYear": 1558,
+    "text": "1558"
+  },
+  "location": {
+    "type": "many locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://www.mahmah.ch/sites/default/files/styles/scale_w1148/public/image/2026-02/2575490.jpeg",
+      "storage": "online",
+      "copyright": "Genève, Musée d'art et d'histoire (https://www.mahmah.ch/collection/oeuvres/tour-de-babel-gen-xi/em-0344)",
+      "caption": "La tour de Babel"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-09T15:33:33.164577",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-03-09T15:34:01.444869",
+      "type": "modified",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "livre illustré de gravures sur bois",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "DaCarpiEneeAnchise",
+  "QID_wikidata": "",
+  "title": "Enée et Anchise",
+  "creator": [
+    {
+      "xml_id": "UgoDaCarpi",
+      "role": "graveur"
+    }
+  ],
+  "entry_type": "artwork",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "location": {
+    "type": "many locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "straussIllustratedBartsch481983",
+      "location": "n° 12 (104)"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-06T14:48:18.472367",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

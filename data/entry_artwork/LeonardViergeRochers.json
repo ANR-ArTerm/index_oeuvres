@@ -1,0 +1,49 @@
+{
+  "id": "LeonardViergeRochers",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q269342",
+  "entry_type": "artwork",
+  "title": "La Vierge au Rocher",
+  "creator": [
+    {
+      "xml_id": "LeonardoDaVinci",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "materialsAndTechniques": "",
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "",
+      "place": "",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "maraniLeonardVinciCarriere1999",
+      "location": "n° 26"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "VERIFIER",
+  "history": [
+    {
+      "date": "2026-01-15T16:40:40.413437",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-01-20T18:26:10.758689",
+      "type": "modified",
+      "author": "Pierre"
+    }
+  ]
+}

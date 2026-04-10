@@ -1,0 +1,42 @@
+{
+  "id": "GuillainFrontispiceCarrache",
+  "QID_wikidata": "",
+  "title": "Frontispice et portrait d'Annibale Carrache",
+  "creator": [
+    {
+      "xml_id": "SimonGuillainII",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "AnnibaleCarracci",
+      "role": "auteur du modèle"
+    }
+  ],
+  "entry_type": "artwork",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "location": {
+    "type": "many locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "bibliothequenationaleInventaireFondsFrancais17V1968",
+      "location": "p. 150, n°3"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-06T14:48:18.474762",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

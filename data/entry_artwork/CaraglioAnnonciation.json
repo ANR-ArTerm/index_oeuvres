@@ -1,0 +1,42 @@
+{
+  "id": "CaraglioAnnonciation",
+  "QID_wikidata": "",
+  "title": "Annonciation",
+  "creator": [
+    {
+      "xml_id": "GiovanniJacopoCaraglio",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "Titien",
+      "role": "auteur du modèle"
+    }
+  ],
+  "entry_type": "artwork",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "location": {
+    "type": "many locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "straussIllustratedBartsch281985",
+      "location": ""
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-06T14:48:18.473561",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

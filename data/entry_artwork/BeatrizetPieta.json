@@ -1,0 +1,49 @@
+{
+  "id": "BeatrizetPieta",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Pietà",
+  "creator": [
+    {
+      "xml_id": "NicolasBeatrizet",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "MichelAnge",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1547,
+    "endYear": 1547,
+    "text": "1547"
+  },
+  "location": {
+    "type": "many locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/360404/1678375/main-image",
+      "storage": "online",
+      "copyright": "",
+      "caption": "New York, Metropolitan Museum of arts, inv. 66.553.9 (https://www.metmuseum.org/fr/art/collection/search/360404)"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-18T16:39:46.953492",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

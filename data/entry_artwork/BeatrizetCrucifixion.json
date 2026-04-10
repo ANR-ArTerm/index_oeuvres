@@ -1,0 +1,54 @@
+{
+  "id": "BeatrizetCrucifixion",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "La Crucifixion",
+  "creator": [
+    {
+      "xml_id": "NicolasBeatrizet",
+      "role": "graveur (attribué à)"
+    },
+    {
+      "xml_id": "MichelAnge",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1540,
+    "endYear": 1560,
+    "text": "Milieu du XVIe siècle"
+  },
+  "location": {
+    "type": "many locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/390939/755543/main-image",
+      "storage": "online",
+      "copyright": "",
+      "caption": "New York, Metropolitan Museum, inv. 59.642.83 (https://www.metmuseum.org/fr/art/collection/search/390939)"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-18T16:44:50.515762",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-03-18T16:45:07.294731",
+      "type": "modified",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

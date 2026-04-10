@@ -1,0 +1,44 @@
+{
+  "id": "LeonardMeduse",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3492887",
+  "entry_type": "artwork",
+  "title": "Tête de Méduse",
+  "creator": [
+    {
+      "xml_id": "LeonardoDaVinci",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "materialsAndTechniques": "",
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "",
+      "place": "",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "maraniLeonardVinciCarriere1999",
+      "location": "perdues n°3"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "Fiche à rédiger, cas complexe",
+  "history": [
+    {
+      "date": "2026-01-15T16:40:40.387967",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "RaphaelMesseBolsena",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2529969",
+  "entry_type": "artwork",
+  "title": "La messe de Bolsena ou le miracle du saint Sacrement de Bolsena",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1512,
+    "endYear": 1512,
+    "text": "1512"
+  },
+  "materialsAndTechniques": "fresque",
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Vatican, Palais apostolique",
+      "place": "Rome",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "dusslerRaphaelCriticalCatalogue1971",
+      "location": "p. 80"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Massatbolsena.jpg",
+      "copyright": "",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-13T17:24:08.101361",
+      "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-14T10:04:50.319562",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-14T10:09:18.984996",
+      "type": "modified",
+      "author": "Carla"
+    }
+  ]
+}

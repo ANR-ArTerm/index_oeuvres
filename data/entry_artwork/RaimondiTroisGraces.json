@@ -1,0 +1,38 @@
+{
+  "id": "RaimondiTroisGraces",
+  "QID_wikidata": "",
+  "title": "Les trois graces",
+  "creator": [
+    {
+      "xml_id": "MarcantonioRaimondi",
+      "role": "graveur"
+    }
+  ],
+  "entry_type": "artwork",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "location": {
+    "type": "many locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "straussIllustratedBartsch271978",
+      "location": "n° 340 (255)"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-06T14:48:18.471605",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

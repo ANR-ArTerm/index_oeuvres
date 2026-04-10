@@ -1,0 +1,46 @@
+{
+  "id": "SuaireTurin",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3961619",
+  "entry_type": "artwork",
+  "title": "Suaire de Turin",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Cathédrale Saint-Jean-Baptiste",
+      "place": "Turin",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Shroudofturin.jpg/500px-Shroudofturin.jpg",
+      "storage": "online",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-17T15:40:29.366836",
+      "type": "created",
+      "author": "Julia"
+    }
+  ],
+  "materialsAndTechniques": null,
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

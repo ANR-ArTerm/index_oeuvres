@@ -1,0 +1,49 @@
+{
+  "id": "BeatrizetAnnonciation",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Annonciation",
+  "creator": [
+    {
+      "xml_id": "NicolasBeatrizet",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "MichelAnge",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1540,
+    "endYear": 1560,
+    "text": "Milieu du XVIe siècle"
+  },
+  "location": {
+    "type": "many locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://framemark.vam.ac.uk/collections/2010EF2795/full/full/0/default.jpg",
+      "storage": "online",
+      "copyright": "© Victoria and Albert Museum, London (https://collections.vam.ac.uk/item/O1153398/the-annunciation-print-beatrizet-nicolas/)",
+      "caption": "Londres, Victorian and Albert Museum, inv. DYCE.1171"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-18T16:58:43.850768",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

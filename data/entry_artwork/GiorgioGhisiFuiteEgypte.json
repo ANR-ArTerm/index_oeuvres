@@ -1,0 +1,59 @@
+{
+  "id": "GiorgioGhisiFuiteEgypte",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Le repos au cours de la fuite en Egypte",
+  "creator": [
+    {
+      "xml_id": "GiorgioGhisi",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "GiulioCampi",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1578,
+    "endYear": 1578,
+    "text": "1578"
+  },
+  "location": {
+    "type": "many locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "straussIllustratedBartsch311986",
+      "location": "n° 4 (385)"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://api.nga.gov/iiif/761976b0-a630-449f-93a9-0529dd6cc113/full/full/0/default.jpg",
+      "storage": "online",
+      "copyright": "",
+      "caption": "Washington, National Gallery of Arts, inv. 1964.8.1031 (https://www.nga.gov/artworks/48180-rest-flight-egypt)"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-20T14:43:15.815884",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-03-20T14:44:20.956988",
+      "type": "modified",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "DurerPassionCuivre",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Passion sur cuivre",
+  "creator": [
+    {
+      "xml_id": "AlbrechtDurer",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1507,
+    "endYear": 1513,
+    "text": "1507-1513"
+  },
+  "location": {
+    "type": "many locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "La passion sur cuivre est une suite de 16 gravures au burin.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-03T17:11:21.427035",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

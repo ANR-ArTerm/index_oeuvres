@@ -1,0 +1,55 @@
+{
+  "id": "FrancoAdorationDesRois",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Adorations des rois mages",
+  "creator": [
+    {
+      "xml_id": "BattistaFranco",
+      "role": "graveur (attribué à)"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1530,
+    "endYear": 1560,
+    "text": "Milieu du XVIe siècle."
+  },
+  "location": {
+    "type": "many locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "straussIllustratedBartsch321979",
+      "location": "n° 2 (154)"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/1_12/4b0a855f_6a62_432a_93a4_a3b700c8c055/mid_00058862_001.jpg",
+      "storage": "online",
+      "copyright": "© The Trustees of the British Museum (CC BY-NC-SA 4.0)",
+      "caption": "Londres, British Museum, inv. W,9.31 (https://www.britishmuseum.org/collection/object/P_W-9-31)"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-18T17:53:05.357074",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-03-18T18:04:41.870590",
+      "type": "modified",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "eau-forte et burin",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

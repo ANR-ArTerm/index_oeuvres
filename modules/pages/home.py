@@ -17,7 +17,7 @@ def render_home():
 
     # Section visual
     col1, col2, col3, col4 = st.columns(4)
-    total_notices = len(load_all_entries("peinture")) + len(load_all_entries("architecture")) + len(load_all_entries("ensemble"))
+    total_notices = len(load_all_entries("artwork")) + len(load_all_entries("architecture")) + len(load_all_entries("ensemble"))
     col1.metric("📄 Notices totales", f"{total_notices} notices")  # Tu peux remplacer par une fonction dynamique
     col2.metric("🖌️ Peintures", f"{len(load_all_entries('peinture'))} notices")
     col3.metric("🏛️ Architectures", f"{len(load_all_entries('architecture'))} notices")

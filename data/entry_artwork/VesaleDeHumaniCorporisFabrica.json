@@ -1,0 +1,37 @@
+{
+  "id": "VesaleDeHumaniCorporisFabrica",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1233009",
+  "entry_type": "artwork",
+  "title": "De humani corporis fabrica",
+  "creator": [
+    {
+      "xml_id": "AndreasVanWesel",
+      "role": "auteur du texte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "many locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-03T18:17:23.871107",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": null,
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

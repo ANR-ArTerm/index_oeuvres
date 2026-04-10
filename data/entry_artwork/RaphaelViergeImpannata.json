@@ -1,0 +1,44 @@
+{
+  "id": "RaphaelViergeImpannata",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2052275",
+  "entry_type": "artwork",
+  "title": "Vierge de l'Impannata",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "materialsAndTechniques": "",
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "",
+      "place": "",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "meyerzurcapellenRaphaelCriticalCatalogue2005",
+      "location": "n° 58"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-15T16:40:40.285832",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

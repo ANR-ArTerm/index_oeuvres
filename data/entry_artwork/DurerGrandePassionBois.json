@@ -1,0 +1,37 @@
+{
+  "id": "DurerGrandePassionBois",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q127736",
+  "entry_type": "artwork",
+  "title": "Grande p",
+  "creator": [
+    {
+      "xml_id": "AlbrechtDurer",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1497,
+    "endYear": 1510,
+    "text": "1497-1510"
+  },
+  "location": {
+    "type": "many locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-03T17:41:42.985807",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "gravure sur bois",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

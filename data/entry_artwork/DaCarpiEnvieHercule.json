@@ -1,0 +1,54 @@
+{
+  "id": "DaCarpiEnvieHercule",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "L'Envie chassée du temple des Muses",
+  "creator": [
+    {
+      "xml_id": "UgoDaCarpi",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "BaldassarrePeruzzi",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1520,
+    "endYear": 1532,
+    "text": "Vers 1530."
+  },
+  "location": {
+    "type": "many locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "straussIllustratedBartsch481983",
+      "location": "n° VIII - 12 (133)"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://ids.lib.harvard.edu/ids/iiif/20422014/full/full/0/default.jpg",
+      "storage": "online",
+      "copyright": "Photo © President and Fellows of Harvard College (https://harvardartmuseums.org/collections/object/254227)",
+      "caption": "Cambridge, Harvard Art Museums, inv. M9815"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-19T16:48:10.485564",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "gravure sur bois en clair-obscur",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

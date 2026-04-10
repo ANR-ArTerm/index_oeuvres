@@ -1,0 +1,49 @@
+{
+  "id": "BeatrizetTityos",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Le supplice de Tityos",
+  "creator": [
+    {
+      "xml_id": "NicolasBeatrizet",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "MichelAnge",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1525,
+    "endYear": 1574,
+    "text": "1525-1574"
+  },
+  "location": {
+    "type": "many locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://iiif.prd.cloud.culture.fr/iiif/3/joconde%2F02860007629%2F0000191387-gv.jpg/full/max/0/default.jpg",
+      "storage": "online",
+      "copyright": "Orléans, musée des beaux-arts © cliché François LAUGINIE",
+      "caption": "Orléans, Musée des beaux-arts, inv. 2008.0.264"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-18T16:21:58.676573",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

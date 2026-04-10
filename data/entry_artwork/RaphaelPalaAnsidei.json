@@ -1,0 +1,44 @@
+{
+  "id": "RaphaelPalaAnsidei",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2713620",
+  "entry_type": "artwork",
+  "title": "Retable Ansidei",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "materialsAndTechniques": "",
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "",
+      "place": "",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "meyerzurcapellenRaphaelCriticalCatalogue2001",
+      "location": "n° 16"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-15T16:40:40.188869",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

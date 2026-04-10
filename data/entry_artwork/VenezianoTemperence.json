@@ -1,0 +1,54 @@
+{
+  "id": "VenezianoTemperence",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "La Tempérence",
+  "creator": [
+    {
+      "xml_id": "AgostinoVeneziano",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "Raphael",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1517,
+    "endYear": 1517,
+    "text": "1517"
+  },
+  "location": {
+    "type": "many locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "straussIllustratedBartsch271978",
+      "location": "n° 358 (273)"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/342901/1923323/main-image",
+      "storage": "online",
+      "copyright": "New York, Metropolitan Museum, inv. 17.50.16-75 (https://www.metmuseum.org/art/collection/search/342901)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-06T15:46:46.275010",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

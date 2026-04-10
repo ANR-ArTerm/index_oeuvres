@@ -1,0 +1,38 @@
+{
+  "id": "VicoVulcainFleches",
+  "QID_wikidata": "",
+  "title": "Vulcain et les Cyclopes forgent les flèches pour les Amours",
+  "creator": [
+    {
+      "xml_id": "EneaVico",
+      "role": "graveur"
+    }
+  ],
+  "entry_type": "artwork",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "location": {
+    "type": "many locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "spikeIllustratedBartsch301985",
+      "location": "n° 31 (297)"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-06T14:48:18.474577",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

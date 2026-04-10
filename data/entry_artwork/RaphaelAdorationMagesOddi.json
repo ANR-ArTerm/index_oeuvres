@@ -1,0 +1,84 @@
+{
+  "id": "RaphaelAdorationMagesOddi",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Adoration des Mages (Prédelle de la Pala Oddi)",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1502,
+    "endYear": 1504,
+    "text": "1502-1504"
+  },
+  "materialsAndTechniques": "peinture grasse à tempera sur bois",
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Vatican, Musées du Vatican",
+      "place": "",
+      "inventory_number": "inv. 40335",
+      "url": "https://www.museivaticani.va/content/museivaticani/fr/collezioni/musei/la-pinacoteca/sala-viii---secolo-xvi/raffaello-sanzio--incoronazione-della-vergine.html"
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "œuvre associée",
+      "xml_id_work": "RaphaelPalaOddi"
+    },
+    {
+      "link_type": "œuvre associée",
+      "xml_id_work": "RaphaelPresentationTempleOddi"
+    },
+    {
+      "link_type": "œuvre associée",
+      "xml_id_work": "RaphaelAnnonciationOddi"
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "meyerzurcapellenRaphaelCriticalCatalogue2001",
+      "location": "n° 8 C"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/The_Adoration_of_the_Magi_-_Rafael.jpg",
+      "copyright": "Wikimedia Commons : https://commons.wikimedia.org/wiki/File:The_Adoration_of_the_Magi_-_Rafael.jpg",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-15T16:40:40.141922",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-02-04T12:15:49.598826",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-02-04T12:24:09.115017",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-02-04T12:26:24.027297",
+      "type": "modified",
+      "author": "Pierre"
+    }
+  ],
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "DurerSaintJeromeBurin",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1198912",
+  "entry_type": "artwork",
+  "title": "Saint Jérôme dans sa cellule",
+  "creator": [
+    {
+      "xml_id": "AlbrechtDurer",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1514,
+    "endYear": 1514,
+    "text": "1514"
+  },
+  "location": {
+    "type": "many locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Albrecht_D%C3%BCrer%2C_Saint_Jerome_in_His_Study%2C_1514%2C_NGA_6642.jpg",
+      "storage": "online",
+      "copyright": "Washington, National Gallery of Art, inv. 1943.3.3524 (https://www.nga.gov/artworks/6642-saint-jerome-his-study)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-03T17:01:49.899692",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

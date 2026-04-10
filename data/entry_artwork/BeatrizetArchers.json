@@ -1,0 +1,49 @@
+{
+  "id": "BeatrizetArchers",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Les Tireurs de flèches",
+  "creator": [
+    {
+      "xml_id": "NicolasBeatrizet",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "MichelAnge",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1540,
+    "endYear": 1560,
+    "text": "Vers 1540-1560"
+  },
+  "location": {
+    "type": "many locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/730801/1673408/main-image",
+      "storage": "online",
+      "copyright": "New York, Metropolitan Museum of arts, inv. 2017.121 (https://www.metmuseum.org/fr/art/collection/search/730801)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-18T16:26:58.762885",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

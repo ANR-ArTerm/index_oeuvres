@@ -1,0 +1,44 @@
+{
+  "id": "LeonardAssomptionMilan",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Assomption avec saint Dominique et saint Pierre de Vérone, Ludovic le More et Béatrice d'Este",
+  "creator": [
+    {
+      "xml_id": "LeonardoDaVinci",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "materialsAndTechniques": "",
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "",
+      "place": "",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "maraniLeonardVinciCarriere1999",
+      "location": "perdues n° 6"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "Fresque perdue présente à l'église Santa Maria delle Grazie à Milan.",
+  "history": [
+    {
+      "date": "2026-01-15T16:40:40.449960",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

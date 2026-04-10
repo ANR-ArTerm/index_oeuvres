@@ -1,0 +1,39 @@
+{
+  "id": "ApelleCalomnie",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3207003",
+  "entry_type": "artwork",
+  "title": "Calomnie",
+  "creator": [
+    {
+      "xml_id": "Apelle",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "materialsAndTechniques": "",
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "",
+      "place": "",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "Peinture d'Apelle connue uniquement par une description de Lucien de Samosate",
+  "history": [
+    {
+      "date": "2026-01-15T12:21:39.296040",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

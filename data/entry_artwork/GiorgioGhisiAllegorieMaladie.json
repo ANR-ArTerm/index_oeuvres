@@ -1,0 +1,60 @@
+{
+  "id": "GiorgioGhisiAllegorieMaladie",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Allégorie de la Maladie (un malade couché sur le ventre à qui l'on applique les ventouses)",
+  "creator": [
+    {
+      "xml_id": "GiorgioGhisi",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "GiulioRomano",
+      "role": "auteur du modèle (?)"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": null,
+      "place": "",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "straussIllustratedBartsch311986",
+      "location": "n° 63 (410)"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/367310/772041/main-image",
+      "storage": "online",
+      "copyright": "",
+      "caption": "New York, Metropolitan Museum of Arts, inv. 1984.1155 (https://www.metmuseum.org/fr/art/collection/search/367310)"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-20T14:38:31.429561",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

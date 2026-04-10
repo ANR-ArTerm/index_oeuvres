@@ -1,7 +1,7 @@
 from modules.data.load import load_all_entries, save_list_to_list_form
 
 def update_list_institutions():
-    ENTRIES = load_all_entries("peinture")
+    ENTRIES = load_all_entries("artwork")
     institutions = set()
 
     for data, _ in ENTRIES:

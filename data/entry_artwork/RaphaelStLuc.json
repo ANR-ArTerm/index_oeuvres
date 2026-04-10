@@ -1,0 +1,47 @@
+{
+  "id": "RaphaelStLuc",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Saint Luc peignant la Vierge en présence de Raphaël",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1500,
+    "endYear": 1600,
+    "text": "XVIe siècle"
+  },
+  "materialsAndTechniques": "huile sur bois transposé sur toile",
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Académie de Saint-Luc",
+      "place": "Rome",
+      "inventory_number": "283",
+      "url": "https://accademiasanluca.it/collezioni/opere/san-luca-dipinge-la-vergine-1"
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://accademiasanluca.it/uploads/large_san_luca_c76157c683.jpg",
+      "copyright": "Accademia di San Luca",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2025-12-09 15:20:00",
+      "type": "created",
+      "author": "Julia"
+    }
+  ]
+}

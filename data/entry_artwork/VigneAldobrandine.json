@@ -1,0 +1,57 @@
+{
+  "id": "VigneAldobrandine",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q594213",
+  "entry_type": "artwork",
+  "title": "Les Noces Aldobrandines",
+  "creator": [],
+  "dateCreated": {
+    "startYear": "-50",
+    "endYear": "-50",
+    "text": "50 av J.-C."
+  },
+  "materialsAndTechniques": "fresque",
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Vatican, bibliothèque apostolique",
+      "place": "Rome",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Aldobrandini_wedding.JPG",
+      "copyright": "",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-12T15:34:39.272899",
+      "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-12T17:28:24.191879",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-13T11:43:56.055289",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-13T11:44:01.341484",
+      "type": "modified",
+      "author": "Carla"
+    }
+  ]
+}

@@ -7,7 +7,7 @@ BASE_DIR = Path(__file__).resolve().parents[3]
 
 DATA_DIRS = [
     Path("data") / "entry_architecture",
-    Path("data") / "entry_peinture",
+    Path("data") / "entry_artwork",
 ]
 
 XML_PATH = BASE_DIR / "corpus" / "IndexOeuvres.xml"

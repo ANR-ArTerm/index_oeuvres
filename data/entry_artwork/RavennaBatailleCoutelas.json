@@ -1,0 +1,54 @@
+{
+  "id": "RavennaBatailleCoutelas",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Bataille au coutelas",
+  "creator": [
+    {
+      "xml_id": "MarcoDente",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "GiulioRomano",
+      "role": "auteur du modèle (?)"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "many locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "straussIllustratedBartsch261978",
+      "location": "n° 211 (171)"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/345601/771378/main-image",
+      "storage": "online",
+      "copyright": "New York, Metropolitan Museum of Arts, inv. 17.50.19-124 (https://www.metmuseum.org/art/collection/search/345601)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-06T17:34:47.649936",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

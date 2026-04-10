@@ -1,0 +1,59 @@
+{
+  "id": "RaphaelBaptemeConstantinVatican",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Baptême de Constantin",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "auteur du modèle"
+    },
+    {
+      "xml_id": "GiulioRomano",
+      "role": "peintre"
+    },
+    {
+      "xml_id": "GiovanniFrancescoPenni",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1520,
+    "endYear": 1524,
+    "text": "1520-1524"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": null,
+      "place": "",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Raphael_Baptism_Constantine.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Raphael_Baptism_Constantine.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-19T17:05:15.597977",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {
+    "link_type": "appartient à l'ensemble",
+    "xml_id_work": null
+  }
+}

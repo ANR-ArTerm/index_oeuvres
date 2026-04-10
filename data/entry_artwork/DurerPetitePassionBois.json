@@ -1,0 +1,66 @@
+{
+  "id": "DurerPetitePassionBois",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3377374",
+  "entry_type": "artwork",
+  "title": "La Petite Passion du Christ",
+  "creator": [
+    {
+      "xml_id": "AlbrechtDurer",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1508,
+    "endYear": 1511,
+    "text": "1508-1511 "
+  },
+  "materialsAndTechniques": "gravure sur bois",
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "KBR museum",
+      "place": "Bruxelles",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/387385/771088/main-image",
+      "copyright": "Metropolitan ",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-06T16:03:23.023395",
+      "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-06T16:04:01.740246",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-09T12:24:01.911911",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-03-03T17:09:06.527047",
+      "type": "modified",
+      "author": "Pierre"
+    }
+  ],
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

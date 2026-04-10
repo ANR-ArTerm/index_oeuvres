@@ -1,0 +1,61 @@
+{
+  "id": "PinturicchioViePieII",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q19947694",
+  "entry_type": "artwork",
+  "title": "Scènes de la Vie de Pie II ",
+  "creator": [
+    {
+      "xml_id": "Pinturicchio",
+      "role": "peintre"
+    },
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1505,
+    "endYear": 1507,
+    "text": "1505-1507"
+  },
+  "materialsAndTechniques": "fresque",
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Libreria Piccolomini, Cathédrale de Sienne.",
+      "place": "Sienne",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Sienne_duomo_bibliotheque.JPG",
+      "copyright": "",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-19T09:57:48.672804",
+      "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-19T11:31:25.316986",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-19T11:32:26.170438",
+      "type": "modified",
+      "author": "Carla"
+    }
+  ]
+}

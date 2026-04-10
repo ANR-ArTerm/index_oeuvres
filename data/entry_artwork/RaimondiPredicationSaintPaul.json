@@ -1,0 +1,38 @@
+{
+  "id": "RaimondiPredicationSaintPaul",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q125732373",
+  "title": "Predication de saint Paul",
+  "creator": [
+    {
+      "xml_id": "MarcantonioRaimondi",
+      "role": "graveur"
+    }
+  ],
+  "entry_type": "artwork",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "location": {
+    "type": "many locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "straussIllustratedBartsch261978",
+      "location": "n° 44 (50)"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-06T14:48:18.468737",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

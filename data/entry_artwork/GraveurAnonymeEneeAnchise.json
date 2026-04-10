@@ -1,0 +1,33 @@
+{
+  "id": "GraveurAnonymeEneeAnchise",
+  "QID_wikidata": "",
+  "title": "Enee et Anchise",
+  "creator": [],
+  "entry_type": "artwork",
+  "materialsAndTechniques": "",
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "straussIllustratedBartsch261978",
+      "location": "n° 186 (152)"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "L'embrasement de Troie manque",
+  "history": [
+    {
+      "date": "2026-03-06T14:48:18.469135",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "RaphaelMadoneBaldaquin",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3842604",
+  "entry_type": "artwork",
+  "title": "Madone au baldaquin",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "materialsAndTechniques": "",
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "",
+      "place": "",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "meyerzurcapellenRaphaelCriticalCatalogue2001",
+      "location": "n° 40"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "Erreur chez Daret : bien destinée à l'église santo Spirito, il mélange avec la belle jardinière (peut-être destinée à Sienne mais on n'est pas sûr) qui fut terminée par Ghirlandaio",
+  "history": [
+    {
+      "date": "2026-01-15T16:40:40.209734",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "EneaVicoConversionPaul",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Conversion de saint Paul",
+  "creator": [
+    {
+      "xml_id": "EneaVico",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "FrancescoSalviati",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1545,
+    "endYear": 1545,
+    "text": "1545"
+  },
+  "location": {
+    "type": "many locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "spikeIllustratedBartsch301985",
+      "location": "n° 13 (286)"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/12_19/adbeed6e_62a5_47cc_a287_a3c2013fda46/mid_00755246_001.jpg",
+      "storage": "online",
+      "copyright": "",
+      "caption": "Londres, British Museum, inv. 1871,0812.86 (https://www.britishmuseum.org/collection/object/P_1871-0812-86)"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-20T12:28:40.191056",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

@@ -43,7 +43,7 @@ def add_creator(xml_id, creator, idx, type_entry):
             save_to_list_form("persons", creator["xml_id"])
 
     with col2:
-        if type_entry == "peinture":
+        if type_entry == "artwork":
             creator["role"] = st.selectbox("Rôle :",
                                             load_list_form("artists_roles"),
                                             index=None,
@@ -283,7 +283,7 @@ def add_notice():
     )
 
     entry_type = {
-        "🖼️ Œuvre": "peinture",
+        "🖼️ Œuvre": "artwork",
         "🏛️ Architecture": "architecture",
         "🌿 Ensemble": "ensemble"
     }[entry_type_display]
@@ -345,7 +345,7 @@ def add_notice():
                 st.session_state["wikidata_dic"] = wikidata_data
             if entry_type == "ensemble":
                 st.warning("La fonction n'existe pas encore")
-            if entry_type == "peinture":
+            if entry_type == "artwork":
                 st.warning("La fonction n'existe pas encore")
 
     notice["title"] = st.text_input(
@@ -376,7 +376,7 @@ def add_notice():
         notice["creator"].append({"xml_id": "", "role": ""})
         st.rerun()
 
-    if entry_type == "peinture":
+    if entry_type == "artwork":
         st.header("🎨 Matériaux & Techniques")
 
         notice["materialsAndTechniques"] = st.selectbox(
@@ -456,7 +456,7 @@ def add_notice():
     # ----------------------------
     # Déduction du type par défaut
     # ----------------------------
-    if entry_type == "peinture":
+    if entry_type == "artwork":
         index_type_location = 0
     elif entry_type == "architecture":
         index_type_location = 1
@@ -626,7 +626,7 @@ def add_notice():
         if "contains_works" not in notice:
             notice["contains_works"] = []
         
-        list_xml_id_contained = get_all_objects_ids_flat_sorted(["peinture", "architecture"])
+        list_xml_id_contained = get_all_objects_ids_flat_sorted(["artwork", "architecture"])
 
         for idx, work in enumerate(notice["contains_works"]):
             notice["contains_works"][idx] = add_contained_work(
@@ -646,7 +646,7 @@ def add_notice():
             })
             st.rerun()
 
-    if entry_type in {"architecture", "peinture"}:
+    if entry_type in {"architecture", "artwork"}:
         st.header("🌿 Ensemble contenant l'œuvre")
         list_xml_id_ensemble = get_all_objects_ids_flat_sorted(["ensemble"])
 

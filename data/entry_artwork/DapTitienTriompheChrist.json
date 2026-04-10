@@ -1,0 +1,45 @@
+{
+  "id": "DapTitienTriompheChrist",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Le Triomphe du Christ",
+  "creator": [
+    {
+      "xml_id": "Titien",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "many locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/17_21/8c958f88_8080_49da_8161_a3e601631b2c/mid_01612519_001.jpg",
+      "storage": "online",
+      "copyright": "© The Trustees of the British Museum, inv. 1930,0414.40 (https://www.britishmuseum.org/collection/object/P_1930-0414-40)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-09T14:11:57.905471",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "gravure sur bois",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

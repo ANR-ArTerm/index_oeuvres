@@ -1,0 +1,56 @@
+{
+  "id": "CornelisCortCalomnie",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "La calomnie d'Apelle",
+  "creator": [
+    {
+      "xml_id": "CornelisCort",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1602,
+    "endYear": 1602,
+    "text": "1602"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "The Metropolitan Museum of Art",
+      "place": "New York",
+      "inventory_number": "N°51.501.3322",
+      "url": ""
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "gravé d'après",
+      "xml_id_work": "FedericoZuccaroCalomnie"
+    }
+  ],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/The_Calumny_of_Apelles_MET_DP874321.jpg",
+      "storage": "online",
+      "copyright": "Domaine public, Pharos, https://commons.wikimedia.org/wiki/File:The_Calumny_of_Apelles_MET_DP874321.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-23T17:40:24.804132",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": "gravure sur bois",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "MargaritoArezzoTombeauGregoireX",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Tombeau de Grégoire X",
+  "creator": [],
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "materialsAndTechniques": "",
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "",
+      "place": "Arezzo",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-13T15:10:34.453459",
+      "type": "created",
+      "author": "Carla"
+    }
+  ]
+}

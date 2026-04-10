@@ -1,0 +1,44 @@
+{
+  "id": "RaphaelIncendieBorgo",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2531790",
+  "entry_type": "artwork",
+  "title": "Incendie de Borgo",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": "",
+    "endYear": "",
+    "text": ""
+  },
+  "materialsAndTechniques": "",
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "",
+      "place": "",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "dusslerRaphaelCriticalCatalogue1971",
+      "location": "p. 82"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-15T16:40:40.312603",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "EneaVicoImaginiDonneAugustee",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Le imagini delle Donne Auguste",
+  "creator": [
+    {
+      "xml_id": "EneaVico",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1557,
+    "endYear": 1557,
+    "text": "1557"
+  },
+  "location": {
+    "type": "many locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "spikeIllustratedBartsch301985",
+      "location": "n° 257-320 (341-342)"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://ia801903.us.archive.org/BookReader/BookReaderImages.php?zip=/30/items/gri_imaginidelle00vico/gri_imaginidelle00vico_jp2.zip&file=gri_imaginidelle00vico_jp2/gri_imaginidelle00vico_0025.jp2&id=gri_imaginidelle00vico&scale=4&rotate=0",
+      "storage": "online",
+      "copyright": "Getty Research Institute (https://archive.org/details/gri_imaginidelle00vico)",
+      "caption": "Marcia, planche n°1"
+    }
+  ],
+  "description": "Suite de 63 estampes et d'un frontispice publiée à Venise en 1557.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-20T14:14:11.958822",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-03-20T14:14:29.851563",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-03-20T14:14:50.703355",
+      "type": "modified",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

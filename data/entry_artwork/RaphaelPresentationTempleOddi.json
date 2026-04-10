@@ -1,0 +1,94 @@
+{
+  "id": "RaphaelPresentationTempleOddi",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Présentation au temple (Prédelle de la Pala Oddi)",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1502,
+    "endYear": 1504,
+    "text": "1502-1504"
+  },
+  "materialsAndTechniques": "peinture grasse à tempera sur bois",
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Vatican, Musées du Vatican",
+      "place": "",
+      "inventory_number": "inv. 40335",
+      "url": "https://www.museivaticani.va/content/museivaticani/fr/collezioni/musei/la-pinacoteca/sala-viii---secolo-xvi/raffaello-sanzio--incoronazione-della-vergine.html"
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "œuvre associée",
+      "xml_id_work": "RaphaelAnnonciationOddi"
+    },
+    {
+      "link_type": "œuvre associée",
+      "xml_id_work": "RaphaelAdorationMagesOddi"
+    },
+    {
+      "link_type": "œuvre associée",
+      "xml_id_work": "RaphaelPalaOddi"
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "meyerzurcapellenRaphaelCriticalCatalogue2001",
+      "location": "n° 8 D"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Raphael_Presentation_in_the_Temple.jpg",
+      "copyright": "Wikimedia Commons, https://fr.wikipedia.org/wiki/Fichier:Raphael_Presentation_in_the_Temple.jpg",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-15T16:40:40.144805",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-02-04T12:12:55.444503",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-02-04T12:19:45.836260",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-02-04T12:22:05.190104",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-02-04T12:25:57.337478",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-03-17T12:07:39.645875",
+      "type": "modified",
+      "author": "Pierre"
+    }
+  ],
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

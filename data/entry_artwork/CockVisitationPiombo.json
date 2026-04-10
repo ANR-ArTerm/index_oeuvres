@@ -1,0 +1,41 @@
+{
+  "id": "CockVisitationPiombo",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "La Visitation",
+  "creator": [
+    {
+      "xml_id": "HieronymusCock",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "SebastianoDelPiombo",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1547,
+    "endYear": 1570,
+    "text": "Après 1547"
+  },
+  "location": {
+    "type": "many locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "Gravure de Hyeronymous Cock d'après une peinture représentant la Visitation de Sebastiano del Piombo à Sainte-Marie-de-la-Paix à Rome.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-19T17:10:27.995425",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

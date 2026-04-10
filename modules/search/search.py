@@ -21,7 +21,7 @@ def normalize_notice(o, entry_type):
         d["location_display"] = f"{d.get('city', 'AUCUNE VILLE')} – {d.get('country', 'AUCUN PAYS')}"
         d["secondary"] = d.get("typology", "AUCUNE TYPOLOGIE")
 
-    elif entry_type == "peinture":
+    elif entry_type == "artwork":
         d = normalize_notice_painting(o) or {}
         d["location_display"] = f"{d.get('city', 'AUCUNE VILLE')} – {d.get('name', 'AUCUNE INSTITUTION')}"
         d["secondary"] = d.get("materialsAndTechniques", "AUCUNE TECHNIQUE")
@@ -56,7 +56,7 @@ def normalize_notice(o, entry_type):
 def load_all_entries_index():
     index = []
 
-    for entry_type in ["architecture", "peinture", "ensemble"]:
+    for entry_type in ["architecture", "artwork", "ensemble"]:
         oeuvres = load_all_entries(entry_type)
 
         for idx, (o, json_path) in enumerate(oeuvres):
@@ -86,7 +86,7 @@ def render_search_entries_all():
     )
 
     ENTRY_TYPE_MAP = {
-        "🖼️ Œuvre": "peinture",
+        "🖼️ Œuvre": "artwork",
         "🏛️ Bâtiment": "architecture",
         "🌿 Ensemble": "ensemble"
     }
