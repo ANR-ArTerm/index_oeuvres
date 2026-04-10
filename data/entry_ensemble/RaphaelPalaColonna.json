@@ -16,7 +16,7 @@
   },
   "typology": "retable",
   "location": {
-    "type": "many_locations"
+    "type": "multiple_locations"
   },
   "related_works": [],
   "bibliography": [

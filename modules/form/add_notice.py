@@ -485,7 +485,7 @@ def add_notice():
         "🏛️ Institution de conservation (musée, église)": "holding_institution",
         "📍 Localisation (pour les bâtiments)": "place",
         "Non localisée": "unlocated",
-        "Plusieurs localisations": "many_locations"
+        "Plusieurs localisations": "multiple_locations"
     }[type_location_label]
 
     # ----------------------------
@@ -583,8 +583,8 @@ def add_notice():
     elif location_type == "unlocated":
         notice["location"] = {"type": "unlocated"}
     
-    elif location_type == "many_location":
-        notice["location"] = {"type": "many locations"}
+    elif location_type == "multiple_locations":
+        notice["location"] = {"type": "multiple_locations"}
 
     else:
         notice["location"] = {"type": "unlocated"}

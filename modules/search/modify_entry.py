@@ -372,7 +372,7 @@ def edit_json_notice(json_path=None, data=None):
         "Non localisé": "unlocated",
         "Institution de conservation (musée, église)": "holding_institution",
         "Lieu (bâtiments)": "place",
-        "Plusieurs localisations": "many_locations"
+        "Plusieurs localisations": "multiple_locations"
     }
 
     location_options_list = list(LOCATION_OPTIONS.keys())
@@ -652,7 +652,7 @@ def edit_json_notice(json_path=None, data=None):
                 })
                 # Nettoyage des données :
                 location_type = notice["location"]["type"]
-                if location_type == "unlocated" or location_type == "many_locations":
+                if location_type == "unlocated" or location_type == "multiple_locations":
                     notice["location"].pop("institution", None)
                     notice["location"].pop("place", None)
                 

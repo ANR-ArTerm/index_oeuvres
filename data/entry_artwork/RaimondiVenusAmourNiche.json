@@ -20,7 +20,7 @@
     "text": ""
   },
   "location": {
-    "type": "many locations"
+    "type": "multiple_locations"
   },
   "related_works": [],
   "bibliography": [],
