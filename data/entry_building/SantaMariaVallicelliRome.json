@@ -1,0 +1,53 @@
+{
+  "id": "SantaMariaVallicelliRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2031901",
+  "entry_type": "building",
+  "title": "Église nouvelle, Santa Maria in Vallice",
+  "creator": [
+    {
+      "xml_id": "MatteoBartolini",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1577,
+    "endYear": 1700,
+    "text": "1577"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Santa_Maria_in_Vallicella_Facade_a_Roma.jpg",
+      "storage": "online",
+      "copyright": "CC BY-SA 3.0,  Wolfgang Moroder, https://commons.wikimedia.org/wiki/File:Santa_Maria_in_Vallicella_Facade_a_Roma.jpg",
+      "caption": "Façade "
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-09T14:34:35.082798",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "typology": "église",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

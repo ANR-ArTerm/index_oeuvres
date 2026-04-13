@@ -53,7 +53,7 @@ def add_creator(xml_id, creator, idx, type_entry):
             if not creator["role"] in load_list_form("artists_roles"):
                 save_to_list_form("artists_roles", creator["role"])
 
-        if type_entry == "architecture":
+        if type_entry == "building":
             creator["role"] = st.selectbox("Rôle :",
                                             load_list_form("architects_roles"),
                                             index=None,
@@ -284,7 +284,7 @@ def add_notice():
 
     entry_type = {
         "🖼️ Œuvre": "artwork",
-        "🏛️ Architecture": "architecture",
+        "🏛️ Architecture": "building",
         "🌿 Ensemble": "ensemble"
     }[entry_type_display]
 
@@ -340,7 +340,7 @@ def add_notice():
             url_wikidata = notice.get("QID_wikidata", "")
             if not url_wikidata:
                 st.warning("Veuillez entrer un QID.")
-            if entry_type == "architecture":
+            if entry_type == "building":
                 wikidata_data = get_monument_data(notice["QID_wikidata"])
                 st.session_state["wikidata_dic"] = wikidata_data
             if entry_type == "ensemble":
@@ -388,7 +388,7 @@ def add_notice():
         if not notice["materialsAndTechniques"] in load_list_form("techniques"):
             save_to_list_form("techniques", notice["materialsAndTechniques"])
     
-    if entry_type == "architecture":
+    if entry_type == "building":
         st.header("Typologie de monument")
 
         notice["typology"] = st.selectbox(
@@ -458,7 +458,7 @@ def add_notice():
     # ----------------------------
     if entry_type == "artwork":
         index_type_location = 0
-    elif entry_type == "architecture":
+    elif entry_type == "building":
         index_type_location = 1
     elif entry_type == "ensemble":
         index_type_location = 0
@@ -636,7 +636,7 @@ def add_notice():
         if "contains_works" not in notice:
             notice["contains_works"] = []
         
-        list_xml_id_contained = get_all_objects_ids_flat_sorted(["artwork", "architecture"])
+        list_xml_id_contained = get_all_objects_ids_flat_sorted(["artwork", "building"])
 
         for idx, work in enumerate(notice["contains_works"]):
             notice["contains_works"][idx] = add_contained_work(
@@ -656,7 +656,7 @@ def add_notice():
             })
             st.rerun()
 
-    if entry_type in {"architecture", "artwork"}:
+    if entry_type in {"building", "artwork"}:
         st.header("🌿 Ensemble contenant l'œuvre")
         list_xml_id_ensemble = get_all_objects_ids_flat_sorted(["ensemble"])
 

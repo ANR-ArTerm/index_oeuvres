@@ -1,0 +1,40 @@
+{
+  "id": "SantaMariaDellAnimaRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2140145",
+  "entry_type": "building",
+  "title": "Église Santa Maria dell'Anima",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.899713078",
+        "longitude": "12.472154884"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-05T13:59:17.283553",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "typology": "église",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

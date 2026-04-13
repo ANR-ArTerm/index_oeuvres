@@ -1,0 +1,53 @@
+{
+  "id": "ThermesTitusRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1231749",
+  "entry_type": "building",
+  "title": "Thermes De Titus",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 80,
+    "endYear": 80,
+    "text": "Ie siècle "
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.892555555",
+        "longitude": "12.494052777"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Terme_di_tito_pianta.png",
+      "storage": "online",
+      "copyright": "wikimedia commons, Sailko CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Terme_di_tito_pianta.png)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-09T11:04:05.361990",
+      "type": "created",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-04-09T11:15:42.062907",
+      "type": "modified",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Thermes",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

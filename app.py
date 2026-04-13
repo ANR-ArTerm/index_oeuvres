@@ -96,7 +96,7 @@ if st.sidebar.button("🎨 Synchroniser Index XML des œuvres"):
         ids = sync_oeuvres_from_json()
 
         st.sidebar.success(f"Index XML reconstruit avec succès : {len(ids)} notices indexées dans l'indexOeuvres.xml")
-        total_notices = len(load_all_entries("artwork")) + len(load_all_entries("architecture"))
+        total_notices = len(load_all_entries("artwork")) + len(load_all_entries("building"))
         if len(ids) != total_notices:
             st.sidebar.error(f"Attention, {total_notices - len(ids)} notices semblent corrompues, vérifier grâce à l'outil ci-dessous")
 

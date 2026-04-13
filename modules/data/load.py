@@ -17,7 +17,7 @@ WIKIDATA_DIR = os.path.join(DATA_DIR, "wikidata_list")
 
 TYPE_DIRS = {
         "artwork": ARTWORK_DIR,
-        "architecture": ARCHITECTURE_DIR,
+        "building": ARCHITECTURE_DIR,
         "ensemble": ENSEMBLE_DIR
     }
 
@@ -53,7 +53,7 @@ def load_all_entries(type_name: str):
     Charge tous les fichiers JSON dans le dossier correspondant à type_name.
 
     Args:
-        type_name (str): "artwork" ou "architecture"
+        type_name (str): "artwork" ou "building"
 
     Returns:
         list: liste de tuples (data, path) où data est le contenu JSON et path le chemin du fichier
@@ -163,7 +163,7 @@ def get_all_objects_ids_by_type(type_name: str):
     Récupère la liste des 'id' dans tous les fichiers JSON d'un dossier.
 
     Args:
-        type_name (str): "artwork" ou "architecture"
+        type_name (str): "artwork" ou "building"
 
     Returns:
         list: liste des id trouvés
@@ -200,7 +200,7 @@ def get_all_objects_ids_flat_sorted(types=None):
     - Si types est None : tous les types sont utilisés
     - Sinon : seulement les types fournis (liste, tuple ou set)
     Retourne une liste unique triée alphabétiquement.
-    ["artwork", "architecture"]
+    ["artwork", "building"]
     """
     all_ids = set()
 

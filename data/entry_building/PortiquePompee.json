@@ -1,15 +1,14 @@
 {
-  "id": "VillaFarnesineRome",
-  "QID_wikidata": "https://www.wikidata.org/wiki/Q1126723",
+  "id": "PortiquePompee",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q28041608",
   "entry_type": "building",
-  "title": "Villa Farnesine",
+  "title": "Portique de Pompée",
   "creator": [],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": -61,
+    "endYear": -55,
+    "text": "Ier siècle av. J.C."
   },
-  "typology": "",
   "location": {
     "type": "place",
     "place": {
@@ -28,9 +27,14 @@
   "commentary": "",
   "history": [
     {
-      "date": "2026-01-20T11:47:35.322902",
+      "date": "2026-03-17T15:11:31.594088",
       "type": "created",
-      "author": "Pierre"
+      "author": "Julia"
     }
-  ]
+  ],
+  "typology": null,
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
 }

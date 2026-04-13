@@ -1,0 +1,69 @@
+{
+  "id": "",
+  "QID_wikidata": "",
+  "entry_type": "building",
+  "title": "",
+  "creator": [
+    {
+      "xml_id": "",
+      "role": ""
+    }
+  ],
+  "dateCreated":
+    {
+      "startYear": null,
+      "endYear":"",
+      "text": ""
+    },
+  "typology":"",
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "",
+      "country": "",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "",
+      "xml_id_work": ""
+    }
+  ],
+  "contained_by_ensemble": {
+    "link_type": "",
+    "xml_id_work": ""
+  },
+  "bibliography": [
+    {
+      "zotero_key": "",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id":0,
+      "url":"",
+      "copyright":"",
+      "caption":"",
+      "storage":""
+    }
+  ],
+  "description":"",
+  "commentary":"",
+  "history": [
+    {
+      "date": "",
+      "type": "created",
+      "author": ""
+    },
+    {
+      "date": "",
+      "type": "modified",
+      "author": ""
+    }
+  ]
+}

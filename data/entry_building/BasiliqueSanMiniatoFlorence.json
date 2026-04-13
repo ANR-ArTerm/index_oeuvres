@@ -1,0 +1,48 @@
+{
+  "id": "BasiliqueSanMiniatoFlorence",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q844337",
+  "entry_type": "building",
+  "title": "Basilique San Miniato al Monte",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "43.759444",
+        "longitude": "11.265"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/San_Miniato_al_Monte%2C_exterior%2C_Florencia%2C_Italia%2C_2019_01_cropped.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia commons, Benjamín Núñez González (https://commons.wikimedia.org/wiki/File:San_Miniato_al_Monte,_exterior,_Florencia,_Italia,_2019_01_cropped.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-23T16:54:06.957421",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "typology": "église",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

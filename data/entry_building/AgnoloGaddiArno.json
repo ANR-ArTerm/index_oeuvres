@@ -1,0 +1,41 @@
+{
+  "id": "AgnoloGaddiArno",
+  "QID_wikidata": "",
+  "entry_type": "building",
+  "title": "Ponte Vecchio traversant l'Arno",
+  "creator": [
+    {
+      "xml_id": "AgnoloGaddi",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1335,
+    "endYear": 1345,
+    "text": "1335-1345"
+  },
+  "typology": "Pont",
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-13T17:00:56.580415",
+      "type": "created",
+      "author": "Carla"
+    }
+  ]
+}

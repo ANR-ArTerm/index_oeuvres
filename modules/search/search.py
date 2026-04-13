@@ -3,7 +3,7 @@ from pathlib import Path
 import time
 import streamlit as st
 from modules.search.search_artwork import normalize_notice_artwork
-from modules.search.search_architecture import normalize_notice_architecture
+from modules.search.search_building import normalize_notice_architecture
 from modules.search.search_ensemble import normalize_notice_ensemble
 from modules.data.load import load_all_entries, delete_notice
 import json
@@ -16,7 +16,7 @@ def reset_all_page():
 def normalize_notice(o, entry_type):
     d = {}
 
-    if entry_type == "architecture":
+    if entry_type == "building":
         d = normalize_notice_architecture(o) or {}
         d["location_display"] = f"{d.get('city', 'AUCUNE VILLE')} – {d.get('country', 'AUCUN PAYS')}"
         d["secondary"] = d.get("typology", "AUCUNE TYPOLOGIE")
@@ -56,7 +56,7 @@ def normalize_notice(o, entry_type):
 def load_all_entries_index():
     index = []
 
-    for entry_type in ["architecture", "artwork", "ensemble"]:
+    for entry_type in ["building", "artwork", "ensemble"]:
         oeuvres = load_all_entries(entry_type)
 
         for idx, (o, json_path) in enumerate(oeuvres):
@@ -87,7 +87,7 @@ def render_search_entries_all():
 
     ENTRY_TYPE_MAP = {
         "🖼️ Œuvre": "artwork",
-        "🏛️ Bâtiment": "architecture",
+        "🏛️ Bâtiment": "building",
         "🌿 Ensemble": "ensemble"
     }
 

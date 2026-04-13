@@ -1,0 +1,48 @@
+{
+  "id": "CampanileSaintMarcVenise",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q754194",
+  "entry_type": "building",
+  "title": "Campanile de saint Marc",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Venise",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "45.434027777",
+        "longitude": "12.339027777"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "",
+      "storage": "",
+      "copyright": "Wikimedia Commons, © Orlando Paride, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Campanile_of_St._Mark%27s_Basilica_-_remote_view.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-17T11:58:05.962892",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "typology": "Tour",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

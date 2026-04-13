@@ -1,0 +1,48 @@
+{
+  "id": "ColosseumRome",
+  "QID_wikidata": "",
+  "entry_type": "building",
+  "title": "Colisée",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 70,
+    "endYear": 80,
+    "text": "Ie siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Colosseo_2020.jpg",
+      "storage": "online",
+      "copyright": "wikimedia commons, FeaturedPics CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Colosseo_2020.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-09T11:12:15.309826",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": null,
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

@@ -1,20 +1,20 @@
 {
-  "id": "VillaFarnesineRome",
-  "QID_wikidata": "https://www.wikidata.org/wiki/Q1126723",
+  "id": "SaintThomasPavie",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q62008175",
   "entry_type": "building",
-  "title": "Villa Farnesine",
+  "title": "Eglise de Saint-Thomas de Pavie",
   "creator": [],
   "dateCreated": {
+    "startYear": 1478,
     "startYear": null,
-    "endYear": null,
-    "text": ""
+    "text": "1478"
   },
-  "typology": "",
+  "typology": "Edifice religieux",
   "location": {
     "type": "place",
     "place": {
-      "city": "",
-      "country": "",
+      "city": "Pavie",
+      "country": "Italie",
       "coordinates": {
         "latitude": "",
         "longitude": ""
@@ -28,9 +28,9 @@
   "commentary": "",
   "history": [
     {
-      "date": "2026-01-20T11:47:35.322902",
+      "date": "2025-12-09 15:40:30",
       "type": "created",
-      "author": "Pierre"
+      "author": "Julia"
     }
   ]
 }

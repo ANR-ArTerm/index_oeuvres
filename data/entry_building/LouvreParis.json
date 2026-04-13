@@ -1,15 +1,15 @@
 {
-  "id": "VillaFarnesineRome",
-  "QID_wikidata": "https://www.wikidata.org/wiki/Q1126723",
+  "id": "LouvreParis",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1075988",
   "entry_type": "building",
-  "title": "Villa Farnesine",
+  "title": "Palais du Louvre",
   "creator": [],
   "dateCreated": {
     "startYear": null,
     "endYear": null,
     "text": ""
   },
-  "typology": "",
+  "typology": null,
   "location": {
     "type": "place",
     "place": {
@@ -28,7 +28,7 @@
   "commentary": "",
   "history": [
     {
-      "date": "2026-01-20T11:47:35.322902",
+      "date": "2026-01-19T16:01:42.335789",
       "type": "created",
       "author": "Pierre"
     }

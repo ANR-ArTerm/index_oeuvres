@@ -1,8 +1,8 @@
 {
-  "id": "VillaFarnesineRome",
-  "QID_wikidata": "https://www.wikidata.org/wiki/Q1126723",
+  "id": "SanFrancescoGrandeMilan",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q18223420",
   "entry_type": "building",
-  "title": "Villa Farnesine",
+  "title": "Eglise Saint-François-Majeur à Milan",
   "creator": [],
   "dateCreated": {
     "startYear": null,
@@ -28,7 +28,7 @@
   "commentary": "",
   "history": [
     {
-      "date": "2026-01-20T11:47:35.322902",
+      "date": "2026-01-20T11:47:35.446756",
       "type": "created",
       "author": "Pierre"
     }

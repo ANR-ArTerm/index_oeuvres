@@ -1,0 +1,48 @@
+{
+  "id": "TorreDelleMilizieRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2547165",
+  "entry_type": "building",
+  "title": "Tour des Milices",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1200,
+    "endYear": 1300,
+    "text": "XIIIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.895936",
+        "longitude": "12.486665"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Mercati_di_traiano%2C_torre_delle_milizie.JPG",
+      "storage": "online",
+      "copyright": "wikimedia commons, Sailko (https://commons.wikimedia.org/wiki/File:Mercati_di_traiano,_torre_delle_milizie.JPG)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-08T17:53:48.450783",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Tour",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

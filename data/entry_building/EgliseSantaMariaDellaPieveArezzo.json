@@ -1,0 +1,53 @@
+{
+  "id": "EgliseSantaMariaDellaPieveArezzo",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1475948",
+  "entry_type": "building",
+  "title": "Église Santa Maria della Pieve ",
+  "creator": [
+    {
+      "xml_id": "GiorgioVasari",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1100,
+    "endYear": 1560,
+    "text": "XIIe-1560"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Arezzo",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Igreja_Santa_Maria_della_Pieve_Arezzo.jpg",
+      "storage": "online",
+      "copyright": "CC BY-SA 3.0, Tetraktys, https://commons.wikimedia.org/wiki/File:Igreja_Santa_Maria_della_Pieve_Arezzo.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-23T17:18:23.936743",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "typology": "église",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

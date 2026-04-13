@@ -1,15 +1,20 @@
 {
-  "id": "VillaFarnesineRome",
-  "QID_wikidata": "https://www.wikidata.org/wiki/Q1126723",
+  "id": "DedaleLabyrinthe",
+  "QID_wikidata": "",
   "entry_type": "building",
-  "title": "Villa Farnesine",
-  "creator": [],
+  "title": "Labyrinthe",
+  "creator": [
+    {
+      "xml_id": "Dedale",
+      "role": "architecte"
+    }
+  ],
   "dateCreated": {
     "startYear": null,
     "endYear": null,
-    "text": ""
+    "text": "Antiquité"
   },
-  "typology": "",
+  "typology": "Monument",
   "location": {
     "type": "place",
     "place": {
@@ -25,12 +30,12 @@
   "bibliography": [],
   "illustrations": [],
   "description": "",
-  "commentary": "",
+  "commentary": "œuvre mythologique",
   "history": [
     {
-      "date": "2026-01-20T11:47:35.322902",
+      "date": "2026-01-19T15:04:08.058001",
       "type": "created",
-      "author": "Pierre"
+      "author": "Julia"
     }
   ]
 }
