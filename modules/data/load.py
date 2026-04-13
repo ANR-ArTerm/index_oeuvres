@@ -9,7 +9,7 @@ import csv
 
 DATA_DIR = "data"
 ARTWORK_DIR = os.path.join(DATA_DIR, "entry_artwork")
-ARCHITECTURE_DIR = os.path.join(DATA_DIR, "entry_architecture")
+ARCHITECTURE_DIR = os.path.join(DATA_DIR, "entry_building")
 ENSEMBLE_DIR = os.path.join(DATA_DIR, "entry_ensemble")
 IMAGES_DIR = os.path.join(DATA_DIR, "images")
 LIST_FORM_DIR = os.path.join(DATA_DIR, "list_form")

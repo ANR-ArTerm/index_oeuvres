@@ -79,16 +79,16 @@ def render_search_entries_all():
 
     entry_type_filter = st.radio(
         "Type de notice",
-        ["🌎 Tout", "🖼️ Œuvre", "🏛️ Bâtiment", "🌿 Ensemble"],
+        ["🌎 Tout", "🖼️ Œuvre (artwork)", "🏛️ Bâtiment (building)", "🌿 Ensemble (ensemble)"],
         index=0,
         on_change=reset_all_page,
         horizontal=True
     )
 
     ENTRY_TYPE_MAP = {
-        "🖼️ Œuvre": "artwork",
-        "🏛️ Bâtiment": "building",
-        "🌿 Ensemble": "ensemble"
+        "🖼️ Œuvre (artwork)": "artwork",
+        "🏛️ Bâtiment (building)": "building",
+        "🌿 Ensemble (ensemble)": "ensemble"
     }
 
     ITEMS_PER_PAGE = 12

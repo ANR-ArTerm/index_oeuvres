@@ -5,7 +5,7 @@ import re
 from modules.data.load import load_all_entries, load_list_form, save_list_to_list_form
 
 DATA_DIRS = [
-    Path("data") / "entry_architecture",
+    Path("data") / "entry_building",
     Path("data") / "entry_artwork",
     Path("data") / "entry_ensemble"
 ]

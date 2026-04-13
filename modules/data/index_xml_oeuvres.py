@@ -6,7 +6,7 @@ import xml.etree.ElementTree as ET
 BASE_DIR = Path(__file__).resolve().parents[3]
 
 DATA_DIRS = [
-    Path("data") / "entry_architecture",
+    Path("data") / "entry_building",
     Path("data") / "entry_artwork",
 ]
 
