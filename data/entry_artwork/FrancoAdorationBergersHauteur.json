@@ -1,5 +1,5 @@
 {
-  "id": "FrancoAdorationBergersLongeur",
+  "id": "FrancoAdorationBergersHauteur",
   "QID_wikidata": "",
   "entry_type": "artwork",
   "title": "Adoration des bergers",
@@ -38,6 +38,11 @@
     },
     {
       "date": "2026-03-18T17:45:42.842472",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-04-15T15:23:19.416637",
       "type": "modified",
       "author": "Pierre"
     }

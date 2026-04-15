@@ -1,0 +1,51 @@
+{
+  "id": "DonatelloSaintGeorges",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3947208",
+  "entry_type": "artwork",
+  "title": "Saint Georges",
+  "creator": [
+    {
+      "xml_id": "Donatello",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1415,
+    "endYear": 1417,
+    "text": "1415-1417"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Musée national du Bargello",
+      "place": "Florence",
+      "inventory_number": "Bargello Sculture 361",
+      "url": "https://catalogo.beniculturali.it/detail/HistoricOrArtisticProperty/0900287010"
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Donatello%2C_san_giorgio%2C_1416-17%2C_da_orsanmichele_01.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Francesco Bini (https://commons.wikimedia.org/wiki/File:Donatello,_san_giorgio,_1416-17,_da_orsanmichele_01.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-15T15:36:49.699623",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "Sculpture en marbre",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

@@ -12,11 +12,12 @@ from modules.form.add_notice import add_notice
 from modules.search.search import render_search_entries_all
 from modules.search.modify_entry import edit_json_notice
 
-from modules.data.index_xml_personnes import sync_person_ids
+from modules.data.index_xml_to_json import sync_person_ids, sync_place_ids
 from modules.data.index_xml_oeuvres import sync_oeuvres_from_json
 from modules.data.verify_data import verify_json_entries, fix_location_fields
 
 from modules.edit_dataframes.notes import notes_editor
+from modules.verify_xml.objectName import verifier_objectnames, verifier_persnames, verifier_placenames
 
 
 
@@ -43,7 +44,6 @@ if st.sidebar.button("🔍 Rechercher dans les notices"):
 
 if st.sidebar.button("🔍 Editer les notes CSV"):
     st.session_state.active_menu = "notes_csv" if st.session_state.active_menu != "notes_csv" else None
-
 
 st.sidebar.subheader("Stockage en ligne des données")
 if st.sidebar.button("⤵️ Télécharger les données (Git Pull)"):
@@ -87,6 +87,25 @@ if st.sidebar.button("👥 Synchroniser l'index XML des personnes"):
             st.sidebar.warning(json_only_ids)
         else:
             st.sidebar.success("L’index XML est à jour")
+
+    except FileNotFoundError as e:
+        st.sidebar.error(str(e))
+
+if st.sidebar.button("👥 Synchroniser l'index XML des lieux"):
+    try:
+        new_json_ids, json_only_ids = sync_place_ids()
+
+        if new_json_ids:
+            st.sidebar.subheader("🆕 Lieux ajoutées au JSON")
+            st.sidebar.success(new_json_ids)
+        else:
+            st.sidebar.info("Aucun nouveau lieu ajouté au JSON")
+
+        if json_only_ids:
+            st.sidebar.subheader("⚠️ Lieux à ajouter dans l’index XML")
+            st.sidebar.warning(json_only_ids)
+        else:
+            st.sidebar.success("L’index lieux est à jour")
 
     except FileNotFoundError as e:
         st.sidebar.error(str(e))
@@ -155,6 +174,10 @@ if "corrupted_files" in st.session_state and st.session_state.corrupted_files:
             st.session_state.active_menu = "edit"
             st.rerun()
 
+
+if st.sidebar.button("Vérification textes XML"):
+    st.session_state.active_menu = "verification" if st.session_state.active_menu != "verification" else None
+
 # Zone principale
 if st.session_state.active_menu is None:
     render_home()
@@ -184,4 +207,11 @@ elif st.session_state.active_menu == "search":
 elif st.session_state.active_menu == "notes_csv":
     notes_editor()
 
+elif st.session_state.active_menu == "verification":
+    if st.button("Vérifier objectName"):
+        verifier_objectnames()
+    if st.button("Vérifier persName"):
+        verifier_persnames()
+    if st.button("Vérifier placeName"):
+        verifier_placenames()
 

@@ -1,5 +1,5 @@
 {
-  "id": "GBScultoriTroi",
+  "id": "GBScultoriTroyes",
   "QID_wikidata": "",
   "title": "",
   "creator": [
@@ -9,7 +9,7 @@
     }
   ],
   "entry_type": "artwork",
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": null,
   "dateCreated": {
     "startYear": null,
     "endYear": null,
@@ -33,6 +33,15 @@
       "date": "2026-03-06T14:48:18.474307",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-04-15T15:23:52.183105",
+      "type": "modified",
+      "author": "Pierre"
     }
-  ]
+  ],
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
 }
