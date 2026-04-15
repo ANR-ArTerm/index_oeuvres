@@ -1,5 +1,5 @@
 {
-  "id": "DomusAurea",
+  "id": "DomusAureaRome",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q622438",
   "entry_type": "building",
   "title": "Domus Aurea",
@@ -43,6 +43,16 @@
       "date": "2026-04-09T11:13:52.229495",
       "type": "modified",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-04-15T15:50:59.359250",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-04-15T15:51:43.437848",
+      "type": "modified",
+      "author": "Pierre"
     }
   ],
   "typology": "Maison",

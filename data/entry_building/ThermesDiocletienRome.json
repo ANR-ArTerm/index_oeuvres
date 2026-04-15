@@ -1,5 +1,5 @@
 {
-  "id": "ThermesDioclétienRome",
+  "id": "ThermesDiocletienRome",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q836108",
   "entry_type": "building",
   "title": "Thermes de Dioclétien",
@@ -38,6 +38,11 @@
       "date": "2026-04-09T11:24:31.375151",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-04-15T15:54:51.460262",
+      "type": "modified",
+      "author": "Pierre"
     }
   ],
   "typology": "Thermes",

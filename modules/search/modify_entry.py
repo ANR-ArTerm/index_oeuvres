@@ -21,14 +21,23 @@ def edit_creator(xml_id, creator, idx, type_entry):
             creator["role"] = st.selectbox("Rôle :",
                                             load_list_form("artists_roles"),
                                             index=index_list_form(creator.get("role", ""), "artists_roles"),
-                                            key=f"{xml_id}_creator_artwork_xmlid_{idx}"
+                                            key=f"{xml_id}_creator_artwork_xmlid_{idx}",
+                                            accept_new_options=True
                                             )
+            
+            if creator["role"] not in load_list_form("artists_roles"):
+                save_to_list_form("artists_roles", creator["role"])
+
         if type_entry == "building":
             creator["role"] = st.selectbox("Rôle :",
                                             load_list_form("architects_roles"),
                                             index=index_list_form(creator.get("role", ""), "architects_roles"),
-                                            key=f"{xml_id}_creator_architect_xmlid_{idx}"
+                                            key=f"{xml_id}_creator_architect_xmlid_{idx}",
+                                            accept_new_options=True
                                             )
+            
+            if creator["role"] not in load_list_form("architects_roles"):
+                save_to_list_form("architects_roles", creator["role"])
             
         if type_entry == "ensemble":
             creator["role"] = st.selectbox("Rôle :",

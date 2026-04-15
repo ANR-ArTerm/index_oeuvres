@@ -34,8 +34,8 @@
   "illustrations": [
     {
       "id": 0,
-      "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Leonardo_da_Vinci_%281452-1519%29_-_The_Last_Supper_%281495-1498%29.jpg",
-      "copyright": "",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Leonardo_da_Vinci_%281452-1519%29_-_The_Last_Supper_%281495-1498%29.jpg/1280px-Leonardo_da_Vinci_%281452-1519%29_-_The_Last_Supper_%281495-1498%29.jpg",
+      "copyright": "Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_(1452-1519)_-_The_Last_Supper_(1495-1498).jpg)",
       "caption": "",
       "storage": "online"
     }
@@ -55,6 +55,11 @@
     },
     {
       "date": "2026-02-20T16:15:09.616308",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-04-15T15:46:33.872080",
       "type": "modified",
       "author": "Pierre"
     }

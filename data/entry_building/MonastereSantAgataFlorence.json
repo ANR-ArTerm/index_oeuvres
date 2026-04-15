@@ -1,5 +1,5 @@
 {
-  "id": "MonastèreSantAgata",
+  "id": "MonastereSantAgataFlorence",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q3672246",
   "entry_type": "building",
   "title": "Monastère de Sant'Agata",
@@ -36,7 +36,7 @@
     {
       "id": 0,
       "url": "",
-      "storage": "",
+      "storage": "online",
       "copyright": "",
       "caption": ""
     }
@@ -48,6 +48,11 @@
       "date": "2026-04-09T15:43:30.581586",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-04-15T15:55:56.257979",
+      "type": "modified",
+      "author": "Pierre"
     }
   ],
   "typology": "monastère",
