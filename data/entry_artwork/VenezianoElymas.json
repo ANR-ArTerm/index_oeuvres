@@ -1,19 +1,23 @@
 {
   "id": "VenezianoElymas",
   "QID_wikidata": "",
-  "title": "",
+  "title": "L'aveuglement d'Élymas",
   "creator": [
     {
       "xml_id": "AgostinoVeneziano",
       "role": "graveur"
+    },
+    {
+      "xml_id": "Raphael",
+      "role": "auteur du modèle"
     }
   ],
   "entry_type": "artwork",
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": "burin",
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1516,
+    "endYear": 1516,
+    "text": "1516"
   },
   "location": {
     "type": "multiple_locations"
@@ -25,7 +29,15 @@
       "location": "n° 43 (48)"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/342817/1922952/main-image",
+      "copyright": "New York, Metropolitan Museum of Arts, inv. 49.97.16 (https://www.metmuseum.org/art/collection/search/342817)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -33,6 +45,15 @@
       "date": "2026-03-06T14:48:18.468836",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-04-15T10:39:06.464390",
+      "type": "modified",
+      "author": "Pierre"
     }
-  ]
+  ],
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
 }

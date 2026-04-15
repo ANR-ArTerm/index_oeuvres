@@ -1,26 +1,48 @@
 {
   "id": "RaimondiViergeFoligno",
   "QID_wikidata": "",
-  "title": "",
+  "title": "Vierge à l'enfant",
   "creator": [
     {
       "xml_id": "MarcantonioRaimondi",
       "role": "graveur"
+    },
+    {
+      "xml_id": "Raphael",
+      "role": "auteur du modèle"
     }
   ],
   "entry_type": "artwork",
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": "burin",
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1512,
+    "endYear": 1516,
+    "text": "vers 1512-1516"
   },
   "location": {
     "type": "multiple_locations"
   },
-  "related_works": [],
-  "bibliography": [],
-  "illustrations": [],
+  "related_works": [
+    {
+      "link_type": "inspirée de",
+      "xml_id_work": "RaphaelViergeFoligno"
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "straussIllustratedBartsch261978",
+      "location": "n° 52-53 (58 et 60)"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/342532/1479069/main-image",
+      "copyright": "New York, Metropolitan Museum of Arts, inv. 17.50.79 (https://www.metmuseum.org/art/collection/search/342532)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -28,6 +50,15 @@
       "date": "2026-03-06T14:48:18.468334",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-04-15T10:53:34.693377",
+      "type": "modified",
+      "author": "Pierre"
     }
-  ]
+  ],
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
 }

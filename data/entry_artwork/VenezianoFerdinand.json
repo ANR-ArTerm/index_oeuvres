@@ -1,7 +1,7 @@
 {
   "id": "VenezianoFerdinand",
   "QID_wikidata": "",
-  "title": "",
+  "title": "Portrait de Ferdinand 1er",
   "creator": [
     {
       "xml_id": "AgostinoVeneziano",
@@ -9,11 +9,11 @@
     }
   ],
   "entry_type": "artwork",
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": "burin",
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1531,
+    "endYear": 1531,
+    "text": "1531"
   },
   "location": {
     "type": "multiple_locations"
@@ -25,7 +25,15 @@
       "location": "n° 500 (372)"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/1_11/163887be_aaec_484c_8341_a3b700bdf4d0/mid_00054339_001.jpg",
+      "copyright": "Londres, British Museum, inv. 1847,1009.54, CC BY-NC-SA 4.0 © The Trustees of the British Museum (https://www.britishmuseum.org/collection/object/P_1847-1009-54)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -33,6 +41,25 @@
       "date": "2026-03-06T14:48:18.469652",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-04-15T10:55:47.047095",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-04-15T10:57:04.551216",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-04-15T10:57:24.499418",
+      "type": "modified",
+      "author": "Pierre"
     }
-  ]
+  ],
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
 }
