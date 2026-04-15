@@ -1,0 +1,51 @@
+{
+  "id": "LeonardManuscritMotoMisuraAcqua",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Del moto e misura dell'acqua",
+  "creator": [
+    {
+      "xml_id": "LeonardoDaVinci",
+      "role": "auteur du texte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Vatican, bibliothèque apostolique",
+      "place": "",
+      "inventory_number": "Barb.lat.4332",
+      "url": "https://digi.vatlib.it/mss/detail/Barb.lat.4332"
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4332/Barb.lat.4332_0269_fa_0129r.jp2/full/full/0/default.jpg",
+      "storage": "online",
+      "copyright": "© Vatican Library (https://digi.vatlib.it/mss/detail/Barb.lat.4332)",
+      "caption": "folio 129 recto"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-15T15:44:30.264839",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": null,
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
