@@ -13,11 +13,11 @@
     }
   ],
   "entry_type": "artwork",
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": "eau-forte",
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1646,
+    "endYear": 1646,
+    "text": "1646"
   },
   "location": {
     "type": "multiple_locations"
@@ -29,7 +29,15 @@
       "location": "p. 150, n°3"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8454358x/f26/full/full/0/native.jpg",
+      "copyright": "© Source gallica.bnf.fr / Bibliothèque nationale de France (https://gallica.bnf.fr/ark:/12148/btv1b8454358x/f26.item)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -37,6 +45,15 @@
       "date": "2026-03-06T14:48:18.474762",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-04-15T11:56:48.992833",
+      "type": "modified",
+      "author": "Pierre"
     }
-  ]
+  ],
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
 }
