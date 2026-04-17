@@ -241,8 +241,6 @@ def save_image(uploaded_file, save_path=None):
     
     return str(save_path)  # Retourner en string pour compatibilité
 
-
-
 def load_notice(path):
     """
     Charge un seul fichier JSON.
@@ -285,8 +283,6 @@ def save_notice(oeuvre, path=None, old_id=None):
 
     return path
 
-
-import os
 
 def exist_notice(id: str) -> bool:
     """

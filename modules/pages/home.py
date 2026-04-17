@@ -20,7 +20,7 @@ def render_home():
     total_notices = len(load_all_entries("artwork")) + len(load_all_entries("building")) + len(load_all_entries("ensemble"))
     col1.metric("📄 Notices totales", f"{total_notices} notices")  # Tu peux remplacer par une fonction dynamique
     col2.metric("🖌️ Peintures", f"{len(load_all_entries('artwork'))} notices")
-    col3.metric("🏛️ Architectures", f"{len(load_all_entries("building"))} notices")
+    col3.metric("🏛️ Architectures", f"{len(load_all_entries('building'))} notices")
     col4.metric("🌿 Ensembles", f"{len(load_all_entries('ensemble'))} notices")
 
 
