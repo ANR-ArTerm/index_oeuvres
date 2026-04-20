@@ -1,0 +1,48 @@
+{
+  "id": "MetaRomuliRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q165815",
+  "entry_type": "building",
+  "title": "Meta Romuli",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -100,
+    "endYear": -1,
+    "text": "Ie av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.90266",
+        "longitude": "12.4636"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Meta_Romuli_in_Rome.jpg",
+      "storage": "online",
+      "copyright": "wikimedia commons (https://commons.wikimedia.org/wiki/File:Meta_Romuli_in_Rome.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-20T16:08:45.454358",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "pyramide",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
