@@ -1,0 +1,53 @@
+{
+  "id": "VestibuleBibliothèqueMediceaLaurenziana",
+  "QID_wikidata": "",
+  "entry_type": "building",
+  "title": "Vestibule Bibliothèque Medicea Laurenziana Florence",
+  "creator": [
+    {
+      "xml_id": "MichelAnge",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1524,
+    "endYear": 1534,
+    "text": "1524-1534"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Biblioteca_medicea_laurenziana%2C_vestibolo_e_scala_di_michelangelo%2C_03.jpg",
+      "storage": "online",
+      "copyright": "CC BY 3.0, Sailko, https://upload.wikimedia.org/wikipedia/commons/0/01/Biblioteca_medicea_laurenziana%2C_vestibolo_e_scala_di_michelangelo%2C_03.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "Le vestibule constitue l'entrée de la Bibliothèque Laurentienne des Médicis, qui fait partie du complexe de la basilique Saint-Laurent.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-20T13:42:00.353520",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "typology": "Vestibule",
+  "contained_by_ensemble": {
+    "link_type": "appartient à l'ensemble",
+    "xml_id_work": null
+  }
+}
