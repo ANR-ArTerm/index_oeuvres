@@ -1,0 +1,53 @@
+{
+  "id": "BibliothèqueMediceaLaurenzianaFlorence",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q856419",
+  "entry_type": "building",
+  "title": "Bibliothèque Medicea Laurenziana Florence",
+  "creator": [
+    {
+      "xml_id": "MichelAnge",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1524,
+    "endYear": 1534,
+    "text": "1524-1534"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Biblioteca_medicea_laurenziana%2C_sala_di_lettura_di_michelangelo%2C_01.jpg",
+      "storage": "online",
+      "copyright": "CC BY-SA 4.0, Sailko, https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Biblioteca_medicea_laurenziana%2C_sala_di_lettura_di_michelangelo%2C_01.jpg/1920px-Biblioteca_medicea_laurenziana%2C_sala_di_lettura_di_michelangelo%2C_01.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "La Bibliothèque Medicea Laurenziana fait partie du complexe de la basilique San Lorenzo à Florence.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-20T13:48:36.762996",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "typology": "Bibliothèque",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
