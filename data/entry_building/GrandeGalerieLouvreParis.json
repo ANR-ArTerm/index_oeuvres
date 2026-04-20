@@ -1,0 +1,53 @@
+{
+  "id": "GrandeGalerieLouvreParis",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q109405871",
+  "entry_type": "architecture",
+  "title": "Grande Galerie du Louvre",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1594,
+    "endYear": 1610,
+    "text": "XVIIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Paris",
+      "country": "France",
+      "coordinates": {
+        "latitude": "48.860226019",
+        "longitude": "2.333869183"
+      }
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "LouvreParis"
+    }
+  ],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/CF6264_Louvre_Grande_galerie_rwk.jpg",
+      "storage": "online",
+      "copyright": "wikimedia commons, Mbzt, CC BY 4.0 (https://commons.wikimedia.org/wiki/File:CF6264_Louvre_Grande_galerie_rwk.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-20T15:42:15.919607",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "galerie",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

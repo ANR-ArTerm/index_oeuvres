@@ -1,0 +1,53 @@
+{
+  "id": "PalaisTuileriesParis",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q234364",
+  "entry_type": "architecture",
+  "title": "Palais des Tuileries",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1564,
+    "endYear": 1867,
+    "text": ""
+  },
+  "typology": "Palais",
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Paris",
+      "country": "France",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Nicolas_Jean-Baptiste_Raguenet_-_Le_Palais_des_Tuileries%2C_vu_du_quai_d%27Orsay_-_P279_-_Mus%C3%A9e_Carnavalet_-_levels.jpg",
+      "copyright": "wikimedia commons (https://commons.wikimedia.org/wiki/File:Nicolas_Jean-Baptiste_Raguenet_-_Le_Palais_des_Tuileries,_vu_du_quai_d%27Orsay_-_P279_-_Mus%C3%A9e_Carnavalet_-_levels.jpg)",
+      "caption": "Nicolas Jean-Baptiste Raguenet , Le Palais des Tuileries, vu du quai d'Orsay , P279, Musée Carnavalet",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-20T11:47:35.406462",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-04-20T15:29:56.341602",
+      "type": "modified",
+      "author": "Nicolo"
+    }
+  ],
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
