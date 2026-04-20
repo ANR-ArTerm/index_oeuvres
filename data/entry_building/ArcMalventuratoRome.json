@@ -1,0 +1,48 @@
+{
+  "id": "ArcMalventuratoRome",
+  "QID_wikidata": "",
+  "entry_type": "building",
+  "title": "Arco Malventurato",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Mustis_%282%29.JPG",
+      "storage": "online",
+      "copyright": "wikimedia commons, Touzrimounir, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Mustis_(2).JPG)",
+      "caption": ""
+    }
+  ],
+  "description": "Eugène Müntz \"Plans et monuments de Rome antique. Nouvelles recherches », extrait des Mélanges G. B. De Rossi, supplément aux Mélanges d'Archéologie et d'Histoire publiés par l'École française de Rome, t. XII, Roma Imprimerie de la Paix, Philippe Cuggiani, 1892, p. 20) suggère un rapprochement avec le Codex Escurialensis (Madrid, Escorial, Cod. 28-11-12), f. 7r, dans lequel il est question de l'Arco Malaventurato. Selon Herman Grimm (\"De incerti auctoris litteris quae Raphaelis Urbinatis ad Leonem Decimum feruntur\", Jahrbücher für Kunstwissenschaft, IV, 1871, p. 67-74), il s'agirait de l'arc de Gordien.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-20T16:31:15.502321",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Arc",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
