@@ -1,0 +1,64 @@
+{
+  "id": "GalerieUlysseFontainebleau",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q113835939",
+  "entry_type": "ensemble",
+  "title": "Galerie d'Ulysse",
+  "creator": [
+    {
+      "xml_id": "JacquesAndrouetDuCerceau",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "FrancescoPrimaticcio",
+      "role": "auteur du modèle"
+    },
+    {
+      "xml_id": "NicoloDellAbbate",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1532,
+    "endYear": 1571,
+    "text": "Entre 1532 et 1571."
+  },
+  "location": {
+    "type": "place",
+    "institution": {
+      "name": null,
+      "place": "",
+      "inventory_number": "",
+      "url": ""
+    },
+    "place": {
+      "city": "Fontainebleau",
+      "country": "France",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "",
+      "storage": "",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "description": "La galerie fut détruite en 1738.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-21T14:54:50.456842",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "typology": "ensemble décoratif",
+  "contains_works": []
+}
