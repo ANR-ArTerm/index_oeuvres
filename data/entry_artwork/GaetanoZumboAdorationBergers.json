@@ -1,0 +1,45 @@
+{
+  "id": "GaetanoZumboAdorationBergers",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Adoration des bergers",
+  "creator": [
+    {
+      "xml_id": "GaetanoZumbo",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1680,
+    "endYear": 1700,
+    "text": "vers 1680-1700"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://framemark.vam.ac.uk/collections/2006AE6493/full/full/0/default.jpg",
+      "storage": "online",
+      "copyright": "© Victoria and Albert Museum, London",
+      "caption": "Gaetano Zumbo, Adoration des bergers, Londres Victoria and Albert Museum, inv. A.3-1935 (https://collections.vam.ac.uk/item/O96667/the-adoration-of-the-shepherds-group-zumbo-gaetano-giulio/)"
+    }
+  ],
+  "description": "Sculpture en cire probablement disparue. Elle devait être proche de l'œuvre conservé au Victoria and Albert Museum à Londres.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-21T16:53:32.770367",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "sculpture en cire",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

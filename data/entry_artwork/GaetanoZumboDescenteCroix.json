@@ -1,5 +1,5 @@
 {
-  "id": "GaetanoZumbo",
+  "id": "GaetanoZumboDescenteCroix",
   "QID_wikidata": "",
   "entry_type": "artwork",
   "title": "Descente de croix",
@@ -35,9 +35,19 @@
       "date": "2026-04-21T16:46:51.554372",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-04-21T16:47:12.503884",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-04-21T16:47:48.403798",
+      "type": "modified",
+      "author": "Pierre"
     }
   ],
-  "materialsAndTechniques": null,
+  "materialsAndTechniques": "sculpture en cire",
   "contained_by_ensemble": {
     "link_type": null,
     "xml_id_work": null
