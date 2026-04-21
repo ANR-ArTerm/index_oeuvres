@@ -1,0 +1,32 @@
+{
+  "id": "TourBabel",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q41213",
+  "entry_type": "building",
+  "title": "Tour de Babel",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-21T15:39:46.884323",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "typology": null,
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
