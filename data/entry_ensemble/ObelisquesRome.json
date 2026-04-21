@@ -1,0 +1,51 @@
+{
+  "id": "ObelisquesRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q123809",
+  "entry_type": "ensemble",
+  "title": "Obélisques de Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "place",
+    "institution": {
+      "name": null,
+      "place": "",
+      "inventory_number": "",
+      "url": ""
+    },
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Obelisk-Lateran.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Trauden Maus-Trauden, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Obelisk-Lateran.jpg)",
+      "caption": "Obélisque du Latran"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-21T16:07:39.807182",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "typology": null,
+  "contains_works": []
+}
