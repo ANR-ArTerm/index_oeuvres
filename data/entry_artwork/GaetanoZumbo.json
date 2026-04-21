@@ -1,0 +1,45 @@
+{
+  "id": "GaetanoZumbo",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Descente de croix",
+  "creator": [
+    {
+      "xml_id": "GaetanoZumbo",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1700,
+    "endYear": 1700,
+    "text": "vers 1700"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://journals.openedition.org/crcv/docannexe/image/13864/img-6.jpg",
+      "storage": "online",
+      "copyright": "© Elena Taddia (https://journals.openedition.org/crcv/13864)",
+      "caption": "Élisabeth Chéron, d’après Gaetano Giulio Zumbo, Descente de croix, XVIIe siècle, gravure. Paris, BnF, département des Estampes et de la photographie, magasin, AA-4 ZUMBO."
+    }
+  ],
+  "description": "Sculpture en cire disparue, connue par une copie gravée.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-21T16:46:51.554372",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": null,
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

@@ -9,15 +9,9 @@
     "endYear": null,
     "text": ""
   },
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": "œuvre imaginaire ou disparu",
   "location": {
-    "type": "holding_institution",
-    "institution": {
-      "name": "",
-      "place": "",
-      "inventory_number": "",
-      "url": ""
-    }
+    "type": "unlocated"
   },
   "related_works": [],
   "bibliography": [],
@@ -29,6 +23,15 @@
       "date": "2026-01-19T10:33:34.440758",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-04-21T16:19:48.608968",
+      "type": "modified",
+      "author": "Pierre"
     }
-  ]
+  ],
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
 }
