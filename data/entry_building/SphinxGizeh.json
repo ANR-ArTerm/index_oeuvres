@@ -1,0 +1,48 @@
+{
+  "id": "SphinxGizeh",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q130958",
+  "entry_type": "building",
+  "title": "Sphinx de Gizeh",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -2500,
+    "endYear": -2500,
+    "text": "vers 2500 av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Gizeh",
+      "country": "Egypte",
+      "coordinates": {
+        "latitude": "29.97527",
+        "longitude": "31.13768"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Sphinx_with_the_third_pyramid.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Sphinx_with_the_third_pyramid.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-21T15:54:00.174695",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "typology": "sculpture monumentale",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
