@@ -1,0 +1,40 @@
+{
+  "id": "JardinsBabylone",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q41931",
+  "entry_type": "building",
+  "title": "Jardins suspendus de Babylone",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -400,
+    "endYear": -300,
+    "text": "IVe siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Babylone",
+      "country": "Irak",
+      "coordinates": {
+        "latitude": "32.5355",
+        "longitude": "44.4275"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-21T15:44:04.089339",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
