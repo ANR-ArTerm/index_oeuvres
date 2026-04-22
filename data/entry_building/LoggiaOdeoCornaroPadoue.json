@@ -1,0 +1,48 @@
+{
+  "id": "LoggiaOdeoCornaroPadoue",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3836439",
+  "entry_type": "building",
+  "title": "Loggia et Odeo Cornaro",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1524,
+    "endYear": 1524,
+    "text": "XVIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Padoue",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "45.40233",
+        "longitude": "11.882336"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/FotoLoggia2%28banner%29.png",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Bia123gio (https://commons.wikimedia.org/wiki/File:FotoLoggia2(banner).png)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-22T16:49:06.606440",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": null,
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
