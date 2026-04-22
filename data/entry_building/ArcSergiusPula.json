@@ -1,0 +1,48 @@
+{
+  "id": "ArcSergiusPula",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q952381",
+  "entry_type": "building",
+  "title": "Arc des Sergius",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -29,
+    "endYear": -27,
+    "text": "Ie siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Pula",
+      "country": "Croatie",
+      "coordinates": {
+        "latitude": "44.86827778",
+        "longitude": "13.84694444"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Pola%2C_arco_dei_sergi_o_porta_aurea%2C_15_ac._ca._04.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY 3.0, Sailko (https://it.wikipedia.org/wiki/File:Pola,_arco_dei_sergi_o_porta_aurea,_15_ac._ca._04.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-22T16:04:37.859022",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Arc",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
