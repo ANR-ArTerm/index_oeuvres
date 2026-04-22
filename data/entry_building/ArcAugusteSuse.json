@@ -1,0 +1,48 @@
+{
+  "id": "ArcAugusteSuse",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1892101",
+  "entry_type": "building",
+  "title": "Arc d'Auguste Suse",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -9,
+    "endYear": -9,
+    "text": "Ie siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Suse",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "45.1361",
+        "longitude": "7.04294"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Arco_di_Augusto-Susa.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Lorenzo Rossetti (https://commons.wikimedia.org/wiki/File:Arco_di_Augusto-Susa.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-22T15:59:23.819602",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Arc",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
