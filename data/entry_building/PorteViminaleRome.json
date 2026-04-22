@@ -1,0 +1,48 @@
+{
+  "id": "PorteViminaleRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1516087",
+  "entry_type": "building",
+  "title": "Porte Viminale",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -600,
+    "endYear": -500,
+    "text": "VIIe siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.9025",
+        "longitude": "12.50111111"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Porta_Viminale.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domenico Pronti (https://commons.wikimedia.org/wiki/File:Porta_Viminale.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-22T11:28:57.118448",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": null,
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
