@@ -1,0 +1,48 @@
+{
+  "id": "ProcuratieVenise",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q109405871",
+  "entry_type": "building",
+  "title": "Procuratie",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1517,
+    "endYear": 1640,
+    "text": "XVIe et XVIIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Venise",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "48.860226019",
+        "longitude": "2.333869183"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Piazza_San_Marco_%282%29.jpg",
+      "storage": "online",
+      "copyright": "wikimedia commons, Michał Bulsa, CC BY 4.0 (https://commons.wikimedia.org/wiki/File:Piazza_San_Marco_(2).jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-22T10:21:16.532173",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Palais",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
