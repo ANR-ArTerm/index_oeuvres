@@ -1,0 +1,48 @@
+{
+  "id": "TempleDesDioscuresRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q380530",
+  "entry_type": "building",
+  "title": "Temple des Dioscures",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -500,
+    "endYear": 6,
+    "text": "entre VIe siècle av. J.-C. et Ie siècle apr. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.891666666",
+        "longitude": "12.485555555"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/RomaForoRomanoTempioCastori.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, MM (https://commons.wikimedia.org/wiki/File:RomaForoRomanoTempioCastori.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-22T11:07:46.100724",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Temple",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
