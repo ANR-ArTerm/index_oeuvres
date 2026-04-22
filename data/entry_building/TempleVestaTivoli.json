@@ -1,0 +1,48 @@
+{
+  "id": "TempleVestaTivoli",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1219688",
+  "entry_type": "building",
+  "title": "Temple de Vesta",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -100,
+    "endYear": -50,
+    "text": "Ie siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Tivoli",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.9667",
+        "longitude": "12.8009"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Temple_de_Vesta_de_Tivoli.JPG",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, LPLT (https://commons.wikimedia.org/wiki/File:Temple_de_Vesta_de_Tivoli.JPG)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-22T16:13:40.225461",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Arc",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
