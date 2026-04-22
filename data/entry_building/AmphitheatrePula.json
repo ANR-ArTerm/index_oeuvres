@@ -1,0 +1,48 @@
+{
+  "id": "AmphitheatrePula",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q474998",
+  "entry_type": "building",
+  "title": "Amphithéatre de Pula",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 0,
+    "endYear": 100,
+    "text": "Ie siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Pula",
+      "country": "Croatie",
+      "coordinates": {
+        "latitude": "44.873",
+        "longitude": "13.85"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Croatia_Pula_Amphitheatre_2014-10-11_11-04-27.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia commons, CC BY-SA 3.0, Berthold Werner (https://commons.wikimedia.org/wiki/File:Croatia_Pula_Amphitheatre_2014-10-11_11-04-27.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-22T14:24:55.462138",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Amphitheatre",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
