@@ -1,0 +1,48 @@
+{
+  "id": "TheatreMarcellusRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q659138",
+  "entry_type": "building",
+  "title": "Théatre de Marcellus",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -100,
+    "endYear": 100,
+    "text": "entre Ie siècle av. J.-C. et IIe siècle apr. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.891911",
+        "longitude": "12.479483"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Teatro_di_Marcello_intero.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Fiato 500e (https://commons.wikimedia.org/wiki/File:Teatro_di_Marcello_intero.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-22T14:42:30.446304",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Theatre",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
