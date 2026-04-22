@@ -1,0 +1,48 @@
+{
+  "id": "PortaLeoniVerone",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3908725",
+  "entry_type": "building",
+  "title": "Porta Leoni Verona",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -100,
+    "endYear": -1,
+    "text": "Ie siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Verone",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "45.440486",
+        "longitude": "10.999621"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Porta_Leoni.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Andrea Bertozzi (https://commons.wikimedia.org/wiki/File:Porta_Leoni.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-22T15:27:21.570400",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Porte",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
