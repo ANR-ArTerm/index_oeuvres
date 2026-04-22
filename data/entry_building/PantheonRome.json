@@ -5,16 +5,16 @@
   "title": "Panthéon",
   "creator": [],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 112,
+    "endYear": 128,
+    "text": "IIe siècle"
   },
-  "typology": "",
+  "typology": "Temple",
   "location": {
     "type": "place",
     "place": {
-      "city": "",
-      "country": "",
+      "city": "Rome",
+      "country": "Italie",
       "coordinates": {
         "latitude": "",
         "longitude": ""
@@ -23,7 +23,15 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Pantheon_Rom_1_cropped.jpg",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Rabax63, (https://commons.wikimedia.org/wiki/File:Pantheon_Rom_1_cropped.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -31,6 +39,15 @@
       "date": "2026-01-20T11:47:35.347948",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-04-22T10:41:12.189098",
+      "type": "modified",
+      "author": "Nicolo"
     }
-  ]
+  ],
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
 }

@@ -1,0 +1,48 @@
+{
+  "id": "TempleDeSaturneRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q746721",
+  "entry_type": "building",
+  "title": "Temple de Saturne",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -500,
+    "endYear": 300,
+    "text": "entre Ve siècle av. J.-C. et IVe siècle apr. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.892428",
+        "longitude": "12.484111"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Temple-de-saturne.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Danielhbordeleau (https://commons.wikimedia.org/wiki/File:Temple-de-saturne.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-22T10:53:09.570326",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Temple",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
