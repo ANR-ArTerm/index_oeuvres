@@ -1,0 +1,48 @@
+{
+  "id": "ArcTrajanAncone",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1509102",
+  "entry_type": "building",
+  "title": "Arc de Trajan d'Ancône",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 100,
+    "endYear": 200,
+    "text": "IIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Ancone",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "43.62527778",
+        "longitude": "13.5065"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Arco_di_Traiano_Ancona_vista_frontale.JPG",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Claudio.stanco (https://commons.wikimedia.org/wiki/File:Arco_di_Traiano_Ancona_vista_frontale.JPG)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-22T15:55:34.161889",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Arc",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
