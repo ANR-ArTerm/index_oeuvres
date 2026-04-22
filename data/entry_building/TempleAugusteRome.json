@@ -1,0 +1,40 @@
+{
+  "id": "TempleAugusteRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q927222",
+  "entry_type": "building",
+  "title": "Temple d'Auguste",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 0,
+    "endYear": 37,
+    "text": "Ie siècle "
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.8916",
+        "longitude": "12.4844"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-22T12:10:59.976316",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Temple",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
