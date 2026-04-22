@@ -1,0 +1,48 @@
+{
+  "id": "ArcTitusRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q723887",
+  "entry_type": "building",
+  "title": "Arc de Titus Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 0,
+    "endYear": 100,
+    "text": "Ie siècle "
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.890717",
+        "longitude": "12.488585"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Arch_of_Titus_%28Roma%29.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, ThePhotografer (https://commons.wikimedia.org/wiki/File:Arch_of_Titus_(Roma).jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-22T15:46:58.878389",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Arc",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
