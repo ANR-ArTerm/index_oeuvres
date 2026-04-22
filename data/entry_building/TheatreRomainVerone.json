@@ -1,0 +1,48 @@
+{
+  "id": "TheatreRomainVerone",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1477572",
+  "entry_type": "building",
+  "title": "Théatre Romain de Vérone",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -100,
+    "endYear": -1,
+    "text": "Ie siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Verone",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "45.447416666",
+        "longitude": "11.001638888"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Paolo_Monti_-_Servizio_fotografico_%28Verona%2C_1965%29_-_BEIC_6328936.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0,  Federico Leva (https://commons.wikimedia.org/wiki/File:Paolo_Monti_-_Servizio_fotografico_(Verona,_1965)_-_BEIC_6328936.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-22T15:14:00.636731",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Theatre",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
