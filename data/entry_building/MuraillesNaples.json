@@ -1,0 +1,48 @@
+{
+  "id": "MuraillesNaples",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3867291",
+  "entry_type": "building",
+  "title": "Murailles De Naples",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -500,
+    "endYear": 1800,
+    "text": "entre VIe siècle av. J.-C. et XIXe siècle apr. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": null,
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "40.850567",
+        "longitude": "14.250314"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Mura_Greche_-_panoramio.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY 3.0, Mister No (https://commons.wikimedia.org/wiki/File:Mura_Greche_-_panoramio.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-22T12:22:42.664343",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": null,
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
