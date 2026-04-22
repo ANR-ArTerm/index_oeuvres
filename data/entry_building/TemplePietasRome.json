@@ -1,0 +1,48 @@
+{
+  "id": "TemplePietasRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q21208569",
+  "entry_type": "building",
+  "title": "Temple de Pietas Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -200,
+    "endYear": -181,
+    "text": "IIe siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.89138889",
+        "longitude": "12.48"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "",
+      "storage": "online",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-22T15:32:47.191934",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Temple",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
