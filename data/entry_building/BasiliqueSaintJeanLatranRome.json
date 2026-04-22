@@ -1,0 +1,48 @@
+{
+  "id": "BasiliqueSaintJeanLatranRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q84090",
+  "entry_type": "building",
+  "title": "Basilique Saint Jean De Latran",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 300,
+    "endYear": 1735,
+    "text": "entre IVe siècle et XVIIIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.885905555",
+        "longitude": "12.506155555"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/San_Giovanni_in_Laterano_2021.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, NikonZ7II (https://commons.wikimedia.org/wiki/File:San_Giovanni_in_Laterano_2021.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-22T10:35:58.201469",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "église",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
