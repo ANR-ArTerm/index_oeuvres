@@ -1,0 +1,48 @@
+{
+  "id": "TheatreRomainGubbio",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q55164614",
+  "entry_type": "building",
+  "title": "Theatre Romain de Gubbio",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 0,
+    "endYear": 100,
+    "text": "Ie siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Gubbio",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "43.353443",
+        "longitude": "12.573895"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Antico_teatro_romano_di_Gubbio_03.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Superchilum (https://commons.wikimedia.org/wiki/File:Antico_teatro_romano_di_Gubbio_03.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-22T14:59:30.695487",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Theatre",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
