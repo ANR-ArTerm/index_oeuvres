@@ -1,0 +1,48 @@
+{
+  "id": "ArenaVerone",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q641556",
+  "entry_type": "building",
+  "title": "Arènes de Vérone",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 0,
+    "endYear": 100,
+    "text": "Ie siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Verone",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "45.438888888",
+        "longitude": "10.994444444"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Arena-XE3F2406a.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Claconvr (https://commons.wikimedia.org/wiki/File:Arena-XE3F2406a.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-22T11:58:13.759407",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Amphitheatre",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
