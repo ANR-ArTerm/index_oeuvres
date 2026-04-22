@@ -1,0 +1,48 @@
+{
+  "id": "SantuarioMariaDellaRotondaRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3950079",
+  "entry_type": "building",
+  "title": "Santuario di Santa Maria della Rotonda",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 0,
+    "endYear": 1000,
+    "text": "entre Ie siècle et XIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Rotonda-Albano-2020-2.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Edoardo Scialis (https://commons.wikimedia.org/wiki/File:Rotonda-Albano-2020-2.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-22T11:39:30.102664",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": null,
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
