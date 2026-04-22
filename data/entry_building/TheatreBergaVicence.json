@@ -1,0 +1,48 @@
+{
+  "id": "TheatreBergaVicence",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q16912710",
+  "entry_type": "building",
+  "title": "Theatre Berga",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 0,
+    "endYear": 100,
+    "text": "Ie siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Vicence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "45.543888",
+        "longitude": "11.547949"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Teatro_Berga_Palladio.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Mpiva (https://commons.wikimedia.org/wiki/File:Teatro_Berga_Palladio.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-22T14:30:19.301113",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": null,
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
