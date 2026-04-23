@@ -1,0 +1,53 @@
+{
+  "id": "VillaValmaranaLisiera",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2721458",
+  "entry_type": "building",
+  "title": "Villa Valmarana ",
+  "creator": [
+    {
+      "xml_id": "AndreaPalladio",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1539,
+    "endYear": 1587,
+    "text": "XVIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": null,
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "45.5798",
+        "longitude": "11.6103"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/VillaValmaranaScagnolariZen_2007_07_16_01.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Hans A. Rosbach (https://commons.wikimedia.org/wiki/File:VillaValmaranaScagnolariZen_2007_07_16_01.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-23T15:41:28.017233",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Villa",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
