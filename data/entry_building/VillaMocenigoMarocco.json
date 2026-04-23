@@ -1,0 +1,53 @@
+{
+  "id": "VillaMocenigoMarocco",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q4012322",
+  "entry_type": "building",
+  "title": "Villa Mocenigo à Marocco",
+  "creator": [
+    {
+      "xml_id": "AndreaPalladio",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1560,
+    "endYear": 1560,
+    "text": "XVIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": null,
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "45.41666667",
+        "longitude": "11.41666667"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Villa_Mocenigo_-_Palladio.JPG",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, (https://commons.wikimedia.org/wiki/File:Villa_Mocenigo_-_Palladio.JPG)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-23T15:18:39.623012",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
