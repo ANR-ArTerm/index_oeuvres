@@ -1,0 +1,53 @@
+{
+  "id": "VillaPojana",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2688899",
+  "entry_type": "building",
+  "title": "Villa à Pojana Maggiore",
+  "creator": [
+    {
+      "xml_id": "AndreaPalladio",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1549,
+    "endYear": 1563,
+    "text": "XVIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": null,
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "45.2853392",
+        "longitude": "11.4980618"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/VillaPoiana_2007_07_06_2.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Hans A. Rosbach (https://commons.wikimedia.org/wiki/File:VillaPoiana_2007_07_06_2.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-23T15:37:43.514696",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Villa",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
