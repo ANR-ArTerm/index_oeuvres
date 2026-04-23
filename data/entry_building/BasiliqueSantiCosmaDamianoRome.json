@@ -1,5 +1,5 @@
 {
-  "id": "BasiliqueSantoCosimoDamianoRome",
+  "id": "BasiliqueSantiCosmaDamianoRome",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q675513",
   "entry_type": "building",
   "title": "Basilique Santi Cosma e Damiano",
@@ -41,6 +41,11 @@
     },
     {
       "date": "2026-04-22T11:02:27.095288",
+      "type": "modified",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-04-23T14:55:50.386751",
       "type": "modified",
       "author": "Nicolo"
     }
