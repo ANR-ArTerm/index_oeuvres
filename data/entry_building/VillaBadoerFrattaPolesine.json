@@ -1,0 +1,53 @@
+{
+  "id": "VillaBadoerFrattaPolesine",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2031664",
+  "entry_type": "building",
+  "title": "Villa Badoer à Fratta Polesine",
+  "creator": [
+    {
+      "xml_id": "AndreaPalladio",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1556,
+    "endYear": 1563,
+    "text": "XVIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Fratta Polesine",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "45.030352777",
+        "longitude": "11.639861111"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Villa_Badoer_Fratta_Polesine_facciata_by_Marcok_2009-08-16_n07.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Marcok (https://commons.wikimedia.org/wiki/File:Villa_Badoer_Fratta_Polesine_facciata_by_Marcok_2009-08-16_n07.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-23T12:19:12.030786",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Villa",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
