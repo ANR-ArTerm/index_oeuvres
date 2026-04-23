@@ -1,0 +1,43 @@
+{
+  "id": "TitienTriompheFoi",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Le Triomphe de la Foi",
+  "creator": [
+    {
+      "xml_id": "Titien",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1508,
+    "endYear": 1508,
+    "text": "1508"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Bibliothèque nationale France",
+      "place": "Paris",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-23T16:00:38.657203",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": null,
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
