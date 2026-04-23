@@ -1,0 +1,57 @@
+{
+  "id": "VillaAlmericoCapraVicence",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q505574",
+  "entry_type": "building",
+  "title": "Villa Almerico Capra La Rotonda à Vicence",
+  "creator": [
+    {
+      "xml_id": "AndreaPalladio",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "VincenzoScamozzi",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1566,
+    "endYear": 1605,
+    "text": "entre XVIe et XVIIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Vicence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "45.531524",
+        "longitude": "11.560268"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/La_Rotonda.png",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Philip Schäfer (https://commons.wikimedia.org/wiki/File:La_Rotonda.png)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-23T11:36:31.838592",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": null,
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
