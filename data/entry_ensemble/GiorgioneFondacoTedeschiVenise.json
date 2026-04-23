@@ -2,7 +2,7 @@
   "id": "GiorgioneFondacoTedeschiVenise",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q1259067",
   "entry_type": "ensemble",
-  "title": "Façade du Fondaco dei Tedeschi ",
+  "title": "Façade terrestre et du Fondaco dei Tedeschi ",
   "creator": [
     {
       "xml_id": "Giorgione",
@@ -38,6 +38,11 @@
     {
       "date": "2026-04-10T19:04:02.402025",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-04-23T12:07:05.810172",
+      "type": "modified",
       "author": "Carla"
     }
   ],
