@@ -1,0 +1,53 @@
+{
+  "id": "VillaPisaniBagnolo",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q514069",
+  "entry_type": "building",
+  "title": "Villa Pisani à Bagnolo",
+  "creator": [
+    {
+      "xml_id": "AndreaPalladio",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1542,
+    "endYear": 1545,
+    "text": "XVIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Bagnolo",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "45.35736667",
+        "longitude": "11.37102222"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Villa_Pisani_Bagnolo_front_retouched.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Hans A. Rosbach et Marcok (https://commons.wikimedia.org/wiki/File:Villa_Pisani_Bagnolo_front_retouched.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-23T12:08:10.397901",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Villa",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
