@@ -1,0 +1,53 @@
+{
+  "id": "VillaThieneVillafrancaPadovana",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2884298",
+  "entry_type": "building",
+  "title": "Villa Thiene à Villafranca Padovana",
+  "creator": [
+    {
+      "xml_id": "AndreaPalladio",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1556,
+    "endYear": 1556,
+    "text": "XVIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": null,
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "45.5031",
+        "longitude": "11.7923"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Villa_Thiene_Cicogna_pianta_prospetto_Quattro_Libri.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Andrea Palladio (https://commons.wikimedia.org/wiki/File:Villa_Thiene_Cicogna_pianta_prospetto_Quattro_Libri.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-23T16:01:28.738842",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
