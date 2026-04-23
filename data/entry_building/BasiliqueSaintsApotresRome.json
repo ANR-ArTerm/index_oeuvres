@@ -1,0 +1,48 @@
+{
+  "id": "BasiliqueSaintsApotresRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1515300",
+  "entry_type": "building",
+  "title": "Basilique des Saints-Apôtres",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1348,
+    "endYear": 1702,
+    "text": "entre XIVe et XVIIIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.898105555",
+        "longitude": "12.483205555"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Basilica_dei_Santi_Apostoli_%28Rome%29.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Monticiano (https://commons.wikimedia.org/wiki/File:Basilica_dei_Santi_Apostoli_(Rome).jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-23T10:48:07.236450",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "basilique",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
