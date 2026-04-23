@@ -1,0 +1,53 @@
+{
+  "id": "VillaThieneQuintoVicentino",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2115058",
+  "entry_type": "building",
+  "title": "Villa Thiene à Quinto Vicentino",
+  "creator": [
+    {
+      "xml_id": "AndreaPalladio",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1542,
+    "endYear": 1550,
+    "text": "XVIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": null,
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "45.5729814",
+        "longitude": "11.6249847"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Villa_Thiene_Quinto_pianta_Quattro_Libri.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Andrea Palladio (https://commons.wikimedia.org/wiki/File:Villa_Thiene_Quinto_pianta_Quattro_Libri.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-23T16:07:59.050623",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
