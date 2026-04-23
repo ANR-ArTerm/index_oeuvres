@@ -1,0 +1,53 @@
+{
+  "id": "PalaisChiericatiVicence",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q729773",
+  "entry_type": "building",
+  "title": "Palais Chiericati à Venice",
+  "creator": [
+    {
+      "xml_id": "AndreaPalladio",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1550,
+    "endYear": 1680,
+    "text": "entre XVIe et XVIIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Vicence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "45.549167",
+        "longitude": "11.549167"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Palazzo_Chiericati_%28Vicenza%29.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Didier Descouens (https://commons.wikimedia.org/wiki/File:Palazzo_Chiericati_(Vicenza).jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-23T11:05:50.429877",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Palais",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
