@@ -1,5 +1,5 @@
 {
-  "id": "ColonneAntonine",
+  "id": "ColonneAntonineRome",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q599302",
   "entry_type": "building",
   "title": "Colonne Antonine",
@@ -9,7 +9,7 @@
     "endYear": 161,
     "text": "161 "
   },
-  "typology": null,
+  "typology": "Colonne",
   "location": {
     "type": "place",
     "place": {
@@ -27,7 +27,7 @@
     {
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Musei_vaticani_-_base_colonna_antonina_01106.JPG",
-      "copyright": "",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Lalupa (https://commons.wikimedia.org/wiki/File:Musei_vaticani_-_base_colonna_antonina_01106.JPG)",
       "caption": "",
       "storage": "online"
     }
@@ -39,6 +39,15 @@
       "date": "2026-01-09T15:57:27.473640",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-04-23T10:13:37.540326",
+      "type": "modified",
+      "author": "Nicolo"
     }
-  ]
+  ],
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
 }

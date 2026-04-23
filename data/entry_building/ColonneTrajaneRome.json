@@ -1,5 +1,5 @@
 {
-  "id": "ColonneTrajane",
+  "id": "ColonneTrajaneRome",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q192784",
   "entry_type": "building",
   "title": "Colonne Trajane",
@@ -9,7 +9,7 @@
     "endYear": 113,
     "text": "113"
   },
-  "typology": null,
+  "typology": "Colonne",
   "location": {
     "type": "place",
     "place": {
@@ -26,8 +26,8 @@
   "illustrations": [
     {
       "id": 0,
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Trajan_column_%28Rome%29_September_2015-2.jpg",
-      "copyright": "",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Traijan%27s_Column_2013-2.jpg",
+      "copyright": "Wikimedia Commons, Szilas (https://fr.wikipedia.org/wiki/Fichier:Traijan%27s_Column_2013-2.jpg)",
       "caption": "",
       "storage": "online"
     }
@@ -49,6 +49,15 @@
       "date": "2026-01-09T15:58:24.604572",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-04-23T10:07:41.390131",
+      "type": "modified",
+      "author": "Nicolo"
     }
-  ]
+  ],
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
 }
