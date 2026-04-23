@@ -1,0 +1,53 @@
+{
+  "id": "VillaEmoFanzolo",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1258865",
+  "entry_type": "building",
+  "title": "Villa Emo",
+  "creator": [
+    {
+      "xml_id": "AndreaPalladio",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1559,
+    "endYear": 1565,
+    "text": "XVIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": null,
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "45.711722222",
+        "longitude": "11.991222222"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Villa_Emo.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Mhwater at Dutch Wikipedia (https://commons.wikimedia.org/wiki/File:Villa_Emo.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-23T15:23:07.935050",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Villa",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
