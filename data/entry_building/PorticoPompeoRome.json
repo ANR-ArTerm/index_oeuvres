@@ -1,0 +1,48 @@
+{
+  "id": "PorticoPompeoRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q7231815",
+  "entry_type": "building",
+  "title": "Portico di Pompeo",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -100,
+    "endYear": -62,
+    "text": "Ie siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.89500046",
+        "longitude": "12.47399998"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Theatre_of_Pompey_Sketch_up_model.png",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0,  Lasha Tskhondia et Mark Miller (https://commons.wikimedia.org/wiki/File:Theatre_of_Pompey_Sketch_up_model.png)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-23T10:40:10.335567",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Place",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
