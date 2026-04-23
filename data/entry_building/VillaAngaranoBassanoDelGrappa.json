@@ -1,0 +1,57 @@
+{
+  "id": "VillaAngaranoBassanoDelGrappa",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2299483",
+  "entry_type": "building",
+  "title": "Villa Angarano à Bassano del Grappa",
+  "creator": [
+    {
+      "xml_id": "AndreaPalladio",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "BaldassarreLonghena",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1554,
+    "endYear": 1556,
+    "text": "XVIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": null,
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "45.78055556",
+        "longitude": "11.72361111"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Villa_Angarano_Bassano_Quattro_Libri.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Andrea Palladio (https://commons.wikimedia.org/wiki/File:Villa_Angarano_Bassano_Quattro_Libri.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-23T16:05:15.029643",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Villa",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
