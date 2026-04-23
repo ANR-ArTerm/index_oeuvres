@@ -38,9 +38,14 @@
       "date": "2026-04-23T10:40:10.335567",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-04-23T10:53:18.394025",
+      "type": "modified",
+      "author": "Nicolo"
     }
   ],
-  "typology": "Place",
+  "typology": "monument imaginaire ou disparu",
   "contained_by_ensemble": {
     "link_type": null,
     "xml_id_work": null

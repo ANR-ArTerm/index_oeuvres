@@ -1,0 +1,53 @@
+{
+  "id": "PalaisAntoniniUdine",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1405208",
+  "entry_type": "building",
+  "title": "Palais Antonini à Udine",
+  "creator": [
+    {
+      "xml_id": "AndreaPalladio",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1556,
+    "endYear": 1563,
+    "text": "XVIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Udine",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "46.06638889",
+        "longitude": "13.23361111"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Udine_-_Palazzo_Antonini.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Udine2812  (https://commons.wikimedia.org/wiki/File:Udine_-_Palazzo_Antonini.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-23T11:01:34.155025",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Palais",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
