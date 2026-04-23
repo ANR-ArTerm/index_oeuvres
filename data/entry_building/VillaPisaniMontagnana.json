@@ -1,0 +1,53 @@
+{
+  "id": "VillaPisaniMontagnana",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2705507",
+  "entry_type": "building",
+  "title": "Villa Pisani à Montagnana",
+  "creator": [
+    {
+      "xml_id": "AndreaPalladio",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1552,
+    "endYear": 1555,
+    "text": "XVIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Montagnana",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "45.23053",
+        "longitude": "11.46965"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/VillaPisani_Montagnana2007_07_11_1.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 2.5, Hans A. Rosbach (https://commons.wikimedia.org/wiki/File:VillaPisani_Montagnana2007_07_11_1.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-23T15:10:53.240784",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Villa",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
