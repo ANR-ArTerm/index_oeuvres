@@ -1,0 +1,53 @@
+{
+  "id": "VillaFoscariMira",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1139609",
+  "entry_type": "building",
+  "title": "Villa Foscari Malcontenta à Mira ",
+  "creator": [
+    {
+      "xml_id": "AndreaPalladio",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1560,
+    "endYear": 1565,
+    "text": "XVIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": null,
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "45.436667",
+        "longitude": "12.201667"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Malcontenta_retouched.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Peter Geymayer (https://commons.wikimedia.org/wiki/File:Malcontenta_retouched.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-23T12:29:29.418340",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Villa",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
