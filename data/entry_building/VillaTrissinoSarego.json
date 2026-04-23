@@ -1,0 +1,53 @@
+{
+  "id": "VillaTrissinoSarego",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2546376",
+  "entry_type": "building",
+  "title": "Villa Trissino à Sarego",
+  "creator": [
+    {
+      "xml_id": "AndreaPalladio",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1553,
+    "endYear": 1575,
+    "text": "XVIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Sarego",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "45.4322",
+        "longitude": "11.4131"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/ArcadeVillaTrissino_Meledo_2007_07_06_3.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Hans A. Rosbach (https://commons.wikimedia.org/wiki/File:ArcadeVillaTrissino_Meledo_2007_07_06_3.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-23T15:55:52.124156",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Villa",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
