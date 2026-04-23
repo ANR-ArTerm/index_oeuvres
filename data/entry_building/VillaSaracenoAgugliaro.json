@@ -1,0 +1,53 @@
+{
+  "id": "VillaSaracenoAgugliaro",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q387517",
+  "entry_type": "building",
+  "title": "Villa Saraceno à Agugliaro",
+  "creator": [
+    {
+      "xml_id": "AndreaPalladio",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1548,
+    "endYear": 1555,
+    "text": "XVIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": null,
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "45.3125",
+        "longitude": "11.56638889"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/VillaSaraCeno2007_07_11_1.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 2.5, Hans A. Rosbach (https://commons.wikimedia.org/wiki/File:VillaSaraCeno2007_07_11_1.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-23T15:26:39.033815",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Villa",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
