@@ -1,0 +1,53 @@
+{
+  "id": "PalaisThieneVicence",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q898904",
+  "entry_type": "building",
+  "title": "Palais Thiene à Vicence",
+  "creator": [
+    {
+      "xml_id": "AndreaPalladio",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1500,
+    "endYear": 1599,
+    "text": "XVIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Vicence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "45.54833333",
+        "longitude": "11.54611111"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Palazzo_Thiene_%28Vicenza%29_-_courtyard.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Didier Descouens (https://commons.wikimedia.org/wiki/File:Palazzo_Thiene_(Vicenza)_-_courtyard.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-23T11:23:26.825929",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Palais",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
