@@ -1,0 +1,53 @@
+{
+  "id": "PalaisBarbaranDaPortoVicence",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q925271",
+  "entry_type": "building",
+  "title": "Palais Barbaran da Porto à Vicence",
+  "creator": [
+    {
+      "xml_id": "AndreaPalladio",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1570,
+    "endYear": 1575,
+    "text": "XVIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Vicence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "45.54861111",
+        "longitude": "11.54555556"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Palazzo_Barbaran_da_Porto%2C_Contr%C3%A0_Porti_11%2C_Vicenza_-_Andrea_Palladio.JPG",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Oursana (https://commons.wikimedia.org/wiki/File:Palazzo_Barbaran_da_Porto,_Contr%C3%A0_Porti_11,_Vicenza_-_Andrea_Palladio.JPG)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-23T11:43:27.523948",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Palais",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
