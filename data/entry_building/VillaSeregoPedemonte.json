@@ -1,0 +1,53 @@
+{
+  "id": "VillaSeregoPedemonte",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2299393",
+  "entry_type": "building",
+  "title": "Villa Serego à Pedemonte",
+  "creator": [
+    {
+      "xml_id": "AndreaPalladio",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1565,
+    "endYear": 1585,
+    "text": "XVIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": null,
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "45.499444444",
+        "longitude": "10.925555555"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/VillaSarego20110707-1.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Hans A. Rosbach (https://commons.wikimedia.org/wiki/File:VillaSarego20110707-1.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-23T16:14:08.850652",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Villa",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
