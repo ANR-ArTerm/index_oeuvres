@@ -1,0 +1,48 @@
+{
+  "id": "ChateauChambord",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q205367",
+  "entry_type": "building",
+  "title": "Chateau de Chambord",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1500,
+    "endYear": 1600,
+    "text": "entre XVIe et XVIIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Chambord",
+      "country": "France",
+      "coordinates": {
+        "latitude": "47.616111111",
+        "longitude": "1.517222222"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/France_Loir-et-Cher_Chambord_Chateau_03.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Calips (https://commons.wikimedia.org/wiki/File:France_Loir-et-Cher_Chambord_Chateau_03.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-23T10:33:12.854442",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": null,
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
