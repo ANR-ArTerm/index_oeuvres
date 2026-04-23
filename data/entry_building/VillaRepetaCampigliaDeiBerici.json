@@ -1,0 +1,53 @@
+{
+  "id": "VillaRepetaCampigliaDeiBerici",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3558719",
+  "entry_type": "building",
+  "title": "Villa Repeta à Campiglia dei Berici",
+  "creator": [
+    {
+      "xml_id": "AndreaPalladio",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1557,
+    "endYear": 1560,
+    "text": "XVIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": null,
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "45.3425",
+        "longitude": "11.5396"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Villa_Repeta_Palladio_Quattro_Libri_1570.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Andrea Palladio (https://commons.wikimedia.org/wiki/File:Villa_Repeta_Palladio_Quattro_Libri_1570.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-23T15:58:33.553694",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
