@@ -1,0 +1,53 @@
+{
+  "id": "PalaisValmaranaVicence",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2298628",
+  "entry_type": "building",
+  "title": "Palais Valmarana à Vicence",
+  "creator": [
+    {
+      "xml_id": "AndreaPalladio",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1565,
+    "endYear": 1565,
+    "text": "XVIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Vicence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "45.54777778",
+        "longitude": "11.54361111"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Palazzo_Valmarana_Vicenza_facciata_2009-07-25_f01.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Marcok (https://commons.wikimedia.org/wiki/File:Palazzo_Valmarana_Vicenza_facciata_2009-07-25_f01.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-23T11:27:51.461892",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Palais",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
