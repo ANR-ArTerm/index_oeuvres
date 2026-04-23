@@ -1,0 +1,53 @@
+{
+  "id": "VillaZenoCessalto",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2271810",
+  "entry_type": "building",
+  "title": "Villa Zeno à Cessalto",
+  "creator": [
+    {
+      "xml_id": "AndreaPalladio",
+      "role": null
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1555,
+    "endYear": 1555,
+    "text": "XVIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": null,
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "45.70027778",
+        "longitude": "12.64305556"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Cessalto_Villa_Zeno_FoNo.jpg?uselang=it",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Chfono (https://commons.wikimedia.org/wiki/File:Cessalto_Villa_Zeno_FoNo.jpg?uselang=it)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-23T12:24:37.712665",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Villa",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
