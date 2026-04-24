@@ -1,0 +1,54 @@
+{
+  "id": "VenezianoLycaonJupiter",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Lycaon transformé en loup",
+  "creator": [
+    {
+      "xml_id": "AgostinoVeneziano",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "Raphael",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1524,
+    "endYear": 1524,
+    "text": "1524"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": null,
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/342967/1924345/main-image",
+      "storage": "online",
+      "copyright": "New York, Metropolitan Museum of Arts, inv. 49.50.4 (https://www.metmuseum.org/art/collection/search/342967)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-24T17:47:21.491975",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
