@@ -1,0 +1,49 @@
+{
+  "id": "CaraglioAlexandreRoxane",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Alexandre et Roxane",
+  "creator": [
+    {
+      "xml_id": "GiovanniJacopoCaraglio",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "Raphael",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1520,
+    "endYear": 1539,
+    "text": "Vers 1520-1539"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/647110/1885516/main-image",
+      "storage": "online",
+      "copyright": "New York, Metropolitan Museum of Arts, inv. 17.50.16-6 (https://www.metmuseum.org/art/collection/search/647110)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-24T17:50:21.670600",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
