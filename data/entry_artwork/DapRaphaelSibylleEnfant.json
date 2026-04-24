@@ -1,0 +1,45 @@
+{
+  "id": "DapRaphaelSibylleEnfant",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Sibylle lisant avec un enfant tenant une torche",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1520,
+    "endYear": 1550,
+    "text": "Vers 1520-1550"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://iiif.nypl.org/iiif/3/ps_prn_cd18_271/full/max/0/default.jpg",
+      "storage": "online",
+      "copyright": "New York, Public Library (https://digitalcollections.nypl.org/items/c196d6a0-9e3c-0136-0e05-2bb550afefad)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-24T17:42:34.718035",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

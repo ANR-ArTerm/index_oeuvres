@@ -22,15 +22,7 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [
-    {
-      "id": 0,
-      "url": "",
-      "storage": "online",
-      "copyright": "",
-      "caption": ""
-    }
-  ],
+  "illustrations": [],
   "description": "",
   "commentary": "",
   "history": [
@@ -38,6 +30,11 @@
       "date": "2026-04-22T15:32:47.191934",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-04-23T15:55:04.437186",
+      "type": "modified",
+      "author": "Pierre"
     }
   ],
   "typology": "Temple",
