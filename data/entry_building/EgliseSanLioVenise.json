@@ -1,0 +1,48 @@
+{
+  "id": "EgliseSanLioVenise",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q647427",
+  "entry_type": "building",
+  "title": "Église San Lio",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 800,
+    "endYear": 1783,
+    "text": "IXe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Venise",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/San_Lio_%28Facciata%29.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Didier Descouens, https://commons.wikimedia.org/wiki/San_Lio",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-27T17:38:10.584240",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "typology": "église",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
