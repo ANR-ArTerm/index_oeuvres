@@ -1,0 +1,51 @@
+{
+  "id": "TitienSaintJacquesMajeurSanLio",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Retable de saint Jacques le Majeur",
+  "creator": [
+    {
+      "xml_id": "Titien",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1558,
+    "endYear": 1558,
+    "text": "1558"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Église San Lio",
+      "place": "Venise",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/San_Lio_%28Venice%29_-_Pale_d%E2%80%99altare_-_Apostolo_Giacomo_il_maggiore_-_Tiziano_-_1558.jpg?uselang=fr",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Archaeodontosaurus, https://commons.wikimedia.org/wiki/File:San_Lio_(Venice)_-_Pale_d%E2%80%99altare_-_Apostolo_Giacomo_il_maggiore_-_Tiziano_-_1558.jpg?uselang=fr",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-27T15:47:59.664214",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
