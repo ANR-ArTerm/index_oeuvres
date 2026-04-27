@@ -1,0 +1,46 @@
+{
+  "id": "HerculeFarnese",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q374591",
+  "entry_type": "artwork",
+  "title": "Hercule Farnèse",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 200,
+    "endYear": 300,
+    "text": "IIIe siècle"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Musée archéologique de Naples",
+      "place": "Naples",
+      "inventory_number": "6001",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Herakles_Farnese_MAN_Napoli_Inv6001_n01.jpg/960px-Herakles_Farnese_MAN_Napoli_Inv6001_n01.jpg?_=20140614131216",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Marie-Lan Nguyen (https://commons.wikimedia.org/wiki/File:Herakles_Farnese_MAN_Napoli_Inv6001_n01.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-27T17:55:06.750741",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "Sculpture en marbre",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
