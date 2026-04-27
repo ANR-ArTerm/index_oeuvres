@@ -1,0 +1,53 @@
+{
+  "id": "BasiliqueSantaMariaDellaSaluteVenise",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q52531",
+  "entry_type": "building",
+  "title": "Basilique Santa Maria della Salute ",
+  "creator": [
+    {
+      "xml_id": "BaldassarreLonghena",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1631,
+    "endYear": 1687,
+    "text": "1631"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Venise",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/20110722_Venice_Santa_Maria_della_Salute_4459.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Jakub Hałun, https://commons.wikimedia.org/wiki/Santa_Maria_della_Salute_(Venice)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-27T17:51:11.931364",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "typology": "basilique",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
