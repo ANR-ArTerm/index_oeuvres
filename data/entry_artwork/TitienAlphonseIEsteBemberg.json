@@ -1,5 +1,5 @@
 {
-  "id": "TitienAlphonseIEsteSadeler",
+  "id": "TitienAlphonseIEsteBemberg",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q81794155",
   "entry_type": "artwork",
   "title": "Portrait d'Alphonse I d'Este",
@@ -40,6 +40,11 @@
     {
       "date": "2026-04-24T17:13:42.498590",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-04-24T17:37:02.660967",
+      "type": "modified",
       "author": "Carla"
     }
   ],
