@@ -1,8 +1,8 @@
 {
   "id": "TitienCharlesVMunich",
-  "QID_wikidata": "https://www.wikidata.org/wiki/Q1123378",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2609585",
   "entry_type": "artwork",
-  "title": "Portrait équestre de Charles Quint à Mühlberg",
+  "title": "Portrait de Charles V",
   "creator": [
     {
       "xml_id": "Titien",
@@ -10,17 +10,17 @@
     }
   ],
   "dateCreated": {
-    "startYear": 1547,
-    "endYear": 1547,
-    "text": "1547"
+    "startYear": 1548,
+    "endYear": 1548,
+    "text": "1548"
   },
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": "Musée du Prado",
-      "place": "Madrid",
-      "inventory_number": "\t P000410",
-      "url": "https://www.museodelprado.es/en/the-collection/art-work/emperor-charles-v-at-muhlberg/e7c91aaa-b849-478c-a857-0bb58a6b6729"
+      "name": "Alte Pinakothek",
+      "place": "Munich",
+      "inventory_number": "632",
+      "url": ""
     }
   },
   "related_works": [],
@@ -28,9 +28,9 @@
   "illustrations": [
     {
       "id": 0,
-      "url": "https://upload.wikimedia.org/wikipedia/commons/archive/d/d2/20121110121417%21Carlos_V_en_M%C3%BChlberg%2C_by_Titian%2C_from_Prado_in_Google_Earth.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Portrait_of_Charles_V%2C_Holy_Roman_Emperor%2C_seated_%281500%E2%80%931558%29%2C_formerly_attributed_to_Titian_%28Alte_Pinakothek%2C_Munich%29.jpg",
       "storage": "online",
-      "copyright": "Wikimedia Commons, Domaine public, Dcoetzee, https://commons.wikimedia.org/wiki/File:Carlos_V_en_M%C3%BChlberg,_by_Titian,_from_Prado_in_Google_Earth.jpg ",
+      "copyright": "Wikimedia Commons, Domaine public, Stv26, https://commons.wikimedia.org/wiki/File:Portrait_of_Charles_V,_Holy_Roman_Emperor,_seated_(1500%E2%80%931558),_formerly_attributed_to_Titian_(Alte_Pinakothek,_Munich).jpg",
       "caption": ""
     }
   ],
@@ -38,7 +38,7 @@
   "commentary": "",
   "history": [
     {
-      "date": "2026-04-27T11:13:54.748048",
+      "date": "2026-04-27T12:11:53.391023",
       "type": "created",
       "author": "Carla"
     }
