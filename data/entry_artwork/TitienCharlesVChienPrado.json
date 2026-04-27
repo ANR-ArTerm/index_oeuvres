@@ -1,0 +1,51 @@
+{
+  "id": "TitienCharlesVChienPrado",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q19798137",
+  "entry_type": "artwork",
+  "title": "Portrait de Charles Quint avec un chien",
+  "creator": [
+    {
+      "xml_id": "Titien",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1533,
+    "endYear": 1533,
+    "text": "1533"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Musée du Prado",
+      "place": "Madrid",
+      "inventory_number": "P000409",
+      "url": "https://www.museodelprado.es/en/the-collection/art-work/emperor-charles-v-with-a-dog/c6945b08-ded2-4824-9ac1-9a1d042549ce"
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Tizian_081.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine Public, Jakob Seisenegger, https://commons.wikimedia.org/wiki/File:Tizian_081.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-27T11:01:34.169088",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
