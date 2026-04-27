@@ -1,0 +1,51 @@
+{
+  "id": "TitienCharlesVMunich",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1123378",
+  "entry_type": "artwork",
+  "title": "Portrait équestre de Charles Quint à Mühlberg",
+  "creator": [
+    {
+      "xml_id": "Titien",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1547,
+    "endYear": 1547,
+    "text": "1547"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Musée du Prado",
+      "place": "Madrid",
+      "inventory_number": "\t P000410",
+      "url": "https://www.museodelprado.es/en/the-collection/art-work/emperor-charles-v-at-muhlberg/e7c91aaa-b849-478c-a857-0bb58a6b6729"
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/archive/d/d2/20121110121417%21Carlos_V_en_M%C3%BChlberg%2C_by_Titian%2C_from_Prado_in_Google_Earth.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, Dcoetzee, https://commons.wikimedia.org/wiki/File:Carlos_V_en_M%C3%BChlberg,_by_Titian,_from_Prado_in_Google_Earth.jpg ",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-27T11:13:54.748048",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
