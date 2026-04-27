@@ -1,0 +1,45 @@
+{
+  "id": "LucasDeLeydeChristPortantCroix",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Le Christ portant sa croix",
+  "creator": [
+    {
+      "xml_id": "LucasVanLeyden",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1509,
+    "endYear": 1509,
+    "text": "1509"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/364741/769591/main-image",
+      "storage": "online",
+      "copyright": "New York, Metropolitan Museum of Arts, inv. 40.41.8 (https://www.metmuseum.org/art/collection/search/364741)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-27T17:38:51.529059",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
