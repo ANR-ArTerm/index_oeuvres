@@ -1,0 +1,48 @@
+{
+  "id": "EgliseSaintSeverinParis",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1710376",
+  "entry_type": "building",
+  "title": "Église Saint-Séverin",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Paris",
+      "country": "France",
+      "coordinates": {
+        "latitude": "48.85209",
+        "longitude": "2.34573"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/2014_%C3%89glise_Saint-S%C3%A9verin_%28Paris%29.jpg/1280px-2014_%C3%89glise_Saint-S%C3%A9verin_%28Paris%29.jpg?_=20230812145929",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Chris06 (https://commons.wikimedia.org/wiki/File:2014_%C3%89glise_Saint-S%C3%A9verin_(Paris).jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-27T17:47:05.754185",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "typology": "église",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
