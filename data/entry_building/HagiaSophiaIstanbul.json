@@ -1,0 +1,48 @@
+{
+  "id": "HagiaSophiaIstanbul",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q12506",
+  "entry_type": "building",
+  "title": "Sainte-Sophie (Constantinople)",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 537,
+    "endYear": 537,
+    "text": "537"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Istanbul",
+      "country": "Turquie",
+      "coordinates": {
+        "latitude": "41.008333333",
+        "longitude": "28.98"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Hagia_Sophia_325.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Hagia_Sophia_325.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-28T15:00:26.433245",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "typology": null,
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
