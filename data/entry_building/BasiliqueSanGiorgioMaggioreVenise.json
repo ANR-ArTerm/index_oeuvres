@@ -1,0 +1,57 @@
+{
+  "id": "BasiliqueSanGiorgioMaggioreVenise",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q713558",
+  "entry_type": "building",
+  "title": "Basilique San Giorgio Maggiore",
+  "creator": [
+    {
+      "xml_id": "AndreaPalladio",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "VincenzoScamozzi",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1566,
+    "endYear": 1610,
+    "text": "1566-1610"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Venise",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Basilica_di_San_Giorgio_Maggiore_%28Venice%29.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Didier Descouens, https://commons.wikimedia.org/wiki/File:Basilica_di_San_Giorgio_Maggiore_(Venice).jpg  ",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-28T18:14:26.293373",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "typology": "basilique",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
