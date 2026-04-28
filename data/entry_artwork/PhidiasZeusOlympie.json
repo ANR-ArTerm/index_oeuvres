@@ -1,0 +1,45 @@
+{
+  "id": "PhidiasZeusOlympie",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q46239",
+  "entry_type": "artwork",
+  "title": "Statue de Zeus à Olympie",
+  "creator": [
+    {
+      "xml_id": "Phidias",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": -436,
+    "endYear": -436,
+    "text": "vers 436 av. J.-C."
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Le_Jupiter_Olympien_ou_l%27art_de_la_sculpture_antique.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, (https://commons.wikimedia.org/wiki/File:Le_Jupiter_Olympien_ou_l%27art_de_la_sculpture_antique.jpg)",
+      "caption": "Gravure tirée de Le Jupiter olympien ou l'art de la sculpture antique par Quatremère de Quincy (1815)."
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-28T14:51:56.880375",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "sculpture chryséléphantine",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
