@@ -31,10 +31,14 @@ def sync_oeuvres_from_json():
 
     # --- Le XML doit exister ---
     if not XML_PATH.exists():
+        if not XML_PATH.exists():
+            XML_PATH.touch()
+        """
         raise FileNotFoundError(
             "L'index xml des œuvres n'est pas présent,"
             "veuillez cloner le dépôt github corpus"
         )
+        """
 
     # --- Collecte des données depuis les JSON ---
     oeuvres = []
@@ -54,11 +58,13 @@ def sync_oeuvres_from_json():
             creator_name = creators[0]["xml_id"] if creators else "Inconnu"
 
             if not xml_id or not title:
+                print(f"problème avec {json_file}")
                 continue
 
             label = f"{creator_name}, {title}".strip(", ")
             oeuvres.append((xml_id, label))
 
+    """
     # --- Reconstruction complète du XML ---
     root = ET.Element("TEI")
     list_object = ET.SubElement(root, f"{{{TEI_NS}}}listObject")
@@ -69,12 +75,28 @@ def sync_oeuvres_from_json():
 
         p = ET.SubElement(obj, f"{{{TEI_NS}}}p")
         p.text = label
+    """
+
+        # --- Reconstruction complète du XML ---
+    lines = ['<?xml version=\'1.0\' encoding=\'utf-8\'?>']
+    lines.append('<TEI>')
+    lines.append(f'  <listObject xmlns="{TEI_NS}">')
+
+    for xml_id, label in sorted(oeuvres, key=lambda x: x[0]):
+        lines.append(f'    <object xml:id="{xml_id}">')
+        lines.append(f'      <p>{label}</p>')
+        lines.append(f'    </object>')
+
+    lines.append('  </listObject>')
+    lines.append('</TEI>')
 
     # --- Écriture (écrasement total) ---
-    tree = ET.ElementTree(root)
+    XML_PATH.write_text('\n'.join(lines), encoding='utf-8')
 
+    """
     ET.indent(tree, space="    ", level=0)
 
     tree.write(XML_PATH, encoding="utf-8", xml_declaration=True)
+    """
 
     return [xml_id for xml_id, _ in oeuvres]

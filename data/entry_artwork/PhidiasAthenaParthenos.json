@@ -1,0 +1,45 @@
+{
+  "id": "PhidiasAthenaParthenos",
+  "QID_wikidata": "http://wikidata.org/wiki/Q2070605",
+  "entry_type": "artwork",
+  "title": "Athéna Parthénos",
+  "creator": [
+    {
+      "xml_id": "Phidias",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": -438,
+    "endYear": -438,
+    "text": "achevée vers 438 av. J.-C."
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Athena_Parthenos_LeQuire.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Dean Dixon (https://commons.wikimedia.org/wiki/File:Athena_Parthenos_LeQuire.jpg)",
+      "caption": "Réplique grandeur nature (plâtre, fibre de verre et acier doré), réalisée en 1990 par le sculpteur américain Alan LeQuire pour le Parthénon de Nashville, Tennessee."
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-28T14:40:57.376298",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": "sculpture chryséléphantine",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
