@@ -1,0 +1,57 @@
+{
+  "id": "PalaisDogesVenise",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q189883",
+  "entry_type": "building",
+  "title": "Palais des Doges",
+  "creator": [
+    {
+      "xml_id": "AntonioRizzo",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "NicoloBarattieri",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1340,
+    "endYear": 1340,
+    "text": "1340"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Venise",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/68VeneziaPalazzoDucale.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, MarkusMark, https://commons.wikimedia.org/wiki/File:68VeneziaPalazzoDucale.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-28T15:52:40.822274",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "typology": "Palais",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
