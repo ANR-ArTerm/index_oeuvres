@@ -1,0 +1,48 @@
+{
+  "id": "PalaisCitéParis",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2047247",
+  "entry_type": "building",
+  "title": "Palais de la Cité",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1200,
+    "endYear": 1300,
+    "text": "XIIIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Paris",
+      "country": "France",
+      "coordinates": {
+        "latitude": "48.85638889",
+        "longitude": "2.34555556"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Paris_Conciergerie_265.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, xandru (https://commons.wikimedia.org/wiki/File:Paris_Conciergerie_265.jpg)",
+      "caption": "La Conciergerie, partie du Palais de la Cité"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-28T15:28:04.985076",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "typology": "Palais",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
