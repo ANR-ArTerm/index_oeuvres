@@ -1,5 +1,5 @@
 {
-  "id": "PalaisCitéParis",
+  "id": "PalaisCiteParis",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q2047247",
   "entry_type": "building",
   "title": "Palais de la Cité",
@@ -37,6 +37,11 @@
     {
       "date": "2026-04-28T15:28:04.985076",
       "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-04-28T15:29:16.308565",
+      "type": "modified",
       "author": "Pierre"
     }
   ],
