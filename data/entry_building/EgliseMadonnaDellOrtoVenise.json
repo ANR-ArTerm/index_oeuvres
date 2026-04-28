@@ -1,0 +1,48 @@
+{
+  "id": "EgliseMadonnaDellOrtoVenise",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q861436",
+  "entry_type": "building",
+  "title": "Église de la Madonna dell'Orto",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1350,
+    "endYear": 1350,
+    "text": "XIVeme siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Venise",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Madonna_dell%27Orto.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Archaeodontosaurus, https://commons.wikimedia.org/wiki/File:Madonna_dell%27Orto.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-28T12:24:21.718235",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "typology": "église",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
