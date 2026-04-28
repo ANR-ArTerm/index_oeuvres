@@ -1,0 +1,48 @@
+{
+  "id": "CathedraleNotreDameParis",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2981",
+  "entry_type": "building",
+  "title": "Notre-Dame de Paris",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1163,
+    "endYear": 1345,
+    "text": "1163-1345"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Paris",
+      "country": "France",
+      "coordinates": {
+        "latitude": "48.853",
+        "longitude": "2.3498"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/NotreDameI.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons (https://commons.wikimedia.org/wiki/File:NotreDameI.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-28T15:06:40.567571",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "typology": "cathédrale",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
