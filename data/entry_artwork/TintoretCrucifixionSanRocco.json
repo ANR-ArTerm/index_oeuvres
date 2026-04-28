@@ -1,0 +1,51 @@
+{
+  "id": "TintoretCrucifixionSanRocco",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q490312",
+  "entry_type": "artwork",
+  "title": "La Crucifixion",
+  "creator": [
+    {
+      "xml_id": "JacopoTintoretto",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1565,
+    "endYear": 1565,
+    "text": "\t 1565"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Scuola Grande de San Rocco",
+      "place": "Venise",
+      "inventory_number": "",
+      "url": "https://www.scuolagrandesanrocco.org/home/tintoretto/sala-dellalbergo-tintoretto/#"
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Jacopo_Tintoretto_021.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, Alonso de Mendoza,  https://commons.wikimedia.org/wiki/File:Jacopo_Tintoretto_021.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-28T12:03:14.664249",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
