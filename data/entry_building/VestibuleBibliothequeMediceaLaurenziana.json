@@ -1,8 +1,8 @@
 {
-  "id": "VestibuleBibliothèqueMediceaLaurenziana",
+  "id": "VestibuleBibliothequeMediceaLaurenziana",
   "QID_wikidata": "",
   "entry_type": "building",
-  "title": "Vestibule Bibliothèque Medicea Laurenziana Florence",
+  "title": "Vestibule de la Bibliothèque Medicea Laurenziana Florence",
   "creator": [
     {
       "xml_id": "MichelAnge",
@@ -32,7 +32,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Biblioteca_medicea_laurenziana%2C_vestibolo_e_scala_di_michelangelo%2C_03.jpg",
       "storage": "online",
-      "copyright": "CC BY 3.0, Sailko, https://upload.wikimedia.org/wikipedia/commons/0/01/Biblioteca_medicea_laurenziana%2C_vestibolo_e_scala_di_michelangelo%2C_03.jpg",
+      "copyright": "Wikimedia Commons, CC BY 3.0, Sailko (https://upload.wikimedia.org/wikipedia/commons/0/01/Biblioteca_medicea_laurenziana%2C_vestibolo_e_scala_di_michelangelo%2C_03.jpg)",
       "caption": ""
     }
   ],
@@ -43,9 +43,14 @@
       "date": "2026-04-20T13:42:00.353520",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-04-28T10:55:23.603209",
+      "type": "modified",
+      "author": "Pierre"
     }
   ],
-  "typology": "Vestibule",
+  "typology": "salle",
   "contained_by_ensemble": {
     "link_type": "appartient à l'ensemble",
     "xml_id_work": null

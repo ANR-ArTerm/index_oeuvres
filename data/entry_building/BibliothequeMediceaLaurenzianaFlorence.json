@@ -1,5 +1,5 @@
 {
-  "id": "BibliothèqueMediceaLaurenzianaFlorence",
+  "id": "BibliothequeMediceaLaurenzianaFlorence",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q856419",
   "entry_type": "building",
   "title": "Bibliothèque Medicea Laurenziana Florence",
@@ -43,6 +43,11 @@
       "date": "2026-04-20T13:48:36.762996",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-04-28T10:57:28.558306",
+      "type": "modified",
+      "author": "Pierre"
     }
   ],
   "typology": "Bibliothèque",

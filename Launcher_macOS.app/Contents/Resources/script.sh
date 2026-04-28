@@ -1,4 +1,22 @@
 #!/bin/bash
+
+echo "=== Création / Vérification du .env et du username ==="
+
+VALID_USERS=("Pierre" "Julia" "Anna" "Emma" "Carla" "Elisa")
+
+# Fonction pour demander un nom valide
+ask_username() {
+    while true; do
+        read -p "Entrez votre nom d'utilisateur (Pierre, Julia, Anna, Emma, Carla) : " USERNAME
+        for valid in "${VALID_USERS[@]}"; do
+            if [ "$USERNAME" == "$valid" ]; then
+                return 0
+            fi
+        done
+        echo "Utilisateur invalide. Veuillez choisir parmi : ${VALID_USERS[*]}"
+    done
+}
+
 echo "=== Récupération des mises à jour ==="
 echo ""
 git pull
@@ -53,24 +71,6 @@ pip install --upgrade -r requirements.txt
 
 echo ""
 echo ""
-
-
-echo "=== Création / Vérification du .env et du username ==="
-
-VALID_USERS=("Pierre" "Julia" "Anna" "Emma" "Carla" "Elisa")
-
-# Fonction pour demander un nom valide
-ask_username() {
-    while true; do
-        read -p "Entrez votre nom d'utilisateur (Pierre, Julia, Anna, Emma, Carla) : " USERNAME
-        for valid in "${VALID_USERS[@]}"; do
-            if [ "$USERNAME" == "$valid" ]; then
-                return 0
-            fi
-        done
-        echo "Utilisateur invalide. Veuillez choisir parmi : ${VALID_USERS[*]}"
-    done
-}
 
 # Si le fichier .env n'existe pas
 if [ ! -f ".env" ]; then

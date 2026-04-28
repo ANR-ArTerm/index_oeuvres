@@ -1,5 +1,5 @@
 {
-  "id": "TitienLauraDiantiKreuzlingen ",
+  "id": "TitienLauraDiantiKreuzlingen",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q3937592",
   "entry_type": "artwork",
   "title": "Portrait de Laura Dianti",
@@ -41,6 +41,11 @@
       "date": "2026-04-24T17:36:08.704312",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-04-28T11:01:00.699014",
+      "type": "modified",
+      "author": "Pierre"
     }
   ],
   "materialsAndTechniques": "huile sur toile",

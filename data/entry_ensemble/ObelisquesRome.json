@@ -11,12 +11,6 @@
   },
   "location": {
     "type": "place",
-    "institution": {
-      "name": null,
-      "place": "",
-      "inventory_number": "",
-      "url": ""
-    },
     "place": {
       "city": "Rome",
       "country": "Italie",
@@ -44,8 +38,13 @@
       "date": "2026-04-21T16:07:39.807182",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-04-28T10:59:45.359454",
+      "type": "modified",
+      "author": "Pierre"
     }
   ],
-  "typology": null,
+  "typology": "ensemble de monuments",
   "contains_works": []
 }
