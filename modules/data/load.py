@@ -4,6 +4,7 @@ from dotenv import load_dotenv
 from pathlib import Path
 import shutil
 import csv
+from modules.git_tools import git_commit_and_push, git_pull
 
 # Variables et csv
 
@@ -371,6 +372,39 @@ def save_to_list_form(key: str, value: str):
         data.append(value)
         with open(path, "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
+
+def save_to_list_form_git(key: str, value: str):
+    if key not in LIST_FORM:
+        raise ValueError(f"Clé inconnue : {key}")
+
+    if value is None or str(value).strip() == "":
+        return False, "Valeur vide ignorée"
+
+    # 🔄 1. Git pull avant modif
+    success_pull, output_pull = git_pull()
+    if not success_pull:
+        return False, f"Erreur git pull:\n{output_pull}"
+
+    path = os.path.join(LIST_FORM_DIR, LIST_FORM[key])
+    data = _load_json(path)
+
+    if value not in data:
+        data.append(value)
+
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+
+        # 🚀 2. Commit + push après modif
+        success_push, output_push = git_commit_and_push(
+            message=f"Ajout de {value} dans {key}"
+        )
+
+        if not success_push:
+            return False, f"Erreur git push:\n{output_push}"
+
+        return True, f"Ajout OK\n{output_pull}\n{output_push}"
+
+    return True, "Déjà présent, aucune modification"
 
 def save_list_to_list_form(key: str, values: list[str], *, sort: bool = True):
     if key not in LIST_FORM:

@@ -3,7 +3,7 @@ from datetime import datetime
 import time
 import uuid
 
-from modules.data.load import save_notice, exist_notice, save_image, load_list_form, index_username, save_to_list_form, get_all_objects_ids_flat_sorted
+from modules.data.load import save_notice, exist_notice, save_image, load_list_form, index_username, save_to_list_form, save_to_list_form_git, get_all_objects_ids_flat_sorted
 from modules.git_tools import git_commit_and_push
 from modules.wikidata.queries import get_monument_data
 
@@ -39,9 +39,13 @@ def add_creator(xml_id, creator, idx, type_entry):
                                      index=None,
                                      key=f"{xml_id}_creator_xmlid_{idx}"
                                      )
-        if not creator["xml_id"] in load_list_form("persons") and creator["xml_id"] is not None:
+        if creator["xml_id"] is not None and creator["xml_id"] not in load_list_form("persons"):
             st.write("Sauvegarde du nouvel identifiant")
-            save_to_list_form("persons", creator["xml_id"])
+            success, message = save_to_list_form_git("persons", creator["xml_id"])
+            if success:
+                st.success(message)
+            else:
+                st.error(message)
 
     with col2:
         if type_entry == "artwork":
@@ -51,8 +55,13 @@ def add_creator(xml_id, creator, idx, type_entry):
                                             key=f"{xml_id}_creator_artwork_xmlid_{idx}",
                                             accept_new_options=True
                                             )
-            if not creator["role"] in load_list_form("artists_roles") and creator["role"] is not None :
-                save_to_list_form("artists_roles", creator["role"])
+            if creator["role"] is not None and creator["role"] not in load_list_form("artists_roles"):
+                st.write("Sauvegarde du nouveau rôle")
+                success, message = save_to_list_form_git("artists_roles", creator["role"])
+                if success:
+                    st.success(message)
+                else:
+                    st.error(message)
 
         if type_entry == "building":
             creator["role"] = st.selectbox("Rôle :",
@@ -61,8 +70,13 @@ def add_creator(xml_id, creator, idx, type_entry):
                                             key=f"{xml_id}_creator_architect_xmlid_{idx}",
                                             accept_new_options=True
                                             )
-            if not creator["role"] in load_list_form("architects_roles") and creator["role"] is not None :
-                save_to_list_form("architects_roles", creator["role"])
+            if creator["role"] is not None and creator["role"] not in load_list_form("architects_roles"):
+                st.write("Sauvegarde du nouveau rôle")
+                success, message = save_to_list_form_git("architects_roles", creator["role"])
+                if success:
+                    st.success(message)
+                else:
+                    st.error(message)
         
         if type_entry == "ensemble":
             creator["role"] = st.selectbox("Rôle :",
@@ -70,6 +84,13 @@ def add_creator(xml_id, creator, idx, type_entry):
                                             index=None,
                                             key=f"{xml_id}_creator_ensemble_xmlid_{idx}"
                                             )
+            if creator["role"] is not None and creator["role"] not in load_list_form("artists_roles", "architects_roles"):
+                st.write("Sauvegarde du nouveau rôle dans la liste des rôles des artistes")
+                success, message = save_to_list_form_git("artists_roles", creator["role"])
+                if success:
+                    st.success(message)
+                else:
+                    st.error(message)
     return creator
 
 def _add_work_core(xml_id, work, idx, list_xml_id, title, link_types_key, key_prefix):
@@ -84,8 +105,14 @@ def _add_work_core(xml_id, work, idx, list_xml_id, title, link_types_key, key_pr
             index=None,
             accept_new_options=True,
         )
-        if work["link_type"] not in load_list_form(link_types_key):
-            save_to_list_form(link_types_key, work["link_type"])
+
+        if work["link_type"] is not None and work["link_type"] not in load_list_form(link_types_key):
+            st.write("Sauvegarde du nouveau type de lien")
+            success, message = save_to_list_form(link_types_key, work["link_type"])
+            if success:
+                st.success(message)
+            else:
+                st.error(message)
 
     with col2:
         work["xml_id_work"] = st.selectbox(
@@ -131,12 +158,13 @@ def add_bibliography(xml_id, biblio, idx):
             accept_new_options=True
         )
 
-        # Sauvegarde si nouvelle valeur
-        if (
-            biblio["zotero_key"] 
-            and biblio["zotero_key"] not in zotero_list
-        ):
-            save_to_list_form("zotero_keys", biblio["zotero_key"])
+        if biblio["zotero_key"] is not None and biblio["zotero_key"] not in zotero_list:
+            st.write("Sauvegarde de l'entrée bibliographique")
+            success, message = save_to_list_form("zotero_keys", biblio["zotero_key"])
+            if success:
+                st.success(message)
+            else:
+                st.error(message)
 
     with col2:
         biblio["location"] = st.text_input(
@@ -386,8 +414,13 @@ def add_notice():
                     index=None,
                     accept_new_options=True
                     )
-        if not notice["materialsAndTechniques"] in load_list_form("techniques"):
-            save_to_list_form("techniques", notice["materialsAndTechniques"])
+        if notice["materialsAndTechniques"] is not None and notice["materialsAndTechniques"] not in load_list_form("techniques"):
+            st.write("Sauvegarde de la technique")
+            success, message = save_to_list_form("techniques", notice["materialsAndTechniques"])
+            if success:
+                st.success(message)
+            else:
+                st.error(message)
     
     if entry_type == "building":
         st.header("Typologie de monument")
@@ -399,9 +432,13 @@ def add_notice():
                     accept_new_options=True
                     )
 
-        if not notice["typology"] in load_list_form("typologies_architecture"):
-            save_to_list_form("typologies_architecture", notice["typology"])
-
+        if notice["typology"] is not None and notice["typology"] not in load_list_form("typologies_architecture"):
+            st.write("Sauvegarde de la nouvelle typologie")
+            success, message = save_to_list_form("typologies_architecture", notice["typology"])
+            if success:
+                st.success(message)
+            else:
+                st.error(message)
     
     if entry_type == "ensemble":
         st.header("Typologie d'ensemble")
@@ -412,8 +449,14 @@ def add_notice():
                     index=None,
                     accept_new_options=True
                     )
-        if not notice["typology"] in load_list_form("typologies_ensemble"):
-            save_to_list_form("typologies_ensemble", notice["typology"])
+        
+        if notice["typology"] is not None and notice["typology"] not in load_list_form("typologies_ensemble"):
+            st.write("Sauvegarde de la nouvelle typologie")
+            success, message = save_to_list_form("typologies_ensemble", notice["typology"])
+            if success:
+                st.success(message)
+            else:
+                st.error(message)
 
     # =========================
     # DATATION

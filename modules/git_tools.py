@@ -16,9 +16,6 @@ def git_pull():
     except subprocess.CalledProcessError as e:
         return False, e.stderr
 
-
-import subprocess
-
 def git_commit_and_push(message: str, branch: str = "main"):
     """
     Exécute la séquence complète :
