@@ -108,7 +108,7 @@ def _add_work_core(xml_id, work, idx, list_xml_id, title, link_types_key, key_pr
 
         if work["link_type"] is not None and work["link_type"] not in load_list_form(link_types_key):
             st.write("Sauvegarde du nouveau type de lien")
-            success, message = save_to_list_form(link_types_key, work["link_type"])
+            success, message = save_to_list_form_git(link_types_key, work["link_type"])
             if success:
                 st.success(message)
             else:
@@ -160,7 +160,7 @@ def add_bibliography(xml_id, biblio, idx):
 
         if biblio["zotero_key"] is not None and biblio["zotero_key"] not in zotero_list:
             st.write("Sauvegarde de l'entrée bibliographique")
-            success, message = save_to_list_form("zotero_keys", biblio["zotero_key"])
+            success, message = save_to_list_form_git("zotero_keys", biblio["zotero_key"])
             if success:
                 st.success(message)
             else:
@@ -416,7 +416,7 @@ def add_notice():
                     )
         if notice["materialsAndTechniques"] is not None and notice["materialsAndTechniques"] not in load_list_form("techniques"):
             st.write("Sauvegarde de la technique")
-            success, message = save_to_list_form("techniques", notice["materialsAndTechniques"])
+            success, message = save_to_list_form_git("techniques", notice["materialsAndTechniques"])
             if success:
                 st.success(message)
             else:
@@ -434,7 +434,7 @@ def add_notice():
 
         if notice["typology"] is not None and notice["typology"] not in load_list_form("typologies_architecture"):
             st.write("Sauvegarde de la nouvelle typologie")
-            success, message = save_to_list_form("typologies_architecture", notice["typology"])
+            success, message = save_to_list_form_git("typologies_architecture", notice["typology"])
             if success:
                 st.success(message)
             else:
@@ -452,7 +452,7 @@ def add_notice():
         
         if notice["typology"] is not None and notice["typology"] not in load_list_form("typologies_ensemble"):
             st.write("Sauvegarde de la nouvelle typologie")
-            success, message = save_to_list_form("typologies_ensemble", notice["typology"])
+            success, message = save_to_list_form_git("typologies_ensemble", notice["typology"])
             if success:
                 st.success(message)
             else:
