@@ -1,0 +1,48 @@
+{
+  "id": "EgliseSantoStefanoVenise",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q974832",
+  "entry_type": "building",
+  "title": "Église Santo Stefano ",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1294,
+    "endYear": 1499,
+    "text": "1294-XVe"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Venise",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Campo_Santo_Stefano_%28Venice%29.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Didier Descouens,  https://commons.wikimedia.org/wiki/File:Campo_Santo_Stefano_(Venice).jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-29T17:34:54.741912",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "typology": "église",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
