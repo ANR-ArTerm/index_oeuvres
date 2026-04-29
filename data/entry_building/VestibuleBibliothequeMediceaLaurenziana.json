@@ -25,8 +25,18 @@
       }
     }
   },
-  "related_works": [],
-  "bibliography": [],
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "BibliothequeMediceaLaurenzianaFlorence"
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "wallaceMichelangeloSanLorenzo1994",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -36,7 +46,7 @@
       "caption": ""
     }
   ],
-  "description": "Le vestibule constitue l'entrée de la Bibliothèque Laurentienne des Médicis, qui fait partie du complexe de la basilique Saint-Laurent.",
+  "description": "Le vestibule constitue l'entrée de la Bibliothèque Medicea Laurenziana, qui fait partie du complexe de la Basilique San Lorenzo.",
   "commentary": "",
   "history": [
     {
@@ -51,6 +61,11 @@
     },
     {
       "date": "2026-04-20T13:50:56.626189",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-04-29T15:41:35.905795",
       "type": "modified",
       "author": "Elisa"
     }
