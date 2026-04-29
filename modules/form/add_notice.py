@@ -552,22 +552,22 @@ def add_notice():
         with colVille:
             place["city"] = st.selectbox(
                 "Ville",
-                load_list_form("places_cities"),
+                load_list_form("places"),
                 index=None,
                 accept_new_options=True
             )
-            if not place["city"] in load_list_form("places_cities"):
-                save_to_list_form("places_cities", place["city"])
+            if not place["city"] in load_list_form("places"):
+                save_to_list_form("places", place["city"])
             
         with colPays:
             place["country"] = st.selectbox(
                 "Pays",
-                load_list_form("places_countries"),
+                load_list_form("places"),
                 index=None,
                 accept_new_options=True
             )
-            if not place["country"] in load_list_form("places_countries"):
-                save_to_list_form("places_countries", place["country"])
+            if not place["country"] in load_list_form("places"):
+                save_to_list_form("places", place["country"])
 
 
         coordinates = place.get("coordinates", {})

@@ -464,16 +464,16 @@ def edit_json_notice(json_path=None, data=None):
         with colVille:
             place["city"] = st.selectbox(
                 "Ville",
-                load_list_form("places_cities"),
+                load_list_form("places"),
                 index=index_list_form(
                     place["city"],
-                    "places_cities"
+                    "places"
                     ),
                 accept_new_options=True
             )
 
-            if not place["city"] in load_list_form("places_cities"):
-                save_to_list_form("places_cities", place["city"])
+            if not place["city"] in load_list_form("places"):
+                save_to_list_form("places", place["city"])
 
             place["coordinates"]["latitude"] = st.text_input(
                     "Latitude",
@@ -484,15 +484,15 @@ def edit_json_notice(json_path=None, data=None):
         with colPays:
             place["country"] = st.selectbox(
                 "Pays",
-                load_list_form("places_countries"),
+                load_list_form("places"),
                 index=index_list_form(
                     place["country"],
-                    "places_countries"
+                    "places"
                 ),
                 accept_new_options=True
             )
-            if not place["country"] in load_list_form("places_countries"):
-                save_to_list_form("places_countries", place["country"])
+            if not place["country"] in load_list_form("places"):
+                save_to_list_form("places", place["country"])
 
             place["coordinates"]["longitude"] = st.text_input(
                     "Longitude",
