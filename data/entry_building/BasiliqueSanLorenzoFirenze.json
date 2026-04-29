@@ -1,0 +1,69 @@
+{
+  "id": "BasiliqueSanLorenzoFirenze",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q573881",
+  "entry_type": "building",
+  "title": "Basilique San Lorenzo Firenze",
+  "creator": [
+    {
+      "xml_id": null,
+      "role": "architecte"
+    },
+    {
+      "xml_id": null,
+      "role": "architecte"
+    },
+    {
+      "xml_id": null,
+      "role": "architecte"
+    },
+    {
+      "xml_id": null,
+      "role": "architecte"
+    },
+    {
+      "xml_id": null,
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1418,
+    "endYear": 1740,
+    "text": "1418ca. -1740"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Basilica_di_san_lorenzo_33.JPG",
+      "storage": "online",
+      "copyright": "CC BY 2.5, Sailko, https://commons.wikimedia.org/wiki/File:Basilica_di_san_lorenzo_33.JPG",
+      "caption": "Basilique San Lorenzo, Firenze"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-29T16:15:45.313624",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "typology": "basilique",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

@@ -2,7 +2,7 @@
   "id": "VestibuleBibliothequeMediceaLaurenziana",
   "QID_wikidata": "",
   "entry_type": "building",
-  "title": "Vestibule de la Bibliothèque Medicea Laurenziana Florence",
+  "title": "Vestibule de la Bibliothèque Medicea Laurenziana Firenze",
   "creator": [
     {
       "xml_id": "MichelAnge",
@@ -34,7 +34,7 @@
   "bibliography": [
     {
       "zotero_key": "wallaceMichelangeloSanLorenzo1994",
-      "location": ""
+      "location": "135-186"
     }
   ],
   "illustrations": [
@@ -66,6 +66,11 @@
     },
     {
       "date": "2026-04-29T15:41:35.905795",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-04-29T15:44:21.619911",
       "type": "modified",
       "author": "Elisa"
     }
