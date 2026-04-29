@@ -38,7 +38,8 @@ LIST_FORM = {
     "link_types_contains":"link_types_contains.json",
     "text_xml":"text_xml.json",
     "places_cities":"places_cities.json",
-    "places_countries":"places_countries.json"
+    "places_countries":"places_countries.json",
+    "places":"places.json"
 }
 
 LIST_CSV_QID = {
