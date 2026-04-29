@@ -6,7 +6,6 @@ import uuid
 from modules.data.load import save_notice, exist_notice, save_image, load_list_form, index_username, save_to_list_form, get_all_objects_ids_flat_sorted
 from modules.git_tools import git_commit_and_push
 from modules.wikidata.queries import get_monument_data
-from modules.git_tools import git_pull
 
 def init_empty_notice(xml_id, entry_type):
     return {
@@ -42,7 +41,6 @@ def add_creator(xml_id, creator, idx, type_entry):
                                      )
         if not creator["xml_id"] in load_list_form("persons") and creator["xml_id"] is not None:
             st.write("Sauvegarde du nouvel identifiant")
-            git_pull()
             save_to_list_form("persons", creator["xml_id"])
 
     with col2:
@@ -54,13 +52,7 @@ def add_creator(xml_id, creator, idx, type_entry):
                                             accept_new_options=True
                                             )
             if not creator["role"] in load_list_form("artists_roles") and creator["role"] is not None :
-                st.write("Sauvegarde du nouveau rôle")
-                print("ça marche")
-                git_pull()
-                print("ça a vraiment marché")
                 save_to_list_form("artists_roles", creator["role"])
-                message_nouvelle_entree = f"ajout entrée {creator["role"]} {datetime.now().isoformat()}"
-                git_commit_and_push(message_nouvelle_entree)
 
         if type_entry == "building":
             creator["role"] = st.selectbox("Rôle :",
@@ -70,8 +62,6 @@ def add_creator(xml_id, creator, idx, type_entry):
                                             accept_new_options=True
                                             )
             if not creator["role"] in load_list_form("architects_roles") and creator["role"] is not None :
-                st.write("Sauvegarde du nouveau rôle")
-                git_pull()
                 save_to_list_form("architects_roles", creator["role"])
         
         if type_entry == "ensemble":
