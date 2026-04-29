@@ -1,0 +1,45 @@
+{
+  "id": "PordenoneFresqueSanStefano",
+  "QID_wikidata": "Les Fresques de SanStefano",
+  "entry_type": "artwork",
+  "title": "Les Fresques du cloître San Stefano",
+  "creator": [
+    {
+      "xml_id": "Pordenone",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1530,
+    "endYear": 1530,
+    "text": "1530"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "",
+      "storage": "online",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-29T15:24:14.747273",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
