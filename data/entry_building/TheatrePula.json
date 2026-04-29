@@ -1,0 +1,40 @@
+{
+  "id": "TheatrePula",
+  "QID_wikidata": "",
+  "entry_type": "building",
+  "title": "Theatre de Pula",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 0,
+    "endYear": 100,
+    "text": "Ie siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Pula",
+      "country": "Croatie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-29T17:22:35.272831",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Theatre",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

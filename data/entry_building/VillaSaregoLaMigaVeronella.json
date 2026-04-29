@@ -1,0 +1,45 @@
+{
+  "id": "VillaSaregoLaMigaVeronella",
+  "QID_wikidata": "",
+  "entry_type": "building",
+  "title": "Villa Sarego La Miga a Veronella",
+  "creator": [
+    {
+      "xml_id": "AndreaPalladio",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1562,
+    "endYear": 1564,
+    "text": "XVIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Veronella",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-29T17:34:08.274261",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
