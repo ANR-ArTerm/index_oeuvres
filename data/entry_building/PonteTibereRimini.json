@@ -1,0 +1,48 @@
+{
+  "id": "PonteTibereRimini",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2063557",
+  "entry_type": "building",
+  "title": "Ponte de Tibère Rimini",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 14,
+    "endYear": 21,
+    "text": "Ie siècle "
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rimini",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "44.063667",
+        "longitude": "12.563827"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Ponte_di_Tiberio_5.JPG",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Flying Russian",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T13:55:15.215832",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Pont",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
