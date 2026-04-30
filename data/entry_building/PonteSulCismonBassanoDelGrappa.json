@@ -1,0 +1,40 @@
+{
+  "id": "PonteSulCismonBassanoDelGrappa",
+  "QID_wikidata": "",
+  "entry_type": "building",
+  "title": "Pont sur Cismon à Bassano del Grappa",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1550,
+    "endYear": 1552,
+    "text": "XVIe siècle "
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "BassanoDelGrappa",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T11:40:34.051531",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
