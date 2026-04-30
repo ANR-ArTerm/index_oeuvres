@@ -1,0 +1,66 @@
+{
+  "id": "PalaisRicasoliCarraia",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3890759",
+  "entry_type": "building",
+  "title": "Palais Ricasoli à Ponte alla Carraia",
+  "creator": [
+    {
+      "xml_id": null,
+      "role": "architecte"
+    },
+    {
+      "xml_id": null,
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": "post 1474-début XVIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "bucciPalazziDiFirenze1973",
+      "location": "105-110"
+    },
+    {
+      "zotero_key": "ginorilisciPalazziDiFirenze1972",
+      "location": "157-160"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Piazza_Carlo_Goldoni_2_angolo_via_Parione_17_e_lungarno_Corsini_14-16%2C_palazzo_ricasoli%2C_veduta_01.jpg/1920px-Piazza_Carlo_Goldoni_2_angolo_via_Parione_17_e_lungarno_Corsini_14-16%2C_palazzo_ricasoli%2C_veduta_01.jpg",
+      "storage": "online",
+      "copyright": "CC BY-SA 4.0, Sailko, https://commons.wikimedia.org/wiki/File:Piazza_Carlo_Goldoni_2_angolo_via_Parione_17_e_lungarno_Corsini_14-16,_palazzo_ricasoli,_veduta_01.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T16:34:11.173948",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "typology": "Palais",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
