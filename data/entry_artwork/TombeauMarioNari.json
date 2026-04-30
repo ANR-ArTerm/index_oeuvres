@@ -1,0 +1,71 @@
+{
+  "id": "TombeauMarioNari",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Tombeau Mario Nani",
+  "creator": [
+    {
+      "xml_id": "BartolomeoAmmannati",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1540,
+    "endYear": 1542,
+    "text": "1540-1542"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Musée national du Bargello",
+      "place": "Florence",
+      "inventory_number": "Bargello Sculture 250; Bargello Depositi 138",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "davisTombMarioNari1977",
+      "location": ""
+    },
+    {
+      "zotero_key": "loffredoGiovinezzaDiBartolomeo2011",
+      "location": "94-135"
+    },
+    {
+      "zotero_key": "pirazzoliSulMonumentoNari2011",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "http://www.sigecweb.beniculturali.it/images/fullsize/ICCD1057075/ICCD13835358_020033.jpg",
+      "storage": "online",
+      "copyright": "CC BY 4.0, https://catalogo.beniculturali.it/detail/HistoricOrArtisticProperty/0900286631-2#lg=1&slide=0",
+      "caption": ""
+    },
+    {
+      "id": 1,
+      "url": "http://www.sigecweb.beniculturali.it/images/fullsize/ICCD1038920/ICCD13106717_020032.jpg",
+      "storage": "online",
+      "copyright": "CC BY 4.0, https://catalogo.beniculturali.it/detail/HistoricOrArtisticProperty/0900286631-0#lg=1&slide=0",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T18:06:44.271346",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "materialsAndTechniques": "Sculpture en marbre",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
