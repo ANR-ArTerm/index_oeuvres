@@ -1,0 +1,48 @@
+{
+  "id": "PortaDelPopoloRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1760057",
+  "entry_type": "building",
+  "title": "Porte Del Popolo de Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 271,
+    "endYear": 275,
+    "text": "IIIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": null,
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.91152778",
+        "longitude": "12.47597222"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/0_Porta_del_Popolo_%28Rome%29.JPG",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY 4.0, Jean-Pol GRANDMONT (https://commons.wikimedia.org/wiki/File:0_Porta_del_Popolo_(Rome).JPG)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T10:24:00.977910",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Porte",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
