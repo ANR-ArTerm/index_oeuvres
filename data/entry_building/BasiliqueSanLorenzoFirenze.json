@@ -5,23 +5,23 @@
   "title": "Basilique San Lorenzo Firenze",
   "creator": [
     {
-      "xml_id": null,
+      "xml_id": "FilippoBrunelleschi",
       "role": "architecte"
     },
     {
-      "xml_id": null,
+      "xml_id": "Michelozzo",
       "role": "architecte"
     },
     {
-      "xml_id": null,
+      "xml_id": "MichelAnge",
       "role": "architecte"
     },
     {
-      "xml_id": null,
+      "xml_id": "Bernardo Buontalenti",
       "role": "architecte"
     },
     {
-      "xml_id": null,
+      "xml_id": "MatteoNigetti",
       "role": "architecte"
     }
   ],
@@ -42,7 +42,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "baldiniComplessoMonumentaleDi1984",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -52,12 +57,17 @@
       "caption": "Basilique San Lorenzo, Firenze"
     }
   ],
-  "description": "",
+  "description": "L'église a été fondée au IVe siècle et consacrée cathédrale en 393, jusqu'à ce que ce titre revienne à Santa Reparata (puis Santa Maria del Fiore.",
   "commentary": "",
   "history": [
     {
       "date": "2026-04-29T16:15:45.313624",
       "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-04-30T15:35:32.276781",
+      "type": "modified",
       "author": "Elisa"
     }
   ],
