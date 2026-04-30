@@ -1,0 +1,48 @@
+{
+  "id": "PonteMilvioRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1127325",
+  "entry_type": "building",
+  "title": "Pont Milvius Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 110,
+    "endYear": 109,
+    "text": "IIe siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.935555555",
+        "longitude": "12.466944444"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Ponte_Milvio_HD.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Livioandronico2013 (https://creativecommons.org/licenses/by-sa/4.0/deed.en)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T12:28:33.261284",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Pont",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
