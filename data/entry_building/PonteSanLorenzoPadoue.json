@@ -1,0 +1,40 @@
+{
+  "id": "PonteSanLorenzoPadoue",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2103738",
+  "entry_type": "building",
+  "title": "Pont San Lorenzo à Padoue",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -47,
+    "endYear": -30,
+    "text": "Ie siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Padoue",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "45.40611",
+        "longitude": "11.87787"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T14:48:55.602518",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
