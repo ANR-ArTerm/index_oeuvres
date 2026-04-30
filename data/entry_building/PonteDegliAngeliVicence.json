@@ -1,0 +1,40 @@
+{
+  "id": "PonteDegliAngeliVicence",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q115735043",
+  "entry_type": "building",
+  "title": "Pont degli Angeli Vicence",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 0,
+    "endYear": 200,
+    "text": ""
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Vicence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "45.5501863",
+        "longitude": "11.5504396"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T14:01:05.077714",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
