@@ -1,0 +1,48 @@
+{
+  "id": "PonteCestiusRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q734903",
+  "entry_type": "building",
+  "title": "Pont Cestius Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -46,
+    "endYear": -44,
+    "text": "Ie siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.88999",
+        "longitude": "12.47725"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/2012-05-15_Roma_ponte_Cestio_da_ponte_Garibaldi_1.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Blackcat (https://commons.wikimedia.org/wiki/File:2012-05-15_Roma_ponte_Cestio_da_ponte_Garibaldi_1.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T11:56:44.375346",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Pont",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
