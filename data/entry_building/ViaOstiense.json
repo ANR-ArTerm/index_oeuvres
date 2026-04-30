@@ -1,0 +1,48 @@
+{
+  "id": "ViaOstiense",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1232418",
+  "entry_type": "building",
+  "title": "Voie Ostiense de Rome à ",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -600,
+    "endYear": -500,
+    "text": "VIIe siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": null,
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.814337144",
+        "longitude": "12.41070669"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Via_Ostiense.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Rabax63 (https://commons.wikimedia.org/wiki/File:Via_Ostiense.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T11:12:59.135323",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Voie",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
