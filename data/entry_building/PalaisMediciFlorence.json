@@ -1,0 +1,58 @@
+{
+  "id": "PalaisMediciFlorence",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q911047",
+  "entry_type": "building",
+  "title": "Palais Medici Florence",
+  "creator": [
+    {
+      "xml_id": "Michelozzo",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1444,
+    "endYear": 1464,
+    "text": "1444-1464"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "cherubiniPalazzoMediciRiccardi1990",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Palazzo_Medici_in_Florence_Sep_2017.jpg/1920px-Palazzo_Medici_in_Florence_Sep_2017.jpg",
+      "storage": "online",
+      "copyright": "CC BY-SA 4.0, ScareCriterion12, https://commons.wikimedia.org/wiki/File:Palazzo_Medici_in_Florence_Sep_2017.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T16:06:26.951443",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "typology": "Palais",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
