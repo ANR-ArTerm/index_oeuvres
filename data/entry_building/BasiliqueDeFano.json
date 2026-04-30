@@ -1,0 +1,53 @@
+{
+  "id": "BasiliqueDeFano",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3635676",
+  "entry_type": "building",
+  "title": "Basilique de Fano",
+  "creator": [
+    {
+      "xml_id": "Vitruve",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": -100,
+    "endYear": 0,
+    "text": "Ie siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Fano",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "43.844755328",
+        "longitude": "13.016991112"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Pianta_Basilica_di_Vitruvio_-_Ipotesi_ricostruttiva_di_Andrea_Palladio.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Andrea Palladio (https://commons.wikimedia.org/wiki/File:Pianta_Basilica_di_Vitruvio_-_Ipotesi_ricostruttiva_di_Andrea_Palladio.jpg)",
+      "caption": "Andrea Palladio, Hypothèse reconstructive d'Andrea Palladio de la Basilique de Fano, 1584"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T15:41:15.044804",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "BasiliqueCivile",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
