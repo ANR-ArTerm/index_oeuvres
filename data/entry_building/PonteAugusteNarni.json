@@ -1,0 +1,48 @@
+{
+  "id": "PonteAugusteNarni",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2103779",
+  "entry_type": "building",
+  "title": "Pont d'Auguste à Narni",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -100,
+    "endYear": 100,
+    "text": "entre Ie siècle av. J.-C. et Ie siècle apr. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Narni",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "42.52527778",
+        "longitude": "12.51444444"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Ponte_di_Augusto_-Narni-Terni-Umbria.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0 ImagoAnimae (https://commons.wikimedia.org/wiki/File:Ponte_di_Augusto_-Narni-Terni-Umbria.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T12:33:25.711073",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Pont",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
