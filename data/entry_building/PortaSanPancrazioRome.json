@@ -12,7 +12,7 @@
   "location": {
     "type": "place",
     "place": {
-      "city": null,
+      "city": "Rome",
       "country": "Italie",
       "coordinates": {
         "latitude": "41.88833333",
@@ -37,6 +37,11 @@
     {
       "date": "2026-04-30T10:38:57.187375",
       "type": "created",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-04-30T11:04:16.273066",
+      "type": "modified",
       "author": "Nicolo"
     }
   ],
