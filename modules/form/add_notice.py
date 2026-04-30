@@ -40,12 +40,12 @@ def add_creator(xml_id, creator, idx, type_entry):
                                      key=f"{xml_id}_creator_xmlid_{idx}"
                                      )
         if creator["xml_id"] is not None and creator["xml_id"] not in load_list_form("persons"):
-            st.write("Sauvegarde du nouvel identifiant")
-            success, message = save_to_list_form_git("persons", creator["xml_id"])
-            if success:
-                st.success(message)
-            else:
-                st.error(message)
+            with st.spinner("Sauvegarde du nouvel identifiant"):
+                success, message = save_to_list_form_git("persons", creator["xml_id"])
+                if success:
+                    st.success(message)
+                else:
+                    st.error(message)
 
     with col2:
         if type_entry == "artwork":

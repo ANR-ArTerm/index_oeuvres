@@ -2,6 +2,7 @@ from modules.data.load import load_all_entries, save_list_to_list_form, _load_js
 import os
 import streamlit as st
 import math
+import time
 
 from modules.git_tools import git_commit_and_push
 
@@ -144,11 +145,13 @@ def edit_list_form():
 
     with col_save:
         if st.button("💾 Sauvegarder"):
-            _save_json(file_path, data)
-            success, output = git_commit_and_push(
-                f"[liste] Mise à jour de {liste_choisie}"
-            )
-            if success:
-                st.success("Fichier sauvegardé et synchronisé.")
-            else:
-                st.error(f"Sauvegardé localement, mais erreur Git :\n{output}")
+            with st.spinner("Mise à jour de la liste"):
+                _save_json(file_path, data)
+                success, output = git_commit_and_push(
+                    f"[liste] Mise à jour de {liste_choisie}"
+                )
+                if success:
+                    st.success("Fichier sauvegardé et synchronisé.")
+                    time.sleep(1)
+                else:
+                    st.error(f"Sauvegardé localement, mais erreur Git :\n{output}")
