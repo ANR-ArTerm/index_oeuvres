@@ -1,0 +1,48 @@
+{
+  "id": "ViaPraenestina",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q550578",
+  "entry_type": "building",
+  "title": "Via Praenestina de Rome à Palestrina",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": null,
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Via_Praenestina.png",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Rjdeadly (https://commons.wikimedia.org/wiki/File:Via_Praenestina.png)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T10:52:45.638141",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Voie",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
