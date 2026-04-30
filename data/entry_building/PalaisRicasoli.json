@@ -1,0 +1,66 @@
+{
+  "id": "PalaisRicasoli",
+  "QID_wikidata": "",
+  "entry_type": "building",
+  "title": "Palais Ricasoli Florence",
+  "creator": [
+    {
+      "xml_id": "CosimoBartoli",
+      "role": "auteur du modèle"
+    },
+    {
+      "xml_id": "FrancescoCamilliani",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": "Post 1538 - 1550 ca."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "poliRecuperoDiMonumento1973",
+      "location": ""
+    },
+    {
+      "zotero_key": "davisCosimoBartoliPortal1975",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Pianta_del_buonsignori%2C_dettaglio_032_ceppo_monastero_%28ospedale_bonifacio%29_2.jpg",
+      "storage": "online",
+      "copyright": "CC BY-SA 3.0, Sailko, https://commons.wikimedia.org/wiki/File:Pianta_del_buonsignori,_dettaglio_032_ceppo_monastero_(ospedale_bonifacio)_2.jpg",
+      "caption": "n. 32"
+    }
+  ],
+  "description": "Conçu, commencé mais jamais achevé",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T21:51:54.353995",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "typology": "Palais",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
