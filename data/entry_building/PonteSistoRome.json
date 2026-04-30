@@ -1,0 +1,48 @@
+{
+  "id": "PonteSistoRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q586329",
+  "entry_type": "building",
+  "title": "Pont Sisto Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1573,
+    "endYear": 1479,
+    "text": "XVe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.892336",
+        "longitude": "12.470794"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Ponte_Sisto_Roma.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Livioandronico2013 (https://commons.wikimedia.org/wiki/File:Ponte_Sisto_Roma.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T12:25:24.535162",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Pont",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
