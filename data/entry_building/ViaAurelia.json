@@ -1,0 +1,48 @@
+{
+  "id": "ViaAurelia",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q756816",
+  "entry_type": "building",
+  "title": "Voie Aurelia",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -241,
+    "endYear": -200,
+    "text": "IIIe siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": null,
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Via_Julia_Augusta%2C_Albenga_-_1.JPG",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Broenberr (https://commons.wikimedia.org/wiki/File:Via_Julia_Augusta,_Albenga_-_1.JPG)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T10:34:49.723859",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Voie",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
