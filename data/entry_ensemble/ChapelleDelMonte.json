@@ -31,7 +31,12 @@
       "url": ""
     }
   },
-  "related_works": [],
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "EgliseSanPietroinMontorio"
+    }
+  ],
   "bibliography": [
     {
       "zotero_key": "conforti15501552CappellaMonte2011",
@@ -57,6 +62,11 @@
     {
       "date": "2026-04-30T18:45:22.727626",
       "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-04-30T19:02:11.677764",
+      "type": "modified",
       "author": "Elisa"
     }
   ],

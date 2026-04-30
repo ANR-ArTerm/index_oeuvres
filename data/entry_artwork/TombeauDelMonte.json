@@ -23,7 +23,16 @@
       "url": ""
     }
   },
-  "related_works": [],
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "ChapelleDelMonte"
+    },
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "EgliseSanPietroinMontorio"
+    }
+  ],
   "bibliography": [
     {
       "zotero_key": "davisTombMarioNari1977",
@@ -56,6 +65,11 @@
     },
     {
       "date": "2026-04-30T18:38:29.015497",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-04-30T19:03:10.765524",
       "type": "modified",
       "author": "Elisa"
     }
