@@ -1,0 +1,53 @@
+{
+  "id": "PorteSanGallo",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3908786",
+  "entry_type": "building",
+  "title": "Porte San Gallo Florence",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": "XIVe-XVIe siècles"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "manettiFirenzePorteDellultima1979",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Porta_San_Gallo_6.JPG/1920px-Porta_San_Gallo_6.JPG",
+      "storage": "online",
+      "copyright": "CC BY-SA 3.0, TuscanyFirenze01, https://commons.wikimedia.org/wiki/File:Porta_San_Gallo_6.JPG",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T17:23:44.314319",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "typology": "Murailles",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
