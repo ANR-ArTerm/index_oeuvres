@@ -1,0 +1,48 @@
+{
+  "id": "PalazzoDellaRagionePadoue",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2517428",
+  "entry_type": "building",
+  "title": "Palazzo della Ragione à Padoue",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1166,
+    "endYear": 1420,
+    "text": "entre XIIe et XVe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Padoue",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "45.407222222",
+        "longitude": "11.875277777"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Exterior_of_Palazzo_della_Ragione_%28Padua%29.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4, Didier Descouens (https://commons.wikimedia.org/wiki/File:Exterior_of_Palazzo_della_Ragione_(Padua).jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T15:46:02.276511",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "BasiliqueCivile",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
