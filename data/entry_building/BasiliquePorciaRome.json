@@ -1,0 +1,40 @@
+{
+  "id": "BasiliquePorciaRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q810068",
+  "entry_type": "building",
+  "title": "Basilique Civile Porcia à Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -184,
+    "endYear": -184,
+    "text": "IIe siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.89331944",
+        "longitude": "12.48481944"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T15:12:47.737849",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
