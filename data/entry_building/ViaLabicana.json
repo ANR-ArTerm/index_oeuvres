@@ -1,0 +1,40 @@
+{
+  "id": "ViaLabicana",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q763100",
+  "entry_type": "building",
+  "title": "Voie Labicana de Rome à",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -500,
+    "endYear": -400,
+    "text": "Ve siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": null,
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T10:56:16.611841",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Voie",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
