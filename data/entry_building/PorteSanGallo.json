@@ -20,7 +20,12 @@
       }
     }
   },
-  "related_works": [],
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "MursdeFlorence"
+    }
+  ],
   "bibliography": [
     {
       "zotero_key": "manettiFirenzePorteDellultima1979",
@@ -42,6 +47,16 @@
     {
       "date": "2026-04-30T17:23:44.314319",
       "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-04-30T17:26:53.258944",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-04-30T17:30:37.994227",
+      "type": "modified",
       "author": "Elisa"
     }
   ],

@@ -5,15 +5,15 @@
   "title": "Murs de Florence",
   "creator": [
     {
-      "xml_id": null,
+      "xml_id": "ArnolfoDiCambio",
       "role": "architecte"
     },
     {
-      "xml_id": null,
+      "xml_id": "AntonioDaSangalloIlGiovane",
       "role": "architecte"
     },
     {
-      "xml_id": null,
+      "xml_id": "BernardoBuontalenti",
       "role": "architecte"
     }
   ],
@@ -55,6 +55,11 @@
     {
       "date": "2026-04-30T17:08:42.676600",
       "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-04-30T17:29:05.575026",
+      "type": "modified",
       "author": "Elisa"
     }
   ],
