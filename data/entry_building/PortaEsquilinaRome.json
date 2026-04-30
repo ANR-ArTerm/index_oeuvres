@@ -1,0 +1,48 @@
+{
+  "id": "PortaEsquilinaRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q616887",
+  "entry_type": "building",
+  "title": "Porte Esquiline Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -600,
+    "endYear": -500,
+    "text": "VIe siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.89577",
+        "longitude": "12.50135"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/ArchofGallienus2.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Tomk2ski (https://commons.wikimedia.org/wiki/File:ArchofGallienus2.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T11:00:54.290659",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Porte",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
