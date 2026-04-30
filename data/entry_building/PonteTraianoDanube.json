@@ -3,7 +3,12 @@
   "QID_wikidata": "https://www.wikidata.org/wiki/Q849786",
   "entry_type": "building",
   "title": "Pont de Trajan sur le Danube",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "ApollodoreDeDamas",
+      "role": "architecte"
+    }
+  ],
   "dateCreated": {
     "startYear": 103,
     "endYear": 105,
@@ -37,6 +42,11 @@
     {
       "date": "2026-04-30T13:51:19.714077",
       "type": "created",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-04-30T14:27:35.800564",
+      "type": "modified",
       "author": "Nicolo"
     }
   ],
