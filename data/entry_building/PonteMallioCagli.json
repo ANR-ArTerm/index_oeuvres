@@ -1,0 +1,48 @@
+{
+  "id": "PonteMallioCagli",
+  "QID_wikidata": "",
+  "entry_type": "building",
+  "title": "Ponte Mallio à Cagli",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Cagli",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cagli%2C_Ponte_Mallio_%28Via_Flaminia%29_-_Marche%2C_Italia_-_01.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, RenioLinossi (https://it.wikipedia.org/wiki/File:Cagli,_Ponte_Mallio_(Via_Flaminia)_-_Marche,_Italia_-_01.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T12:36:38.739114",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Pont",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
