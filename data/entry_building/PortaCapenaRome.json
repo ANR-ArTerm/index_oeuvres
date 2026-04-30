@@ -1,0 +1,48 @@
+{
+  "id": "PortaCapenaRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1632777",
+  "entry_type": "building",
+  "title": "Porte Capène Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -600,
+    "endYear": -500,
+    "text": "VIIe siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": null,
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.883944444",
+        "longitude": "12.4905"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Porta_Capena%2C_Roma%2C_Italia_Sep_01%2C_2020_11-44-11_AM.jpeg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Dieterdreist (https://commons.wikimedia.org/wiki/File:Porta_Capena,_Roma,_Italia_Sep_01,_2020_11-44-11_AM.jpeg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T10:30:08.630869",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Porte",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
