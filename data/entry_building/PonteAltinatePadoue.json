@@ -1,0 +1,40 @@
+{
+  "id": "PonteAltinatePadoue",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2103692",
+  "entry_type": "building",
+  "title": "Pont Altinate à Padoue",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -200,
+    "endYear": 0,
+    "text": "entre IIe et Ie siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Padoue",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "45.408904",
+        "longitude": "11.878543"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T14:46:29.556227",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
