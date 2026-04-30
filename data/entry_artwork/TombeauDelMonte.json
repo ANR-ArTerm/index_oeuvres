@@ -1,0 +1,64 @@
+{
+  "id": "TombeauDelMonte",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Tombeau Del Monte ",
+  "creator": [
+    {
+      "xml_id": "BartolomeoAmmannati",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1550,
+    "endYear": 1555,
+    "text": "1550-1555"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Église San Pietro in Montorio",
+      "place": "Rome",
+      "inventory_number": "",
+      "url": ""
+    },
+    "place": {
+      "city": null,
+      "country": null,
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "davisTombMarioNari1977",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://www.wga.hu/art/a/ammanati/2/montori3.jpg",
+      "storage": "online",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T18:25:29.008809",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "materialsAndTechniques": "Sculpture en marbre",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
