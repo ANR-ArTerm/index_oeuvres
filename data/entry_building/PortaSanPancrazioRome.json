@@ -1,0 +1,48 @@
+{
+  "id": "PortaSanPancrazioRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2000448",
+  "entry_type": "building",
+  "title": "Porte San Pancrazio Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 270,
+    "endYear": 1854,
+    "text": "IIe siècle, refaite en XIXe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": null,
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.88833333",
+        "longitude": "12.46138889"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Roma_-_Museo_storico_garibaldino_di_Porta_San_Pancrazio_-_2025-09-23_10-20-37_014.jpeg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Scattifa (https://commons.wikimedia.org/wiki/File:Roma_-_Museo_storico_garibaldino_di_Porta_San_Pancrazio_-_2025-09-23_10-20-37_014.jpeg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T10:38:57.187375",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Porte",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
