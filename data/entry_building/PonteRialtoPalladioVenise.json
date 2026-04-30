@@ -1,0 +1,53 @@
+{
+  "id": "PonteRialtoPalladioVenise",
+  "QID_wikidata": "",
+  "entry_type": "building",
+  "title": "Pont de Rialto à Venise, Projet du Palladio",
+  "creator": [
+    {
+      "xml_id": "AndreaPalladio",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1566,
+    "endYear": 1566,
+    "text": "XVIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Venise",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Rialto_Bridge%2C_Andrea_Palladio_Project.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Rialto_Bridge,_Andrea_Palladio_Project.jpg)",
+      "caption": "Giovanni Antonio Canaletto, Pont du Rialto projet d'Andrea Palladio, Museo Civico Bassano del Grappa "
+    }
+  ],
+  "description": "Projet jamais realisé d'Andrea Palladio pour le pont du Rialto à Venise.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T14:26:17.215424",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
