@@ -1,0 +1,48 @@
+{
+  "id": "PonteTraianoDanube",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q849786",
+  "entry_type": "building",
+  "title": "Pont de Trajan sur le Danube",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 103,
+    "endYear": 105,
+    "text": "IIe siècle "
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": null,
+      "country": null,
+      "coordinates": {
+        "latitude": "44.623769",
+        "longitude": "22.66705"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/072_Conrad_Cichorius%2C_Die_Reliefs_der_Traianss%C3%A4ule%2C_Tafel_LXXII_%28Ausschnitt_01%29.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Conrad Cichorius (https://commons.wikimedia.org/wiki/File:072_Conrad_Cichorius,_Die_Reliefs_der_Traianss%C3%A4ule,_Tafel_LXXII_(Ausschnitt_01).jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T13:51:19.714077",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
