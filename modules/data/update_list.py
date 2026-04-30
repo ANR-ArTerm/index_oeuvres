@@ -139,6 +139,7 @@ def edit_list_form():
                             st.success(f"{nb_selected} élément(s) supprimé(s) et synchronisé.")
                         else:
                             st.error(f"Sauvegardé localement, mais erreur Git :\n{output}")
+                        time.sleep(1)
                         st.rerun()
             with col_no:
                 if st.button("❌ Annuler"):
