@@ -74,7 +74,7 @@ def edit_list_form():
     filtered_data = [
         (i, item) for i, item in enumerate(data)
         if not search_query or search_query.lower() in str(item).lower()
-    ]
+    ][::-1]  # ← ordre décroissant (dernier ajout en premier)
     st.caption(f"{len(filtered_data):,} résultat(s) trouvé(s)")
 
     # ── Pagination ──────────────────────────────────────────────────────
