@@ -1,0 +1,48 @@
+{
+  "id": "ViaAppia",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q189417",
+  "entry_type": "building",
+  "title": "Voie Appienne",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -312,
+    "endYear": -240,
+    "text": "IVe-IIIe siècles av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": null,
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.841389",
+        "longitude": "12.5325"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/RomaViaAppiaAntica03.JPG",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, MM (https://commons.wikimedia.org/wiki/File:RomaViaAppiaAntica03.JPG)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T10:10:35.074526",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Voie",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
