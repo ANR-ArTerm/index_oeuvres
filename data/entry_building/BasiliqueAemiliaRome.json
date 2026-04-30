@@ -1,0 +1,48 @@
+{
+  "id": "BasiliqueAemiliaRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q522924",
+  "entry_type": "building",
+  "title": "Basilique Civile Aemilia à Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -55,
+    "endYear": -34,
+    "text": "Ie siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.89259",
+        "longitude": "12.48614"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Roma-curia01.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY 2.0, Mac9 (https://commons.wikimedia.org/wiki/File:Roma-curia01.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T15:35:42.097360",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "BasiliqueCivile",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
