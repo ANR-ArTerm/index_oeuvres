@@ -36,8 +36,8 @@ LISTS_EDITABLE = {
     "🎨 Techniques et matériaux": "techniques.json",
     "📚 Clés zotero": "zotero_keys.json",
     "🔗 Type de liens entre les œuvres":"link_types.json",
-    "📫 Lien contenu":"link_types_contained.json",
-    "✉️ Lien contenant":"link_types_contains.json",
+    "✉️ Lien du contenu à l'ensemble":"link_types_contained.json",
+    "📫 Lien de l'ensemble au contenu":"link_types_contains.json",
     "📜 Textes XML":"text_xml.json"
 }
 

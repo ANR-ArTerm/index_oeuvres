@@ -43,9 +43,9 @@ def add_creator(xml_id, creator, idx, type_entry):
             with st.spinner("Sauvegarde du nouvel identifiant"):
                 success, message = save_to_list_form_git("persons", creator["xml_id"])
                 if success:
-                    st.toast(message)
+                    st.success(message)
                 else:
-                    st.toast(message)
+                    st.error(message)
 
     with col2:
         if type_entry == "artwork":
