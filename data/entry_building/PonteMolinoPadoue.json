@@ -1,0 +1,48 @@
+{
+  "id": "PonteMolinoPadoue",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q474747",
+  "entry_type": "building",
+  "title": "Pont Molino à Padoue",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -40,
+    "endYear": 1900,
+    "text": "entre Ie siècle av. J.-C. et XIXe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Padoue",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "45.411745",
+        "longitude": "11.873753"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Ponte_Molino%2C_Padua%2C_Italy._Pic_01.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Gun Powder Ma (https://commons.wikimedia.org/wiki/File:Ponte_Molino,_Padua,_Italy._Pic_01.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T14:55:10.280860",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Pont",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
