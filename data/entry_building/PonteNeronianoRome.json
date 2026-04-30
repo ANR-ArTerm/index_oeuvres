@@ -1,13 +1,13 @@
 {
-  "id": "PonteFabeiciusRome",
-  "QID_wikidata": "https://www.wikidata.org/wiki/Q944688",
+  "id": "PonteNeronianoRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1902995",
   "entry_type": "building",
-  "title": "Pont Fabricius Rome",
+  "title": "Pont Neroniano Rome",
   "creator": [],
   "dateCreated": {
-    "startYear": -62,
-    "endYear": -23,
-    "text": "Ie siècle av. J.-C."
+    "startYear": 0,
+    "endYear": 100,
+    "text": "Ie siècle"
   },
   "location": {
     "type": "place",
@@ -15,8 +15,8 @@
       "city": "Rome",
       "country": "Italie",
       "coordinates": {
-        "latitude": "41.89098",
-        "longitude": "12.47819"
+        "latitude": "41.901",
+        "longitude": "12.4641"
       }
     }
   },
@@ -25,9 +25,9 @@
   "illustrations": [
     {
       "id": 0,
-      "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Ponte_Fabricio_Rome_Pierleoni.jpg",
+      "url": "",
       "storage": "online",
-      "copyright": "Wikimedia Commons, Jastrow (https://commons.wikimedia.org/wiki/File:Ponte_Fabricio_Rome_Pierleoni.jpg)",
+      "copyright": "",
       "caption": ""
     }
   ],
@@ -35,12 +35,12 @@
   "commentary": "",
   "history": [
     {
-      "date": "2026-04-30T11:52:26.590935",
+      "date": "2026-04-30T12:11:42.650898",
       "type": "created",
       "author": "Nicolo"
     }
   ],
-  "typology": "Pont",
+  "typology": "monument imaginaire ou disparu",
   "contained_by_ensemble": {
     "link_type": null,
     "xml_id_work": null
