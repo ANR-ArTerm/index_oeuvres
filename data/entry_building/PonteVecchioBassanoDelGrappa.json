@@ -1,0 +1,53 @@
+{
+  "id": "PonteVecchioBassanoDelGrappa",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q608492",
+  "entry_type": "building",
+  "title": "Pont Vecchio Bassano del Grappa",
+  "creator": [
+    {
+      "xml_id": "AndreaPalladio",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 156,
+    "endYear": 1947,
+    "text": "entre XVIe et XXe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "BassanoDelGrappa",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "45.767515",
+        "longitude": "11.73129"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Ponte_degli_Alpini_Bassano_del_Grappa_2007.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY 2.0, Patrick Denker (https://commons.wikimedia.org/wiki/File:Ponte_degli_Alpini_Bassano_del_Grappa_2007.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T11:45:40.987712",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Pont",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
