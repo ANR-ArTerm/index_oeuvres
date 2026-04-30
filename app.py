@@ -19,6 +19,7 @@ from modules.data.verify_data import verify_json_entries, fix_location_fields
 from modules.edit_dataframes.notes import notes_editor
 from modules.verify_xml.objectName import verifier_objectnames, verifier_persnames, verifier_placenames
 
+from modules.data.update_list import edit_list_form
 
 
 st.set_page_config(layout="wide")
@@ -178,6 +179,10 @@ if "corrupted_files" in st.session_state and st.session_state.corrupted_files:
 if st.sidebar.button("Vérification textes XML"):
     st.session_state.active_menu = "verification" if st.session_state.active_menu != "verification" else None
 
+if st.sidebar.button("Éditer les listes d'autocomplétion"):
+    st.session_state.active_menu = "edit_list_form" if st.session_state.active_menu != "edit_list_form" else None
+
+
 # Zone principale
 if st.session_state.active_menu is None:
     render_home()
@@ -214,4 +219,7 @@ elif st.session_state.active_menu == "verification":
         verifier_persnames()
     if st.button("Vérifier placeName"):
         verifier_placenames()
+
+elif st.session_state.active_menu == "edit_list_form":
+    edit_list_form()
 
