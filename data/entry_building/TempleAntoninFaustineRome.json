@@ -1,0 +1,48 @@
+{
+  "id": "TempleAntoninFaustineRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q752555",
+  "entry_type": "building",
+  "title": "Temple d'Antonin et Faustine à Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 141,
+    "endYear": 141,
+    "text": "IIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.892138888",
+        "longitude": "12.486688888"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Temple_Antoninus_%26_Faustina_Forum_Romanum%2C_Rome%2C_Italy.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC0 1.0, Jebulon (https://commons.wikimedia.org/wiki/File:Temple_Antoninus_%26_Faustina_Forum_Romanum,_Rome,_Italy.jpg)",
+      "caption": "Les restes du temple d'Antonin et Faustine incorporés dans l'église de San Lorenzo in Miranda"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T15:29:29.481749",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Temple",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
