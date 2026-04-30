@@ -1,0 +1,48 @@
+{
+  "id": "PonteSantAngeloRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q870476",
+  "entry_type": "building",
+  "title": "Ponte Sant'Angelo Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 134,
+    "endYear": 134,
+    "text": "IIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.901803",
+        "longitude": "12.46645"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Roma_-_Ponte_s._Angelo.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Blackcat and SergioD'Afflitto (https://commons.wikimedia.org/wiki/File:Roma_-_Ponte_s._Angelo.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T14:14:31.362115",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Pont",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
