@@ -26,28 +26,29 @@ DATA_DIR = "data"
 LIST_FORM_DIR = os.path.join(DATA_DIR, "list_form")
 
 LISTS_EDITABLE = {
-    "Villes et pays":"places.json",
-    "Artistes":"persons.json",
-    "Rôles des artistes (artwork)": "artists_roles.json",
-    "Rôles des architectes (building))":"architects_roles.json",
-    "Typologies d'architecture": "typologies_architecture.json",
-    "Institutions de conservation": "institutions.json",
-    "Techniques et matériaux": "techniques.json",
-    "Clés zotero": "zotero_keys.json",
-    "Type de liens entre les œuvres":"link_types.json",
-    "Typologies d'ensemble":"typologies_ensemble.json",
-    "Lien contenu":"link_types_contained.json",
-    "Lien contenant":"link_types_contains.json",
-    "Textes XML":"text_xml.json"
+    "📍 Villes et pays":"places.json",
+    "👤 Artistes":"persons.json",
+    "👨‍🎨 Rôles des artistes (artwork)": "artists_roles.json",
+    "🔨 Rôles des architectes (building)":"architects_roles.json",
+    "⛪️ Typologies d'architecture": "typologies_architecture.json",
+    "🌿 Typologies d'ensemble":"typologies_ensemble.json",
+    "🏛️ Institutions de conservation": "institutions.json",
+    "🎨 Techniques et matériaux": "techniques.json",
+    "📚 Clés zotero": "zotero_keys.json",
+    "🔗 Type de liens entre les œuvres":"link_types.json",
+    "📫 Lien contenu":"link_types_contained.json",
+    "✉️ Lien contenant":"link_types_contains.json",
+    "📜 Textes XML":"text_xml.json"
 }
 
 def edit_list_form():
     st.title("Éditeur de listes JSON")
 
     # Sélection de la liste
-    liste_choisie = st.selectbox(
+    liste_choisie = st.radio(
         "Choisir une liste à éditer",
-        list(LISTS_EDITABLE.keys())
+        list(LISTS_EDITABLE.keys()),
+        horizontal=True
     )
     file_path = os.path.join(LIST_FORM_DIR, LISTS_EDITABLE[liste_choisie])
 
@@ -126,23 +127,24 @@ def edit_list_form():
             col_yes, col_no = st.columns(2)
             with col_yes:
                 if st.button("✅ Confirmer", type="primary"):
-                    data = [item for i, item in enumerate(data) if i not in to_delete]
-                    st.session_state[state_key] = set()
-                    st.session_state[confirm_key] = False
-                    _save_json(file_path, data)
-                    success, output = git_commit_and_push(
-                        f"[liste] Suppression de {nb_selected} élément(s) dans {liste_choisie}"
-                    )
-                    if success:
-                        st.success(f"{nb_selected} élément(s) supprimé(s) et synchronisé.")
-                    else:
-                        st.error(f"Sauvegardé localement, mais erreur Git :\n{output}")
-                    st.rerun()
+                    with st.spinner("Mise à jour des données"):
+                        data = [item for i, item in enumerate(data) if i not in to_delete]
+                        st.session_state[state_key] = set()
+                        st.session_state[confirm_key] = False
+                        _save_json(file_path, data)
+                        success, output = git_commit_and_push(
+                            f"[liste] Suppression de {nb_selected} élément(s) dans {liste_choisie}"
+                        )
+                        if success:
+                            st.success(f"{nb_selected} élément(s) supprimé(s) et synchronisé.")
+                        else:
+                            st.error(f"Sauvegardé localement, mais erreur Git :\n{output}")
+                        st.rerun()
             with col_no:
                 if st.button("❌ Annuler"):
                     st.session_state[confirm_key] = False
                     st.rerun()
-
+    """
     with col_save:
         if st.button("💾 Sauvegarder"):
             with st.spinner("Mise à jour de la liste"):
@@ -155,3 +157,4 @@ def edit_list_form():
                     time.sleep(1)
                 else:
                     st.error(f"Sauvegardé localement, mais erreur Git :\n{output}")
+    """
