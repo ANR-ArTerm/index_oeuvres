@@ -1,0 +1,53 @@
+{
+  "id": "EgliseSantoSpiritoInSassiaRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1428488",
+  "entry_type": "building",
+  "title": "Eglise Santo Spirito in Sassia a Roma",
+  "creator": [
+    {
+      "xml_id": "AntonioDaSangalloIlGiovane",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1538,
+    "endYear": 1590,
+    "text": "XVIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.901388888",
+        "longitude": "12.461111111"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Santo_Spirito_in_Sassia_-_esterno.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY 4.0, Labicanense (https://commons.wikimedia.org/wiki/File:Santo_Spirito_in_Sassia_-_esterno.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T12:18:18.466033",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "église",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
