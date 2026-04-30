@@ -1,0 +1,40 @@
+{
+  "id": "PonteSanPaoloVicence",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q115676310",
+  "entry_type": "building",
+  "title": "Pont Saint Paul Vicence",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Vicence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "45.54582",
+        "longitude": "11.547117"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T14:41:41.264600",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

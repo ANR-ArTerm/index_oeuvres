@@ -7,6 +7,10 @@
     {
       "xml_id": "AntonioDaSangalloIlGiovane",
       "role": "architecte"
+    },
+    {
+      "xml_id": "GuidettoGuidetti",
+      "role": "architecte"
     }
   ],
   "dateCreated": {
@@ -42,6 +46,11 @@
     {
       "date": "2026-04-30T12:18:18.466033",
       "type": "created",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-04-30T14:31:48.747193",
+      "type": "modified",
       "author": "Nicolo"
     }
   ],
