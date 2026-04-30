@@ -1,0 +1,40 @@
+{
+  "id": "PonteDiCesareSulReno",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q320210",
+  "entry_type": "building",
+  "title": "Pont sur le Rhin",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -55,
+    "endYear": -55,
+    "text": "Ie siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": null,
+      "country": "Allemagne",
+      "coordinates": {
+        "latitude": "50.413333333",
+        "longitude": "7.473333333"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T11:35:20.393831",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
