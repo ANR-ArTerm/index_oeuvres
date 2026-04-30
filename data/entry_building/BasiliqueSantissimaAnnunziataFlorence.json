@@ -1,0 +1,78 @@
+{
+  "id": "BasiliqueSantissimaAnnunziataFlorence",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2287001",
+  "entry_type": "building",
+  "title": "Basilique Santissima Annunziata Florence",
+  "creator": [
+    {
+      "xml_id": "AntonioPucci",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "Michelozzo",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "AntonioManetti",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "LeonBattistaAlberti",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "GiovanniBattistaCaccini",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1250,
+    "endYear": 1795,
+    "text": "1250-1795 ca."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "alessandriniBasilicaSantissimaAnnunziata2013",
+      "location": ""
+    },
+    {
+      "zotero_key": "bertoncinisabatiniBasilicaSantissimaAnnunziata2014",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Palazzo_budini_gattai%2C_vista_verso_piazza_santissima_annunziata%2C_basilica_04.jpg/1920px-Palazzo_budini_gattai%2C_vista_verso_piazza_santissima_annunziata%2C_basilica_04.jpg",
+      "storage": "online",
+      "copyright": "CC BY-SA 4.0, Sailko, https://commons.wikimedia.org/wiki/File:Palazzo_budini_gattai,_vista_verso_piazza_santissima_annunziata,_basilica_04.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T15:49:55.449425",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "typology": "basilique",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
