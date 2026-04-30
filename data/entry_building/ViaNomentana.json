@@ -1,0 +1,48 @@
+{
+  "id": "ViaNomentana",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q647535",
+  "entry_type": "building",
+  "title": "Voie Nomentana de Rome à Nomentum",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -280,
+    "endYear": -280,
+    "text": "IIIe siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": null,
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Antica_via_Nomentana_03.JPG",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Croberto68 (https://commons.wikimedia.org/wiki/File:Antica_via_Nomentana_03.JPG)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T10:48:23.258455",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Voie",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
