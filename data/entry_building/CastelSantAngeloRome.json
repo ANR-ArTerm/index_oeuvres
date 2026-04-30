@@ -1,0 +1,48 @@
+{
+  "id": "CastelSantAngeloRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q486382",
+  "entry_type": "building",
+  "title": "Château Saint-Ange Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 130,
+    "endYear": 1527,
+    "text": "entre IIe et XVIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.903044",
+        "longitude": "12.466307"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Rome_-_Italy_%28November_2025%29_-_58.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Another Believer (https://commons.wikimedia.org/wiki/File:Rome_-_Italy_(November_2025)_-_58.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T11:49:43.831962",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Chateau",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
