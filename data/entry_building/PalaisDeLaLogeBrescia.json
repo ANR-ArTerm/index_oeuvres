@@ -1,0 +1,48 @@
+{
+  "id": "PalaisDeLaLogeBrescia",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3891454",
+  "entry_type": "building",
+  "title": "Palais de la Loge Brescia",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1492,
+    "endYear": 1574,
+    "text": "entre XVe et XVIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Brescia",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "45.53983",
+        "longitude": "10.2195"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Brescia_Piazza_della_Loggia_Palazzo_della_Loggia_2.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Zairon (https://commons.wikimedia.org/wiki/File:Brescia_Piazza_della_Loggia_Palazzo_della_Loggia_2.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T15:51:54.334826",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "BasiliqueCivile",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
