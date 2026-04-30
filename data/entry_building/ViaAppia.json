@@ -2,7 +2,7 @@
   "id": "ViaAppia",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q189417",
   "entry_type": "building",
-  "title": "Voie Appienne",
+  "title": "Voie Appienne de Rome à Brindisi",
   "creator": [],
   "dateCreated": {
     "startYear": -312,
@@ -37,6 +37,11 @@
     {
       "date": "2026-04-30T10:10:35.074526",
       "type": "created",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-04-30T10:14:10.643235",
+      "type": "modified",
       "author": "Nicolo"
     }
   ],

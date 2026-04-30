@@ -1,0 +1,48 @@
+{
+  "id": "ViaFlaminia",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q374149",
+  "entry_type": "building",
+  "title": "Voie Flaminia entre ",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 220,
+    "endYear": 219,
+    "text": "IIIe siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": null,
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "42.73033",
+        "longitude": "12.58681"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Carsulae-San-Damiano.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, imcarthur (https://commons.wikimedia.org/wiki/File:Carsulae-San-Damiano.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T10:18:47.842335",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Voie",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
