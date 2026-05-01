@@ -2,10 +2,10 @@
   "id": "MonastereSantAgata",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q3672246",
   "entry_type": "building",
-  "title": "Monastère de Sant'Agata",
+  "title": "Monastère de Sant'Agata FLorence",
   "creator": [
     {
-      "xml_id": null,
+      "xml_id": "AlessandroAllori",
       "role": "architecte"
     }
   ],
@@ -26,17 +26,22 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "DePaloSAgata",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
-      "url": "https://commons.wikimedia.org/wiki/File:Sant%27Agata_crop.jpg#/media/File:Sant'Agata_crop.jpg",
-      "copyright": "",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Pianta_del_buonsignori%2C_dettaglio_006_sant%27agata_monastero.jpg",
+      "copyright": "CC BY-SA 3.0, Sailko, https://commons.wikimedia.org/wiki/File:Pianta_del_buonsignori,_dettaglio_006_sant%27agata_monastero.jpg",
       "caption": "",
       "storage": "online"
     }
   ],
-  "description": "Église conçue par Alessandro Allori",
+  "description": "Église conçue par Alessandro Allori.",
   "commentary": "",
   "history": [
     {
@@ -51,6 +56,11 @@
     },
     {
       "date": "2026-04-09T15:23:53.985095",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-05-01T13:52:01.381450",
       "type": "modified",
       "author": "Elisa"
     }
