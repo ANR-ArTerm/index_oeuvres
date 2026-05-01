@@ -1,0 +1,42 @@
+{
+  "id": "SculptureVenus",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Sculpture Venus",
+  "creator": [
+    {
+      "xml_id": "SantidiGucci",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1550,
+    "endYear": 1551,
+    "text": "1550-1551ca."
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "jonietzSemanticsRecyclingCosimo2011",
+      "location": "297-325"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-01T11:53:52.775329",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "materialsAndTechniques": null,
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
