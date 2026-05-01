@@ -3,16 +3,11 @@
   "QID_wikidata": "",
   "entry_type": "artwork",
   "title": "Fontaine Venus",
-  "creator": [
-    {
-      "xml_id": "FrancescoCamilliani",
-      "role": "sculpteur"
-    }
-  ],
+  "creator": [],
   "dateCreated": {
     "startYear": null,
     "endYear": null,
-    "text": "post 1538-1550 ca."
+    "text": "/"
   },
   "location": {
     "type": "unlocated"
@@ -30,16 +25,21 @@
     }
   ],
   "illustrations": [],
-  "description": "La sculpture de Vénus est la seule à avoir été réalisée pour la fontaine de Vénus.",
+  "description": "La sculpture antique de Vénus aurait été utilisée pour la fontaine de Vénus.",
   "commentary": "",
   "history": [
     {
       "date": "2026-05-01T12:23:14.348592",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-05-01T12:26:43.112166",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "materialsAndTechniques": "pierre",
+  "materialsAndTechniques": "Sculpture en marbre",
   "contained_by_ensemble": {
     "link_type": null,
     "xml_id_work": null
