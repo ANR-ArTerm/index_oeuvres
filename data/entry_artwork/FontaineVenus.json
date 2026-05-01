@@ -1,8 +1,8 @@
 {
-  "id": "FontaineNeptune",
+  "id": "FontaineVenus",
   "QID_wikidata": "",
   "entry_type": "artwork",
-  "title": "Fontaine Neptune",
+  "title": "Fontaine Venus",
   "creator": [
     {
       "xml_id": "FrancescoCamilliani",
@@ -30,17 +30,12 @@
     }
   ],
   "illustrations": [],
-  "description": "La statue de Neptune est la seule sculpture de la fontaine qui ait été réalisée.",
+  "description": "La sculpture de Vénus est la seule à avoir été réalisée pour la fontaine de Vénus.",
   "commentary": "",
   "history": [
     {
-      "date": "2026-05-01T12:07:48.958258",
+      "date": "2026-05-01T12:23:14.348592",
       "type": "created",
-      "author": "Elisa"
-    },
-    {
-      "date": "2026-05-01T12:16:29.478742",
-      "type": "modified",
       "author": "Elisa"
     }
   ],
