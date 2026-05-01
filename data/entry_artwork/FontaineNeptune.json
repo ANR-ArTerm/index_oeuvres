@@ -1,0 +1,47 @@
+{
+  "id": "FontaineNeptune",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Fontaine Neptune",
+  "creator": [
+    {
+      "xml_id": "FrancescoCamilliani",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": "post 1538-1550 ca."
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "JardinRicasoli"
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "jonietzSemanticsRecyclingCosimo2011",
+      "location": ""
+    }
+  ],
+  "illustrations": [],
+  "description": "La statue de Neptune est la seule sculpture de la fontaine qui ait été réalisée.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-01T12:07:48.958258",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "materialsAndTechniques": null,
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
