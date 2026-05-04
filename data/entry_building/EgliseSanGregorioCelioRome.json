@@ -1,0 +1,53 @@
+{
+  "id": "EgliseSanGregorioCelioRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q748459",
+  "entry_type": "building",
+  "title": "Église San Gregorio al Celio ou Saint Grégoire",
+  "creator": [
+    {
+      "xml_id": "GiovanniBattistaSoria",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 700,
+    "endYear": 1699,
+    "text": "VIIIe-XVIIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/San_Gregorio_al_Celio_%28Rome%29.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Livioandronico2013, https://commons.wikimedia.org/wiki/File:San_Gregorio_al_Celio_(Rome).jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-04T17:59:38.451158",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "typology": "église",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
