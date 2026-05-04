@@ -1,0 +1,53 @@
+{
+  "id": "EgliseSantaMariaFormosaVenise",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1813687",
+  "entry_type": "building",
+  "title": "Église Santa Maria Formosa",
+  "creator": [
+    {
+      "xml_id": "MauroCodussi",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 864,
+    "endYear": 1542,
+    "text": "864-1542"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Venise",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Santa_Maria_Formosa_Facciata_e_campanile.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Didier Descouens,  https://commons.wikimedia.org/wiki/File:Santa_Maria_Formosa_Facciata_e_campanile.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-04T11:19:31.209149",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "typology": "église",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
