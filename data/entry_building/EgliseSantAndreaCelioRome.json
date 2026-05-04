@@ -1,0 +1,53 @@
+{
+  "id": "EgliseSantAndreaCelioRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3884778",
+  "entry_type": "building",
+  "title": "Oratoire Sant'Andrea al Celio",
+  "creator": [
+    {
+      "xml_id": "FlaminioPonzio",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1602,
+    "endYear": 1602,
+    "text": "1602"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Oratorio_di_Sant%27Andrea_al_Celio.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, MarkusMark, https://commons.wikimedia.org/wiki/File:Oratorio_di_Sant%27Andrea_al_Celio.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-04T18:10:27.821088",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "typology": null,
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
