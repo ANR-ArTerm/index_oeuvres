@@ -1,0 +1,51 @@
+{
+  "id": "PalmaVecchioSainteBarbeVenise",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q109767795",
+  "entry_type": "artwork",
+  "title": "Polyptyque de Sainte Barbe",
+  "creator": [
+    {
+      "xml_id": "JacopoPalmaIlVecchio",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1524,
+    "endYear": 1525,
+    "text": "1524-1525"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Église Santa Maria Formosa",
+      "place": "Venise",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Santa_Maria_Formosa%2C_cappella_laterale%2C_opere_di_Palma_il_Vecchio..jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, Didier Descouens, https://commons.wikimedia.org/wiki/File:Santa_Maria_Formosa,_cappella_laterale,_opere_di_Palma_il_Vecchio..jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-04T11:30:57.945244",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": "huile sur bois",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
