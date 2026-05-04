@@ -1,0 +1,61 @@
+{
+  "id": "FacadesTempleSante",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Facades du Temple de la Santé Rome",
+  "creator": [
+    {
+      "xml_id": "QuintusFabiusPictor",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 304,
+    "endYear": 304,
+    "text": "304 a.C."
+  },
+  "location": {
+    "type": "place",
+    "institution": {
+      "name": null,
+      "place": "",
+      "inventory_number": "",
+      "url": ""
+    },
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "TempleSante"
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "platnerTopographicalDictionaryAncient2015",
+      "location": ""
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-04T17:13:18.363092",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
