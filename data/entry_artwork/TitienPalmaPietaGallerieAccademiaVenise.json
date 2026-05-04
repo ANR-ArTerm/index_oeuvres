@@ -1,0 +1,55 @@
+{
+  "id": "TitienPalmaPietaGallerieAccademiaVenise",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2665840",
+  "entry_type": "artwork",
+  "title": "Pietà ou une descente de croix",
+  "creator": [
+    {
+      "xml_id": "Titien",
+      "role": "auteur du modèle"
+    },
+    {
+      "xml_id": "JacopoPalmaIlVecchio",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1575,
+    "endYear": 1576,
+    "text": "1575-"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Galeries de l’Académie",
+      "place": "venise",
+      "inventory_number": "n°400",
+      "url": "https://www.gallerieaccademia.it/en/pieta"
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Accademia_-_Piet%C3%A0_by_Titian.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Didier Descouens, https://commons.wikimedia.org/wiki/File:Accademia_-_Piet%C3%A0_by_Titian.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-04T11:11:24.161156",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
