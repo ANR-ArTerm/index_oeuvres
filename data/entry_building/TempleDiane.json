@@ -1,0 +1,66 @@
+{
+  "id": "TempleDiane",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q43018",
+  "entry_type": "building",
+  "title": "Temple de Diane Éphèse",
+  "creator": [
+    {
+      "xml_id": "ChersifronedeCnossos",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "Metagenes",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "TheodoreDeSamos",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": "VIIe-IIIe siècles a.C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Ephese",
+      "country": "Turquie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "bammerHeiligtumArtemisEphesos1984",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Ac_artemisephesus.jpg",
+      "storage": "online",
+      "copyright": "CC BY-SA 3.0, Nuno Tavares, https://commons.wikimedia.org/wiki/File:Ac_artemisephesus.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-04T21:10:33.685942",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "typology": "Temple",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
