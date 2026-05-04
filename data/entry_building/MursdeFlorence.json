@@ -46,7 +46,7 @@
       "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Mura_7.JPG",
       "storage": "online",
       "copyright": "Public Domain",
-      "caption": ""
+      "caption": "Tracé des murs d'Arnolfo di Cambio"
     }
   ],
   "description": "",
@@ -59,6 +59,11 @@
     },
     {
       "date": "2026-04-30T17:29:05.575026",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-05-04T11:36:22.797921",
       "type": "modified",
       "author": "Elisa"
     }

@@ -1,0 +1,37 @@
+{
+  "id": "AllegorieArno",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Allégorie de l'Arno",
+  "creator": [
+    {
+      "xml_id": "CosimoBartoli",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": "Au milieu du XVIe siècle"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "Peinture conçu par Cosimo Bartoli, représentant l'Arno, Flore, Minerve, Fortune, Immortalité et Temps; située en Via del Cocomero (aujourd'hui via Ricasoli)",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-04T15:12:27.385795",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "materialsAndTechniques": null,
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

@@ -17,11 +17,7 @@
       "role": "architecte"
     },
     {
-      "xml_id": "Bernardo Buontalenti",
-      "role": "architecte"
-    },
-    {
-      "xml_id": "MatteoNigetti",
+      "xml_id": "BernardoBuontalenti",
       "role": "architecte"
     }
   ],
@@ -54,10 +50,10 @@
       "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Basilica_di_san_lorenzo_33.JPG",
       "storage": "online",
       "copyright": "CC BY 2.5, Sailko, https://commons.wikimedia.org/wiki/File:Basilica_di_san_lorenzo_33.JPG",
-      "caption": "Basilique San Lorenzo, Firenze"
+      "caption": ""
     }
   ],
-  "description": "L'église a été fondée au IVe siècle et consacrée cathédrale en 393, jusqu'à ce que ce titre revienne à Santa Reparata (puis Santa Maria del Fiore.",
+  "description": "L'église a été fondée au IVe siècle et consacrée cathédrale en 393, jusqu'à ce que ce titre revienne à Santa Reparata (puis Santa Maria del Fiore).",
   "commentary": "",
   "history": [
     {
@@ -67,6 +63,21 @@
     },
     {
       "date": "2026-04-30T15:35:32.276781",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-05-04T10:34:10.543282",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-05-04T10:37:10.593979",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-05-04T11:41:23.631665",
       "type": "modified",
       "author": "Elisa"
     }
