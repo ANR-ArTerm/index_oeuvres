@@ -1,0 +1,48 @@
+{
+  "id": "ToursDesContiRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q605721",
+  "entry_type": "building",
+  "title": "Tours des Conti à Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 858,
+    "endYear": 1600,
+    "text": "entre IXe et XVIIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.893549",
+        "longitude": "12.487947"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Torre_de%27_Conti.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY 4.0,IlMarcheseDelGrillo (https://commons.wikimedia.org/wiki/File:Torre_de%27_Conti.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-05T17:35:17.421843",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Tour",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
