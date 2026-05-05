@@ -1,0 +1,53 @@
+{
+  "id": "EgliseSantaMariaEgiziacaRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3673396",
+  "entry_type": "building",
+  "title": "Eglise de Santa Maria Egiziaca à Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 872,
+    "endYear": 1916,
+    "text": "entre IXe siècle et XXe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.889168",
+        "longitude": "12.480946"
+      }
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "œuvre associée",
+      "xml_id_work": "TemplePortunusRome"
+    }
+  ],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Temple_Portunus_Giovannoli.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, public domain, Alò Giovannoli (https://commons.wikimedia.org/wiki/File:Temple_Portunus_Giovannoli.jpg)",
+      "caption": "Alò Giovannoli, Vedute degli antichi vestigi di Roma di Alo Giovannoli in due parti : la prima contiene mausolei, archi, colonne, e fabbriche pubbliche, la seconda rapprasenta terme, anfiteatri, e tempj, vers 1615"
+    }
+  ],
+  "description": "L'église était à l'origine le temple de Portunus. En 1916 le bâtiment a été restauré et rendu à son état de temple",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-05T12:22:05.081778",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "église",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
