@@ -1,0 +1,38 @@
+{
+  "id": "DominiquinAdamEveGrenoble",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q59211848",
+  "entry_type": "artwork",
+  "title": "Dieu réprimandant Adam et Eve",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": null,
+      "place": "",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-05T17:34:02.674967",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": null,
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
