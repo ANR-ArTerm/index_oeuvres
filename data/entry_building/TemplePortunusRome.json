@@ -1,0 +1,48 @@
+{
+  "id": "TemplePortunusRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q849241",
+  "entry_type": "building",
+  "title": "Temple de Portunus à Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -80,
+    "endYear": 1916,
+    "text": "entre Ie siècle av. J.-C. et XXe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.88926",
+        "longitude": "12.480908"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Temple_of_Portunus.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, WikiRomaWiki (https://commons.wikimedia.org/wiki/File:Temple_of_Portunus.jpg#filelinks)",
+      "caption": ""
+    }
+  ],
+  "description": "Entre 872 et 1916 le temple a été transformé en église, appelée Santa Maria Egiziaca",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-05T12:04:58.042577",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Temple",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
