@@ -1,0 +1,37 @@
+{
+  "id": "Allegoriecyclevie",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Allégorie du cycle de la vie",
+  "creator": [
+    {
+      "xml_id": "CosimoBartoli",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": "Au milieu de XVIe siècle"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "Cycle conçu par Bartoli dans un loggia qui représente en huit scènes une allégorie du cycle de la vie.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-05T12:42:02.307809",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
