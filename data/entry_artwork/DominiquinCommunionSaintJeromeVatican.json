@@ -1,5 +1,5 @@
 {
-  "id": "DominiquinCommunionSaintJérômeVatican",
+  "id": "DominiquinCommunionSaintJeromeVatican",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q20087547",
   "entry_type": "artwork",
   "title": "La Communion de Saint Jérôme",
@@ -40,6 +40,11 @@
     {
       "date": "2026-05-05T16:42:10.596190",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-05-05T17:14:49.428215",
+      "type": "modified",
       "author": "Carla"
     }
   ],
