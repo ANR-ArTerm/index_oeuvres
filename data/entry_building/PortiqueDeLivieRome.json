@@ -1,0 +1,40 @@
+{
+  "id": "PortiqueDeLivieRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q911539",
+  "entry_type": "building",
+  "title": "Portique de Livie à Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -15,
+    "endYear": -7,
+    "text": "Ie siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.89416667",
+        "longitude": "12.49638889"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-05T16:39:28.763287",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
