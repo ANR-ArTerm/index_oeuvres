@@ -1,0 +1,40 @@
+{
+  "id": "EgliseSantAndreaDellaValleRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1631593",
+  "entry_type": "building",
+  "title": "Église Sant'Andrea della Valle",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": null,
+      "country": null,
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-05T17:26:21.759202",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "typology": null,
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
