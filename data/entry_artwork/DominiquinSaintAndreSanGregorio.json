@@ -1,0 +1,56 @@
+{
+  "id": "DominiquinSaintAndreSanGregorio",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "La Flagellation de saint André,",
+  "creator": [
+    {
+      "xml_id": "Dominiquin",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1608,
+    "endYear": 1608,
+    "text": "1608"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Église San Gregorio al Celio",
+      "place": "Rome",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "œuvre associée",
+      "xml_id_work": "GuidoReniMartyreSaintAndreSanGregorio"
+    }
+  ],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Domenichino%2C_Flagellazione_di_Sant%27Andrea%2C_1608%2C_San_Gregorio_al_Celio.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, Carlo Dominioni , https://commons.wikimedia.org/wiki/File:Domenichino,_Flagellazione_di_Sant%27Andrea,_1608,_San_Gregorio_al_Celio.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-05T12:21:03.126304",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
