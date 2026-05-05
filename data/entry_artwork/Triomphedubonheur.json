@@ -1,0 +1,37 @@
+{
+  "id": "Triomphedubonheur",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Triomphe du Bonheur",
+  "creator": [
+    {
+      "xml_id": "CosimoBartoli",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": "Moitié XVI siècle"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "Peinture conçu par Cosimo Bartoli, située dans sa maison paternelle à Borgo Ognissanti.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-05T11:42:16.401511",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "materialsAndTechniques": null,
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

@@ -12,7 +12,7 @@
   "dateCreated": {
     "startYear": 306,
     "endYear": 303,
-    "text": "306-303 a.C."
+    "text": "306-303 av.J.-C."
   },
   "location": {
     "type": "place",
@@ -48,6 +48,11 @@
     },
     {
       "date": "2026-05-04T17:16:13.037981",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-05-05T11:16:44.336547",
       "type": "modified",
       "author": "Elisa"
     }

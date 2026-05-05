@@ -20,7 +20,7 @@
   "dateCreated": {
     "startYear": null,
     "endYear": null,
-    "text": "VIIe-IIIe siècles a.C."
+    "text": "VIIe-IIIe siècles av.J.-C."
   },
   "location": {
     "type": "place",
@@ -55,6 +55,11 @@
     {
       "date": "2026-05-04T21:10:33.685942",
       "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-05-05T11:15:11.365160",
+      "type": "modified",
       "author": "Elisa"
     }
   ],

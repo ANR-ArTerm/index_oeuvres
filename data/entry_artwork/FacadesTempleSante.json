@@ -12,16 +12,10 @@
   "dateCreated": {
     "startYear": 304,
     "endYear": 304,
-    "text": "304 a.C."
+    "text": "304 av.J.-C."
   },
   "location": {
     "type": "place",
-    "institution": {
-      "name": null,
-      "place": "",
-      "inventory_number": "",
-      "url": ""
-    },
     "place": {
       "city": "Rome",
       "country": "Italie",
@@ -50,6 +44,11 @@
     {
       "date": "2026-05-04T17:13:18.363092",
       "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-05-05T11:17:06.907690",
+      "type": "modified",
       "author": "Elisa"
     }
   ],
