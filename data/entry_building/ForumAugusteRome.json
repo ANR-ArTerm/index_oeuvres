@@ -1,0 +1,48 @@
+{
+  "id": "ForumAugusteRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q770797",
+  "entry_type": "building",
+  "title": "Forum d'Auguste Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -42,
+    "endYear": -2,
+    "text": "Ie siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.894166666",
+        "longitude": "12.486666666"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Forum_auguste_plan.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Cassius Ahenobarbus (https://commons.wikimedia.org/wiki/File:Forum_auguste_plan.png)",
+      "caption": "plan du forum d'Auguste"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-05T17:46:46.654219",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
