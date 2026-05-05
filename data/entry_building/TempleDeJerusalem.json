@@ -1,0 +1,40 @@
+{
+  "id": "TempleDeJerusalem",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3906600",
+  "entry_type": "building",
+  "title": "Temple de Jérusalem",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -536,
+    "endYear": 70,
+    "text": "entre VIe siècle av. J.-C. et Ie siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Jerusalem",
+      "country": "Israel",
+      "coordinates": {
+        "latitude": "31.777777777",
+        "longitude": "35.235555555"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-05T16:46:12.475965",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
