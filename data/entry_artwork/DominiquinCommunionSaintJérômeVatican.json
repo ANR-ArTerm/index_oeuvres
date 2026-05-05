@@ -1,0 +1,51 @@
+{
+  "id": "DominiquinCommunionSaintJérômeVatican",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q20087547",
+  "entry_type": "artwork",
+  "title": "La Communion de Saint Jérôme",
+  "creator": [
+    {
+      "xml_id": "Dominiquin",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1614,
+    "endYear": 1614,
+    "text": "1614"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Pinacothèque vaticane",
+      "place": "Rome",
+      "inventory_number": "Inv. 40384",
+      "url": "https://www.museivaticani.va/content/museivaticani/fr/collezioni/musei/la-pinacoteca/sala-xii---secolo-xvii/domenichino--comunione-di-s--girolamo.html"
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/LastCommunion.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, Domenichino, https://commons.wikimedia.org/wiki/File:LastCommunion.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-05T16:42:10.596190",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
