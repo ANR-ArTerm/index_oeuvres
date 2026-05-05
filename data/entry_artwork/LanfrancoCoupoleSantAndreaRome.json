@@ -1,0 +1,51 @@
+{
+  "id": "LanfrancoCoupoleSantAndreaRome",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Coupole de Sant'Andrea della Valle Gloire du Paradis",
+  "creator": [
+    {
+      "xml_id": "GiovanniLanfranco",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1625,
+    "endYear": 1627,
+    "text": "1625-1627"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Eglise Sant'Andrea della Valle",
+      "place": "Rome",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Sant%27andrea_della_valle%2C_cupola_del_lanfranco%2C_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original&uselang=fr",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Sailko, https://commons.wikimedia.org/wiki/File:Sant%27andrea_della_valle,_cupola_del_lanfranco,_02.JPG?uselang=fr",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-05T18:35:09.796304",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

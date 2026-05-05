@@ -3,24 +3,37 @@
   "QID_wikidata": "https://www.wikidata.org/wiki/Q20180050",
   "entry_type": "artwork",
   "title": "Le Portement de la Croix po",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "Dominiquin",
+      "role": "peintre"
+    }
+  ],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1610,
+    "endYear": 1610,
+    "text": "1610"
   },
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": null,
-      "place": "",
-      "inventory_number": "",
-      "url": ""
+      "name": "Getty Center",
+      "place": "Los Angeles",
+      "inventory_number": " 83.PC.373",
+      "url": "https://www.getty.edu/art/collection/object/103RFK"
     }
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Domenichino_%28Domenico_Zampieri%29_%28Italian%29_-_The_Way_to_Calvary_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "copyright": "Wikimedia Commons, Domaine public, https://commons.wikimedia.org/wiki/File:Domenichino_(Domenico_Zampieri)_-_The_Way_to_Calvary_-_83.PC.373_-_J._Paul_Getty_Museum.jpg?uselang=fr",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -28,9 +41,14 @@
       "date": "2026-05-05T17:38:03.356972",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-05-05T18:20:00.062023",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
-  "materialsAndTechniques": null,
+  "materialsAndTechniques": "Huile sur cuivre",
   "contained_by_ensemble": {
     "link_type": null,
     "xml_id_work": null

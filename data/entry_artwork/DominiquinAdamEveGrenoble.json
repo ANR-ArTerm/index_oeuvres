@@ -3,24 +3,37 @@
   "QID_wikidata": "https://www.wikidata.org/wiki/Q59211848",
   "entry_type": "artwork",
   "title": "Dieu réprimandant Adam et Eve",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "Dominiquin",
+      "role": "peintre"
+    }
+  ],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1623,
+    "endYear": 1625,
+    "text": "1625"
   },
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": null,
-      "place": "",
-      "inventory_number": "",
-      "url": ""
+      "name": "Musée de Grenoble",
+      "place": "Grenoble",
+      "inventory_number": "MG 937",
+      "url": "https://www.museedegrenoble.fr/oeuvre/281/1922-dieu-reprimandant-adam-et-eve.htm"
     }
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Domenichino_adam_eve.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original&uselang=fr",
+      "copyright": "Wikimedia Commons, Domaine public, Jvillafruela,   https://commons.wikimedia.org/wiki/File:Le_Dominiquin_-_Dieu_r%C3%A9primandant_Adam_et_Eve.jpg",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -28,9 +41,14 @@
       "date": "2026-05-05T17:34:02.674967",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-05-05T18:15:36.378082",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
-  "materialsAndTechniques": null,
+  "materialsAndTechniques": "Huile sur cuivre",
   "contained_by_ensemble": {
     "link_type": null,
     "xml_id_work": null

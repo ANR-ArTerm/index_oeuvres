@@ -3,17 +3,22 @@
   "QID_wikidata": "",
   "entry_type": "artwork",
   "title": "Pendentifs du dôme de Sant'Andrea représentant les quatre Évangélistes ",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "Dominiquin",
+      "role": "peintre"
+    }
+  ],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1630,
+    "endYear": 1630,
+    "text": "1630"
   },
   "location": {
     "type": "holding_institution",
     "institution": {
       "name": null,
-      "place": "",
+      "place": "Rome",
       "inventory_number": "",
       "url": ""
     }
@@ -28,9 +33,19 @@
       "date": "2026-05-05T17:29:35.817530",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-05-05T18:01:54.214815",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-05-05T18:23:24.142964",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
-  "materialsAndTechniques": null,
+  "materialsAndTechniques": "fresque",
   "contained_by_ensemble": {
     "link_type": null,
     "xml_id_work": null

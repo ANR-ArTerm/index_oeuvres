@@ -1,26 +1,39 @@
 {
   "id": "DominiquinDavidVersailles",
-  "QID_wikidata": "",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q117748727",
   "entry_type": "artwork",
   "title": "Le roi David à la harpe",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "Dominiquin",
+      "role": "peintre"
+    }
+  ],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1619,
+    "endYear": 1619,
+    "text": "1619"
   },
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": null,
-      "place": "",
-      "inventory_number": "",
-      "url": ""
+      "name": "Galeries de l’Académie",
+      "place": "Versailles",
+      "inventory_number": "MV5359",
+      "url": "https://collections.chateauversailles.fr/?permid=permobj_b1afe570-d3cc-4a76-be13-607d3aadea8c#/query/ff9e059d-30e6-47d1-af68-5dbda5f2e6ce"
     }
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Le_roi_David_-_Domenico_Zampieri_Versailles_MV5359.jpg",
+      "copyright": "Wikimedia Commons, Domaine public, Siren-Com, https://commons.wikimedia.org/wiki/File:Le_roi_David_-_Domenico_Zampieri_Versailles_MV5359.jpg?uselang=fr",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -28,9 +41,14 @@
       "date": "2026-05-05T17:24:09.348219",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-05-05T18:11:11.692920",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
-  "materialsAndTechniques": null,
+  "materialsAndTechniques": "huile sur toile",
   "contained_by_ensemble": {
     "link_type": null,
     "xml_id_work": null
