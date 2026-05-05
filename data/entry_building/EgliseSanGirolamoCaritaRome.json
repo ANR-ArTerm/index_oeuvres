@@ -1,0 +1,48 @@
+{
+  "id": "EgliseSanGirolamoCaritaRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q888055",
+  "entry_type": "building",
+  "title": "Église San Girolamo della Carità",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1518,
+    "endYear": 1660,
+    "text": "1660"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Regola_-_s_Girolamo_della_carit%C3%A0_fianco_1130360.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Lalupa, https://commons.wikimedia.org/wiki/File:Regola_-_s_Girolamo_della_carit%C3%A0_fianco_1130360.JPG",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-05T16:49:27.307245",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "typology": "église",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
