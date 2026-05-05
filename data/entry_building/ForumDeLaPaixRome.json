@@ -1,0 +1,48 @@
+{
+  "id": "ForumDeLaPaixRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1456939",
+  "entry_type": "building",
+  "title": "Forul de la paix Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 74,
+    "endYear": 96,
+    "text": "Ie siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.892622",
+        "longitude": "12.487611"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/2016_Temple_of_Peace_%28Rome%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Jordiferrer (https://commons.wikimedia.org/wiki/File:2016_Temple_of_Peace_(Rome)_02.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-05T16:09:24.517067",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Temple",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

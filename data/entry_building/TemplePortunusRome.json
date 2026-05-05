@@ -20,7 +20,12 @@
       }
     }
   },
-  "related_works": [],
+  "related_works": [
+    {
+      "link_type": "œuvre associée",
+      "xml_id_work": "EgliseSantaMariaEgiziacaRome"
+    }
+  ],
   "bibliography": [],
   "illustrations": [
     {
@@ -37,6 +42,11 @@
     {
       "date": "2026-05-05T12:04:58.042577",
       "type": "created",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-05-05T12:22:54.647715",
+      "type": "modified",
       "author": "Nicolo"
     }
   ],
