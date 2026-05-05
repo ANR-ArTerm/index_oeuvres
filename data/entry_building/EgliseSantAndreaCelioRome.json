@@ -25,7 +25,12 @@
       }
     }
   },
-  "related_works": [],
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "EgliseSanGregorioCelioRome"
+    }
+  ],
   "bibliography": [],
   "illustrations": [
     {
@@ -42,6 +47,11 @@
     {
       "date": "2026-05-04T18:10:27.821088",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-05-05T11:58:51.659335",
+      "type": "modified",
       "author": "Carla"
     }
   ],
