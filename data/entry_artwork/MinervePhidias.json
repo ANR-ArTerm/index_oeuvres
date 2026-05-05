@@ -1,0 +1,50 @@
+{
+  "id": "MinervePhidias",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2070605",
+  "entry_type": "artwork",
+  "title": "Minerve ",
+  "creator": [
+    {
+      "xml_id": "Phidias",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": "438 av.J.-C."
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "leipenAthenaParthenosReconstruction1971",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Ancient_civilization%3B_an_introduction_to_modern_history_%281916%29_%2814584800120%29.jpg/960px-Ancient_civilization%3B_an_introduction_to_modern_history_%281916%29_%2814584800120%29.jpg",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": "Arthur Mayer  Wolfson,  Minerve de Phidias (en  Ancient civilization, 1916)"
+    }
+  ],
+  "description": "Se trouvait dans le Parthénon d'Athènes, aujourd'hui disparue. ",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-05T11:14:31.524913",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "materialsAndTechniques": "or, ivoire, pierres précieuses",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
