@@ -20,7 +20,12 @@
       }
     }
   },
-  "related_works": [],
+  "related_works": [
+    {
+      "link_type": "œuvre associée",
+      "xml_id_work": "BaptistereDuLatranRome"
+    }
+  ],
   "bibliography": [],
   "illustrations": [
     {
@@ -37,6 +42,11 @@
     {
       "date": "2026-04-22T10:35:58.201469",
       "type": "created",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-05-06T17:06:18.788473",
+      "type": "modified",
       "author": "Nicolo"
     }
   ],
