@@ -1,0 +1,51 @@
+{
+  "id": "CaravageCupidonGemaldegalerie",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q474024",
+  "entry_type": "artwork",
+  "title": "Cupidon ou l'Amour vainqueur",
+  "creator": [
+    {
+      "xml_id": "Caravage",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1601,
+    "endYear": 1602,
+    "text": "1601-1602"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Gemäldegalerie Alte Meister",
+      "place": "Berlin",
+      "inventory_number": "369",
+      "url": "https://recherche.smb.museum/detail/862322/amor-als-sieger?language=de&limit=15&sort=relevance&controls=none&conditions=AND%2BinvolvedParties%2B%22Caravaggio+%28Michelangelo+Merisi%29%22&collectionKey=GG*&objIdx=0"
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Caravaggio_-_Cupid_as_Victor_-_Google_Art_Project.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, DcoetzeeBot, https://commons.wikimedia.org/wiki/File:Caravaggio_-_Cupid_as_Victor_-_Google_Art_Project.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-06T15:38:43.819504",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
