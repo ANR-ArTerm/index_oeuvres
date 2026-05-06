@@ -1,0 +1,48 @@
+{
+  "id": "TempleMinerveMedicaRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1411575",
+  "entry_type": "building",
+  "title": "Temple de Minerve Medica à Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 300,
+    "endYear": 400,
+    "text": "IVe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.89399",
+        "longitude": "12.51184"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Piranesi-1026.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, public domain, Giovan Battista Piranesi (https://commons.wikimedia.org/wiki/File:Piranesi-1026.jpg)",
+      "caption": "Opere di Giovanni Battista Piranesi, Francesco Piranesi e d'altri. Firmin Didot Freres, Paris, 1835-1839"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-06T15:03:13.067412",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": null,
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
