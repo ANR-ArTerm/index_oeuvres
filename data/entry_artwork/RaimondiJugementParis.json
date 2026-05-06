@@ -6,10 +6,14 @@
     {
       "xml_id": "MarcantonioRaimondi",
       "role": "graveur"
+    },
+    {
+      "xml_id": "Raphael",
+      "role": "auteur du modèle"
     }
   ],
   "entry_type": "artwork",
-  "materialsAndTechniques": null,
+  "materialsAndTechniques": "burin",
   "dateCreated": {
     "startYear": 1514,
     "endYear": 1518,
@@ -21,8 +25,12 @@
   "related_works": [],
   "bibliography": [
     {
-      "zotero_key": "straussIllustratedBartsch261978",
-      "location": "n° 245-I (197)"
+      "zotero_key": "cerbonibaiardiMarcantonioRaimondiPrimo2021",
+      "location": ""
+    },
+    {
+      "zotero_key": "davoliGiudizioDiParide2008",
+      "location": ""
     }
   ],
   "illustrations": [
@@ -34,7 +42,7 @@
       "storage": "online"
     }
   ],
-  "description": "",
+  "description": "Copie de Raimondi d'une oeuvre perdu de Raphael",
   "commentary": "",
   "history": [
     {
@@ -46,6 +54,21 @@
       "date": "2026-03-11T16:47:42.900687",
       "type": "modified",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-05-05T16:49:55.350237",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-05-06T14:39:50.495712",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-05-06T15:39:35.299428",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "contained_by_ensemble": {

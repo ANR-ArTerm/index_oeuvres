@@ -3,27 +3,81 @@
   "QID_wikidata": "https://www.wikidata.org/wiki/Q249449",
   "entry_type": "ensemble",
   "title": "Chambres de Raphaël au Vatican",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1508,
+    "endYear": 1524,
+    "text": "1508-1524"
   },
-  "typology": "",
+  "typology": "cycle de peintures",
   "location": {
-    "type": "place",
-    "place": {
-      "city": "",
-      "country": "",
-      "coordinates": {
-        "latitude": "",
-        "longitude": ""
-      }
+    "type": "holding_institution",
+    "institution": {
+      "name": "Vatican, Musées du Vatican",
+      "place": "Rome",
+      "inventory_number": "",
+      "url": ""
     }
   },
-  "related_works": [],
-  "bibliography": [],
-  "illustrations": [],
+  "related_works": [
+    {
+      "link_type": "appartient au même ensemble",
+      "xml_id_work": "SalleConstantinVatican"
+    },
+    {
+      "link_type": "appartient au même ensemble",
+      "xml_id_work": "RaphaelChambreSignature"
+    },
+    {
+      "link_type": "appartient au même ensemble",
+      "xml_id_work": "RaphaelChambreIncendieBorgo"
+    },
+    {
+      "link_type": "appartient au même ensemble",
+      "xml_id_work": "RaphaelHeliodore"
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "raffaelRaffaelloNellappartamentoDi1993",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Raphael_Charlemagne.jpg",
+      "copyright": "Public domain",
+      "caption": "",
+      "storage": "online"
+    },
+    {
+      "id": 1,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Raffael_Stanza_della_Segnatura.jpg",
+      "copyright": "Public domain",
+      "caption": "",
+      "storage": "online"
+    },
+    {
+      "id": 2,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Raffael_Staza_di_Eliodoro.jpg",
+      "copyright": "Public domain",
+      "caption": "",
+      "storage": "online"
+    },
+    {
+      "id": 3,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Sala_di_costantino%2C_veduta_01.jpg/960px-Sala_di_costantino%2C_veduta_01.jpg",
+      "copyright": "",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -31,6 +85,18 @@
       "date": "2026-01-20T11:47:35.267579",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-05-06T12:42:22.297045",
+      "type": "modified",
+      "author": "Elisa"
+    }
+  ],
+  "contains_works": [
+    {
+      "link_type": null,
+      "xml_id_work": null,
+      "link_types_contained": null
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "id": "RaimondiMassacreInnocents",
-  "QID_wikidata": "",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q47534065",
   "title": "Massacre des Innocents",
   "creator": [
     {
@@ -9,15 +9,15 @@
     },
     {
       "xml_id": "Raphael",
-      "role": "peintre"
+      "role": "auteur du modèle"
     }
   ],
   "entry_type": "artwork",
   "materialsAndTechniques": "burin",
   "dateCreated": {
-    "startYear": 1512,
-    "endYear": 1513,
-    "text": "vers 1512-1513"
+    "startYear": 1511,
+    "endYear": 1512,
+    "text": "1511-1512"
   },
   "location": {
     "type": "multiple_locations"
@@ -25,8 +25,12 @@
   "related_works": [],
   "bibliography": [
     {
-      "zotero_key": "straussIllustratedBartsch261978",
-      "location": "n° 18 (19)"
+      "zotero_key": "aldoviniStrageInnocentiCon2022",
+      "location": ""
+    },
+    {
+      "zotero_key": "cerbonibaiardiMarcantonioRaimondiPrimo2021",
+      "location": ""
     }
   ],
   "illustrations": [
@@ -50,6 +54,16 @@
       "date": "2026-03-11T16:49:23.196308",
       "type": "modified",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-05-05T16:57:24.170999",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-05-06T15:24:49.328267",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "contained_by_ensemble": {

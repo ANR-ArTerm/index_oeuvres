@@ -25,12 +25,17 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "biferaliMichelangeloGiudizioUniversale2024",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Last_Judgement_%28Michelangelo%29.jpg",
-      "copyright": "",
+      "copyright": "Public domain",
       "caption": "",
       "storage": "online"
     }
@@ -47,6 +52,11 @@
       "date": "2026-02-04T12:59:24.887619",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-05-05T17:20:33.377656",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "contained_by_ensemble": {

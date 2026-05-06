@@ -10,9 +10,9 @@
     }
   ],
   "dateCreated": {
-    "startYear": 1477,
+    "startYear": 1475,
     "endYear": 1541,
-    "text": "1477-1541"
+    "text": "1475-1541"
   },
   "location": {
     "type": "holding_institution",
@@ -29,10 +29,23 @@
       "xml_id_work": null
     }
   ],
-  "bibliography": [],
-  "illustrations": [],
+  "bibliography": [
+    {
+      "zotero_key": "paolucciCappellaSistina2018",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Chapelle_sixtine2.jpg/1920px-Chapelle_sixtine2.jpg",
+      "copyright": "CC BY-SA 3.0, Antoinetav, https://commons.wikimedia.org/wiki/File:Chapelle_sixtine2.jpg",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
-  "commentary": "mettre le plafond en notice-ensemble \"fille\"",
+  "commentary": "",
   "history": [
     {
       "date": "2026-02-04T12:58:25.151624",
@@ -53,6 +66,11 @@
       "date": "2026-02-04T14:46:59.142391",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-05-06T12:02:49.944845",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "ensemble décoratif",
@@ -60,11 +78,6 @@
     {
       "link_type": "appartient à l'ensemble",
       "xml_id_work": "MichelAngeJugementSixtine",
-      "link_types_contained": null
-    },
-    {
-      "link_type": "appartient à l'ensemble",
-      "xml_id_work": null,
       "link_types_contained": null
     }
   ]
