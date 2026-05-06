@@ -1,0 +1,48 @@
+{
+  "id": "TempleVestaRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q753791",
+  "entry_type": "building",
+  "title": "Temple de Vesta à Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 715,
+    "endYear": 675,
+    "text": "environ entre VIIIe et VIe siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.891707",
+        "longitude": "12.486206"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Rom_vesta_tempel.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 2.5, Tobias Helfrich",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-06T16:40:48.098194",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Temple",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
