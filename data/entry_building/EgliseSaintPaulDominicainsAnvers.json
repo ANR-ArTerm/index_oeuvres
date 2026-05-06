@@ -1,0 +1,48 @@
+{
+  "id": "EgliseSaintPaulDominicainsAnvers",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2272511",
+  "entry_type": "building",
+  "title": "Église Saint-Paul d'Anvers",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1276,
+    "endYear": 1662,
+    "text": "1276"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Anvers",
+      "country": "Belgique",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Antwerpen_Sint_Paulus_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Zairon,  https://commons.wikimedia.org/wiki/File:Antwerpen_Sint_Paulus_2.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-06T14:58:53.415980",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "typology": "église",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

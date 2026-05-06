@@ -1,5 +1,5 @@
 {
-  "id": "DominiquinEvangelistesSantAndreaRome",
+  "id": "DominiquinEvangelistesSantAndreaDellaValleRome",
   "QID_wikidata": "",
   "entry_type": "artwork",
   "title": "Pendentifs du dôme de Sant'Andrea représentant les quatre Évangélistes ",
@@ -41,6 +41,11 @@
     },
     {
       "date": "2026-05-05T18:23:24.142964",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-05-06T14:44:22.513749",
       "type": "modified",
       "author": "Carla"
     }

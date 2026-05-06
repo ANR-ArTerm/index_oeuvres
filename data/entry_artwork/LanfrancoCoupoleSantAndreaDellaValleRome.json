@@ -1,5 +1,5 @@
 {
-  "id": "LanfrancoCoupoleSantAndreaRome",
+  "id": "LanfrancoCoupoleSantAndreaDellaValleRome",
   "QID_wikidata": "",
   "entry_type": "artwork",
   "title": "Coupole de Sant'Andrea della Valle Gloire du Paradis",
@@ -40,6 +40,11 @@
     {
       "date": "2026-05-05T18:35:09.796304",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-05-06T14:44:50.247668",
+      "type": "modified",
       "author": "Carla"
     }
   ],
