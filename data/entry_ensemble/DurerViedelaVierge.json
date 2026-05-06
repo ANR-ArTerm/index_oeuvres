@@ -40,13 +40,19 @@
       "date": "2026-05-06T16:41:09.210884",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-05-06T16:43:28.661867",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "suite d'estampes",
   "contains_works": [
     {
-      "link_type": null,
-      "xml_id_work": null
+      "link_type": "appartient à l'ensemble",
+      "xml_id_work": "DurerNativite",
+      "link_types_contained": null
     }
   ]
 }
