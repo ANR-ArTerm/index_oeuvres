@@ -1,0 +1,50 @@
+{
+  "id": "DurerNativite",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Nativité de la Vièrge",
+  "creator": [
+    {
+      "xml_id": "AlbrechtDurer",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1500,
+    "endYear": 1511,
+    "text": "1500-1511"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "faraInventarioGeneraleStampe2007",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Dürer_-_Life_of_the_Virgin_04.jpg",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-06T16:42:59.421943",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {
+    "link_type": "appartient à l'ensemble",
+    "xml_id_work": "DurerViedelaVierge"
+  }
+}
