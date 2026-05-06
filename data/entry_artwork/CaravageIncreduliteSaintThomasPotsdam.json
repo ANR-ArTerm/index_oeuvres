@@ -1,0 +1,51 @@
+{
+  "id": "CaravageIncreduliteSaintThomasPotsdam",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2419166",
+  "entry_type": "artwork",
+  "title": "L'Incrédulité de saint Thomas ",
+  "creator": [
+    {
+      "xml_id": "Caravage",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1603,
+    "endYear": 1603,
+    "text": "1603"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Palais de Sanssouci",
+      "place": "Potsdam",
+      "inventory_number": "GK I 5438",
+      "url": "https://brandenburg.museum-digital.de/object/11898"
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Der_ungl%C3%A4ubige_Thomas_-_Michelangelo_Merisi%2C_named_Caravaggio.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine Public, Lovasoa, https://commons.wikimedia.org/wiki/File:Der_ungl%C3%A4ubige_Thomas_-_Michelangelo_Merisi,_named_Caravaggio.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-06T15:11:34.799759",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
