@@ -1,0 +1,48 @@
+{
+  "id": "FontaineDesDioscuresRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1227084",
+  "entry_type": "building",
+  "title": "Fontaine des Dioscures à Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.89911389",
+        "longitude": "12.48669167"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Fontana_del_Quirinale_%28Rome%29_-_Statues_of_Dioscuri.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Monticiano (https://commons.wikimedia.org/wiki/File:Fontana_del_Quirinale_(Rome)_-_Statues_of_Dioscuri.jpg)",
+      "caption": "Les statues de Praxitèle et de Phidias se trouvent aujourd’hui dans le complexe de la fontaine des Dioscures"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-06T16:07:00.543965",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "fontaine",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
