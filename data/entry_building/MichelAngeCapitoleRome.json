@@ -43,9 +43,14 @@
       "date": "2026-02-04T16:10:39.938850",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-05-06T11:58:34.018405",
+      "type": "modified",
+      "author": "Nicolo"
     }
   ],
-  "typology": null,
+  "typology": "Place",
   "contained_by_ensemble": {
     "link_type": null,
     "xml_id_work": null
