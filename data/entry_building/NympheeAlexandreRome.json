@@ -1,0 +1,48 @@
+{
+  "id": "NympheeAlexandreRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3877101",
+  "entry_type": "building",
+  "title": "Nymphée d'Alexandre à Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 193,
+    "endYear": 235,
+    "text": "environ entre Ie et IIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.895262",
+        "longitude": "12.503677"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Campidoglio%2C_Roma_-_trofei_%28dx%29_fronte.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, TcfkaPanairjdde (https://commons.wikimedia.org/wiki/File:Campidoglio,_Roma_-_trofei_(dx)_fronte.jpg)",
+      "caption": "Un des deux trophées, dits \"Trofei di Mario\", situés au sommet de la Cordonata, l’escalier monumental qui mène à la Piazza del Campidoglio, à Rome. Trophée de droite."
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-06T15:20:06.343416",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Nymphée",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
