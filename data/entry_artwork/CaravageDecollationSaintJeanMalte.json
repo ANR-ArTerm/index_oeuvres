@@ -1,0 +1,51 @@
+{
+  "id": "CaravageDecollationSaintJeanMalte",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2727560",
+  "entry_type": "artwork",
+  "title": "La Décollation de saint Jean-Baptiste",
+  "creator": [
+    {
+      "xml_id": "Caravage",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1608,
+    "endYear": 1608,
+    "text": "1608"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Cathédrale Saint-Jean",
+      "place": "La Valette",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/The_Beheading_of_Saint_John-Caravaggio_%281608%29.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, Masur, https://commons.wikimedia.org/wiki/File:The_Beheading_of_Saint_John-Caravaggio_(1608).jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-06T16:11:15.388556",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
