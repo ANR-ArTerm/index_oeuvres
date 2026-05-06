@@ -1,0 +1,42 @@
+{
+  "id": "LanfrancoSistoBadalocchioLogesVatican",
+  "QID_wikidata": "",
+  "entry_type": "ensemble",
+  "title": "Gravure des loges du Vatican ",
+  "creator": [
+    {
+      "xml_id": "GiovanniLanfranco",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "SistoBadalocchio",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "Raphael",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1607,
+    "endYear": 1607,
+    "text": "1607"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-06T11:54:21.287099",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "typology": "suite d'estampes",
+  "contains_works": []
+}
