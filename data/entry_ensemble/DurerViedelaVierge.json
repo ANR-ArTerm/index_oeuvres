@@ -1,0 +1,52 @@
+{
+  "id": "DurerViedelaVierge",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q4014884",
+  "entry_type": "ensemble",
+  "title": "Vie de la Vierge",
+  "creator": [
+    {
+      "xml_id": null,
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1500,
+    "endYear": 1511,
+    "text": "1500-1511"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "faraInventarioGeneraleStampe2007",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Durer%2C_vita_della_vergine_00_fontespizio.jpg",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-06T16:41:09.210884",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "typology": "suite d'estampes",
+  "contains_works": [
+    {
+      "link_type": null,
+      "xml_id_work": null
+    }
+  ]
+}
