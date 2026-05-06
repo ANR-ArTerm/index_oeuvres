@@ -1,0 +1,51 @@
+{
+  "id": "CorregeAssomptionViergeParme",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q771210",
+  "entry_type": "artwork",
+  "title": "L'Assomption de la Vierge",
+  "creator": [
+    {
+      "xml_id": "Correge",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1526,
+    "endYear": 1530,
+    "text": "1526-1530"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Cathédrale de Parme",
+      "place": "Parme",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Cathedral_%28Parma%29_-_Assumption_by_Correggio.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Livioandronico2013, https://commons.wikimedia.org/wiki/File:Cathedral_(Parma)_-_Assumption_by_Correggio.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-06T14:41:02.040991",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
