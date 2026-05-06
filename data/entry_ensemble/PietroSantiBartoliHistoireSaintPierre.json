@@ -1,0 +1,38 @@
+{
+  "id": "PietroSantiBartoliHistoireSaintPierre",
+  "QID_wikidata": "",
+  "entry_type": "ensemble",
+  "title": "Recueil représentant l'histoire de saint Pierre ",
+  "creator": [
+    {
+      "xml_id": "PietroSantiBartoli",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "GiovanniLanfranco",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-06T12:23:05.459107",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "typology": "suite d'estampes",
+  "contains_works": []
+}
