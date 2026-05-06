@@ -1,0 +1,51 @@
+{
+  "id": "CaravageAlofWignacourtLouvre",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q945164",
+  "entry_type": "artwork",
+  "title": "Portrait d'Alof de Wignacourt",
+  "creator": [
+    {
+      "xml_id": "Caravage",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1607,
+    "endYear": 1607,
+    "text": "1607"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Musée du Louvre",
+      "place": "Paris",
+      "inventory_number": "Inv 57",
+      "url": "https://collections.louvre.fr/ark:/53355/cl010062328"
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Portrait_of_Alof_de_Wignacourt_and_his_Page-Caravaggio_%281607-1608%29.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, Hohum, https://commons.wikimedia.org/wiki/File:Portrait_of_Alof_de_Wignacourt_and_his_Page-Caravaggio_(1607-1608).jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-06T16:19:57.572823",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
