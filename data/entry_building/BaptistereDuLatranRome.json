@@ -1,0 +1,53 @@
+{
+  "id": "BaptistereDuLatranRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2519438",
+  "entry_type": "building",
+  "title": "Baptistère du Latran Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 300,
+    "endYear": 500,
+    "text": "entre IVe et Ve siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.88615",
+        "longitude": "12.5043"
+      }
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "BasiliqueSaintJeanLatranRome"
+    }
+  ],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Rom%2C_San_Giovanni_in_Laterano%2C_Baptisterium%2C_Au%C3%9Fenansicht_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC-BY-SA 3.0, Dnalor 01 (https://commons.wikimedia.org/wiki/File:Rom,_San_Giovanni_in_Laterano,_Baptisterium,_Au%C3%9Fenansicht_2.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-06T17:05:40.284174",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "baptistère",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
