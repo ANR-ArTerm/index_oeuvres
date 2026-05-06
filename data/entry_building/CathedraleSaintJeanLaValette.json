@@ -1,0 +1,53 @@
+{
+  "id": "CathedraleSaintJeanLaValette",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q613619",
+  "entry_type": "building",
+  "title": "Co-cathédrale Saint-Jean de La Valette",
+  "creator": [
+    {
+      "xml_id": "GirolamoCassar",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1573,
+    "endYear": 1577,
+    "text": "1573-1577"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": null,
+      "country": "Malte",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/St_John%27s_Co-Cathedral%2C_Valletta_001.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Matthew Axiak, https://commons.wikimedia.org/wiki/File:St_John%27s_Co-Cathedral,_Valletta_001.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-06T16:14:32.608511",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "typology": "cathédrale",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
