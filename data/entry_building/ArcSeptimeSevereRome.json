@@ -1,0 +1,48 @@
+{
+  "id": "ArcSeptimeSevereRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q162353",
+  "entry_type": "building",
+  "title": "Arc de Septime Sévère à Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 202,
+    "endYear": 203,
+    "text": "IIIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.892777777",
+        "longitude": "12.484722222"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Rome_Forum_Romanum_Arch_Septimius_Severus2.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Rita1234 (https://commons.wikimedia.org/wiki/File:Rome_Forum_Romanum_Arch_Septimius_Severus2.JPG)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-07T15:37:40.097580",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Arc",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
