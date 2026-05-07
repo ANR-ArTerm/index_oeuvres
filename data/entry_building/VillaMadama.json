@@ -1,0 +1,66 @@
+{
+  "id": "VillaMadama",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1267485",
+  "entry_type": "building",
+  "title": "Villa Madama",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "AntonioDaSangalloIlGiovane",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "GiulioRomano",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1518,
+    "endYear": 1525,
+    "text": "1518-1525"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": null,
+      "country": null,
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "frommelVillaMadama1984",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Il_giardino_di_Villa_Madama.jpg",
+      "storage": "online",
+      "copyright": "CC BY-SA 3.0, Pierreci~commonswiki, https://commons.wikimedia.org/wiki/File:Il_giardino_di_Villa_Madama.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-07T13:01:12.650977",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "typology": "Villa",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
