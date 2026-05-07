@@ -1,0 +1,48 @@
+{
+  "id": "TempleMinerveAssise",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q11836",
+  "entry_type": "building",
+  "title": "Temple de Minerve à Assise",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -100,
+    "endYear": 1600,
+    "text": "entre Ie siècle av. J.-C. et XVIIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Assise",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "43.07138889",
+        "longitude": "12.61472222"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Assisi_Piazza_del_Comune_BW_4.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, public domain, Berthold Werner (https://commons.wikimedia.org/wiki/File:Assisi_Piazza_del_Comune_BW_4.JPG)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-07T12:49:46.131470",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Temple",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
