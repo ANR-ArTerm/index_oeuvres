@@ -1,0 +1,48 @@
+{
+  "id": "PortaSanSebastianoRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1234193",
+  "entry_type": "building",
+  "title": "Porta San Sebastiano à Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 275,
+    "endYear": 1536,
+    "text": "entre IIIe et XVIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.87349889",
+        "longitude": "12.501814"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/PortSSebastian%28face_externe%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY 4.0, Ardeatino (https://commons.wikimedia.org/wiki/File:PortSSebastian(face_externe).jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-07T11:31:28.034440",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Porte",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
