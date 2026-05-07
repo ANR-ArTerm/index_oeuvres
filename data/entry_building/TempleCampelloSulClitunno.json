@@ -1,0 +1,48 @@
+{
+  "id": "TempleCampelloSulClitunno",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3983167",
+  "entry_type": "building",
+  "title": "Temple de Campello sul Clitunno",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 300,
+    "endYear": 700,
+    "text": "entre IV et VIIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "CampelloSulClitunno",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "42.84224",
+        "longitude": "12.756929"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Campello_sul_Clitunno_-_Tempietto_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Luca Aless (https://commons.wikimedia.org/wiki/File:Campello_sul_Clitunno_-_Tempietto_01.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-07T12:30:10.460973",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Temple",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
