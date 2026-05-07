@@ -1,0 +1,69 @@
+{
+  "id": "GiulioRomanoPolypheme",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Polyphème",
+  "creator": [
+    {
+      "xml_id": "GiulioRomano",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1520,
+    "endYear": 1521,
+    "text": "1520-1521"
+  },
+  "location": {
+    "type": "place",
+    "institution": {
+      "name": null,
+      "place": "",
+      "inventory_number": "",
+      "url": ""
+    },
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "appartient au même ensemble",
+      "xml_id_work": "VillaMadama"
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "fukadaPolifemoDiGiulio2021",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://www.wga.hu/art/g/giulio/various/polyphem.jpg",
+      "storage": "online",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-07T13:10:25.909708",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
