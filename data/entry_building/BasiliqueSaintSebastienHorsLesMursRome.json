@@ -1,0 +1,48 @@
+{
+  "id": "BasiliqueSaintSebastienHorsLesMursRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q658051",
+  "entry_type": "building",
+  "title": "Basilique Saint-Sébastien-hors-les-Murs à Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 300,
+    "endYear": 1700,
+    "text": "entre IIIe et XVIIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.855555555",
+        "longitude": "12.515555555"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/San_Sebastiano_fuori_le_mura_%28Rome%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, NikonZ7II (https://commons.wikimedia.org/wiki/File:San_Sebastiano_fuori_le_mura_(Rome).jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-07T11:25:56.540566",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "basilique",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
