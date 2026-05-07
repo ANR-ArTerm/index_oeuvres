@@ -1,0 +1,50 @@
+{
+  "id": "Polyphemedormant",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Polyphème dormant",
+  "creator": [
+    {
+      "xml_id": "Timanthe",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 430,
+    "endYear": 430,
+    "text": "environ 430 av. J.-C."
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "TimanthesEnciclopedia",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "data/images/106016001.jpg",
+      "storage": "local",
+      "copyright": "CC BY-NC-SA 4.0, The Trustees of the British Museum",
+      "caption": "The Cyclops Painter, Calyx-krater avec Polyphème dormant, environ 420-410 av. J.-C., pottery, London, British Museum (n. inv. 1947,0714.18) "
+    }
+  ],
+  "description": "Fresco ",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-07T12:28:29.696136",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
