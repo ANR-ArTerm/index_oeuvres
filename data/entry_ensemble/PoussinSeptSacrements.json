@@ -1,0 +1,40 @@
+{
+  "id": "PoussinSeptSacrements",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q7457394",
+  "entry_type": "ensemble",
+  "title": "Les Sept Sacrements",
+  "creator": [
+    {
+      "xml_id": "NicolasPoussin",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1644,
+    "endYear": 1648,
+    "text": "1644-1648"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": null,
+      "place": "Édimbourg",
+      "inventory_number": "dès NGL 067.46 A à NGL 067.46 G",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-07T15:13:55.785966",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "typology": "cycle de peintures",
+  "contains_works": []
+}

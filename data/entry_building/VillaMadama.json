@@ -25,15 +25,20 @@
   "location": {
     "type": "place",
     "place": {
-      "city": null,
-      "country": null,
+      "city": "Rome",
+      "country": "Italie",
       "coordinates": {
         "latitude": "",
         "longitude": ""
       }
     }
   },
-  "related_works": [],
+  "related_works": [
+    {
+      "link_type": "appartient au même ensemble",
+      "xml_id_work": "GiulioRomanoPolypheme"
+    }
+  ],
   "bibliography": [
     {
       "zotero_key": "frommelVillaMadama1984",
@@ -55,6 +60,11 @@
     {
       "date": "2026-05-07T13:01:12.650977",
       "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-05-07T13:11:56.011347",
+      "type": "modified",
       "author": "Elisa"
     }
   ],

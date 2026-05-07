@@ -16,12 +16,6 @@
   },
   "location": {
     "type": "place",
-    "institution": {
-      "name": null,
-      "place": "",
-      "inventory_number": "",
-      "url": ""
-    },
     "place": {
       "city": "Rome",
       "country": "Italie",
@@ -33,7 +27,7 @@
   },
   "related_works": [
     {
-      "link_type": "appartient au même ensemble",
+      "link_type": "fait partie de",
       "xml_id_work": "VillaMadama"
     }
   ],
@@ -58,6 +52,11 @@
     {
       "date": "2026-05-07T13:10:25.909708",
       "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-05-07T13:12:19.441101",
+      "type": "modified",
       "author": "Elisa"
     }
   ],
