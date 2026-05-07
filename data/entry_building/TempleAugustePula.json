@@ -12,8 +12,8 @@
   "location": {
     "type": "place",
     "place": {
-      "city": null,
-      "country": null,
+      "city": "Pula",
+      "country": "Croatie",
       "coordinates": {
         "latitude": "44.8702",
         "longitude": "13.84185"
@@ -22,13 +22,26 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Croatia_Pula_Temple_of_Roma_and_Augustus_2014-10-11_11-30-05.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Berthold Werner (https://commons.wikimedia.org/wiki/File:Croatia_Pula_Temple_of_Roma_and_Augustus_2014-10-11_11-30-05.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
     {
       "date": "2026-05-07T13:10:08.366970",
       "type": "created",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-05-07T14:10:39.979581",
+      "type": "modified",
       "author": "Nicolo"
     }
   ],

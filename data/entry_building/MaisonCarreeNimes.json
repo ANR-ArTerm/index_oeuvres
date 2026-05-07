@@ -1,0 +1,48 @@
+{
+  "id": "MaisonCarreeNimes",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q677659",
+  "entry_type": "building",
+  "title": "Maison Carrée à Nîmes",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 0,
+    "endYear": 100,
+    "text": "Ie siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Nimes",
+      "country": "France",
+      "coordinates": {
+        "latitude": "43.838194",
+        "longitude": "4.356111"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/MaisonCarr%C3%A9e.jpeg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, public domain, Danichou(https://commons.wikimedia.org/wiki/File:MaisonCarr%C3%A9e.jpeg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-07T14:37:28.126344",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Temple",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
