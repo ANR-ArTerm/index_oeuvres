@@ -1,0 +1,48 @@
+{
+  "id": "ThermesAgrippaRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q518832",
+  "entry_type": "building",
+  "title": "Thermes d'Agrippa à Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -25,
+    "endYear": -19,
+    "text": "Ie siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.896906",
+        "longitude": "12.476997"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Piranesi-10028.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, public domain, Giovan Battista Piranesi (https://commons.wikimedia.org/wiki/File:Piranesi-10028.jpg)",
+      "caption": "Giovan Battista Piranesi, Opere di Giovanni Battista Piranesi, Francesco Piranesi e d'altri. Firmin Didot Freres, Paris, 1835-1839. Tomo 10. Panthéon et vestiges des thermes d'Agrippa"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-07T11:04:34.371064",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
