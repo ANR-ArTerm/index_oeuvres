@@ -10,25 +10,32 @@
     }
   ],
   "dateCreated": {
-    "startYear": "-500",
-    "endYear": "-401",
-    "text": "fin du Ve siècle av. J.-C"
+    "startYear": 430,
+    "endYear": 430,
+    "text": "environ 430 av. J.-C."
   },
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": "fresque",
   "location": {
-    "type": "holding_institution",
-    "institution": {
-      "name": "",
-      "place": "",
-      "inventory_number": "",
-      "url": ""
-    }
+    "type": "unlocated"
   },
   "related_works": [],
-  "bibliography": [],
-  "illustrations": [],
+  "bibliography": [
+    {
+      "zotero_key": "celentanoIngegnositaEsemplareDi2017",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Sacrifice_of_Iphigenia%2C_from_Pompeii_VI.8.3_peristyle._Naples%2C_Archaeological_Museum_9112_-_01.jpg/1280px-Sacrifice_of_Iphigenia%2C_from_Pompeii_VI.8.3_peristyle._Naples%2C_Archaeological_Museum_9112_-_01.jpg",
+      "copyright": "CC BY-SA 4.0, BeakheadIntrados, https://commons.wikimedia.org/wiki/File:Sacrifice_of_Iphigenia,_from_Pompeii_VI.8.3_peristyle._Naples,_Archaeological_Museum_9112_-_01.jpg",
+      "caption": "Inconnu, Sacrifice de Iphigenie, 45-79, Pompei, Maison du Poète.",
+      "storage": "online"
+    }
+  ],
   "description": "",
-  "commentary": "Œuvre perdue, à laquelle de nombreux auteurs font référence comme concept. Ref chez De Piles. ",
+  "commentary": "Œuvre perdue, à laquelle de nombreux auteurs font référence comme concept, par exemple le fresco de Pompei.",
   "history": [
     {
       "date": "2026-01-13T10:36:49.345763",
@@ -39,6 +46,15 @@
       "date": "2026-01-13T11:45:21.629618",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-05-06T17:15:55.292219",
+      "type": "modified",
+      "author": "Elisa"
     }
-  ]
+  ],
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
 }
