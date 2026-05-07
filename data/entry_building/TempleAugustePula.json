@@ -1,0 +1,40 @@
+{
+  "id": "TempleAugustePula",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q770030",
+  "entry_type": "building",
+  "title": "Temple d'Auguste à Pula",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 2,
+    "endYear": 14,
+    "text": "Ie siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": null,
+      "country": null,
+      "coordinates": {
+        "latitude": "44.8702",
+        "longitude": "13.84185"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-07T13:10:08.366970",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Temple",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
