@@ -1,0 +1,48 @@
+{
+  "id": "TempleDeLaConcordeRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q828143",
+  "entry_type": "building",
+  "title": "Temple de la Concorde à Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -367,
+    "endYear": 10,
+    "text": "entre IVe siècle av. J.-C. et Ie siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.892930555",
+        "longitude": "12.484244444"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "",
+      "storage": "online",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-07T15:33:26.269267",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
