@@ -17,24 +17,88 @@
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": null,
+      "name": "NationalGalleryofScotland",
       "place": "Édimbourg",
-      "inventory_number": "dès NGL 067.46 A à NGL 067.46 G",
-      "url": ""
+      "inventory_number": "dès NGL 067.46 A à NGL 067.46 F",
+      "url": "https://www.nationalgalleries.org"
     }
   },
   "related_works": [],
-  "bibliography": [],
-  "illustrations": [],
-  "description": "",
+  "bibliography": [
+    {
+      "zotero_key": null,
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Seven_Sacraments_-_Baptism_%28II%29_1646_Nicolas_Poussin.jpg",
+      "copyright": "Public Domain",
+      "caption": "Le Baptême",
+      "storage": "online"
+    },
+    {
+      "id": 1,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Nicolas_Poussin_-_Les_Sept_Sacrements_II-_L%27Extrême-Onction.jpg",
+      "copyright": "Public domain",
+      "caption": "L'Extrême-Onction",
+      "storage": "online"
+    },
+    {
+      "id": 2,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Seven_Sacraments_-_Confirmation_II_%281645%29_Nicolas_Poussin.jpg",
+      "copyright": "Public domain",
+      "caption": "La Confirmation",
+      "storage": "online"
+    },
+    {
+      "id": 3,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Nicolas_Poussin_077.jpg",
+      "copyright": "Public domain",
+      "caption": "La Pénitence",
+      "storage": "online"
+    },
+    {
+      "id": 4,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Seven_Sacraments_-_Holy_Eucharist_II_%281647%29_-_Poussin_-_NGofScotland.jpg",
+      "copyright": "",
+      "caption": "L'Eucharistie",
+      "storage": "online"
+    },
+    {
+      "id": 5,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Seven_Sacraments_-_Marriage_II_%281647-1648%29_Nicolas_Poussin.jpg",
+      "copyright": "Public domain",
+      "caption": "Le Mariage",
+      "storage": "online"
+    }
+  ],
+  "description": "Fréart parle de la seconde série des Sept Sacrements, peinte pour Paul Fréart de Chantelou.",
   "commentary": "",
   "history": [
     {
       "date": "2026-05-07T15:13:55.785966",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-05-07T16:06:42.482138",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-05-11T12:40:36.678247",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "cycle de peintures",
-  "contains_works": []
+  "contains_works": [
+    {
+      "link_type": null,
+      "xml_id_work": null,
+      "link_types_contained": null
+    }
+  ]
 }

@@ -10,23 +10,36 @@
     }
   ],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1508,
+    "endYear": 1511,
+    "text": "1508-1511"
   },
   "typology": "ensemble décoratif",
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": "",
-      "place": "",
+      "name": "Vatican, Musées du Vatican",
+      "place": "Rome",
       "inventory_number": "",
       "url": ""
     }
   },
-  "related_works": [],
+  "related_works": [
+    {
+      "link_type": null,
+      "xml_id_work": null
+    }
+  ],
   "bibliography": [],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Raffael_Stanza_della_Segnatura.jpg",
+      "copyright": "Public Domain",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -34,6 +47,16 @@
       "date": "2026-01-15T16:40:40.216182",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-05-11T12:32:06.396209",
+      "type": "modified",
+      "author": "Elisa"
     }
-  ]
+  ],
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
 }

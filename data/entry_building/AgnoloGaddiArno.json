@@ -5,7 +5,7 @@
   "title": "Ponte Vecchio traversant l'Arno",
   "creator": [
     {
-      "xml_id": "AgnoloGaddi",
+      "xml_id": "TaddeoGaddi",
       "role": "architecte"
     }
   ],
@@ -36,6 +36,15 @@
       "date": "2026-01-13T17:00:56.580415",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-05-11T11:19:33.019017",
+      "type": "modified",
+      "author": "Elisa"
     }
-  ]
+  ],
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
 }

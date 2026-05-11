@@ -10,23 +10,31 @@
     }
   ],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1514,
+    "endYear": 1517,
+    "text": "1514-1517"
   },
   "typology": "ensemble décoratif",
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": "",
-      "place": "",
+      "name": "Vatican, Musées du Vatican",
+      "place": "Rome",
       "inventory_number": "",
       "url": ""
     }
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/16_Estancia_del_Incendio_del_Borgo_%28Vista_general_II%29.jpg",
+      "copyright": "CC BY-SA 3.0, 0ro1, https://commons.wikimedia.org/wiki/File:16_Estancia_del_Incendio_del_Borgo_(Vista_general_II).jpg?uselang=it",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -34,6 +42,16 @@
       "date": "2026-01-15T16:40:40.308380",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-05-11T12:35:27.502592",
+      "type": "modified",
+      "author": "Elisa"
     }
-  ]
+  ],
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
 }
