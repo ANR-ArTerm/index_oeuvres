@@ -27,7 +27,7 @@
   },
   "related_works": [
     {
-      "link_type": "fait partie de",
+      "link_type": "fait partie du même complexe architectural",
       "xml_id_work": "EgliseSanPietroinMontorio"
     }
   ],
@@ -47,6 +47,11 @@
     {
       "date": "2026-05-06T17:16:07.172927",
       "type": "created",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-05-11T17:27:24.064211",
+      "type": "modified",
       "author": "Nicolo"
     }
   ],

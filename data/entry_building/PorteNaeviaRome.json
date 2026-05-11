@@ -1,13 +1,13 @@
 {
-  "id": "TempleDeLaLuneRome",
-  "QID_wikidata": "",
+  "id": "PorteNaeviaRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1058810",
   "entry_type": "building",
-  "title": "Temple de la Lune à Rome",
+  "title": "Porte Naevia à Rome",
   "creator": [],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": -600,
+    "endYear": -500,
+    "text": "VIe siècle av. J.-C."
   },
   "location": {
     "type": "place",
@@ -20,25 +20,15 @@
       }
     }
   },
-  "related_works": [
-    {
-      "link_type": "fait partie du même complexe architectural",
-      "xml_id_work": "TempleDeSolRome"
-    }
-  ],
+  "related_works": [],
   "bibliography": [],
   "illustrations": [],
   "description": "",
   "commentary": "",
   "history": [
     {
-      "date": "2026-05-06T12:32:59.574710",
+      "date": "2026-05-11T17:56:16.460912",
       "type": "created",
-      "author": "Nicolo"
-    },
-    {
-      "date": "2026-05-11T14:41:37.719939",
-      "type": "modified",
       "author": "Nicolo"
     }
   ],

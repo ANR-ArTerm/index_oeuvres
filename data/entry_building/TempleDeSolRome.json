@@ -20,13 +20,18 @@
       }
     }
   },
-  "related_works": [],
+  "related_works": [
+    {
+      "link_type": "fait partie du même complexe architectural",
+      "xml_id_work": "TempleDeLaLuneRome"
+    }
+  ],
   "bibliography": [],
   "illustrations": [
     {
       "id": 0,
       "url": "",
-      "storage": "",
+      "storage": "online",
       "copyright": "",
       "caption": ""
     }
@@ -37,6 +42,11 @@
     {
       "date": "2026-05-06T12:30:05.869821",
       "type": "created",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-05-11T14:43:28.128404",
+      "type": "modified",
       "author": "Nicolo"
     }
   ],

@@ -25,7 +25,12 @@
       }
     }
   },
-  "related_works": [],
+  "related_works": [
+    {
+      "link_type": "fait partie du même complexe architectural",
+      "xml_id_work": "TempiettoSanPietroMontorioRome"
+    }
+  ],
   "bibliography": [
     {
       "zotero_key": "vannicelliPietroMontorioTempietto1971",
@@ -56,6 +61,11 @@
       "date": "2026-04-30T19:01:24.421798",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-05-11T15:57:40.185918",
+      "type": "modified",
+      "author": "Nicolo"
     }
   ],
   "typology": "église",
