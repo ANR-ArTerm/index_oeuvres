@@ -1,0 +1,56 @@
+{
+  "id": "PoussinBapteme",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Le Baptême",
+  "creator": [
+    {
+      "xml_id": "NicolasPoussin",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1646,
+    "endYear": 1646,
+    "text": " 1646"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "NationalGalleryofScotland",
+      "place": "Glasgow",
+      "inventory_number": "NGL 067.46 A",
+      "url": "https://www.nationalgalleries.org/art-and-artists/8663?artists%5B4381%5D=4381&sort=title&search_set_offset=44"
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "PoussinSeptSacrements"
+    }
+  ],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Seven_Sacraments_-_Baptism_%28II%29_1646_Nicolas_Poussin.jpg",
+      "storage": "online",
+      "copyright": "Domain Public",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-11T12:49:35.383734",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
