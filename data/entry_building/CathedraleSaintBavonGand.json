@@ -1,0 +1,48 @@
+{
+  "id": "CathedraleSaintBavonGand",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q938154",
+  "entry_type": "building",
+  "title": "Cathédrale Saint-Bavon",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 900,
+    "endYear": 1559,
+    "text": "Entre le Xe et 1559"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Gand",
+      "country": "Belgique",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Sint-Baafskathedraal_%28St._Bavo%27s_Cathedral%29_Ghent_Belgium_October.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 2.0, Moody 75, https://commons.wikimedia.org/wiki/File:Sint-Baafskathedraal_(St._Bavo%27s_Cathedral)_Ghent_Belgium_October.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-11T12:54:52.134505",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "typology": "cathédrale",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
