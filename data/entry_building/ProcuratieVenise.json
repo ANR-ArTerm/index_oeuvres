@@ -3,10 +3,23 @@
   "QID_wikidata": "https://www.wikidata.org/wiki/Q109405871",
   "entry_type": "building",
   "title": "Procuratie",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "JacopoSansovino",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "VincenzoScamozzi",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "BaldassarreLonghena",
+      "role": "architecte"
+    }
+  ],
   "dateCreated": {
     "startYear": 1517,
-    "endYear": 1640,
+    "endYear": 1660,
     "text": "XVIe et XVIIe siècle"
   },
   "location": {
@@ -37,6 +50,11 @@
     {
       "date": "2026-04-22T10:21:16.532173",
       "type": "created",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-05-11T10:53:12.441951",
+      "type": "modified",
       "author": "Nicolo"
     }
   ],

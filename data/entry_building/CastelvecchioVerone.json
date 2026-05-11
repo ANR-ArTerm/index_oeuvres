@@ -1,0 +1,48 @@
+{
+  "id": "CastelvecchioVerone",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1049016",
+  "entry_type": "building",
+  "title": "Castelvecchio à Verone",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1354,
+    "endYear": 1356,
+    "text": "XIVe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Verone",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Castelvecchio_%2851986288%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Chicocvenancio (https://commons.wikimedia.org/wiki/File:Castelvecchio_(51986288).jpeg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-11T11:20:07.416029",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Chateau",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
