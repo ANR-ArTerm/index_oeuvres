@@ -545,29 +545,42 @@ def add_notice():
     # ----------------------------
     if location_type == "place":
 
+        if "place_city" not in st.session_state:
+            st.session_state["place_city"] = place.get("city", None)
+
+        if "place_country" not in st.session_state:
+            st.session_state["place_country"] = place.get("country", None)
+
         place = notice["location"].get("place", {})
 
         colVille, colPays = st.columns([1, 1])
 
         with colVille:
-            place["city"] = st.selectbox(
+            st.selectbox(
                 "Ville",
                 load_list_form("places"),
                 index=None,
-                accept_new_options=True
+                accept_new_options=True,
+                key="place_city"
             )
-            if not place["city"] in load_list_form("places"):
-                save_to_list_form("places", place["city"])
+            # Sauvegarder nouvelle valeur si inconnue
+            if st.session_state["place_city"] and st.session_state["place_city"] not in load_list_form("places"):
+                save_to_list_form("places", st.session_state["place_city"])
             
+            place["city"] = st.session_state["place_city"]
+
         with colPays:
-            place["country"] = st.selectbox(
+            st.selectbox(
                 "Pays",
                 load_list_form("places"),
                 index=None,
-                accept_new_options=True
+                accept_new_options=True,
+                key="place_country"
             )
-            if not place["country"] in load_list_form("places"):
-                save_to_list_form("places", place["country"])
+            if st.session_state["place_country"] and st.session_state["place_country"] not in load_list_form("places"):
+                save_to_list_form("places", st.session_state["place_country"])
+            
+            place["country"] = st.session_state["place_country"]
 
 
         coordinates = place.get("coordinates", {})
@@ -797,15 +810,21 @@ def add_notice():
     # =========================
     st.header("💬 Textes")
 
-    notice["description"] = st.text_area(
+    description = st.text_area(
         "Description",
-        notice.get("description", "")
+        notice.get("description", ""),
+        key=f"description_{xml_id}"
     )
 
-    notice["commentary"] = st.text_area(
+    notice["description"] = description
+
+    commentaire = st.text_area(
         "Commentaire",
-        notice.get("commentary", "")
+        notice.get("commentary", ""),
+        key=f"commentaire_{xml_id}"
     )
+
+    notice["commentary"] = commentaire
 
     # =========================
     # SAUVEGARDE
