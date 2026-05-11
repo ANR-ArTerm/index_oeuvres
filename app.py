@@ -21,6 +21,8 @@ from modules.verify_xml.objectName import verifier_objectnames, verifier_persnam
 
 from modules.data.update_list import edit_list_form
 
+
+# Empêche le problème du copier coller
 st.html("""
 <script>
 document.addEventListener('keydown', function(e) {

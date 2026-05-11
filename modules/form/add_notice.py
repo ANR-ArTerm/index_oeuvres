@@ -543,6 +543,8 @@ def add_notice():
     # ----------------------------
     # CAS : LOCALISATION GÉOGRAPHIQUE
     # ----------------------------
+
+    place = notice["location"].get("place", {})
     if location_type == "place":
 
         if "place_city" not in st.session_state:
@@ -550,8 +552,6 @@ def add_notice():
 
         if "place_country" not in st.session_state:
             st.session_state["place_country"] = place.get("country", None)
-
-        place = notice["location"].get("place", {})
 
         colVille, colPays = st.columns([1, 1])
 
