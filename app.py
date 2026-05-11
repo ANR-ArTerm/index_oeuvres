@@ -21,6 +21,15 @@ from modules.verify_xml.objectName import verifier_objectnames, verifier_persnam
 
 from modules.data.update_list import edit_list_form
 
+st.html("""
+<script>
+document.addEventListener('keydown', function(e) {
+    if (e.key === 'c' && (e.ctrlKey || e.metaKey)) {
+        e.stopPropagation();
+    }
+}, true);
+</script>
+""")
 
 st.set_page_config(layout="wide")
 st.title("🖼️ Editeur de notices d'oeuvres")
