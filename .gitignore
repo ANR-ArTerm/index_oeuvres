@@ -15,7 +15,6 @@ __pycache__
 .env
 .venv/
 *.log
-.streamlit/
 .DS_Store
 modules/.DS_Store
 data/.DS_Store

@@ -33,6 +33,17 @@ document.addEventListener('keydown', function(e) {
 </script>
 """)
 
+st.components.v1.html("""
+<script>
+document.addEventListener('keydown', function(e) {
+    // Bloque Cmd+C ou Ctrl+C uniquement hors input/textarea
+    if ((e.metaKey || e.ctrlKey) && e.key === 'c') {
+        e.stopPropagation();
+    }
+}, true);
+</script>
+""", height=0)
+
 st.set_page_config(layout="wide")
 st.title("🖼️ Editeur de notices d'oeuvres")
 
