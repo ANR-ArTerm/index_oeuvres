@@ -114,4 +114,7 @@ def normalize_notice_ensemble(o):
             for h in history
         ]
 
+    # Notice_achevée :
+    o_display["complete_entry"] = o.get("complete_entry")
+
     return o_display

@@ -77,13 +77,19 @@ def render_search_entries_all():
 
     st.header("🔍 Recherche dans toutes les notices")
 
-    entry_type_filter = st.radio(
-        "Type de notice",
-        ["🌎 Tout", "🖼️ Œuvre (artwork)", "🏛️ Bâtiment (building)", "🌿 Ensemble (ensemble)"],
-        index=0,
-        on_change=reset_all_page,
-        horizontal=True
-    )
+    col_1, col_2 = st.columns([4,1])
+
+    with col_1:
+        entry_type_filter = st.radio(
+            "Type de notice",
+            ["🌎 Tout", "🖼️ Œuvre (artwork)", "🏛️ Bâtiment (building)", "🌿 Ensemble (ensemble)"],
+            index=0,
+            on_change=reset_all_page,
+            horizontal=True
+        )
+    
+    with col_2:
+        complete_notice = st.selectbox("Statut des notices", ["♾️ Toutes les notices", "🔴 Notices incomplètes", "✅ Notices achevées"])
 
     ENTRY_TYPE_MAP = {
         "🖼️ Œuvre (artwork)": "artwork",
@@ -119,6 +125,12 @@ def render_search_entries_all():
             i for i in filtered
             if search_query in i["search_blob"]
         ]
+    
+    # filtre par statut de complétude
+    if complete_notice == "🔴 Notices incomplètes":
+        filtered = [i for i in filtered if not i.get("complete_notice", False)]
+    elif complete_notice == "✅ Notices achevées":
+        filtered = [i for i in filtered if i.get("complete_notice", False)]
 
     if not filtered:
         st.info("Aucun résultat trouvé.")
@@ -185,7 +197,8 @@ def render_search_entries_all():
                         time.sleep(1)
                         st.rerun()
 
-                st.text(d["title"])
+                complete_icon = "✅" if d.get("complete_entry") else "🔴"
+                st.text(f"{complete_icon} {d['title']}")
                 creators = [
                     str(c) for c in d.get("creators_display", [])
                     if c is not None and str(c).strip() != ""

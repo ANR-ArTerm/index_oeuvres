@@ -58,6 +58,9 @@ def normalize_notice_artwork(o):
     else:
         o_display['illustrations_display'] = [i.get('url', 'AUCUNE URL') for i in illus]
 
+    # Notice achevée :
+    o_display["complete_entry"] = o.get("complete_entry")
+
     return o_display
 
 def render_search_entries_artwork():

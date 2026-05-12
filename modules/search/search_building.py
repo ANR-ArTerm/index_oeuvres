@@ -57,6 +57,9 @@ def normalize_notice_architecture(o):
     else:
         o_display['illustrations_display'] = [i.get('url', 'AUCUNE URL') for i in illus]
 
+    # Notice achevée :
+    o_display["complete_entry"] = o.get("complete_entry")
+    
     return o_display
 
 @st.cache_data(show_spinner="Chargement des notices…")
