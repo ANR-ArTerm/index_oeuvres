@@ -2,7 +2,7 @@
   "id": "DurerGrandePassionBois",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q127736",
   "entry_type": "artwork",
-  "title": "Grande p",
+  "title": "Grande Passion",
   "creator": [
     {
       "xml_id": "AlbrechtDurer",
@@ -27,6 +27,11 @@
       "date": "2026-03-03T17:41:42.985807",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-05-11T16:04:18.811636",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
   "materialsAndTechniques": "gravure sur bois",

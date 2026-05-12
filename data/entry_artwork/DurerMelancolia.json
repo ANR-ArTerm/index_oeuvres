@@ -1,5 +1,5 @@
 {
-  "id": "DurerMelencolia",
+  "id": "DurerMelancolia",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q1362177",
   "entry_type": "artwork",
   "title": "Melencolia I",
@@ -35,6 +35,11 @@
       "date": "2026-03-03T17:29:11.134167",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-05-11T16:11:00.818491",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
   "materialsAndTechniques": "burin",
