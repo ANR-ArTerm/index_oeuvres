@@ -1,0 +1,40 @@
+{
+  "id": "PorteBasiliqueSaintiCosmaDamianoRome",
+  "QID_wikidata": "",
+  "entry_type": "building",
+  "title": "Porte de la Basilique de Santi Cosma et Damiano",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-12T12:21:28.607915",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Porte",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
