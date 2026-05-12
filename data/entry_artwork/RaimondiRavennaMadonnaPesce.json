@@ -1,19 +1,27 @@
 {
   "id": "RaimondiRavennaMadonnaPesce",
   "QID_wikidata": "",
-  "title": "",
+  "title": "La Vierge au poisson",
   "creator": [
     {
       "xml_id": "MarcantonioRaimondi",
-      "role": "graveur"
+      "role": "graveur (attribué à)"
+    },
+    {
+      "xml_id": "MarcantonioRaimondi",
+      "role": "graveur (attribué à)"
+    },
+    {
+      "xml_id": "Raphael",
+      "role": "auteur du modèle"
     }
   ],
   "entry_type": "artwork",
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": "burin",
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1515,
+    "endYear": 1527,
+    "text": "v. 1515-1527"
   },
   "location": {
     "type": "multiple_locations"
@@ -25,14 +33,31 @@
       "location": "n° 54 (61)"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP820274.jpg",
+      "copyright": "New York, Metropolitan Museum of Arts, inv. 31.31.24 (https://www.metmuseum.org/art/collection/search/342798)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
-  "commentary": "Raimondi ou Ravenna",
+  "commentary": "",
   "history": [
     {
       "date": "2026-03-06T14:48:18.468434",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-05-12T11:31:30.466631",
+      "type": "modified",
+      "author": "Pierre"
     }
-  ]
+  ],
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
 }

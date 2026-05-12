@@ -1,19 +1,23 @@
 {
   "id": "DaTrentoMartyrePierrePaul",
   "QID_wikidata": "",
-  "title": "",
+  "title": "Martyre de saint Pierre et de saint Paul",
   "creator": [
     {
       "xml_id": "AntonioDaTrento",
       "role": "graveur"
+    },
+    {
+      "xml_id": "Parmigianino",
+      "role": "auteur du modèle"
     }
   ],
   "entry_type": "artwork",
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": "gravure sur bois en clair-obscur",
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1530,
+    "endYear": 1530,
+    "text": "vers 1530"
   },
   "location": {
     "type": "multiple_locations"
@@ -25,7 +29,15 @@
       "location": "n° 28 (79)"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://api.nga.gov/iiif/2ce65168-9122-4fa4-a9eb-b11767b10be9/full/full/0/default.jpg",
+      "copyright": "Washington, National Gallery of Arts, inv. 1990.61.1 (https://www.nga.gov/artworks/71553-martyrdom-saints-peter-and-paul)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -33,6 +45,15 @@
       "date": "2026-03-06T14:48:18.472554",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-05-12T11:21:13.962903",
+      "type": "modified",
+      "author": "Pierre"
     }
-  ]
+  ],
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
 }

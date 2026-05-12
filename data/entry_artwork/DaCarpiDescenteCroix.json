@@ -1,7 +1,7 @@
 {
   "id": "DaCarpiDescenteCroix",
   "QID_wikidata": "",
-  "title": "",
+  "title": "Descente de croix",
   "creator": [
     {
       "xml_id": "UgoDaCarpi",
@@ -9,11 +9,11 @@
     }
   ],
   "entry_type": "artwork",
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": "gravure sur bois en clair-obscur",
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1518,
+    "endYear": 1518,
+    "text": "vers 1518"
   },
   "location": {
     "type": "multiple_locations"
@@ -25,7 +25,15 @@
       "location": "n° 22 (43)"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://api.nga.gov/iiif/ebcd2bd5-010c-4d69-8dd7-3e7bd29a2655/full/full/0/default.jpg",
+      "copyright": "Washington, National Gallery of Arts, inv. 1977.5.1 (https://www.nga.gov/artworks/56232-descent-cross)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -33,6 +41,20 @@
       "date": "2026-03-06T14:48:18.471994",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-05-12T11:38:30.432860",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-05-12T11:39:24.831419",
+      "type": "modified",
+      "author": "Pierre"
     }
-  ]
+  ],
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
 }

@@ -1,19 +1,23 @@
 {
   "id": "DaCarpiDiogene",
   "QID_wikidata": "",
-  "title": "",
+  "title": "Diogène",
   "creator": [
     {
       "xml_id": "UgoDaCarpi",
       "role": "graveur"
+    },
+    {
+      "xml_id": "Parmigianino",
+      "role": "auteur du modèle"
     }
   ],
   "entry_type": "artwork",
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": "gravure sur bois en clair-obscur",
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1527,
+    "endYear": 1530,
+    "text": "vers 1527-1530"
   },
   "location": {
     "type": "multiple_locations"
@@ -25,7 +29,15 @@
       "location": "n° 10 (100)"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Ugo_Carpi_d%27apr%C3%A8s_Le_Parmesan_Diog%C3%A8ne%2C_vers_1526.jpg",
+      "copyright": "Wikimedia Commons (https://fr.wikipedia.org/wiki/Fichier:Ugo_Carpi_d%27apr%C3%A8s_Le_Parmesan_Diog%C3%A8ne,_vers_1526.jpg)",
+      "caption": "Strasbourg, Cabinet des Estampes et des Dessins",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -33,6 +45,15 @@
       "date": "2026-03-06T14:48:18.472464",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-05-12T11:34:00.331010",
+      "type": "modified",
+      "author": "Pierre"
     }
-  ]
+  ],
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
 }

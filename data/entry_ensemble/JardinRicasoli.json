@@ -20,12 +20,6 @@
   },
   "location": {
     "type": "place",
-    "institution": {
-      "name": null,
-      "place": "",
-      "inventory_number": "",
-      "url": ""
-    },
     "place": {
       "city": "Florence",
       "country": "Italie",
