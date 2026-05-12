@@ -298,6 +298,7 @@ def edit_json_notice(json_path=None, data=None):
     ):
         st.session_state.editing_path = json_path
         st.session_state.notice_data = data.copy()
+        st.session_state.original_id = data.get("id", "")  # ← ajouter cette ligne
 
     # 3. Récupération de la notice active
     notice = st.session_state.notice_data
@@ -688,7 +689,8 @@ def edit_json_notice(json_path=None, data=None):
 
                 saved_path = save_notice(notice, path=json_path, old_id=st.session_state.original_id)
                 st.success(f"✅ Modifications sauvegardées dans : {saved_path}")
-                st.session_state.pop("original_id", None)
+                st.session_state.original_id = notice["id"]  # ← mettre à jour après sauvegarde
+                st.session_state.editing_path = saved_path
 
             except Exception as e:
                 st.error(f"❌ Erreur lors de la sauvegarde : {str(e)}")
