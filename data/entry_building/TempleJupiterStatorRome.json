@@ -1,13 +1,13 @@
 {
   "id": "TempleJupiterStatorRome",
-  "QID_wikidata": "",
+  "QID_wikidata": "TempleJupiterStatorRome",
   "entry_type": "building",
   "title": "Temple de Jupiter Statore à Rome",
   "creator": [],
   "dateCreated": {
     "startYear": -750,
     "endYear": 64,
-    "text": "entre VIIe siècle av. J.-C. et Ie siècle "
+    "text": "entre VIIIe siècle av. J.-C. et Ie siècle "
   },
   "location": {
     "type": "place",
@@ -29,6 +29,11 @@
     {
       "date": "2026-05-12T10:13:01.620922",
       "type": "created",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-05-12T10:13:56.661505",
+      "type": "modified",
       "author": "Nicolo"
     }
   ],
