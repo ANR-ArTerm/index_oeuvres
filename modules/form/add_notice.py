@@ -25,7 +25,8 @@ def init_empty_notice(xml_id, entry_type):
         "illustrations": [],
         "description": "",
         "commentary": "",
-        "history": []
+        "history": [],
+        "complete_entry":""
     }
 
 def add_creator(xml_id, creator, idx, type_entry):
@@ -825,6 +826,12 @@ def add_notice():
     )
 
     notice["commentary"] = commentaire
+
+    # =========================
+    # Statut de la notice
+    # =========================    
+
+    notice["complete_entry"]=st.checkbox("Notice achevée")
 
     # =========================
     # SAUVEGARDE

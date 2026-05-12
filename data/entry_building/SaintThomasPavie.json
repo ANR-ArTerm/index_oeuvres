@@ -5,7 +5,6 @@
   "title": "Eglise de Saint-Thomas de Pavie",
   "creator": [],
   "dateCreated": {
-    "startYear": 1478,
     "startYear": null,
     "text": "1478"
   },
@@ -32,5 +31,6 @@
       "type": "created",
       "author": "Julia"
     }
-  ]
+  ],
+  "complete_entry": false
 }

@@ -71,5 +71,6 @@
   "contained_by_ensemble": {
     "link_type": "appartient à l'ensemble",
     "xml_id_work": "LoggiaPsyche"
-  }
+  },
+  "complete_entry": false
 }

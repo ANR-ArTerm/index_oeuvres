@@ -71,5 +71,6 @@
     }
   ],
   "typology": "chapelle",
-  "contains_works": []
+  "contains_works": [],
+  "complete_entry": false
 }

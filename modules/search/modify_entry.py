@@ -658,6 +658,8 @@ def edit_json_notice(json_path=None, data=None):
     notice["description"] = st.text_area("Description", notice.get("description", ""))
     notice["commentary"] = st.text_area("Commentaire", notice.get("commentary", ""))
 
+    notice["complete_entry"]=st.checkbox("Notice achevée")
+ 
     # Boutons d'action
     st.divider()
     entry_editor = st.selectbox("Auteur des modifications :",
