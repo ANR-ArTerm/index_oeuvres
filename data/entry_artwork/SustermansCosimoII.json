@@ -1,0 +1,52 @@
+{
+  "id": "SustermansCosimoII",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Portrait de Cosimo II",
+  "creator": [
+    {
+      "xml_id": null,
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1625,
+    "endYear": 1625,
+    "text": "1625"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": null,
+      "place": "Vienne",
+      "inventory_number": "GG_6726",
+      "url": "https://www.khm.at/kunstwerke/grossherzog-cosimo-ii-1590-1621-von-toskana-2514"
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Großherzog_Cosimo_II.jpg",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-12T17:40:50.955662",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "complete_entry": false,
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
