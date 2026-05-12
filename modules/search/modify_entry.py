@@ -290,15 +290,14 @@ def edit_json_notice(json_path=None, data=None):
         st.error("Aucune donnée fournie")
         return None
     
-
-    # 2. Réinitialiser notice_data quand on change de fichier
+    # 2. Réinitialiser quand on change de fichier
     if (
         'editing_path' not in st.session_state 
-        or st.session_state.editing_path != json_path
+        or st.session_state.editing_path != str(json_path)
     ):
-        st.session_state.editing_path = json_path
+        st.session_state.editing_path = str(json_path)
         st.session_state.notice_data = data.copy()
-        st.session_state.original_id = data.get("id", "")  # ← ajouter cette ligne
+        st.session_state.original_id = data.get("id", "")
 
     # 3. Récupération de la notice active
     notice = st.session_state.notice_data
@@ -689,8 +688,9 @@ def edit_json_notice(json_path=None, data=None):
 
                 saved_path = save_notice(notice, path=json_path, old_id=st.session_state.original_id)
                 st.success(f"✅ Modifications sauvegardées dans : {saved_path}")
-                st.session_state.original_id = notice["id"]  # ← mettre à jour après sauvegarde
-                st.session_state.editing_path = saved_path
+                st.session_state.original_id = notice["id"]        # maj pour renommages successifs
+                st.session_state.editing_path = str(saved_path)
+                st.session_state.editing_notice = str(saved_path)  # app.py suit le bon fichier
 
             except Exception as e:
                 st.error(f"❌ Erreur lors de la sauvegarde : {str(e)}")

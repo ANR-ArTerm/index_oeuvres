@@ -175,9 +175,9 @@ def render_search_entries_all():
                 with col_mod:
                     if st.button("Modifier ✏️", key=f"mod_{entry_type}_{d['id']}"):
                         st.session_state.editing_notice = str(Path(json_path).resolve())
-                        st.session_state.original_id = o.get("id")
                         st.session_state.active_menu = "edit"
                         st.rerun()
+
 
                 with col_del:
                     if st.button("Supprimer 🗑️", key=f"del_{entry_type}_{d['id']}"):

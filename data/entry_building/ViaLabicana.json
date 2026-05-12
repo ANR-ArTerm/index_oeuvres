@@ -2,7 +2,7 @@
   "id": "ViaLabicana",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q763100",
   "entry_type": "building",
-  "title": "Voie Labicana de Rome à",
+  "title": "Voie Labicana",
   "creator": [],
   "dateCreated": {
     "startYear": -500,
@@ -30,6 +30,11 @@
       "date": "2026-04-30T10:56:16.611841",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-05-12T12:08:03.933490",
+      "type": "modified",
+      "author": "Pierre"
     }
   ],
   "typology": "Voie",

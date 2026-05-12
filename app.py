@@ -176,15 +176,10 @@ if "corrupted_files" in st.session_state and st.session_state.corrupted_files:
             "Modifier ✏️",
             key=f"edit_corrupted_{json_path.stem}_{idx}"
         ):
-            try:
-                data = _load_json(json_path)
-                original_id = data.get("id")
-            except Exception:
-                pass  # JSON très corrompu, on continue sans id
             st.session_state.editing_notice = str(json_path.resolve())
-            st.session_state.original_id = original_id
             st.session_state.active_menu = "edit"
             st.rerun()
+
 
 
 if st.sidebar.button("Vérification textes XML"):

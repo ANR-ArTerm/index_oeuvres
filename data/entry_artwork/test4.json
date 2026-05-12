@@ -1,5 +1,5 @@
 {
-  "id": "test",
+  "id": "test4",
   "QID_wikidata": "",
   "entry_type": "artwork",
   "title": "test",
@@ -27,6 +27,21 @@
     {
       "date": "2026-05-12T11:56:52.062206",
       "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-05-12T11:57:09.701771",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-05-12T12:06:00.946424",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-05-12T12:06:06.516045",
+      "type": "modified",
       "author": "Pierre"
     }
   ],
