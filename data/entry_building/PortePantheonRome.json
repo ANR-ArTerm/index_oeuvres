@@ -1,0 +1,53 @@
+{
+  "id": "PortePantheonRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q125122565",
+  "entry_type": "building",
+  "title": "Porte de Pantheon à Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "PantheonRome"
+    }
+  ],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Piranesi-6043.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, public domain, Giovanni Battista Piranesi (https://commons.wikimedia.org/wiki/File:Piranesi-6043.jpg)",
+      "caption": "Raccolta de' tempj antichi, tav. // Opere di Giovanni Battista Piranesi, Francesco Piranesi e d'altri. Firmin Didot Freres, Paris, 1835-1839. Tomo 6."
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-12T12:11:57.125609",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Porte",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
