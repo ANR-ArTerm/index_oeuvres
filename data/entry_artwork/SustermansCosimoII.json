@@ -45,8 +45,5 @@
   ],
   "complete_entry": false,
   "materialsAndTechniques": "huile sur toile",
-  "contained_by_ensemble": {
-    "link_type": null,
-    "xml_id_work": null
-  }
+  "contained_by_ensemble": {}
 }
