@@ -2,7 +2,15 @@ import streamlit as st
 import json
 from datetime import datetime
 
-from modules.data.load import load_notice, save_notice, index_list_form, load_list_form, index_username, get_all_objects_ids_flat_sorted, save_image, save_to_list_form
+from modules.data.load import (load_notice, 
+                               save_notice, 
+                               index_list_form, 
+                               load_list_form, 
+                               index_username, 
+                               get_all_objects_ids_flat_sorted, 
+                               save_image, 
+                               save_to_list_form, 
+                               save_to_list_form_git)
 from modules.utils.functions import safe_int
 
 def edit_creator(xml_id, creator, idx, type_entry):
@@ -10,7 +18,7 @@ def edit_creator(xml_id, creator, idx, type_entry):
     st.subheader(f"Artiste {idx + 1}")
     col1, col2 = st.columns(2)
     with col1:
-        creator["xml_id"] = st.selectbox("Artiste :*",
+        creator["xml_id"] = st.selectbox("Artiste :",
                                      load_list_form("persons"),
                                      index=index_list_form(creator.get("xml_id", ""), "persons"),
                                      accept_new_options=True,
@@ -25,8 +33,10 @@ def edit_creator(xml_id, creator, idx, type_entry):
                                             accept_new_options=True
                                             )
             
-            if creator["role"] not in load_list_form("artists_roles"):
-                save_to_list_form("artists_roles", creator["role"])
+            if creator["role"] and creator["role"] not in load_list_form("artists_roles"):
+                with st.spinner("sauvegarde du rôle"):
+                    success, message = save_to_list_form_git("artists_roles", creator["role"])
+                    st.success(message) if success else st.error(message)
 
         if type_entry == "building":
             creator["role"] = st.selectbox("Rôle :",
@@ -35,9 +45,11 @@ def edit_creator(xml_id, creator, idx, type_entry):
                                             key=f"{xml_id}_creator_architect_xmlid_{idx}",
                                             accept_new_options=True
                                             )
-            
-            if creator["role"] not in load_list_form("architects_roles"):
-                save_to_list_form("architects_roles", creator["role"])
+
+            if creator["role"] and creator["role"] not in load_list_form("architects_roles"):
+                with st.spinner("sauvegarde du rôle"):
+                    success, message = save_to_list_form_git("architects_roles", creator["role"])
+                    st.success(message) if success else st.error(message)
             
         if type_entry == "ensemble":
             creator["role"] = st.selectbox("Rôle :",
@@ -46,6 +58,10 @@ def edit_creator(xml_id, creator, idx, type_entry):
                                                                   ["artists_roles", "architects_roles"]),
                                             key=f"{xml_id}_creator_ensemble_xmlid_{idx}"
                                             )
+            if creator["role"] and creator["role"] not in load_list_form("artists_roles"):
+                with st.spinner("sauvegarde du rôle"):
+                    success, message = save_to_list_form_git("artists_roles", creator["role"])
+                    st.success(message) if success else st.error(message)
 
     return creator
 
@@ -70,7 +86,9 @@ def edit_related_work(xml_id, work, idx, list_xml_id):
         )
 
         if work["link_type"] and work["link_type"] not in link_types:
-            save_to_list_form("link_types", work["link_type"])
+            with st.spinner("sauvegarde du lien"):
+                success, message = save_to_list_form_git("link_types", work["link_type"])
+                st.success(message) if success else st.error(message)
 
     with col2:
         xml_id_value = work.get("xml_id_work")
@@ -114,10 +132,9 @@ def edit_contained_work(xml_id, work, idx, list_xml_id):
         )
 
         if work["link_type"] and work["link_type"] not in link_types_contained:
-            save_to_list_form(
-                "link_types_contained",
-                work["link_type"],
-            )
+            with st.spinner("sauvegarde du lien"):
+                success, message = save_to_list_form_git("link_types_contained", work["link_type"])
+                st.success(message) if success else st.error(message)
 
     with col2:
         xml_id_value = work.get("xml_id_work")
@@ -153,11 +170,10 @@ def edit_bibliography(xml_id, biblio, idx):
         )
 
         # Sauvegarde si nouvelle valeur
-        if (
-            biblio["zotero_key"] 
-            and biblio["zotero_key"] not in zotero_list
-        ):
-            save_to_list_form("zotero_keys", biblio["zotero_key"])
+        if biblio["zotero_key"] and biblio["zotero_key"] not in zotero_list:
+            with st.spinner("sauvegarde de la clé zotero dans les listes"):
+                success, message = save_to_list_form_git("zotero_keys", biblio["zotero_key"])
+                st.success(message) if success else st.error(message)
 
     with col2:
         biblio["location"] = st.text_input(f"Localisation", biblio.get("location", ""), key=f"{xml_id}_biblio_loc_{idx}")
@@ -322,9 +338,12 @@ def edit_json_notice(json_path=None, data=None):
                     index=index_list_form(notice.get("typology", ""), "typologies_architecture")
                     )
         
-        if notice["typology"] not in load_list_form("typologies_architecture"):
-            save_to_list_form("typologies_architecture", notice["typology"])
-    
+        if notice["typology"] and notice["typology"] not in load_list_form("typologies_architecture"):
+            with st.spinner("sauvegarde de la typologie"):
+                success, message = save_to_list_form_git("typologies_architecture", notice["typology"])
+                st.success(message) if success else st.error(message)
+
+
     if entry_type == "ensemble": 
         notice["typology"] = st.selectbox(
                     "Typologie d'ensemble (ex : ensemble décoratif, retable,...)",
@@ -333,9 +352,10 @@ def edit_json_notice(json_path=None, data=None):
                     index=index_list_form(notice.get("typology", ""), "typologies_ensemble")
                     )
         
-        if notice["typology"] not in load_list_form("typologies_ensemble"):
-            save_to_list_form("typologies_ensemble", notice["typology"])
-
+        if notice["typology"] and notice["typology"] not in load_list_form("typologies_ensemble"):
+            with st.spinner("sauvegarde de la typologie"):
+                success, message = save_to_list_form_git("typologies_ensemble", notice["typology"])
+                st.success(message) if success else st.error(message)
 
     # Section Créateurs
     st.header("👥 Créateurs")
@@ -362,10 +382,12 @@ def edit_json_notice(json_path=None, data=None):
                     index=index_list_form(notice.get("materialsAndTechniques", ""), "techniques"),
                     accept_new_options=True
                     )
-        
-        if not notice["materialsAndTechniques"] in load_list_form("techniques"):
-            save_to_list_form("techniques", notice["materialsAndTechniques"])
-        
+
+        if notice["materialsAndTechniques"] and notice["materialsAndTechniques"] not in load_list_form("techniques"):
+            with st.spinner("sauvegarde de la technique"):
+                success, message = save_to_list_form_git("techniques", notice["materialsAndTechniques"])
+                st.success(message) if success else st.error(message)
+
     # — Localisation globale —
     
     st.header("🏛️ Localisation de l'oeuvre")
@@ -431,17 +453,28 @@ def edit_json_notice(json_path=None, data=None):
                     ),
                     accept_new_options=True
                 )
+        
+            if institution["name"] and institution["name"] not in load_list_form("institutions"):
+                success, message = save_to_list_form_git("institutions", institution["name"])
+                st.success(message) if success else st.error(message)
 
-            institution["place"] = st.text_input(
-                    "Lieu (ville)",
-                    institution["place"]
-                )
-
-        with col2:
             institution["inventory_number"] = st.text_input(
                     "Numéro d'inventaire",
                     institution["inventory_number"]
                 )
+
+
+        with col2:
+            institution["place"] = st.selectbox(
+                "Ville de l'institution",
+                load_list_form("places"),
+                index=index_list_form(institution["place"], "places"),
+                accept_new_options=True,
+                key=f"{id_entry}_institution_city"
+            )
+            if institution["place"] and institution["place"] not in load_list_form("places"):
+                success, message = save_to_list_form_git("places", institution["place"])
+                st.success(message) if success else st.error(message)
 
             institution["url"] = st.text_input(
                     "URL de l'institution",
@@ -472,8 +505,10 @@ def edit_json_notice(json_path=None, data=None):
                 accept_new_options=True
             )
 
-            if not place["city"] in load_list_form("places"):
-                save_to_list_form("places", place["city"])
+            if place["city"] and place["city"] not in load_list_form("places"):
+                with st.spinner("sauvegarde de la ville"):
+                    success, message = save_to_list_form_git("places", place["city"])
+                    st.success(message) if success else st.error(message)
 
             place["coordinates"]["latitude"] = st.text_input(
                     "Latitude",
@@ -491,8 +526,12 @@ def edit_json_notice(json_path=None, data=None):
                 ),
                 accept_new_options=True
             )
-            if not place["country"] in load_list_form("places"):
-                save_to_list_form("places", place["country"])
+            
+            if place["country"] and place["country"] not in load_list_form("places"):
+                with st.spinner("sauvegarde du pays"):
+                    success, message = save_to_list_form_git("places", place["country"])
+                    st.success(message) if success else st.error(message)
+
 
             place["coordinates"]["longitude"] = st.text_input(
                     "Longitude",
@@ -582,40 +621,53 @@ def edit_json_notice(json_path=None, data=None):
 
     if entry_type in {"building", "artwork"}:
         st.header("🌿 Ensemble contenant l'œuvre")
-        if "contained_by_ensemble" not in notice:
-            notice["contained_by_ensemble"] = {}
-        
-        
-        list_xml_id_ensemble = get_all_objects_ids_flat_sorted(["ensemble"])
+        notice.setdefault("contained_by_ensemble", {})
 
-        col1, col2 = st.columns(2)
-        with col1:
-            notice["contained_by_ensemble"]["link_type"] = st.selectbox(
-                        f"Type de lien",
-                        load_list_form("link_types_contained"),
-                        key=f"{id_entry}_contained_by_ensemble_type",
-                        index=index_list_form(notice["contained_by_ensemble"].get("link_type", ""), "link_types_contained"),
-                        accept_new_options=True,
-                        )
-            if not notice["contained_by_ensemble"]["link_type"] in load_list_form("link_types_contained"):
-                save_to_list_form("link_types_contained", notice["contained_by_ensemble"]["link_type"])
-    
-        with col2:
-            xml_id_value = notice["contained_by_ensemble"].get("xml_id_work", "")
-            xml_index = (
-                list_xml_id_ensemble.index(xml_id_value)
-                if xml_id_value in list_xml_id_ensemble
-                else None
-            )
-            notice["contained_by_ensemble"]["xml_id_work"] = st.selectbox(
-                f"Ensemble contenant l'œuvre",
-                list_xml_id_ensemble,
-                index=xml_index,
-                placeholder="XML:ID de l'oeuvre liée",
-                accept_new_options=False,
-                key=f"{id_entry}_contained_by_ensemble_xmlid"
-            )
-    
+        # Déduire l'état initial du radio depuis les données existantes
+        has_data = bool(
+            notice["contained_by_ensemble"].get("link_type") or
+            notice["contained_by_ensemble"].get("xml_id_work")
+        )
+
+        has_ensemble = st.radio(
+            "Cette œuvre appartient-elle à un ensemble ?",
+            ["Non", "Oui"],
+            index=1 if has_data else 0,
+            horizontal=True,
+            key=f"{id_entry}_has_ensemble"
+        )
+
+        if has_ensemble == "Non":
+            notice["contained_by_ensemble"] = {}
+
+        else:
+            list_xml_id_ensemble = get_all_objects_ids_flat_sorted(["ensemble"])
+            link_types_contained = load_list_form("link_types_contained")
+
+            col1, col2 = st.columns(2)
+            with col1:
+                notice["contained_by_ensemble"]["link_type"] = st.selectbox(
+                    "Type de lien",
+                    link_types_contained,
+                    key=f"{id_entry}_contained_by_ensemble_type",
+                    index=index_list_form(notice["contained_by_ensemble"].get("link_type", ""), "link_types_contained"),
+                    accept_new_options=True,
+                )
+                val = notice["contained_by_ensemble"]["link_type"]
+                if val and val not in link_types_contained:
+                    success, message = save_to_list_form_git("link_types_contained", val)
+                    st.success(message) if success else st.error(message)
+
+            with col2:
+                xml_id_value = notice["contained_by_ensemble"].get("xml_id_work", "")
+                notice["contained_by_ensemble"]["xml_id_work"] = st.selectbox(
+                    "Ensemble contenant l'œuvre",
+                    list_xml_id_ensemble,
+                    index=list_xml_id_ensemble.index(xml_id_value) if xml_id_value in list_xml_id_ensemble else None,
+                    accept_new_options=False,
+                    key=f"{id_entry}_contained_by_ensemble_xmlid"
+                )
+
     # Section Bibliographie
     st.header("📚 Bibliographie")
     if "bibliography" not in notice or not isinstance(notice["bibliography"], list):

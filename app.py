@@ -188,7 +188,6 @@ if st.sidebar.button("Vérification textes XML"):
 if st.sidebar.button("Éditer les listes d'autocomplétion"):
     st.session_state.active_menu = "edit_list_form" if st.session_state.active_menu != "edit_list_form" else None
 
-
 # Zone principale
 if st.session_state.active_menu is None:
     render_home()

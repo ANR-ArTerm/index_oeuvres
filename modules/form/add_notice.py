@@ -109,11 +109,11 @@ def _add_work_core(xml_id, work, idx, list_xml_id, title, link_types_key, key_pr
 
         if work["link_type"] is not None and work["link_type"] not in load_list_form(link_types_key):
             st.write("Sauvegarde du nouveau type de lien")
-            success, message = save_to_list_form_git(link_types_key, work["link_type"])
-            if success:
-                st.success(message)
+            success_link, message_link = save_to_list_form_git(link_types_key, work["link_type"])
+            if success_link:
+                st.success(message_link)
             else:
-                st.error(message)
+                st.error(message_link)
 
     with col2:
         work["xml_id_work"] = st.selectbox(
@@ -564,10 +564,17 @@ def add_notice():
                 accept_new_options=True,
                 key="place_city"
             )
+            
             # Sauvegarder nouvelle valeur si inconnue
             if st.session_state["place_city"] and st.session_state["place_city"] not in load_list_form("places"):
-                save_to_list_form("places", st.session_state["place_city"])
-            
+                with st.spinner("Sauvegarde de la nouvelle ville"):
+                    success_ville, message_ville = save_to_list_form_git("places", st.session_state["place_city"])
+                    if success_ville:
+                        st.success(message_ville)
+                    else:
+                        st.error(message_ville)
+
+            # Sauvegarder dans le json temporaire
             place["city"] = st.session_state["place_city"]
 
         with colPays:
@@ -578,9 +585,15 @@ def add_notice():
                 accept_new_options=True,
                 key="place_country"
             )
+
             if st.session_state["place_country"] and st.session_state["place_country"] not in load_list_form("places"):
-                save_to_list_form("places", st.session_state["place_country"])
-            
+                with st.spinner("Sauvegarde du nouveau pays"):
+                    success_pays, message_pays = save_to_list_form_git("places", st.session_state["place_country"])
+                    if success_pays:
+                        st.success(message_pays)
+                    else:
+                        st.error(message_pays)
+
             place["country"] = st.session_state["place_country"]
 
 
@@ -626,13 +639,32 @@ def add_notice():
             accept_new_options=True,
             key=f"{xml_id}_institution"
         )
-        if not institution["name"] in load_list_form("institutions"):
-            save_to_list_form("institutions", institution["name"])
-        
-        institution["place"] = st.text_input(
-            "Ville",
-            value=institution.get("place", "")
-        )
+        if institution["name"] and institution["name"] not in load_list_form("institutions"):
+            with st.spinner("Sauvegarde de la nouvelle institution"):
+                success_institution, message_institution = save_to_list_form_git("institutions", institution["name"])
+                if success_institution:
+                    st.success(message_institution)
+                else:
+                    st.error(message_institution)
+
+        institution["place"] = st.selectbox(
+                "Ville de l'institution",
+                load_list_form("places"),
+                index=None,
+                accept_new_options=True,
+                key="institution_city"
+            )
+            
+        # Sauvegarder nouvelle valeur si inconnue
+        if st.session_state["institution_city"] and st.session_state["institution_city"] not in load_list_form("places"):
+                with st.spinner("Sauvegarde de la nouvelle ville"):
+                    success_inst_ville, message_inst_ville = save_to_list_form_git("places", st.session_state["institution_city"])
+                    if success_inst_ville:
+                        st.success(message_inst_ville)
+                    else:
+                        st.error(message_inst_ville)
+
+
         institution["inventory_number"] = st.text_input(
             "Numéro d'inventaire",
             value=institution.get("inventory_number", "")
@@ -686,7 +718,7 @@ def add_notice():
         st.rerun()
 
     # =========================
-    # ENSEMBLE : oeuvres constituantes et oeuvres d'enesemble
+    # ENSEMBLE : oeuvres constituantes et oeuvres d'ensemble
     # =========================
 
     if entry_type == "ensemble":
@@ -716,31 +748,54 @@ def add_notice():
 
     if entry_type in {"building", "artwork"}:
         st.header("🌿 Ensemble contenant l'œuvre")
-        list_xml_id_ensemble = get_all_objects_ids_flat_sorted(["ensemble"])
 
-        notice.setdefault("contained_by_ensemble", {})
-        col1, col2 = st.columns(2)
-        with col1:
-            link_types_contained = load_list_form("link_types_contained")
-            notice["contained_by_ensemble"]["link_type"] = st.selectbox(
-                        f"Type de lien",
-                        link_types_contained,
-                        key=f"{xml_id}_contained_by_ensemble_type",
-                        index=None,
-                        accept_new_options=True,
-                        )
-            if not notice["contained_by_ensemble"]["link_type"] in link_types_contained:
-                save_to_list_form("link_types_contained", notice["contained_by_ensemble"]["link_type"])
+        has_ensemble = st.radio(
+            "Cette œuvre appartient-elle à un ensemble ?",
+            ["Non", "Oui"],
+            horizontal=True,
+            key=f"{xml_id}_has_ensemble"
+        )
 
-        with col2:
-            notice["contained_by_ensemble"]["xml_id_work"] = st.selectbox(
-                f"Ensemble contenant l'œuvre",
-                list_xml_id_ensemble,
-                placeholder="XML:ID de l'oeuvre liée",
-                accept_new_options=False,
-                index=None,
-                key=f"{xml_id}_contained_by_ensemble_xmlid"
-            )
+        # Si NON → reset
+        if has_ensemble == "Non":
+            notice["contained_by_ensemble"] = {}
+
+        # Si OUI → afficher les champs
+        else:
+            notice.setdefault("contained_by_ensemble", {})
+
+            list_xml_id_ensemble = get_all_objects_ids_flat_sorted(["ensemble"])
+
+            col1, col2 = st.columns(2)
+
+            with col1:
+                link_types_contained = load_list_form("link_types_contained")
+
+                notice["contained_by_ensemble"]["link_type"] = st.selectbox(
+                    "Type de lien",
+                    link_types_contained,
+                    key=f"{xml_id}_contained_by_ensemble_type",
+                    index=None,
+                    accept_new_options=True,
+                )
+
+                # sauvegarde du lien
+                if notice["contained_by_ensemble"]["link_type"] and notice["contained_by_ensemble"]["link_type"] not in link_types_contained:
+                    success_link_contained, message_link_contained = save_to_list_form_git("link_types_contained", notice["contained_by_ensemble"]["link_type"])
+                    if success_link_contained:
+                        st.success(message_link_contained)
+                    else:
+                        st.error(message_link_contained)
+
+            with col2:
+                notice["contained_by_ensemble"]["xml_id_work"] = st.selectbox(
+                    "Ensemble contenant l'œuvre",
+                    list_xml_id_ensemble,
+                    placeholder="XML:ID de l'oeuvre liée",
+                    accept_new_options=False,
+                    index=None,
+                    key=f"{xml_id}_contained_by_ensemble_xmlid"
+                )
 
     # =========================
     # ILLUSTRATIONS (MENU ÉDITION)
@@ -860,3 +915,6 @@ def add_notice():
         time.sleep(3)
 
         st.rerun()
+    
+    with st.expander("📄 Voir le JSON complet"):
+        st.json(notice, expanded=False)
