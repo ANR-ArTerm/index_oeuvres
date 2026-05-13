@@ -38,9 +38,14 @@
       "date": "2026-04-30T15:35:42.097360",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-05-13T13:05:53.352028",
+      "type": "modified",
+      "author": "Pierre"
     }
   ],
   "typology": "BasiliqueCivile",
   "contained_by_ensemble": {},
-  "complete_entry": false
+  "complete_entry": true
 }

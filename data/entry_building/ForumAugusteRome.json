@@ -38,9 +38,19 @@
       "date": "2026-05-05T17:46:46.654219",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-05-13T12:59:53.125002",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-05-13T13:01:03.225112",
+      "type": "modified",
+      "author": "Pierre"
     }
   ],
   "typology": "monument imaginaire ou disparu",
   "contained_by_ensemble": {},
-  "complete_entry": false
+  "complete_entry": true
 }

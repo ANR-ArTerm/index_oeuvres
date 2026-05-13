@@ -7,6 +7,8 @@ from modules.data.load import save_notice, exist_notice, save_image, load_list_f
 from modules.git_tools import git_commit_and_push
 from modules.wikidata.queries import get_monument_data
 
+from modules.form.components import exemple_desc_image
+
 def init_empty_notice(xml_id, entry_type):
     return {
         "id": xml_id,
@@ -285,11 +287,7 @@ def add_illustration(xml_id, illus, idx):
             key=f"{xml_id}_edit_illus_copyright_{idx}"
         )
 
-        with st.expander("Voir des exemples pour les droits"):
-                st.write('''
-                    Wikimedia Commons, CC BY-SA 4.0, Auteur de l'image (lien de l'image)
-                    Wikimedia Commons, CC BY-SA 4.0, Akinator (https://commons.wikimedia.org/wiki/File:Akinator.svg?lang=fr)
-                ''')
+        exemple_desc_image()
 
         illus["caption"] = st.text_input(
             "Légende",
@@ -849,7 +847,6 @@ def add_notice():
         ):
             notice["illustrations"].pop(idx)
             st.rerun()
-
 
     if st.button("➕ Ajouter une illustration"):
         notice["illustrations"].append({

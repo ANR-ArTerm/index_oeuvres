@@ -12,6 +12,7 @@ from modules.data.load import (load_notice,
                                save_to_list_form, 
                                save_to_list_form_git)
 from modules.utils.functions import safe_int
+from modules.form.components import exemple_desc_image
 
 def edit_creator(xml_id, creator, idx, type_entry):
     """Édite un artiste"""
@@ -272,6 +273,8 @@ def edit_illustration(xml_id, illus, idx):
             illus.get("copyright", ""),
             key=f"{xml_id}_edit_illus_copyright_{idx}"
         )
+
+        exemple_desc_image()
 
         illus["caption"] = st.text_input(
             "Légende",

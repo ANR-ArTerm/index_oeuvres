@@ -128,9 +128,9 @@ def render_search_entries_all():
     
     # filtre par statut de complétude
     if complete_notice == "🔴 Notices incomplètes":
-        filtered = [i for i in filtered if not i.get("complete_notice", False)]
+        filtered = [i for i in filtered if not i["o"].get("complete_entry", False)]
     elif complete_notice == "✅ Notices achevées":
-        filtered = [i for i in filtered if i.get("complete_notice", False)]
+        filtered = [i for i in filtered if i["o"].get("complete_entry", False)]
 
     if not filtered:
         st.info("Aucun résultat trouvé.")
