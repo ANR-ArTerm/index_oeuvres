@@ -1,0 +1,38 @@
+{
+  "id": "BouclierAchille",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2712103",
+  "entry_type": "artwork",
+  "title": "Bouclier d'Achille",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b86133869/f257/full/full/0/native.jpg",
+      "storage": "online",
+      "copyright": "Source gallica.bnf.fr / Bibliothèque nationale de France",
+      "caption": "Charles Nicolas Cochin d'après Nicolas Vleughels,  Apologie d’Homère et Bouclier d’Achille, 1715,  Bibliothèque nationale de France, département Arsenal, RESERVE16-Z-20334"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-13T15:31:51.192456",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "complete_entry": false,
+  "materialsAndTechniques": "œuvre imaginaire ou disparu",
+  "contained_by_ensemble": {}
+}
