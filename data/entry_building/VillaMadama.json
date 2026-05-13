@@ -69,9 +69,6 @@
     }
   ],
   "typology": "Villa",
-  "contained_by_ensemble": {
-    "link_type": null,
-    "xml_id_work": null
-  },
+  "contained_by_ensemble": {},
   "complete_entry": false
 }
