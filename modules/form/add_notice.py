@@ -292,7 +292,9 @@ def add_illustration(xml_id, illus, idx):
         illus["caption"] = st.text_input(
             "Légende",
             illus.get("caption", ""),
-            key=f"{xml_id}_edit_illus_caption_{idx}"
+            key=f"{xml_id}_edit_illus_caption_{idx}",
+            help="""
+            Pour précisier des informations sur l'image, en particulier si l'image ne correspond pas exactement à l'œuvre décrite dans la notice (une copie, un dessin préparatoire,...) """
         )
 
 def add_notice():

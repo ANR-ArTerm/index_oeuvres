@@ -30,9 +30,14 @@
       "date": "2026-05-13T15:31:51.192456",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-05-13T15:43:44.188828",
+      "type": "modified",
+      "author": "Pierre"
     }
   ],
-  "complete_entry": false,
+  "complete_entry": true,
   "materialsAndTechniques": "œuvre imaginaire ou disparu",
   "contained_by_ensemble": {}
 }
