@@ -1,0 +1,46 @@
+{
+  "id": "TempleDeDianeNimes",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1992203",
+  "entry_type": "building",
+  "title": "Temple De Diane à Nimes",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 0,
+    "endYear": 200,
+    "text": "entre Ie et IIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Nimes",
+      "country": "France",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/MK54102_Temple_de_Diane_%28N%C3%AEmes%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0 DE, Martin Kraft (https://commons.wikimedia.org/wiki/File:MK54102_Temple_de_Diane_(N%C3%AEmes).jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-15T12:34:23.719756",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "complete_entry": false,
+  "typology": "Temple",
+  "contained_by_ensemble": {}
+}

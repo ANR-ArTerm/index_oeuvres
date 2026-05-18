@@ -1,0 +1,48 @@
+{
+  "id": "PiazzaDiPietraRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q60840884",
+  "entry_type": "building",
+  "title": "Piazza di Pietra à Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Roma%2C_Piazza_di_Pietra_-_Tempio_di_Adriano.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, public domain, Lalupa (https://commons.wikimedia.org/wiki/File:Roma,_Piazza_di_Pietra_-_Tempio_di_Adriano.JPG)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-15T12:02:49.437117",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Place",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
