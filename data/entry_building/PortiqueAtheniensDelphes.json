@@ -1,0 +1,46 @@
+{
+  "id": "PortiqueAtheniensDelphes",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q7617753",
+  "entry_type": "building",
+  "title": "Portique ou stoa des Athéniens",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Delphes",
+      "country": "Grece",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/The_Stoa_of_the_Athenians_at_the_Sanctuary_of_Delphi_on_October_4%2C_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, George E. Koronaios (https://commons.wikimedia.org/wiki/File:The_Stoa_of_the_Athenians_at_the_Sanctuary_of_Delphi_on_October_4,_2020.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-18T11:10:11.001631",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "complete_entry": true,
+  "typology": "Monument",
+  "contained_by_ensemble": {}
+}
