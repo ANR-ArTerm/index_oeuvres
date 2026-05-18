@@ -1,0 +1,35 @@
+{
+  "id": "BularqueBatailleMagnesiens",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Bataille des Magnésiens",
+  "creator": [
+    {
+      "xml_id": "Bularque",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "Peinture citée par Pline (livre XXXIV) qui reçut l'admiration du roi lydien Candaule.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-18T10:59:11.034873",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "complete_entry": true,
+  "materialsAndTechniques": "œuvre imaginaire ou disparue",
+  "contained_by_ensemble": {}
+}
