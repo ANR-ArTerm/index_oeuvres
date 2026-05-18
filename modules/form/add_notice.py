@@ -2,6 +2,7 @@ import streamlit as st
 from datetime import datetime
 import time
 import uuid
+import re
 
 from modules.data.load import save_notice, exist_notice, save_image, load_list_form, index_username, save_to_list_form, save_to_list_form_git, get_all_objects_ids_flat_sorted
 from modules.git_tools import git_commit_and_push
@@ -334,6 +335,13 @@ def add_notice():
     if not xml_id:
         st.warning("Veuillez saisir un XML:ID")
         st.stop()
+
+    valid_pattern = re.compile(r"^[A-Za-z0-9]+$")
+    
+    if xml_id and not valid_pattern.match(xml_id):
+        st.error("Vous ne pouvez pas utiliser de caractères spéciaux pour l'identifiant de la notice (ni accent, ni espace)")
+        st.stop()
+
 
 
     # =========================

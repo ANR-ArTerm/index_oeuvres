@@ -1,0 +1,38 @@
+{
+  "id": "TroneSalomon",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q7798360",
+  "entry_type": "artwork",
+  "title": "Trône de Salomon",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Speculum_Darmstadt_2505_19r.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Speculum_Darmstadt_2505_19r.jpg)",
+      "caption": "Speculum Humanae Salvationis, Westfalen ou Köln, vers 1360. Darmstadt, ULB, Hs 2505, fol. 19r"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-18T10:39:00.810491",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "complete_entry": true,
+  "materialsAndTechniques": "œuvre imaginaire ou disparu",
+  "contained_by_ensemble": {}
+}
