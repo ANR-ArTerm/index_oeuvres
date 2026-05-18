@@ -1,0 +1,38 @@
+{
+  "id": "StatueNabuchodonosor",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Statue du songe de Nabuchodonosor",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Songe_Nabuchodonosor_statue.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikipedia Commons (https://commons.wikimedia.org/wiki/File:Songe_Nabuchodonosor_statue.jpg)",
+      "caption": "Songe de Nabuchodonosor: la statue composite. Ars moriendi. Marseille - BM - ms. 0089 (f. 012)"
+    }
+  ],
+  "description": "Statue vue en songe par Nabuchodonosor II et citée au chapitre 2 du livre de Daniel.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-18T10:49:47.823231",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "complete_entry": true,
+  "materialsAndTechniques": "œuvre imaginaire ou disparue",
+  "contained_by_ensemble": {}
+}
