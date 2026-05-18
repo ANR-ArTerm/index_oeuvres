@@ -1,0 +1,46 @@
+{
+  "id": "PyramideCaiusCestius",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q725404",
+  "entry_type": "building",
+  "title": "Pyramide de Caius Cestius",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -18,
+    "endYear": -12,
+    "text": "Entre 18 et 12 avant J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Pyramide_564.jpg/1280px-Pyramide_564.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Tyrhénienne (https://commons.wikimedia.org/wiki/File:Pyramide_564.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-18T11:43:55.303433",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "complete_entry": true,
+  "typology": "mausolée",
+  "contained_by_ensemble": {}
+}
