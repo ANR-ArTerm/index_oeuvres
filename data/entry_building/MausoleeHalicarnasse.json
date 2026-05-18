@@ -1,0 +1,52 @@
+{
+  "id": "MausoleeHalicarnasse",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q45368",
+  "entry_type": "building",
+  "title": "Mausolée d'Halicarnasse",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -353,
+    "endYear": -350,
+    "text": "353 av. J.-C. à 350 av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Bodrum",
+      "country": "Turquie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    },
+    "institution": {
+      "name": null,
+      "place": null,
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Mausoleum_at_Halicarnassus_by_Ferdinand_Knab_%281886%29_cropped.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikipedia Commons (https://commons.wikimedia.org/wiki/File:Mausoleum_at_Halicarnassus_by_Ferdinand_Knab_(1886)_cropped.png)",
+      "caption": "Ferdinand Knab, Mausolée d'Halicarnasse, 1866."
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-18T11:21:34.251506",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "complete_entry": true,
+  "typology": "mausolée",
+  "contained_by_ensemble": {}
+}
