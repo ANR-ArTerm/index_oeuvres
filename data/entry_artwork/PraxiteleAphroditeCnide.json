@@ -22,10 +22,10 @@
   "illustrations": [
     {
       "id": 0,
-      "url": "",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Cnidus_Aphrodite_Altemps_Inv8619.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
       "storage": "online",
-      "copyright": "",
-      "caption": "Aphrodite de Cnide. Marbre, copie romaine d'après un original grec de Praxitèle du IVe siècle av. J.-C, Rome, palais Altemps."
+      "copyright": "Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Cnidus_Aphrodite_Altemps_Inv8619.jpg)",
+      "caption": "Aphrodite de Cnide. Marbre, copie romaine d'après un original grec de Praxitèle du IVe siècle av. J.-C, Rome, palais Altemps, inv. 8619."
     }
   ],
   "description": "",
@@ -35,9 +35,14 @@
       "date": "2026-05-18T11:28:26.172592",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-05-18T11:30:00.939810",
+      "type": "modified",
+      "author": "Pierre"
     }
   ],
-  "complete_entry": false,
+  "complete_entry": true,
   "materialsAndTechniques": "sculpture",
   "contained_by_ensemble": {}
 }

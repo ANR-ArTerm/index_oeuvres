@@ -1,0 +1,35 @@
+{
+  "id": "LysippeZeusTarente",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Statue colossale de Zeus",
+  "creator": [
+    {
+      "xml_id": "Lysippe",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": -400,
+    "endYear": -300,
+    "text": "IVe siècle avant notre ère"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "Sculpture monumentale de Zeus en bronze décrite par Pline qui devait être située à Tarente.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-18T11:39:14.087490",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "complete_entry": true,
+  "materialsAndTechniques": "sculpture",
+  "contained_by_ensemble": {}
+}
