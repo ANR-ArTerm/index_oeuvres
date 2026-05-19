@@ -1,0 +1,46 @@
+{
+  "id": "TempleVenusRomeRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q430792",
+  "entry_type": "building",
+  "title": "Temple de Vénus et de Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 135,
+    "endYear": 625,
+    "text": "entre IIe et VIIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Tempel_Venus_Roma.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Rabax63 (https://commons.wikimedia.org/wiki/File:Tempel_Venus_Roma.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-19T11:43:22.604635",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "complete_entry": false,
+  "typology": "Temple",
+  "contained_by_ensemble": {}
+}
