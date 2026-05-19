@@ -33,8 +33,12 @@ document.addEventListener('keydown', function(e) {
 </script>
 """)
 
+st.set_page_config(page_title="SIFON", page_icon="🌪️", layout=None, initial_sidebar_state=None, menu_items=None)
+
+st.logo(image="🌪️", size="large", icon_image=None)
+
 st.set_page_config(layout="wide")
-st.title("🖼️ Editeur de notices d'oeuvres")
+st.title("🌪️ SIFON")
 
 # Initialisation des états
 if "active_menu" not in st.session_state:
