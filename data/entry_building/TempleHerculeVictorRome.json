@@ -1,0 +1,46 @@
+{
+  "id": "TempleHerculeVictorRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q576929",
+  "entry_type": "building",
+  "title": "Temple d'Hercule Victore à Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -120,
+    "endYear": -120,
+    "text": "IIe siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Temple_of_Hercules_%28Rome%29.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Livioandronico 2013 (https://commons.wikimedia.org/wiki/File:Temple_of_Hercules_(Rome).jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-19T12:27:34.604100",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "complete_entry": false,
+  "typology": "Temple",
+  "contained_by_ensemble": {}
+}
