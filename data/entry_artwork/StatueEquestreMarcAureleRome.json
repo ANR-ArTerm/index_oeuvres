@@ -19,12 +19,7 @@
     }
   },
   "related_works": [],
-  "bibliography": [
-    {
-      "zotero_key": "palladioandreaQuattroLibriDellarchitettura1980",
-      "location": "INHA"
-    }
-  ],
+  "bibliography": [],
   "illustrations": [
     {
       "id": 0,
@@ -40,6 +35,11 @@
     {
       "date": "2026-05-19T11:30:08.561986",
       "type": "created",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-05-19T12:02:02.637376",
+      "type": "modified",
       "author": "Nicolo"
     }
   ],

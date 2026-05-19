@@ -1,0 +1,46 @@
+{
+  "id": "TempleSerapisRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2288627",
+  "entry_type": "building",
+  "title": "Temple de Sérapis à Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 193,
+    "endYear": 235,
+    "text": "entre IIe et IIIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Palazzo_Colonna_-_Heemskerck.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, public domain, Maarten van Heemskerck (https://commons.wikimedia.org/wiki/File:Palazzo_Colonna_-_Heemskerck.jpg)",
+      "caption": "Maarten van Heemskerck, Palais Colonne avec des restes de l'ancien Temple de Sérapis, 1534-6, Kunstmuseum Dusseldorf"
+    }
+  ],
+  "description": "Dessin du XVIe siècle qui montre le restes du Temple de Sérapis à côté du Palais Colonna.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-19T12:13:08.328457",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "complete_entry": false,
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {}
+}
