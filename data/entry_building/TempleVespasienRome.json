@@ -1,0 +1,46 @@
+{
+  "id": "TempleVespasienRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q731284",
+  "entry_type": "building",
+  "title": "Temple de Vespasien à Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 81,
+    "endYear": 87,
+    "text": "Ie siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/RomaForoRomanoTempioVespasiano.JPG",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, public domain, MM (https://commons.wikimedia.org/wiki/File:RomaForoRomanoTempioVespasiano.JPG)",
+      "caption": "Les restes du Temple de Vespasien"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-19T12:59:52.080377",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "complete_entry": false,
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {}
+}
