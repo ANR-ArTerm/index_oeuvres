@@ -1,0 +1,49 @@
+{
+  "id": "StatueEquestreMarcAureleRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q907387",
+  "entry_type": "artwork",
+  "title": "Statue Equestre de Marc Aurèle à Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 173,
+    "endYear": 176,
+    "text": "IIe siècle"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Musée Capitolin",
+      "place": "Rome",
+      "inventory_number": "MC3247",
+      "url": "https://www.museicapitolini.org/it/percorsi/percorsi_per_sale/museo_del_palazzo_dei_conservatori/esedra_di_marco_aurelio/statua_equestre_di_marco_aurelio"
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "palladioandreaQuattroLibriDellarchitettura1980",
+      "location": "INHA"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Equestrian_statue_of_Marcus_Aurelius_%28Rome%29.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Merulana (https://commons.wikimedia.org/wiki/File:Equestrian_statue_of_Marcus_Aurelius_(Rome).jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-19T11:30:08.561986",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "complete_entry": false,
+  "materialsAndTechniques": "sculpture en bronze",
+  "contained_by_ensemble": {}
+}
