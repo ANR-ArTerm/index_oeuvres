@@ -1,0 +1,49 @@
+{
+  "id": "StudioloCosmeIMedicis",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3501045",
+  "entry_type": "ensemble",
+  "title": "Studiolo de Cosme Ier de Médicis",
+  "creator": [
+    {
+      "xml_id": "GiorgioVasari",
+      "role": "créateur du projet"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1545,
+    "endYear": 1560,
+    "text": "Entre 1545 et 1560 environ"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Palazzo Vecchio",
+      "place": "Florence",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Tesoretto_di_cosimo_I%2C_volta%2C_astronomia_01.JPG",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Sailko (https://commons.wikimedia.org/wiki/File:Tesoretto_di_cosimo_I,_volta,_astronomia_01.JPG)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-19T16:33:49.772314",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "complete_entry": false,
+  "typology": "ensemble décoratif",
+  "contains_works": []
+}
