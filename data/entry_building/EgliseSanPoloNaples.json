@@ -1,0 +1,46 @@
+{
+  "id": "EgliseSanPoloNaples",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q693174",
+  "entry_type": "building",
+  "title": "Eglise de Saint Polo à Naples",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 700,
+    "endYear": 1700,
+    "text": "entre VIIIe et XVIIIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Naples",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Basilica_San_Paolo_Maggiore_facciata_Napoli.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC-BY 2.5, Wolfang Moroder (https://commons.wikimedia.org/wiki/File:Basilica_San_Paolo_Maggiore_facciata_Napoli.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-19T15:20:42.128621",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "complete_entry": false,
+  "typology": "église",
+  "contained_by_ensemble": {}
+}
