@@ -1,0 +1,49 @@
+{
+  "id": "BasiliqueDeMaxenxeConstantinRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1438",
+  "entry_type": "building",
+  "title": "Basilique de Maxence et Constantin à Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 308,
+    "endYear": 312,
+    "text": "IVe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Largest_Arches_02.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons,  CC BY-SA 2.0, MumblerJamie (https://commons.wikimedia.org/wiki/File:Largest_Arches_02.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-19T11:17:29.521871",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "complete_entry": false,
+  "typology": "BasiliqueCivile",
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}
