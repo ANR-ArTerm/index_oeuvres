@@ -1,0 +1,51 @@
+{
+  "id": "MausoleeSainteCostanceRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q831361",
+  "entry_type": "building",
+  "title": "Mausolée de Sainte Costance",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 340,
+    "endYear": 345,
+    "text": "IVe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "BasiliqueSainteAgnesHorsLesMursRome"
+    }
+  ],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Mausoleo_di_Santa_Costanza_-_esterno.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY 4.0, Grosseto 2 (https://commons.wikimedia.org/wiki/File:Mausoleo_di_Santa_Costanza_-_esterno.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-19T14:57:04.893719",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "complete_entry": false,
+  "typology": "mausolée",
+  "contained_by_ensemble": {}
+}
