@@ -110,6 +110,30 @@ def render_search_entries_all():
         on_change=reset_all_page
     ).lower()
 
+    # Recherche avancée
+    with st.expander("🔎 Recherche avancée"):
+
+        col_a, col_b = st.columns([1, 2])
+
+        with col_a:
+            part_entry = st.selectbox(
+                "Chercher dans",
+                [
+                    "commentary",
+                    "title",
+                    "typology",
+                    "materialsAndTechniques",
+                    "creator"
+                ],
+                key="advanced_part"
+            )
+
+        with col_b:
+            advanced_search = st.text_input(
+                "Texte à rechercher",
+                key="advanced_search"
+            ).lower()        
+
     filtered = index
 
     # filtre par type
@@ -131,6 +155,32 @@ def render_search_entries_all():
         filtered = [i for i in filtered if not i["o"].get("complete_entry", False)]
     elif complete_notice == "✅ Notices achevées":
         filtered = [i for i in filtered if i["o"].get("complete_entry", False)]
+
+    # filtre recherche avancée
+    if advanced_search:
+
+        def match_advanced(entry):
+
+            # cas creator = liste de dictionnaires
+            if part_entry == "creator":
+
+                creators = entry["o"].get("creator", [])
+
+                return any(
+                    advanced_search in str(value).lower()
+                    for creator in creators
+                    for value in creator.values()
+                )
+
+            # cas normal
+            return advanced_search in str(
+                entry["o"].get(part_entry, "")
+            ).lower()
+
+        filtered = [
+            i for i in filtered
+            if match_advanced(i)
+        ]
 
     if not filtered:
         st.info("Aucun résultat trouvé.")
