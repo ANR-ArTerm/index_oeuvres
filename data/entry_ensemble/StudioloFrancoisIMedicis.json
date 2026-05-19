@@ -1,0 +1,65 @@
+{
+  "id": "StudioloFrancoisIMedicis",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1089115",
+  "entry_type": "ensemble",
+  "title": "Studiolo de François Ier de Médicis",
+  "creator": [
+    {
+      "xml_id": "VincenzoBorghini",
+      "role": "peintre"
+    },
+    {
+      "xml_id": "JanVanDerStraet",
+      "role": "peintre"
+    },
+    {
+      "xml_id": "GiorgioVasari",
+      "role": "créateur du projet"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1570,
+    "endYear": 1572,
+    "text": "Entre 1570 et 1572"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Palazzo Vecchio",
+      "place": "Florence",
+      "inventory_number": "",
+      "url": ""
+    },
+    "place": {
+      "city": null,
+      "country": null,
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Vista_del_Studiolo_de_Francisco_I.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, domaine public, MenkinAlRire, (https://commons.wikimedia.org/wiki/File:Vista_del_Studiolo_de_Francisco_I.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-19T16:29:25.311515",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "complete_entry": false,
+  "typology": "ensemble décoratif",
+  "contains_works": []
+}
