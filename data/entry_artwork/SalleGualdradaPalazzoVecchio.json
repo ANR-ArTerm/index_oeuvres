@@ -1,0 +1,53 @@
+{
+  "id": "SalleGualdradaPalazzoVecchio",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q111975926",
+  "entry_type": "artwork",
+  "title": "Salle de Gualdrada",
+  "creator": [
+    {
+      "xml_id": "GiorgioVasari",
+      "role": "peintre"
+    },
+    {
+      "xml_id": "GiovanbattistaTasso",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1539,
+    "endYear": 1564,
+    "text": "1539-1564"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Palazzo Vecchio",
+      "place": "Florence",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Sala_di_gualdrada%2C_soffitto_01.JPG",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Sailko, (https://commons.wikimedia.org/wiki/File:Sala_di_gualdrada,_soffitto_01.JPG)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-19T17:01:50.340945",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "complete_entry": false,
+  "materialsAndTechniques": null,
+  "contained_by_ensemble": {}
+}
