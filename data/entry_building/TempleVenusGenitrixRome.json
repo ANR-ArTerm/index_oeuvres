@@ -1,0 +1,46 @@
+{
+  "id": "TempleVenusGenitrixRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2459870",
+  "entry_type": "building",
+  "title": "Temple de Vénus Genitrix à Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -46,
+    "endYear": 80,
+    "text": "entre Ie siecle av. J.-C. et Ie siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/The_Forum_of_Caesar_%28built_near_the_Forum_Romanum_in_Rome_in_46_BC%29_and_the_Temple_of_Venus_Genetrix%2C_Imperial_Forums%2C_Rome_%2821101482544%29.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 2.0, Carole Raddato (https://commons.wikimedia.org/wiki/File:The_Forum_of_Caesar_(built_near_the_Forum_Romanum_in_Rome_in_46_BC)_and_the_Temple_of_Venus_Genetrix,_Imperial_Forums,_Rome_(21101482544).jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-19T15:31:40.567958",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "complete_entry": false,
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {}
+}

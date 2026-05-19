@@ -38,9 +38,14 @@
       "date": "2026-04-22T10:53:09.570326",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-05-19T15:26:51.078688",
+      "type": "modified",
+      "author": "Nicolo"
     }
   ],
-  "typology": "Temple",
+  "typology": "monument imaginaire ou disparu",
   "contained_by_ensemble": {},
   "complete_entry": false
 }
