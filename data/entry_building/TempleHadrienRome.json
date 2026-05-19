@@ -1,0 +1,46 @@
+{
+  "id": "TempleHadrienRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q431062",
+  "entry_type": "building",
+  "title": "Temple d'Hadrien à Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 100,
+    "endYear": 200,
+    "text": "IIe siecle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Temple_Hadrien_-_Rome_%28IT62%29_-_2021-08-28_-_1.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Chabe01 (https://commons.wikimedia.org/wiki/File:Temple_Hadrien_-_Rome_(IT62)_-_2021-08-28_-_1.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "Le temple n'existe plus mais la colonade est incorporé à un palais",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-19T12:37:11.502623",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "complete_entry": false,
+  "typology": "Temple",
+  "contained_by_ensemble": {}
+}
