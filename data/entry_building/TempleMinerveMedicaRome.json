@@ -38,9 +38,14 @@
       "date": "2026-05-06T15:03:13.067412",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-05-19T15:36:30.584238",
+      "type": "modified",
+      "author": "Nicolo"
     }
   ],
-  "typology": null,
+  "typology": "Nymphée",
   "contained_by_ensemble": {},
   "complete_entry": false
 }
