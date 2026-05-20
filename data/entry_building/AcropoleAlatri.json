@@ -1,0 +1,46 @@
+{
+  "id": "AcropoleAlatri",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3604769",
+  "entry_type": "building",
+  "title": "Acropole d'Alatri",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Alatri",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/La_Porta_Maggiore_-_panoramio.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY 3.0, pietro scerrato (https://commons.wikimedia.org/wiki/File:La_Porta_Maggiore_-_panoramio.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-20T11:24:29.932377",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "complete_entry": false,
+  "typology": null,
+  "contained_by_ensemble": {}
+}
