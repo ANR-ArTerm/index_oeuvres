@@ -1,0 +1,46 @@
+{
+  "id": "TempleNabuPalmyre",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q21129741",
+  "entry_type": "building",
+  "title": "Temple de  Nabû à Palmyre",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 75,
+    "endYear": 100,
+    "text": "Ie siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Palmyre",
+      "country": "Syrie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Temple_of_Nabu%2C_Palmira%2C_HPIM3168_deriv.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Mappo and Stegop (https://commons.wikimedia.org/wiki/File:Temple_of_Nabu,_Palmira,_HPIM3168_deriv.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-20T13:41:34.063533",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "complete_entry": false,
+  "typology": "Temple",
+  "contained_by_ensemble": {}
+}
