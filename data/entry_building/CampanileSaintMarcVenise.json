@@ -20,14 +20,19 @@
       }
     }
   },
-  "related_works": [],
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "BasiliqueSaintMarcVenise"
+    }
+  ],
   "bibliography": [],
   "illustrations": [
     {
       "id": 0,
-      "url": "",
-      "storage": "",
-      "copyright": "Wikimedia Commons, © Orlando Paride, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Campanile_of_St._Mark%27s_Basilica_-_remote_view.jpg)",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Campanile_of_St._Mark%27s_Basilica_-_remote_view.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0   Orlando Paride, (https://commons.wikimedia.org/wiki/File:Campanile_of_St._Mark%27s_Basilica_-_remote_view.jpg)",
       "caption": ""
     }
   ],
@@ -38,6 +43,11 @@
       "date": "2026-03-17T11:58:05.962892",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-05-20T11:54:13.849175",
+      "type": "modified",
+      "author": "Nicolo"
     }
   ],
   "typology": "Tour",
