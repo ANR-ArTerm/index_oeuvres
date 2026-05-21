@@ -5,16 +5,16 @@
   "title": "Tableau représentant Hélène",
   "creator": [],
   "dateCreated": {
-    "startYear": "-370",
-    "endYear": "-306",
+    "startYear": -370,
+    "endYear": -306,
     "text": "Du vivant d'Apelle : 370-306 av J.-C. "
   },
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": "œuvre imaginaire ou disparue",
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": "",
-      "place": "",
+      "name": null,
+      "place": null,
       "inventory_number": "",
       "url": ""
     }
@@ -34,7 +34,13 @@
       "date": "2026-01-13T13:52:10.272191",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-05-21T10:43:58.783107",
+      "type": "modified",
+      "author": "Pierre"
     }
   ],
-  "complete_entry": false
+  "complete_entry": false,
+  "contained_by_ensemble": {}
 }
