@@ -1,0 +1,38 @@
+{
+  "id": "TempleJupiterCapitolinRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q586468",
+  "entry_type": "building",
+  "title": "Temple de Jupiter Capitolin à Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -600,
+    "endYear": -500,
+    "text": "Vie siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-21T11:30:31.484107",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "complete_entry": false,
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {}
+}
