@@ -5,7 +5,11 @@
   "creator": [
     {
       "xml_id": "AndreaMantegna",
-      "role": "graveur"
+      "role": "graveur (?)"
+    },
+    {
+      "xml_id": "AndreaMantegna",
+      "role": "auteur du modèle"
     }
   ],
   "entry_type": "artwork",
@@ -33,7 +37,13 @@
       "date": "2026-03-06T14:48:18.466866",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-05-21T11:57:36.479608",
+      "type": "modified",
+      "author": "Pierre"
     }
   ],
-  "complete_entry": false
+  "complete_entry": false,
+  "contained_by_ensemble": {}
 }

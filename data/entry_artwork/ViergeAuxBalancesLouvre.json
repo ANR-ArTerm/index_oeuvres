@@ -9,12 +9,12 @@
     "endYear": null,
     "text": ""
   },
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": "huile sur bois transposée sur toile",
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": "",
-      "place": "",
+      "name": null,
+      "place": null,
       "inventory_number": "",
       "url": "https://collections.louvre.fr/ark:/53355/cl010066558"
     }
@@ -29,7 +29,13 @@
       "date": "2026-01-15T16:40:40.439713",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-05-21T11:58:59.609261",
+      "type": "modified",
+      "author": "Pierre"
     }
   ],
-  "complete_entry": false
+  "complete_entry": false,
+  "contained_by_ensemble": {}
 }
