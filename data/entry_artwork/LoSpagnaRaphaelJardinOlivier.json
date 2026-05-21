@@ -5,7 +5,7 @@
   "title": "Copie du Jardin des oliviers Raphael",
   "creator": [
     {
-      "xml_id": "LoSpagna",
+      "xml_id": "GiovanniDiPietro",
       "role": "peintre"
     },
     {
@@ -18,12 +18,12 @@
     "endYear": null,
     "text": ""
   },
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": "huile sur bois",
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": "",
-      "place": "",
+      "name": null,
+      "place": null,
       "inventory_number": "",
       "url": "https://www.nationalgallery.org.uk/paintings/probably-by-lo-spagna-the-agony-in-the-garden"
     }
@@ -38,7 +38,13 @@
       "date": "2026-01-15T16:40:40.185237",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-05-21T11:52:46.772663",
+      "type": "modified",
+      "author": "Pierre"
     }
   ],
-  "complete_entry": false
+  "complete_entry": false,
+  "contained_by_ensemble": {}
 }
