@@ -5,7 +5,11 @@
   "title": "Baptême du Christ",
   "creator": [
     {
-      "xml_id": "Verrocchio",
+      "xml_id": "AndreaVerrocchio",
+      "role": "peintre"
+    },
+    {
+      "xml_id": "LeonardoDaVinci",
       "role": "peintre"
     }
   ],
@@ -14,12 +18,12 @@
     "endYear": null,
     "text": ""
   },
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": "huile et détrempe sur bois",
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": "",
-      "place": "",
+      "name": null,
+      "place": null,
       "inventory_number": "",
       "url": ""
     }
@@ -39,7 +43,13 @@
       "date": "2026-01-15T16:40:40.384174",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-05-21T11:41:25.208146",
+      "type": "modified",
+      "author": "Pierre"
     }
   ],
-  "complete_entry": false
+  "complete_entry": false,
+  "contained_by_ensemble": {}
 }
