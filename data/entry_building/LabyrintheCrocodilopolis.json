@@ -1,0 +1,38 @@
+{
+  "id": "LabyrintheCrocodilopolis",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3825160",
+  "entry_type": "building",
+  "title": "Labyrinthe de Crocodilopolis",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -1842,
+    "endYear": -1797,
+    "text": "XIXe siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Hawara",
+      "country": "Egypte",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-21T15:08:12.119740",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "complete_entry": false,
+  "typology": "Labyrinthe",
+  "contained_by_ensemble": {}
+}
