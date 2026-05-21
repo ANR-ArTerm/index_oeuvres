@@ -14,15 +14,9 @@
     "endYear": null,
     "text": ""
   },
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": "burin",
   "location": {
-    "type": "holding_institution",
-    "institution": {
-      "name": "",
-      "place": "",
-      "inventory_number": "",
-      "url": ""
-    }
+    "type": "multiple_locations"
   },
   "related_works": [],
   "bibliography": [
