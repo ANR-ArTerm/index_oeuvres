@@ -1,0 +1,38 @@
+{
+  "id": "ForumBoariumRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q283650",
+  "entry_type": "building",
+  "title": "Forum Boarium à Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-26T15:25:39.306443",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "complete_entry": false,
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {}
+}
