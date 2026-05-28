@@ -3,12 +3,7 @@
   "QID_wikidata": "https://www.wikidata.org/wiki/Q3604769",
   "entry_type": "building",
   "title": "Acropole d'Alatri",
-  "creator": [
-    {
-      "xml_id": null,
-      "role": null
-    }
-  ],
+  "creator": [],
   "dateCreated": {
     "startYear": null,
     "endYear": null,
@@ -61,6 +56,11 @@
     },
     {
       "date": "2026-05-28T14:24:38.755229",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-05-28T16:28:43.274735",
       "type": "modified",
       "author": "Jules"
     }

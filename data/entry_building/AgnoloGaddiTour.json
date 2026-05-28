@@ -7,6 +7,10 @@
     {
       "xml_id": "Giotto",
       "role": "architecte"
+    },
+    {
+      "xml_id": "AgnoloGaddi",
+      "role": "architecte"
     }
   ],
   "dateCreated": {
@@ -52,6 +56,11 @@
     },
     {
       "date": "2026-05-28T14:32:31.500019",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-05-28T16:34:43.511898",
       "type": "modified",
       "author": "Jules"
     }
