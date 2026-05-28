@@ -2,6 +2,7 @@ import os
 from pathlib import Path
 import time
 import streamlit as st
+from modules.form.status_entry import STATUS_ENTRY_OPTIONS
 from modules.search.search_artwork import normalize_notice_artwork
 from modules.search.search_building import normalize_notice_architecture
 from modules.search.search_ensemble import normalize_notice_ensemble
@@ -89,7 +90,13 @@ def render_search_entries_all():
         )
     
     with col_2:
-        complete_notice = st.selectbox("Statut des notices", ["♾️ Toutes les notices", "🔴 Notices incomplètes", "✅ Notices achevées"])
+        status_filter_options = {"♾️ Toutes les notices": None} | {
+            f"{v}": k for k, v in STATUS_ENTRY_OPTIONS.items()
+        }
+        complete_notice = st.selectbox(
+            "Statut des notices",
+            options=list(status_filter_options.keys()),
+        )
 
     ENTRY_TYPE_MAP = {
         "🖼️ Œuvre (artwork)": "artwork",
@@ -151,10 +158,11 @@ def render_search_entries_all():
         ]
     
     # filtre par statut de complétude
-    if complete_notice == "🔴 Notices incomplètes":
-        filtered = [i for i in filtered if not i["o"].get("complete_entry", False)]
-    elif complete_notice == "✅ Notices achevées":
-        filtered = [i for i in filtered if i["o"].get("complete_entry", False)]
+    if status_filter_options[complete_notice] is not None:
+        filtered = [
+            i for i in filtered
+            if int(i["o"].get("status_entry") or 0) == status_filter_options[complete_notice]
+        ]
 
     # filtre recherche avancée
     if advanced_search:
@@ -247,8 +255,14 @@ def render_search_entries_all():
                         time.sleep(1)
                         st.rerun()
 
-                complete_icon = "✅" if d.get("complete_entry") else "🔴"
-                st.text(f"{complete_icon} {d['title']}")
+                status_entry = int(d.get("status_entry") or 0)
+                if status_entry == 8:
+                    status_icon = "✅"
+                elif status_entry == 0:
+                    status_icon = "🔴"
+                else:
+                    status_icon = "📝"
+                st.text(f"{status_icon} {d['title']}")
                 creators = [
                     str(c) for c in d.get("creators_display", [])
                     if c is not None and str(c).strip() != ""
