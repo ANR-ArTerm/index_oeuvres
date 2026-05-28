@@ -38,9 +38,14 @@
       "date": "2026-04-09T11:19:31.661377",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-05-28T14:53:53.635428",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "Arc",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
