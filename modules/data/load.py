@@ -358,7 +358,7 @@ def load_list_form(*keys: str):
 
     return merged
 
-
+"""
 def save_to_list_form(key: str, value: str):
     if key not in LIST_FORM:
         raise ValueError(f"Clé inconnue : {key}")
@@ -377,6 +377,7 @@ def save_to_list_form(key: str, value: str):
         data.append(value)
         with open(path, "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
+"""
 
 def save_to_list_form_git(key: str, value: str):
     if key not in LIST_FORM:

@@ -8,9 +8,9 @@ from modules.data.load import (load_notice,
                                load_list_form, 
                                index_username, 
                                get_all_objects_ids_flat_sorted, 
-                               save_image, 
-                               save_to_list_form, 
+                               save_image,  
                                save_to_list_form_git)
+
 from modules.form.status_entry import STATUS_ENTRY_OPTIONS
 from modules.utils.functions import safe_int
 from modules.form.components import exemple_desc_image
