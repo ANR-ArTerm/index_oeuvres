@@ -7,7 +7,7 @@
   "dateCreated": {
     "startYear": 0,
     "endYear": 100,
-    "text": "Ie siècle"
+    "text": "Ier siècle"
   },
   "location": {
     "type": "place",
@@ -38,9 +38,19 @@
       "date": "2026-04-22T14:24:55.462138",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-05-28T14:44:03.280096",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-05-28T14:44:26.600099",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "Amphitheatre",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }

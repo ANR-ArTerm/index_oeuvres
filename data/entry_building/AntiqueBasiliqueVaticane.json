@@ -2,7 +2,7 @@
   "id": "AntiqueBasiliqueVaticane",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q810126",
   "entry_type": "building",
-  "title": "Antique Basilique de Saint Pierre an Vatican",
+  "title": "Antique Basilique de Saint Pierre au Vatican",
   "creator": [],
   "dateCreated": {
     "startYear": 319,
@@ -38,9 +38,14 @@
       "date": "2026-05-20T11:42:17.265356",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-05-28T14:48:26.118111",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "monument imaginaire ou disparu",
   "contained_by_ensemble": {}
 }
