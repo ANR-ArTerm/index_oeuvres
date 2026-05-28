@@ -38,9 +38,14 @@
       "date": "2026-05-20T11:51:32.223974",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-05-28T15:40:19.067317",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "basilique",
   "contained_by_ensemble": {}
 }
