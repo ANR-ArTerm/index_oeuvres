@@ -5,15 +5,15 @@
   "title": "Bibliothèque Ambrosienne",
   "creator": [
     {
+      "xml_id": "FabioMangone",
+      "role": "architecte"
+    },
+    {
       "xml_id": "LelioBuzzi",
       "role": "architecte"
     },
     {
       "xml_id": "FrancescoMariaRichini",
-      "role": "architecte"
-    },
-    {
-      "xml_id": "FabioMangone",
       "role": "architecte"
     }
   ],
@@ -64,8 +64,13 @@
       "date": "2026-05-28T17:09:37.696630",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-05-28T17:12:11.968785",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "contained_by_ensemble": {}
 }
