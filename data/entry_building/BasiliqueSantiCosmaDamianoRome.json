@@ -3,7 +3,16 @@
   "QID_wikidata": "https://www.wikidata.org/wiki/Q675513",
   "entry_type": "building",
   "title": "Basilique Santi Cosma e Damiano",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "TorrianiOrazio",
+      "role": "créateur du projet"
+    },
+    {
+      "xml_id": "ArrigucciLuigi",
+      "role": "architecte"
+    }
+  ],
   "dateCreated": {
     "startYear": 500,
     "endYear": 1700,
@@ -48,9 +57,19 @@
       "date": "2026-04-23T14:55:50.386751",
       "type": "modified",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-05-28T16:45:31.804510",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-05-28T16:49:49.353298",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "typology": "église",
+  "typology": "basilique",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
