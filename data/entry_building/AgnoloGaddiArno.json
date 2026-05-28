@@ -1,6 +1,6 @@
 {
   "id": "AgnoloGaddiArno",
-  "QID_wikidata": "",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q208633",
   "entry_type": "building",
   "title": "Ponte Vecchio traversant l'Arno",
   "creator": [
@@ -28,7 +28,15 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Ponte_Vecchio_sobre_el_río_Arno%2C_Florencia%2C_Italia%2C_2022-09-19%2C_DD_02.jpg",
+      "copyright": "Wikimédia Commons, CC BY-SA 4.0, Diego Delso (https://commons.wikimedia.org/wiki/File:Ponte_Vecchio_sobre_el_río_Arno,_Florencia,_Italia,_2022-09-19,_DD_02.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -41,6 +49,11 @@
       "date": "2026-05-11T11:19:33.019017",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-05-28T14:18:47.233337",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "contained_by_ensemble": {},

@@ -3,11 +3,16 @@
   "QID_wikidata": "https://www.wikidata.org/wiki/Q3604769",
   "entry_type": "building",
   "title": "Acropole d'Alatri",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": null,
+      "role": null
+    }
+  ],
   "dateCreated": {
     "startYear": null,
     "endYear": null,
-    "text": ""
+    "text": "VIIème siècle avant J.-C."
   },
   "location": {
     "type": "place",
@@ -32,12 +37,22 @@
     }
   ],
   "description": "",
-  "commentary": "",
+  "commentary": "ajout du terme \"acropole\" ?",
   "history": [
     {
       "date": "2026-05-20T11:24:29.932377",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-05-28T11:53:10.509746",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-05-28T14:01:22.641780",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "status_entry": 0,
