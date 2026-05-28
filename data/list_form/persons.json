@@ -618,6 +618,7 @@
     "CosimoRucellai",
     "CosmeDeMedicis",
     "CostanzaSforza",
+    "CratesDeMallos",
     "Cresus",
     "CristofanoAllori",
     "CristoforoDaFerrara",
@@ -860,6 +861,7 @@
     "FrancescoVillamena",
     "Franciabigio",
     "FrancisCottington",
+    "FranciscoCollantes",
     "FranciscoDeMelo",
     "FranciscoLopezDeGomara",
     "FranciscusJunius",
@@ -2296,6 +2298,7 @@
     "Titien",
     "Titus",
     "TitusAtticus",
+    "TitusLabienus",
     "TitusTatius",
     "Tityos",
     "TizianoAspetti",
@@ -2377,5 +2380,6 @@
     "Zorus",
     "Zuccaro",
     "anonyme",
-    "gabrielli"
+    "gabrielli",
+    "Œnone"
 ]
