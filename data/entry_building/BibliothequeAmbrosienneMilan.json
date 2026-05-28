@@ -3,18 +3,31 @@
   "QID_wikidata": "https://www.wikidata.org/wiki/Q815611",
   "entry_type": "building",
   "title": "Bibliothèque Ambrosienne",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "LelioBuzzi",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "FrancescoMariaRichini",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "FabioMangone",
+      "role": "architecte"
+    }
+  ],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1609,
+    "endYear": 1923,
+    "text": "XVIIe "
   },
-  "typology": "",
+  "typology": "Bibliothèque",
   "location": {
     "type": "place",
     "place": {
-      "city": "",
-      "country": "",
+      "city": "Milan",
+      "country": "Italie",
       "coordinates": {
         "latitude": "",
         "longitude": ""
@@ -23,7 +36,22 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Milan_Biblioteca_Ambrosiana_016_4839.jpg",
+      "copyright": "Wikimédia Commons. CC BY-SA 4.0,  Ludvig14 (https://commons.wikimedia.org/wiki/File:Milan_Biblioteca_Ambrosiana_016_4839.jpg)",
+      "caption": "",
+      "storage": "online"
+    },
+    {
+      "id": 1,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Milano_-_Pinacoteca_Ambrosiana_-_2024-09-20_18-44-45_001.jpg",
+      "copyright": "Wikimedia Commons, CC BA-4.0, Pietroarco (https://commons.wikimedia.org/wiki/File:Milano_-_Pinacoteca_Ambrosiana_-_2024-09-20_18-44-45_001.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -31,7 +59,13 @@
       "date": "2026-01-20T11:47:35.459673",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-05-28T17:09:37.696630",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 0,
+  "contained_by_ensemble": {}
 }
