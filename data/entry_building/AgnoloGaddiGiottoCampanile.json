@@ -1,5 +1,5 @@
 {
-  "id": "AgnoloGaddiTour",
+  "id": "AgnoloGaddiGiottoCampanile",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q1140023",
   "entry_type": "building",
   "title": "Campanile de Santa Maria del Fiore",
@@ -61,6 +61,11 @@
     },
     {
       "date": "2026-05-28T16:34:43.511898",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-05-28T16:38:22.509402",
       "type": "modified",
       "author": "Jules"
     }
