@@ -1,6 +1,6 @@
 {
   "id": "AgnoloGaddiTour",
-  "QID_wikidata": "",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1140023",
   "entry_type": "building",
   "title": "Campanile de Santa Maria del Fiore",
   "creator": [
@@ -28,7 +28,15 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Catedral%2C_Florencia%2C_Italia%2C_2022-09-19%2C_DD_95.jpg",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Diego Delso (https://commons.wikimedia.org/wiki/File:Catedral,_Florencia,_Italia,_2022-09-19,_DD_95.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -41,7 +49,13 @@
       "date": "2026-01-13T16:51:45.252029",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-05-28T14:32:31.500019",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }

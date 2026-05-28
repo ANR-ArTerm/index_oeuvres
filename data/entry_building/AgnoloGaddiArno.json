@@ -33,7 +33,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Ponte_Vecchio_sobre_el_río_Arno%2C_Florencia%2C_Italia%2C_2022-09-19%2C_DD_02.jpg",
       "copyright": "Wikimédia Commons, CC BY-SA 4.0, Diego Delso (https://commons.wikimedia.org/wiki/File:Ponte_Vecchio_sobre_el_río_Arno,_Florencia,_Italia,_2022-09-19,_DD_02.jpg)",
-      "caption": "",
+      "caption": "Ponte Vecchio sobre el río Arno, Florencia, Italia, 2022-09-19",
       "storage": "online"
     }
   ],
@@ -54,8 +54,13 @@
       "date": "2026-05-28T14:18:47.233337",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-05-28T14:26:15.761906",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }

@@ -53,9 +53,19 @@
       "date": "2026-05-28T14:01:22.641780",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-05-28T14:23:55.339255",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-05-28T14:24:38.755229",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
-  "typology": null,
+  "status_entry": 1,
+  "typology": "Temple",
   "contained_by_ensemble": {}
 }
