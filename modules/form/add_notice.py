@@ -10,6 +10,8 @@ from modules.wikidata.queries import get_monument_data
 
 from modules.form.components import exemple_desc_image
 
+from modules.form.status_entry import STATUS_ENTRY_OPTIONS
+
 def init_empty_notice(xml_id, entry_type):
     return {
         "id": xml_id,
@@ -29,7 +31,7 @@ def init_empty_notice(xml_id, entry_type):
         "description": "",
         "commentary": "",
         "history": [],
-        "complete_entry":""
+        "status_entry":0
     }
 
 def add_creator(xml_id, creator, idx, type_entry):
@@ -893,7 +895,15 @@ def add_notice():
     # Statut de la notice
     # =========================    
 
-    notice["complete_entry"]=st.checkbox("Notice achevée")
+    notice["status_entry"] = st.selectbox(
+        "Statut de la notice",
+        options=list(STATUS_ENTRY_OPTIONS.keys()),
+        format_func=lambda x: STATUS_ENTRY_OPTIONS[x],
+        index=list(STATUS_ENTRY_OPTIONS.keys()).index(
+            int(notice["status_entry"]) if notice.get("status_entry") not in (None, "") else 0
+        ),
+    )
+
 
     # =========================
     # SAUVEGARDE

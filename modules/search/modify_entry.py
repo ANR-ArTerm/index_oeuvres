@@ -11,6 +11,7 @@ from modules.data.load import (load_notice,
                                save_image, 
                                save_to_list_form, 
                                save_to_list_form_git)
+from modules.form.status_entry import STATUS_ENTRY_OPTIONS
 from modules.utils.functions import safe_int
 from modules.form.components import exemple_desc_image
 
@@ -713,7 +714,14 @@ def edit_json_notice(json_path=None, data=None):
     notice["description"] = st.text_area("Description", notice.get("description", ""))
     notice["commentary"] = st.text_area("Commentaire", notice.get("commentary", ""))
 
-    notice["complete_entry"]=st.checkbox("Notice achevée")
+    notice["status_entry"] = st.selectbox(
+        "Statut de la notice",
+        options=list(STATUS_ENTRY_OPTIONS.keys()),
+        format_func=lambda x: STATUS_ENTRY_OPTIONS[x],
+        index=list(STATUS_ENTRY_OPTIONS.keys()).index(
+            int(notice["status_entry"]) if notice.get("status_entry") not in (None, "") else 0
+        ),
+    )
  
     # Boutons d'action
     st.divider()
