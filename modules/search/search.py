@@ -2,7 +2,7 @@ import os
 from pathlib import Path
 import time
 import streamlit as st
-from modules.form.status_entry import STATUS_ENTRY_OPTIONS
+from modules.status_entry import STATUS_ENTRY_OPTIONS
 from modules.search.search_artwork import normalize_notice_artwork
 from modules.search.search_building import normalize_notice_architecture
 from modules.search.search_ensemble import normalize_notice_ensemble

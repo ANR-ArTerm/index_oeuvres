@@ -10,7 +10,7 @@ from modules.wikidata.queries import get_monument_data
 
 from modules.form.components import exemple_desc_image
 
-from modules.form.status_entry import STATUS_ENTRY_OPTIONS
+from modules.status_entry import STATUS_ENTRY_OPTIONS
 
 def init_empty_notice(xml_id, entry_type):
     return {

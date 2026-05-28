@@ -29,14 +29,6 @@
       "place": "Florence",
       "inventory_number": "",
       "url": ""
-    },
-    "place": {
-      "city": null,
-      "country": null,
-      "coordinates": {
-        "latitude": "",
-        "longitude": ""
-      }
     }
   },
   "related_works": [],

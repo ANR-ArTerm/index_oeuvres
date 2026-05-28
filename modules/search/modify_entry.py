@@ -11,7 +11,7 @@ from modules.data.load import (load_notice,
                                save_image,  
                                save_to_list_form_git)
 
-from modules.form.status_entry import STATUS_ENTRY_OPTIONS
+from modules.status_entry import STATUS_ENTRY_OPTIONS
 from modules.utils.functions import safe_int
 from modules.form.components import exemple_desc_image
 
