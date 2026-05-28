@@ -5,16 +5,16 @@
   "title": "Basilique Saint Augustin",
   "creator": [],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1479,
+    "endYear": 1483,
+    "text": "1479-1483"
   },
-  "typology": "",
+  "typology": "basilique",
   "location": {
     "type": "place",
     "place": {
-      "city": "",
-      "country": "",
+      "city": "Rome",
+      "country": "Italie",
       "coordinates": {
         "latitude": "",
         "longitude": ""
@@ -23,7 +23,15 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Sant%27Agostino%2C_Rome.jpg",
+      "copyright": "Wikimedia Commons, CC0, Wilfredor (https://commons.wikimedia.org/wiki/File:Sant%27Agostino,_Rome.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -31,7 +39,13 @@
       "date": "2026-01-20T11:47:35.253429",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-05-28T15:34:55.668585",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }
