@@ -5,11 +5,11 @@
   "title": "Le groupe du Laocoon",
   "creator": [
     {
-      "xml_id": "Agésandros",
+      "xml_id": "Agesandros",
       "role": "auteur de la sculpture originale"
     },
     {
-      "xml_id": "Athénodore",
+      "xml_id": "Athenodore",
       "role": "auteur de la sculpture originale"
     },
     {
@@ -54,6 +54,16 @@
       "date": "2026-04-15T12:03:01.613362",
       "type": "modified",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-05-28T16:59:25.091019",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-05-28T17:03:26.879091",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
   "materialsAndTechniques": "Sculpture en marbre",
