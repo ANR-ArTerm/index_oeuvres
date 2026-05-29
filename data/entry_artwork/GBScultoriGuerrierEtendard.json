@@ -11,9 +11,9 @@
   "entry_type": "artwork",
   "materialsAndTechniques": "burin",
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1530,
+    "endYear": 1575,
+    "text": "vers 1530-1575"
   },
   "location": {
     "type": "multiple_locations"
@@ -25,7 +25,15 @@
       "location": "n° 16 (382)"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://api.nakala.fr/data/10.34847/nkl.b411l6lu/6a3c95f2c84dd056ff17d25c10c3aa1d45237fa0",
+      "copyright": "",
+      "caption": "Bibliothèque nationale de France, EB-14 (B, 1)-FOL.",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "Manque l'image",
   "history": [
@@ -36,6 +44,11 @@
     },
     {
       "date": "2026-05-29T12:05:18.382609",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-05-29T16:44:16.967746",
       "type": "modified",
       "author": "Pierre"
     }
