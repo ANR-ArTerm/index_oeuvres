@@ -1,0 +1,62 @@
+{
+  "id": "LEnlevementdesSabines",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3545179",
+  "entry_type": "artwork",
+  "title": "L'Enlèvement des Sabines",
+  "creator": [
+    {
+      "xml_id": "Giambologna",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1579,
+    "endYear": 1583,
+    "text": "1579–1583"
+  },
+  "location": {
+    "type": "place",
+    "institution": {
+      "name": null,
+      "place": null,
+      "inventory_number": "",
+      "url": ""
+    },
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "pope-hennessyIntroductionItalianSculpture1996",
+      "location": "pp. 146-152, 489-490"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Giambologna_raptodasabina.jpg",
+      "storage": "online",
+      "copyright": "CC BY-SA 3.0, Tetraktys, https://commons.wikimedia.org/wiki/File:Giambologna_raptodasabina.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-29T14:34:21.449968",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "Sculpture en marbre",
+  "contained_by_ensemble": {}
+}
