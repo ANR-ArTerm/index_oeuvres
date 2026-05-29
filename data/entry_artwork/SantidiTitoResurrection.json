@@ -23,7 +23,12 @@
       "url": ""
     }
   },
-  "related_works": [],
+  "related_works": [
+    {
+      "link_type": "appartient au même ensemble",
+      "xml_id_work": "BasiliqueSantaCroceFlorence"
+    }
+  ],
   "bibliography": [
     {
       "zotero_key": "spaldingObservationsSantiDi1978",
@@ -49,6 +54,11 @@
     {
       "date": "2026-05-29T16:09:19.953804",
       "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-05-29T16:12:59.889439",
+      "type": "modified",
       "author": "Elisa"
     }
   ],
