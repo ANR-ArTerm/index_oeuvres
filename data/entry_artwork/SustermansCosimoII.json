@@ -5,30 +5,35 @@
   "title": "Portrait de Cosimo II",
   "creator": [
     {
-      "xml_id": null,
+      "xml_id": "JustusSustermans",
       "role": "peintre"
     }
   ],
   "dateCreated": {
-    "startYear": 1625,
-    "endYear": 1625,
-    "text": "1625"
+    "startYear": 1622,
+    "endYear": 1623,
+    "text": "1622-1623"
   },
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": null,
-      "place": "Vienne",
-      "inventory_number": "GG_6726",
-      "url": "https://www.khm.at/kunstwerke/grossherzog-cosimo-ii-1590-1621-von-toskana-2514"
+      "name": "Musée des Offices",
+      "place": "Florence",
+      "inventory_number": "2245",
+      "url": ""
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "bertiUffiziCatalogoGenerale1980",
+      "location": "vol. II, p. 701"
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
-      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Großherzog_Cosimo_II.jpg",
+      "url": "https://scontent-fco2-1.xx.fbcdn.net/v/t39.30808-6/497503186_989963563304080_4417192579330808035_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=v6aFgpFNLBUQ7kNvwEiF2Tu&_nc_oc=AdqK-3JQJniR7UYpGO2tgF2_kG0iPcFFSGywuDmbYUBBTqFkGXUop4YsNx-4sFyaogE&_nc_zt=23&_nc_ht=scontent-fco2-1.xx&_nc_gid=Kojwu_fjGtFEIEp03F_0Kg&_nc_ss=7b2a8&oh=00_Af77eEFg1sZ152OSS5C6rgO2FjX3zNLu42Dwyxdnah4hdw&oe=6A1F47AF",
       "storage": "online",
       "copyright": "Public domain",
       "caption": ""
@@ -40,6 +45,11 @@
     {
       "date": "2026-05-12T17:40:50.955662",
       "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-05-29T14:16:09.551678",
+      "type": "modified",
       "author": "Elisa"
     }
   ],
