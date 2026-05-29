@@ -1,0 +1,58 @@
+{
+  "id": "CrucifixdeSantoSpirito",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1572984",
+  "entry_type": "artwork",
+  "title": "Crucifix de Santo Spirito",
+  "creator": [
+    {
+      "xml_id": "MichelAnge",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1492,
+    "endYear": 1492,
+    "text": "1492"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Basilique du Santo Spirito",
+      "place": "Florence",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "forniCrocifissoDiSanto2000",
+      "location": ""
+    },
+    {
+      "zotero_key": "lisnerCrocifissoDiMichelangelo1964",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Santo_Spirito%2C_sagrestia%2C_crocifisso_di_michelangelo_04.JPG",
+      "storage": "online",
+      "copyright": "CC BY 2.5, Sailko, https://commons.wikimedia.org/wiki/File:Santo_Spirito,_sagrestia,_crocifisso_di_michelangelo_04.JPG",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-29T16:22:13.986810",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "sculpture en bois",
+  "contained_by_ensemble": {}
+}
