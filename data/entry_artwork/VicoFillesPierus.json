@@ -1,7 +1,7 @@
 {
   "id": "VicoFillesPierus",
   "QID_wikidata": "",
-  "title": "",
+  "title": "Les neufs filles de Piérus",
   "creator": [
     {
       "xml_id": "EneaVico",
@@ -21,7 +21,7 @@
   "related_works": [],
   "bibliography": [
     {
-      "zotero_key": "straussIllustratedBartsch311986",
+      "zotero_key": "spikeIllustratedBartsch301985",
       "location": "n° 29 (296)"
     }
   ],
@@ -33,7 +33,13 @@
       "date": "2026-03-06T14:48:18.474396",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-05-29T11:56:09.393862",
+      "type": "modified",
+      "author": "Pierre"
     }
   ],
-  "status_entry": 0
+  "status_entry": 2,
+  "contained_by_ensemble": {}
 }
