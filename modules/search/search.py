@@ -255,7 +255,7 @@ def render_search_entries_all():
                         time.sleep(1)
                         st.rerun()
 
-                status_entry = int(o.get("status_entry") or 0)
+                status_entry = int(d.get("status_entry") or 0)
                 if status_entry == 8:
                     status_icon = "✅"
                 elif status_entry == 0:
