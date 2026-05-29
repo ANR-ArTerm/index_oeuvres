@@ -1,0 +1,57 @@
+{
+  "id": "VicoCentauresLapithes",
+  "QID_wikidata": "",
+  "title": "Bataille des Centaures et des Lapithes",
+  "creator": [
+    {
+      "xml_id": "EneaVico",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "RossoFiorentino",
+      "role": "auteur du modèle"
+    }
+  ],
+  "entry_type": "artwork",
+  "materialsAndTechniques": "burin",
+  "dateCreated": {
+    "startYear": 1542,
+    "endYear": 1542,
+    "text": "1542"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "spikeIllustratedBartsch301985",
+      "location": "n° 30 (296)"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://api.nga.gov/iiif/037e4062-6b00-40ad-a04b-aaaa488b4f4f/full/full/0/default.jpg",
+      "copyright": "Washington, National Gallery of Arts, inv. 2018.47.2 (https://www.nga.gov/artworks/213960-battle-lapiths-and-centaurs)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-06T14:48:18.474483",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-05-29T12:08:42.304639",
+      "type": "modified",
+      "author": "Pierre"
+    }
+  ],
+  "status_entry": 8,
+  "contained_by_ensemble": {}
+}
