@@ -21,7 +21,7 @@
   "bibliography": [
     {
       "zotero_key": "faraInventarioGeneraleStampe2007",
-      "location": ""
+      "location": "pp. 281-328"
     }
   ],
   "illustrations": [
@@ -43,6 +43,11 @@
     },
     {
       "date": "2026-05-06T16:43:28.661867",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-05-29T12:32:04.344048",
       "type": "modified",
       "author": "Elisa"
     }
