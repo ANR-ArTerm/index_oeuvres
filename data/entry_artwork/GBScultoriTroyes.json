@@ -1,19 +1,23 @@
 {
   "id": "GBScultoriTroyes",
   "QID_wikidata": "",
-  "title": "",
+  "title": "Les Troyens repoussant les Grecs",
   "creator": [
     {
       "xml_id": "GiovanniBattistaScultori",
       "role": "graveur"
+    },
+    {
+      "xml_id": "GiulioRomano",
+      "role": "auteur du modèle"
     }
   ],
   "entry_type": "artwork",
-  "materialsAndTechniques": null,
+  "materialsAndTechniques": "burin",
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1538,
+    "endYear": 1538,
+    "text": "1538"
   },
   "location": {
     "type": "multiple_locations"
@@ -25,7 +29,15 @@
       "location": "n° 20 (383)"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/361905/751002/main-image",
+      "copyright": "Metropolitan Museum of Arts, inv. 53.600.996 (https://www.metmuseum.org/art/collection/search/361905)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -36,6 +48,11 @@
     },
     {
       "date": "2026-04-15T15:23:52.183105",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-05-29T14:31:33.189451",
       "type": "modified",
       "author": "Pierre"
     }
