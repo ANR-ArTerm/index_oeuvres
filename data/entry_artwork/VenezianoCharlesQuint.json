@@ -1,7 +1,7 @@
 {
   "id": "VenezianoCharlesQuint",
   "QID_wikidata": "",
-  "title": "",
+  "title": "Portrait de Charles Quint en armure",
   "creator": [
     {
       "xml_id": "AgostinoVeneziano",
@@ -11,9 +11,9 @@
   "entry_type": "artwork",
   "materialsAndTechniques": "burin",
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1539,
+    "endYear": 1539,
+    "text": "1539"
   },
   "location": {
     "type": "multiple_locations"
@@ -25,7 +25,15 @@
       "location": "n° 524-I (380) ou n° 524-II (380)"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://sammlungenonline.albertina.at/apis/iiif/image/v2/333464/full/full/0/default.jpg",
+      "copyright": "Vienne, Albertina, inv. DG2017/3/7379 (https://sammlungenonline.albertina.at/en/objects/394022/karl-v)",
+      "caption": "État I/II, avant l'ajout de la couronne.",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -33,7 +41,13 @@
       "date": "2026-03-06T14:48:18.469444",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-05-29T12:30:20.545047",
+      "type": "modified",
+      "author": "Pierre"
     }
   ],
-  "status_entry": 0
+  "status_entry": 8,
+  "contained_by_ensemble": {}
 }
