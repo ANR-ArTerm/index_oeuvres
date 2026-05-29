@@ -2,7 +2,7 @@
   "id": "ApelleCythere",
   "QID_wikidata": "",
   "entry_type": "artwork",
-  "title": "Venus Cythère",
+  "title": "Aphrodite Anadyomene",
   "creator": [
     {
       "xml_id": "Apelle",
@@ -18,14 +18,24 @@
     "type": "unlocated"
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "cirucciApellesAphroditeAnadyomene2023",
+      "location": ""
+    }
+  ],
   "illustrations": [],
-  "description": "Selon Pline l'Ancien le tableau se trouvait dans le sanctuaire d'Asclépios à Cos.",
+  "description": "Selon Pline l'Ancien le tableau se trouvait dans le sanctuaire d'Asclépios à Cos. L'empereur Auguste l'a ensuite transféré à Rome.",
   "commentary": "",
   "history": [
     {
       "date": "2026-05-29T19:06:38.449363",
       "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-05-29T19:08:47.979496",
+      "type": "modified",
       "author": "Elisa"
     }
   ],
