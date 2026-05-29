@@ -1,7 +1,7 @@
 {
   "id": "GBScultoriGuerrierEtendard",
   "QID_wikidata": "",
-  "title": "",
+  "title": "Un guerrier portant un étendard",
   "creator": [
     {
       "xml_id": "GiovanniBattistaScultori",
@@ -27,13 +27,19 @@
   ],
   "illustrations": [],
   "description": "",
-  "commentary": "",
+  "commentary": "Manque l'image",
   "history": [
     {
       "date": "2026-03-06T14:48:18.474131",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-05-29T12:05:18.382609",
+      "type": "modified",
+      "author": "Pierre"
     }
   ],
-  "status_entry": 0
+  "status_entry": 2,
+  "contained_by_ensemble": {}
 }
