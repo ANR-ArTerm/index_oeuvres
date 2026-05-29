@@ -2,7 +2,7 @@
   "id": "DurerNativite",
   "QID_wikidata": "",
   "entry_type": "artwork",
-  "title": "Nativité de la Vièrge",
+  "title": "Nativité",
   "creator": [
     {
       "xml_id": "AlbrechtDurer",
@@ -21,13 +21,13 @@
   "bibliography": [
     {
       "zotero_key": "faraInventarioGeneraleStampe2007",
-      "location": "pp. 291-293"
+      "location": "pp. 303-305"
     }
   ],
   "illustrations": [
     {
       "id": 0,
-      "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Dürer_-_Life_of_the_Virgin_04.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Dürer_-_Life_of_the_Virgin_09.jpg",
       "storage": "online",
       "copyright": "Public domain",
       "caption": ""
@@ -43,6 +43,11 @@
     },
     {
       "date": "2026-05-29T12:38:17.983118",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-05-29T13:01:38.581775",
       "type": "modified",
       "author": "Elisa"
     }
