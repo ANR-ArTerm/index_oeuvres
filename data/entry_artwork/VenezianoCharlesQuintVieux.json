@@ -1,7 +1,7 @@
 {
   "id": "VenezianoCharlesQuintVieux",
   "QID_wikidata": "",
-  "title": "",
+  "title": "Portrait de Charles Quint",
   "creator": [
     {
       "xml_id": "AgostinoVeneziano",
@@ -11,9 +11,9 @@
   "entry_type": "artwork",
   "materialsAndTechniques": "burin",
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1535,
+    "endYear": 1535,
+    "text": "vers 1535"
   },
   "location": {
     "type": "multiple_locations"
@@ -27,13 +27,19 @@
   ],
   "illustrations": [],
   "description": "",
-  "commentary": "Ni sur Albertina ni sur british museum",
+  "commentary": "image introuvable",
   "history": [
     {
       "date": "2026-03-06T14:48:18.469550",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-05-29T12:00:24.034577",
+      "type": "modified",
+      "author": "Pierre"
     }
   ],
-  "status_entry": 0
+  "status_entry": 2,
+  "contained_by_ensemble": {}
 }
