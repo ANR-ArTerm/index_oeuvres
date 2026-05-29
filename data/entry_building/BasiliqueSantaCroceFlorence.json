@@ -26,7 +26,16 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "canaliBasilicaDiSanta1997",
+      "location": ""
+    },
+    {
+      "zotero_key": "baldiniComplessoMonumentaleDi1983",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -48,6 +57,11 @@
       "date": "2026-05-28T16:08:51.581492",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-05-29T16:12:24.366613",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "basilique",
