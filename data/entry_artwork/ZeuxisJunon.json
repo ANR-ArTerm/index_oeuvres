@@ -1,0 +1,35 @@
+{
+  "id": "ZeuxisJunon",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Junon",
+  "creator": [
+    {
+      "xml_id": "Zeuxis",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": "deuxième moitié du V siècle av. J.-C."
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "Selon les sources antiques, Zeuxis aurait peint un grand portrait de Junon pour le temple de la déesse à Crotone, en Grande-Grèce.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-29T19:03:02.581058",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {}
+}
