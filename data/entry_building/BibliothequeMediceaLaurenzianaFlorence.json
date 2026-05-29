@@ -48,9 +48,14 @@
       "date": "2026-04-28T10:57:28.558306",
       "type": "modified",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-05-28T17:13:26.792468",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "Bibliothèque",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }

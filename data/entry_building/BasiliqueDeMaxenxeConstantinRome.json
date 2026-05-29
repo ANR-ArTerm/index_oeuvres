@@ -38,12 +38,14 @@
       "date": "2026-05-19T11:17:29.521871",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-05-28T15:19:14.037985",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "BasiliqueCivile",
-  "contained_by_ensemble": {
-    "link_type": null,
-    "xml_id_work": null
-  }
+  "contained_by_ensemble": {}
 }

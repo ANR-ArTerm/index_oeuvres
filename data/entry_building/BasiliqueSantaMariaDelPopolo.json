@@ -5,7 +5,11 @@
   "title": "Basilique Santa Maria del Popolo",
   "creator": [
     {
-      "xml_id": "Aaron",
+      "xml_id": "BaccioPontelli",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "Bregno",
       "role": "architecte"
     }
   ],
@@ -14,12 +18,12 @@
     "endYear": 1477,
     "text": " 1472-1477"
   },
-  "typology": "église",
+  "typology": "basilique",
   "location": {
     "type": "place",
     "place": {
-      "city": "",
-      "country": "",
+      "city": "Rome",
+      "country": "Italie",
       "coordinates": {
         "latitude": "",
         "longitude": ""
@@ -28,7 +32,15 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Church_St_Maria_del_popolo_1.jpg",
+      "copyright": "Wikimédia Commons  (https://commons.wikimedia.org/wiki/File:Church_St_Maria_del_popolo_1.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "Au sein de la basilique Santa Maria del Popolo (Rome) se trouve la chapelle Chigi dont Raphael a conçu les dessins de l'ensemble. Elle ne doit pas être confondue avec son homonyme (la chapelle Chigi) située dans l'église Saint-Marie-de-la-Paix pour laquelle Raphael a peint les fresques. ",
   "commentary": "",
   "history": [
@@ -66,7 +78,13 @@
       "date": "2026-01-27T16:38:25.917419",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-05-28T16:25:23.765256",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }

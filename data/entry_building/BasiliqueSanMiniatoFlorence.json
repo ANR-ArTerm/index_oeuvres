@@ -38,9 +38,14 @@
       "date": "2026-02-23T16:54:06.957421",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-05-28T16:05:45.951633",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "typology": "église",
+  "typology": "basilique",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }

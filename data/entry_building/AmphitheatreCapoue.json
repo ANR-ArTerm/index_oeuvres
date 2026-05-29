@@ -7,12 +7,12 @@
   "dateCreated": {
     "startYear": 0,
     "endYear": 200,
-    "text": "entre Ie et IIe siècle"
+    "text": "entre Ier et IIe siècle"
   },
   "location": {
     "type": "place",
     "place": {
-      "city": null,
+      "city": "Capoue",
       "country": "Italie",
       "coordinates": {
         "latitude": "41.08611111",
@@ -38,9 +38,14 @@
       "date": "2026-04-22T14:35:42.577542",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-05-28T14:40:40.523171",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "Amphitheatre",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }

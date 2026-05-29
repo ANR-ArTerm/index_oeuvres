@@ -2,7 +2,7 @@
   "id": "BasiliquePalladienneVicence",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q284719",
   "entry_type": "building",
-  "title": "Basalique Palladienne à Vicence",
+  "title": "Basilique Palladienne à Vicence",
   "creator": [
     {
       "xml_id": "AndreaPalladio",
@@ -43,9 +43,14 @@
       "date": "2026-04-30T15:55:12.129056",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-05-28T15:20:46.853000",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "BasiliqueCivile",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }

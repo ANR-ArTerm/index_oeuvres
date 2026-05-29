@@ -12,7 +12,7 @@
   "dateCreated": {
     "startYear": 1631,
     "endYear": 1687,
-    "text": "1631"
+    "text": "1631-1687"
   },
   "location": {
     "type": "place",
@@ -43,9 +43,14 @@
       "date": "2026-04-27T17:51:11.931364",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-05-28T16:19:22.285502",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "basilique",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }

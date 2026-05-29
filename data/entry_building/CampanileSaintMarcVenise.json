@@ -3,11 +3,16 @@
   "QID_wikidata": "https://www.wikidata.org/wiki/Q754194",
   "entry_type": "building",
   "title": "Campanile de saint Marc",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "JacopoSansovino",
+      "role": "architecte"
+    }
+  ],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1549,
+    "endYear": 1663,
+    "text": "XVI-XVII"
   },
   "location": {
     "type": "place",
@@ -48,9 +53,14 @@
       "date": "2026-05-20T11:54:13.849175",
       "type": "modified",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-05-28T17:16:49.226755",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "Tour",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }

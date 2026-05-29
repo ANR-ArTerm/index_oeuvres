@@ -3,13 +3,54 @@
   "QID_wikidata": "https://www.wikidata.org/wiki/Q12512",
   "entry_type": "building",
   "title": "Basilique Saint-Pierre de Rome",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "MichelAnge",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "GiulianoDaSangallo",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "Bramante",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "Raphael",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "GiovanniGiocondo",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "AntonioDaSangalloIlGiovane",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "BaldassarrePeruzzi",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "JacopoBarozziDaVignola",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "CarloMaderno",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "Bernin",
+      "role": "architecte"
+    }
+  ],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1506,
+    "endYear": 1626,
+    "text": "Entre le XVIe et le XVIIe"
   },
-  "typology": "église",
+  "typology": "basilique",
   "location": {
     "type": "place",
     "place": {
@@ -59,8 +100,18 @@
       "date": "2026-03-06T15:11:31.849518",
       "type": "modified",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-05-28T15:42:40.161033",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-05-28T15:51:34.254638",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }

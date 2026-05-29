@@ -1,0 +1,80 @@
+{
+  "id": "AgnoloGaddiGiottoCampanile",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1140023",
+  "entry_type": "building",
+  "title": "Campanile de Santa Maria del Fiore",
+  "creator": [
+    {
+      "xml_id": "Giotto",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "AgnoloGaddi",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1298,
+    "endYear": 1298,
+    "text": "À partir de 1298 "
+  },
+  "typology": "Tour",
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Catedral%2C_Florencia%2C_Italia%2C_2022-09-19%2C_DD_95.jpg",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Diego Delso (https://commons.wikimedia.org/wiki/File:Catedral,_Florencia,_Italia,_2022-09-19,_DD_95.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-13T16:49:48.870113",
+      "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-13T16:51:45.252029",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-05-28T14:32:31.500019",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-05-28T16:34:43.511898",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-05-28T16:38:22.509402",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-05-28T16:38:55.988652",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "status_entry": 1,
+  "contained_by_ensemble": {}
+}
