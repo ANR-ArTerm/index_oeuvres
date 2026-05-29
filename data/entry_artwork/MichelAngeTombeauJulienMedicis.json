@@ -26,10 +26,19 @@
   "related_works": [
     {
       "link_type": "appartient au même ensemble",
-      "xml_id_work": "MichelAngeTombeauLaurentIIMédicis"
+      "xml_id_work": "BasiliqueSanLorenzoFirenze"
     }
   ],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "biettiSagrestiaDiMichelangelo2023",
+      "location": ""
+    },
+    {
+      "zotero_key": "michelangeloMichelangeloTombeMedicee1965",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -46,6 +55,11 @@
       "date": "2026-02-04T15:29:10.534746",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-05-29T14:42:03.544784",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "materialsAndTechniques": "Sculpture en marbre",
