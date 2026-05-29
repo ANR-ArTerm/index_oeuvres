@@ -29,7 +29,12 @@
       "xml_id_work": "PoussinSeptSacrements"
     }
   ],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "rosenbergNicolasPoussinCatalogue2026",
+      "location": "pp. 849-852"
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -45,6 +50,11 @@
     {
       "date": "2026-05-11T12:51:53.697047",
       "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-05-29T13:28:04.348286",
+      "type": "modified",
       "author": "Elisa"
     }
   ],
