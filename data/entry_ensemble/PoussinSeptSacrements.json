@@ -18,8 +18,8 @@
     "type": "holding_institution",
     "institution": {
       "name": "NationalGalleryofScotland",
-      "place": null,
-      "inventory_number": "dès NGL 067.46 A à NGL 067.46 F",
+      "place": "Glasgow",
+      "inventory_number": "dès NGL 067.46 A à NGL 067.46 G",
       "url": "https://www.nationalgalleries.org"
     }
   },
@@ -72,6 +72,13 @@
       "copyright": "Public domain",
       "caption": "Le Mariage",
       "storage": "online"
+    },
+    {
+      "id": 6,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Seven_Sacraments_-_Ordination_II_%281647%29_Nicolas_Poussin.jpg",
+      "copyright": "Public domain",
+      "caption": "",
+      "storage": "online"
     }
   ],
   "description": "Fréart parle de la seconde série des Sept Sacrements, peinte pour Paul Fréart de Chantelou.",
@@ -94,6 +101,11 @@
     },
     {
       "date": "2026-05-29T13:14:15.422334",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-05-29T13:17:36.328781",
       "type": "modified",
       "author": "Elisa"
     }
