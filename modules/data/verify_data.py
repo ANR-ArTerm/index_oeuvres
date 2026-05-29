@@ -153,3 +153,93 @@ def verify_json_entries(data_dirs=DATA_DIRS):
     )
 
     return text, corrupted
+
+CANONICAL_ORDER_ARTWORK = [
+    "id", 
+    "QID_wikidata", 
+    "entry_type", 
+    "title", 
+    "creator", 
+    "dateCreated",
+    "materialsAndTechniques", # différence
+    "location", 
+    "related_works", 
+    "contained_by_ensemble", # différence
+    "bibliography", 
+    "illustrations", 
+    "description", 
+    "commentary", 
+    "history", 
+    "status_entry"
+]
+
+CANONICAL_ORDER_BUILDING = [
+    "id", 
+    "QID_wikidata", 
+    "entry_type", 
+    "title", 
+    "creator", 
+    "dateCreated",
+    "typology", # différence
+    "location", 
+    "related_works", 
+    "contained_by_ensemble", # différence
+    "bibliography", 
+    "illustrations", 
+    "description",
+    "commentary", 
+    "history", 
+    "status_entry"
+]
+
+CANONICAL_ORDER_ENSEMBLE = [
+    "id",
+    "QID_wikidata",
+    "entry_type",
+    "title",
+    "typology", # différence
+    "creator",
+    "dateCreated",
+    "location",
+    "related_works",
+    "contains_works", # différence
+    "bibliography",
+    "illustrations",
+    "description",
+    "commentary",
+    "history",
+    "status_entry"
+]
+
+def reorder_json_entries(data_dirs=DATA_DIRS):
+    reordered_files = []
+
+    for data_dir in data_dirs:
+        for json_file in data_dir.glob("*.json"):
+            try:
+                data = json.loads(json_file.read_text(encoding="utf-8"))
+            except Exception:
+                continue
+
+            entry_type = data.get("entry_type", "")
+            if entry_type == "artwork":
+                order = CANONICAL_ORDER_ARTWORK
+            if entry_type == "building":
+                order = CANONICAL_ORDER_BUILDING
+            if entry_type == "ensemble":
+                order = CANONICAL_ORDER_ENSEMBLE
+
+            # Réordonne les clés connues, puis ajoute les clés inconnues à la fin
+            reordered = {k: data[k] for k in order if k in data}
+            for k in data:
+                if k not in reordered:
+                    reordered[k] = data[k]
+
+            if list(reordered.keys()) != list(data.keys()):
+                json_file.write_text(
+                    json.dumps(reordered, indent=2, ensure_ascii=False),
+                    encoding="utf-8"
+                )
+                reordered_files.append(json_file.name)
+
+    return reordered_files
