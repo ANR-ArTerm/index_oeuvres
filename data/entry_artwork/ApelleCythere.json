@@ -1,0 +1,35 @@
+{
+  "id": "ApelleCythere",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Venus Cythère",
+  "creator": [
+    {
+      "xml_id": "Apelle",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": "IV siècle av. J.-C."
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "Selon Pline l'Ancien le tableau se trouvait dans le sanctuaire d'Asclépios à Cos.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-29T19:06:38.449363",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {}
+}
