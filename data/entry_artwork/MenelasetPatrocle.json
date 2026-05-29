@@ -20,8 +20,8 @@
   },
   "related_works": [
     {
-      "link_type": null,
-      "xml_id_work": null
+      "link_type": "appartient au même ensemble",
+      "xml_id_work": "PalazzoPittiFlorence"
     }
   ],
   "bibliography": [
@@ -45,6 +45,11 @@
     {
       "date": "2026-05-29T16:43:31.908850",
       "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-05-29T16:52:28.291878",
+      "type": "modified",
       "author": "Elisa"
     }
   ],

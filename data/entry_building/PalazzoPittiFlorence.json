@@ -1,0 +1,61 @@
+{
+  "id": "PalazzoPittiFlorence",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q29286",
+  "entry_type": "building",
+  "title": "Palais Pitti",
+  "creator": [
+    {
+      "xml_id": "LucaFancelli",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1458,
+    "endYear": 1464,
+    "text": "1458 - 1464"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [
+    {
+      "link_type": null,
+      "xml_id_work": null
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "chiariniPalazzoPittiLarte2000",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Palazzo_Pitti_nel_tardo_pomeriggio.jpg/1920px-Palazzo_Pitti_nel_tardo_pomeriggio.jpg",
+      "storage": "online",
+      "copyright": "CC BY-SA 3.0, IndyJr , https://commons.wikimedia.org/wiki/File:Palazzo_Pitti_nel_tardo_pomeriggio.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-29T16:51:51.075873",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Palais",
+  "contained_by_ensemble": {}
+}
