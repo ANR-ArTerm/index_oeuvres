@@ -1,6 +1,6 @@
 {
   "id": "MichelAngeTombeauLaurentIIMedicis",
-  "QID_wikidata": "",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3992617",
   "entry_type": "artwork",
   "title": "Tombeau de Laurent II de Médicis",
   "creator": [
@@ -10,9 +10,9 @@
     }
   ],
   "dateCreated": {
-    "startYear": 1520,
-    "endYear": 1533,
-    "text": "1520-1533"
+    "startYear": 1524,
+    "endYear": 1534,
+    "text": "1524-1534"
   },
   "location": {
     "type": "holding_institution",
@@ -26,10 +26,19 @@
   "related_works": [
     {
       "link_type": "appartient au même ensemble",
-      "xml_id_work": "MichelAngeTombeauJulienMédicis"
+      "xml_id_work": "BasiliqueSanLorenzoFirenze"
     }
   ],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "biettiSagrestiaDiMichelangelo2023",
+      "location": ""
+    },
+    {
+      "zotero_key": "michelangeloMichelangeloTombeMedicee1965",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -51,6 +60,11 @@
       "date": "2026-02-04T15:34:18.279756",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-05-29T14:59:29.867659",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "materialsAndTechniques": "Sculpture en marbre",
