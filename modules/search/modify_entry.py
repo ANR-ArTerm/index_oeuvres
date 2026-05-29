@@ -11,6 +11,7 @@ from modules.data.load import (load_notice,
                                save_image,  
                                save_to_list_form_git)
 
+from modules.git_tools import git_commit_and_push
 from modules.status_entry import STATUS_ENTRY_OPTIONS
 from modules.utils.functions import safe_int
 from modules.form.components import exemple_desc_image
@@ -734,28 +735,32 @@ def edit_json_notice(json_path=None, data=None):
     with col1:
         if st.button("💾 Sauvegarder", type="primary"):
             try:
-                notice["history"].append({
-                    "date": datetime.now().isoformat(),
-                    "type": "modified",
-                    "author": entry_editor
-                })
-                # Nettoyage des données :
-                location_type = notice["location"]["type"]
-                if location_type == "unlocated" or location_type == "multiple_locations":
-                    notice["location"].pop("institution", None)
-                    notice["location"].pop("place", None)
-                
-                if location_type == "place":
-                    notice["location"].pop("institution", None)
+                with st.spinner("Sauvegarde de la notice"):
+                    notice["history"].append({
+                        "date": datetime.now().isoformat(),
+                        "type": "modified",
+                        "author": entry_editor
+                    })
+                    # Nettoyage des données :
+                    location_type = notice["location"]["type"]
+                    if location_type == "unlocated" or location_type == "multiple_locations":
+                        notice["location"].pop("institution", None)
+                        notice["location"].pop("place", None)
+                    
+                    if location_type == "place":
+                        notice["location"].pop("institution", None)
 
-                if location_type == "holding_institution":
-                    notice["location"].pop("place", None)
+                    if location_type == "holding_institution":
+                        notice["location"].pop("place", None)
 
-                saved_path = save_notice(notice, path=json_path, old_id=st.session_state.original_id)
-                st.success(f"✅ Modifications sauvegardées dans : {saved_path}")
-                st.session_state.original_id = notice["id"]        # maj pour renommages successifs
-                st.session_state.editing_path = str(saved_path)
-                st.session_state.editing_notice = str(saved_path)  # app.py suit le bon fichier
+                    saved_path = save_notice(notice, path=json_path, old_id=st.session_state.original_id)
+                    st.success(f"✅ Modifications sauvegardées dans : {saved_path}")
+                    st.session_state.original_id = notice["id"]        # maj pour renommages successifs
+                    st.session_state.editing_path = str(saved_path)
+                    st.session_state.editing_notice = str(saved_path)  # app.py suit le bon fichier
+                    message = f"modification notice {id_entry} par {entry_editor} {datetime.now().isoformat()}"
+                    git_commit_and_push(message)
+
 
             except Exception as e:
                 st.error(f"❌ Erreur lors de la sauvegarde : {str(e)}")
