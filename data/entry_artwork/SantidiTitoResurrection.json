@@ -35,8 +35,12 @@
       "location": ""
     },
     {
-      "zotero_key": null,
+      "zotero_key": "ciabattiniSantiDiTito2014",
       "location": "pp. 10,86 "
+    },
+    {
+      "zotero_key": "falcianiCinquecentoFirenzeManiera2017",
+      "location": "pp. 126-127"
     }
   ],
   "illustrations": [
@@ -58,6 +62,11 @@
     },
     {
       "date": "2026-05-29T16:12:59.889439",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-05-29T16:30:13.881632",
       "type": "modified",
       "author": "Elisa"
     }
