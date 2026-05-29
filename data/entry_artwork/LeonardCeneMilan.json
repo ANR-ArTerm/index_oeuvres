@@ -18,7 +18,7 @@
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": "Académie de Saint-Luc",
+      "name": "BasiliqueSantaMariadelleGrazie",
       "place": "Milan",
       "inventory_number": "",
       "url": ""
@@ -62,6 +62,11 @@
       "date": "2026-04-15T15:46:33.872080",
       "type": "modified",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-05-29T13:34:03.323854",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "contained_by_ensemble": {},
