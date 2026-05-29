@@ -1,0 +1,60 @@
+{
+  "id": "GaleriedesOfficesFlorence",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q51252",
+  "entry_type": "building",
+  "title": "Galerie des Offices",
+  "creator": [
+    {
+      "xml_id": "GiorgioVasari",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "BernardoBuontalenti",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1560,
+    "endYear": 1586,
+    "text": "1560-1586"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "confortiCostruzioneUffiziNascita2016",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/2024-05-30-Florenz-Uffizien-Eastern-Corridor.jpg/1920px-2024-05-30-Florenz-Uffizien-Eastern-Corridor.jpg",
+      "storage": "online",
+      "copyright": "CC BY-SA 4.0, Gunnar Klack, https://commons.wikimedia.org/wiki/File:2024-05-30-Florenz-Uffizien-Eastern-Corridor.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-29T18:01:38.557739",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "galerie",
+  "contained_by_ensemble": {}
+}
