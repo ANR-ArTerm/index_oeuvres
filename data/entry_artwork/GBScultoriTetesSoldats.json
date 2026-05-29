@@ -1,7 +1,7 @@
 {
   "id": "GBScultoriTetesSoldats",
   "QID_wikidata": "",
-  "title": "",
+  "title": "Têtes de soldats",
   "creator": [
     {
       "xml_id": "GiovanniBattistaScultori",
@@ -11,9 +11,9 @@
   "entry_type": "artwork",
   "materialsAndTechniques": "burin",
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1536,
+    "endYear": 1536,
+    "text": "1536"
   },
   "location": {
     "type": "multiple_locations"
@@ -25,7 +25,15 @@
       "location": "n° 18 (383)"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/1_13/9384fb43_e2c7_4491_ae4b_a3b700d6cbf5/mid_00064887_001.jpg",
+      "copyright": "© The Trustees of the British Museum, CC BY-NC-SA 4.0.",
+      "caption": "British Museum, inv. 1856,0712.1045 (https://www.britishmuseum.org/collection/object/P_1856-0712-1045)",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -33,7 +41,13 @@
       "date": "2026-03-06T14:48:18.473952",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-05-29T12:19:20.788590",
+      "type": "modified",
+      "author": "Pierre"
     }
   ],
-  "status_entry": 0
+  "status_entry": 8,
+  "contained_by_ensemble": {}
 }
