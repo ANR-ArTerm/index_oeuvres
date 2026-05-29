@@ -25,7 +25,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "raffaelRaffaelloNellappartamentoDi1993",
+      "location": "pp. 293-338"
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -45,6 +50,11 @@
     },
     {
       "date": "2026-05-11T12:35:27.502592",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-05-29T12:50:44.400255",
       "type": "modified",
       "author": "Elisa"
     }
