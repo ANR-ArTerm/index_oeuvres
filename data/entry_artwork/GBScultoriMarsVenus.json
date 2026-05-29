@@ -1,7 +1,7 @@
 {
   "id": "GBScultoriMarsVenus",
   "QID_wikidata": "",
-  "title": "",
+  "title": "Mars et Vénus",
   "creator": [
     {
       "xml_id": "GiovanniBattistaScultori",
@@ -11,9 +11,9 @@
   "entry_type": "artwork",
   "materialsAndTechniques": "burin",
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1539,
+    "endYear": 1539,
+    "text": "1539"
   },
   "location": {
     "type": "multiple_locations"
@@ -25,7 +25,15 @@
       "location": "n° 13 (381)"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_18/6376ae1c_59a7_4c31_97dd_a3be012b4a32/mid_00453760_001.jpg",
+      "copyright": "© The Trustees of the British Museum (CC BY-NC-SA 4.0)",
+      "caption": "British Museum, inv. 1866,0407.1004 (https://www.britishmuseum.org/collection/object/P_1866-0407-1004)",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -33,7 +41,13 @@
       "date": "2026-03-06T14:48:18.474221",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-05-29T12:16:04.244284",
+      "type": "modified",
+      "author": "Pierre"
     }
   ],
-  "status_entry": 0
+  "status_entry": 8,
+  "contained_by_ensemble": {}
 }
