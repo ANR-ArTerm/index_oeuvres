@@ -11,24 +11,35 @@
   ],
   "dateCreated": {
     "startYear": 1546,
-    "endYear": null,
-    "text": "1546-"
+    "endYear": 1556,
+    "text": "1546-1556"
   },
   "location": {
     "type": "unlocated"
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "firpoPontormosFrescosSan2021",
+      "location": ""
+    }
+  ],
   "illustrations": [],
-  "description": "Les fresques ayant été détruites au ",
+  "description": "Les fresques ayant été détruites.",
   "commentary": "",
   "history": [
     {
       "date": "2026-02-02T12:06:49.042140",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-05-29T16:27:33.088488",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "materialsAndTechniques": "fresque",
-  "status_entry": 0
+  "status_entry": 0,
+  "contained_by_ensemble": {}
 }
