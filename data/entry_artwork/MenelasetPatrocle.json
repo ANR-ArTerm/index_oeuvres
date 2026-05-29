@@ -1,0 +1,54 @@
+{
+  "id": "MenelasetPatrocle",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Ménélas et Patrocle ou Ajax et Achille",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Gallerie degli Uffizi",
+      "place": "Florence",
+      "inventory_number": "Objects d'art Pitti 1911 n. 601",
+      "url": "https://www.uffizi.it/opere/menelao-o-aiace-e-patroclo-o-achille"
+    }
+  },
+  "related_works": [
+    {
+      "link_type": null,
+      "xml_id_work": null
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "capecchiAltroAiaceTempi2003",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aiace_e_achille_%28o_patroclo_e_menelao%2C_o_pasquino%29%2C_copia_romana_da_orig._del_III_sec_ac.%2C_con_restauri_di_g._caccini_e_stefano_ricci.jpg/960px-Aiace_e_achille_%28o_patroclo_e_menelao%2C_o_pasquino%29%2C_copia_romana_da_orig._del_III_sec_ac.%2C_con_restauri_di_g._caccini_e_stefano_ricci.jpg",
+      "storage": "online",
+      "copyright": "CC BY 3.0, Sailko, https://commons.wikimedia.org/wiki/File:Aiace_e_achille_(o_patroclo_e_menelao,_o_pasquino),_copia_romana_da_orig._del_III_sec_ac.,_con_restauri_di_g._caccini_e_stefano_ricci.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "Copie d'après l'original grec d'un auteur inconnu du IIIe siècle av. J.-C.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-29T16:43:31.908850",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": null,
+  "contained_by_ensemble": {}
+}
