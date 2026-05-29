@@ -10,23 +10,36 @@
     }
   ],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1511,
+    "endYear": 1514,
+    "text": "1511-1514"
   },
   "typology": "ensemble décoratif",
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": "",
-      "place": "",
+      "name": "Vatican, Musées du Vatican",
+      "place": "Rome",
       "inventory_number": "",
       "url": ""
     }
   },
   "related_works": [],
-  "bibliography": [],
-  "illustrations": [],
+  "bibliography": [
+    {
+      "zotero_key": "raffaelRaffaelloNellappartamentoDi1993",
+      "location": "pp. 203-246"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Raffael_Staza_di_Eliodoro.jpg",
+      "copyright": "Public domain",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -34,7 +47,14 @@
       "date": "2026-01-15T16:40:40.263144",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-05-29T12:54:31.337698",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 0
+  "status_entry": 0,
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {}
 }
