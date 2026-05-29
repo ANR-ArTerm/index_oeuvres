@@ -17,7 +17,12 @@
   "location": {
     "type": "unlocated"
   },
-  "related_works": [],
+  "related_works": [
+    {
+      "link_type": "appartient au même ensemble",
+      "xml_id_work": "BasiliqueSanLorenzoFirenze"
+    }
+  ],
   "bibliography": [
     {
       "zotero_key": "firpoPontormosFrescosSan2021",
@@ -35,6 +40,11 @@
     },
     {
       "date": "2026-05-29T16:27:33.088488",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-05-29T16:28:07.219105",
       "type": "modified",
       "author": "Elisa"
     }
