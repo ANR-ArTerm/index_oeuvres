@@ -43,9 +43,19 @@
       "date": "2026-02-04T16:07:03.489398",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-05-31T20:51:59.538605",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-01T09:30:00.943635",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "typology": null,
+  "typology": "Maison",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
