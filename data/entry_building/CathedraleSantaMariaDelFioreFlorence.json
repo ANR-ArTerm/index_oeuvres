@@ -9,7 +9,7 @@
       "role": "architecte"
     },
     {
-      "xml_id": "Filippo Brunelleschi",
+      "xml_id": "FilippoBrunelleschi",
       "role": "architecte"
     },
     {
@@ -17,7 +17,7 @@
       "role": "architecte"
     },
     {
-      "xml_id": "FrancescoTalenti",
+      "xml_id": null,
       "role": "architecte"
     },
     {
@@ -74,6 +74,11 @@
       "date": "2026-06-01T10:46:08.826753",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-06-01T16:07:59.020711",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
   "typology": "cathédrale",
