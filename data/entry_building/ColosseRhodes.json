@@ -38,9 +38,14 @@
       "date": "2026-03-12T14:16:29.065878",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-01T11:11:54.111794",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "typology": null,
+  "typology": "Colosse",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
