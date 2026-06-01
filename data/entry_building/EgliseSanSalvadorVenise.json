@@ -12,7 +12,7 @@
   "dateCreated": {
     "startYear": 1507,
     "endYear": 1534,
-    "text": "1507"
+    "text": "1507-1534"
   },
   "location": {
     "type": "place",
@@ -43,9 +43,14 @@
       "date": "2026-04-27T17:32:23.369566",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-01T12:32:46.512050",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "église",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
