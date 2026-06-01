@@ -12,7 +12,7 @@
   "dateCreated": {
     "startYear": 864,
     "endYear": 1542,
-    "text": "864-1542"
+    "text": "IXème (864)-1542"
   },
   "location": {
     "type": "place",
@@ -43,9 +43,14 @@
       "date": "2026-05-04T11:19:31.209149",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-01T14:25:38.124464",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "église",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
