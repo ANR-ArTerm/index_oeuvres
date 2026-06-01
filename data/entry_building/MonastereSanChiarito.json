@@ -34,6 +34,13 @@
       "storage": "online",
       "copyright": "CC-BY-SA-3.0, Sailko, https://commons.wikimedia.org/wiki/File:Pianta_del_buonsignori,_dettaglio_via_san_gallo,_parte_alta.jpg",
       "caption": "n. 33"
+    },
+    {
+      "id": 1,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Via_san_gallo%2C_ex-monastero_delle_mantellate_02.jpg/960px-Via_san_gallo%2C_ex-monastero_delle_mantellate_02.jpg",
+      "copyright": "CC BY 3.0, Sailko, https://commons.wikimedia.org/wiki/File:Via_san_gallo,_ex-monastero_delle_mantellate_02.jpg",
+      "caption": "",
+      "storage": "online"
     }
   ],
   "description": "",
@@ -46,6 +53,11 @@
     },
     {
       "date": "2026-06-01T10:15:25.007554",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-01T11:04:31.421229",
       "type": "modified",
       "author": "Elisa"
     }
