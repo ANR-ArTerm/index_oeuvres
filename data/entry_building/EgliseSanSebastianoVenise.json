@@ -10,9 +10,9 @@
     }
   ],
   "dateCreated": {
-    "startYear": 1550,
+    "startYear": 1506,
     "endYear": 1550,
-    "text": "1550"
+    "text": "1506-1550"
   },
   "location": {
     "type": "place",
@@ -43,9 +43,14 @@
       "date": "2026-04-28T16:47:11.533736",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-01T14:20:33.050253",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "église",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
