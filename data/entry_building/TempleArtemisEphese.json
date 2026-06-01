@@ -3,7 +3,20 @@
   "QID_wikidata": "https://www.wikidata.org/wiki/Q43018",
   "entry_type": "building",
   "title": "Temple d'Artémis à ",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "TheodoreDeSamos",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "Metagenes",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "ChersifronedeCnossos",
+      "role": "architecte"
+    }
+  ],
   "dateCreated": {
     "startYear": -600,
     "endYear": -500,
@@ -38,6 +51,11 @@
       "date": "2026-04-22T15:37:04.068166",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-01T14:30:28.691910",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
   "typology": "Temple",
