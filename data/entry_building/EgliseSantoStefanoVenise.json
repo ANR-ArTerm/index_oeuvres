@@ -7,7 +7,7 @@
   "dateCreated": {
     "startYear": 1294,
     "endYear": 1499,
-    "text": "1294-XVe"
+    "text": "1294-1499 (XVe)"
   },
   "location": {
     "type": "place",
@@ -38,9 +38,14 @@
       "date": "2026-04-29T17:34:54.741912",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-01T15:05:10.275194",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "église",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
