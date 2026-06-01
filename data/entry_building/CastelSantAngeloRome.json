@@ -5,7 +5,7 @@
   "title": "Château Saint-Ange Rome",
   "creator": [
     {
-      "xml_id": "Demetriano",
+      "xml_id": null,
       "role": "architecte"
     },
     {
@@ -17,11 +17,11 @@
       "role": "architecte"
     },
     {
-      "xml_id": "PerinoDelVaga",
+      "xml_id": null,
       "role": "peintre"
     },
     {
-      "xml_id": "LivioAgresti",
+      "xml_id": null,
       "role": "peintre"
     }
   ],
@@ -67,6 +67,11 @@
     },
     {
       "date": "2026-06-01T09:45:45.183049",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-01T09:51:58.519015",
       "type": "modified",
       "author": "Jules"
     }
