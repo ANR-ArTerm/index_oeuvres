@@ -7,7 +7,7 @@
   "dateCreated": {
     "startYear": 1518,
     "endYear": 1660,
-    "text": "1660"
+    "text": "1518-1660"
   },
   "location": {
     "type": "place",
@@ -38,9 +38,14 @@
       "date": "2026-05-05T16:49:27.307245",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-01T11:45:57.907911",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "église",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
