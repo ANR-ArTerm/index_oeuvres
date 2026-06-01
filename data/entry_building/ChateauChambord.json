@@ -3,7 +3,16 @@
   "QID_wikidata": "https://www.wikidata.org/wiki/Q205367",
   "entry_type": "building",
   "title": "Chateau de Chambord",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "PierreNepveu",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "JacquesSourdeau",
+      "role": "architecte"
+    }
+  ],
   "dateCreated": {
     "startYear": 1500,
     "endYear": 1600,
@@ -38,9 +47,14 @@
       "date": "2026-04-23T10:33:12.854442",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-01T10:54:22.216393",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "typology": null,
+  "typology": "Chateau",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
