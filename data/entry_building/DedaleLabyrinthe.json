@@ -14,12 +14,12 @@
     "endYear": null,
     "text": "Antiquité"
   },
-  "typology": "Monument",
+  "typology": "monument imaginaire ou disparu",
   "location": {
     "type": "place",
     "place": {
-      "city": "",
-      "country": "",
+      "city": null,
+      "country": null,
       "coordinates": {
         "latitude": "",
         "longitude": ""
@@ -36,7 +36,13 @@
       "date": "2026-01-19T15:04:08.058001",
       "type": "created",
       "author": "Julia"
+    },
+    {
+      "date": "2026-06-01T11:21:37.687677",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }
