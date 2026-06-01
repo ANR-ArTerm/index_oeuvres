@@ -3,7 +3,12 @@
   "QID_wikidata": "https://www.wikidata.org/wiki/Q938154",
   "entry_type": "building",
   "title": "Cathédrale Saint-Bavon",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "AdrienDeCroÿ",
+      "role": "architecte"
+    }
+  ],
   "dateCreated": {
     "startYear": 900,
     "endYear": 1559,
@@ -38,9 +43,14 @@
       "date": "2026-05-11T12:54:52.134505",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-01T10:10:43.960118",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "cathédrale",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
