@@ -30,6 +30,14 @@
     {
       "zotero_key": "DePaloSAgata",
       "location": ""
+    },
+    {
+      "zotero_key": "fantozzimicaliSoppressioniConventiFirenze2000",
+      "location": "pp. 66-67"
+    },
+    {
+      "zotero_key": "nenciniSoppressioneEntiEcclesiastici2008",
+      "location": "pp. 202-203"
     }
   ],
   "illustrations": [
@@ -61,6 +69,11 @@
     },
     {
       "date": "2026-05-01T13:52:01.381450",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-01T10:13:40.593153",
       "type": "modified",
       "author": "Elisa"
     }
