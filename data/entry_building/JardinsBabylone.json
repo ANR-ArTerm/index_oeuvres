@@ -13,7 +13,7 @@
     "type": "place",
     "place": {
       "city": "Babylone",
-      "country": "Irak",
+      "country": null,
       "coordinates": {
         "latitude": "32.5355",
         "longitude": "44.4275"
@@ -22,7 +22,15 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Hanging_Gardens_of_Babylon.gif",
+      "copyright": "https://commons.wikimedia.org/wiki/File:Hanging_Gardens_of_Babylon.gif",
+      "caption": "Copie d'un bas-relief du palais nord d'Assurbanipal (669-631 av. J.-C.) à Ninive représente un jardin luxueux arrosé par un aqueduc.",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -30,9 +38,14 @@
       "date": "2026-04-21T15:44:04.089339",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-01T10:26:03.464100",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "monument imaginaire ou disparu",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
