@@ -3,7 +3,32 @@
   "QID_wikidata": "https://www.wikidata.org/wiki/Q2981",
   "entry_type": "building",
   "title": "Notre-Dame de Paris",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "JehanDeChelles",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "PierreDeMontreuil",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "PierreDeChelles",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "JeanRavy",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "JeanLeBouteiller",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "RaymondDuTemple",
+      "role": "architecte"
+    }
+  ],
   "dateCreated": {
     "startYear": 1163,
     "endYear": 1345,
@@ -38,9 +63,14 @@
       "date": "2026-04-28T15:06:40.567571",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-01T09:56:31.970279",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "cathédrale",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
