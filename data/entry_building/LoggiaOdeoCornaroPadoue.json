@@ -38,9 +38,14 @@
       "date": "2026-04-22T16:49:06.606440",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-01T17:26:38.947395",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "typology": null,
+  "typology": "logia",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
