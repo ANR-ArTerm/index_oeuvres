@@ -3,16 +3,25 @@
   "QID_wikidata": "https://www.wikidata.org/wiki/Q12506",
   "entry_type": "building",
   "title": "Sainte-Sophie (Constantinople)",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "IsidoreDeMilet",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "AnthémiusDeTralles",
+      "role": "architecte"
+    }
+  ],
   "dateCreated": {
     "startYear": 537,
     "endYear": 537,
-    "text": "537"
+    "text": "VIème siècle"
   },
   "location": {
     "type": "place",
     "place": {
-      "city": "Istanbul",
+      "city": "Istanboul",
       "country": "Turquie",
       "coordinates": {
         "latitude": "41.008333333",
@@ -38,9 +47,14 @@
       "date": "2026-04-28T15:00:26.433245",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-01T10:15:07.347579",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "typology": null,
+  "typology": "église",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
