@@ -3,11 +3,24 @@
   "QID_wikidata": "https://www.wikidata.org/wiki/Q2272511",
   "entry_type": "building",
   "title": "Église Saint-Paul d'Anvers",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "DominikusDeWaghemakere",
+      "role": "architecte"
+    },
+    {
+      "xml_id": null,
+      "role": "architecte"
+    },
+    {
+      "xml_id": "FransStuyck",
+      "role": "architecte"
+    }
+  ],
   "dateCreated": {
     "startYear": 1276,
     "endYear": 1662,
-    "text": "1276"
+    "text": "XIIIème - XVII ème"
   },
   "location": {
     "type": "place",
@@ -38,9 +51,14 @@
       "date": "2026-05-06T14:58:53.415980",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-01T11:31:32.095610",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "église",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
