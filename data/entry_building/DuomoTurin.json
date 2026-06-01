@@ -2,8 +2,13 @@
   "id": "DuomoTurin",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q958699",
   "entry_type": "building",
-  "title": "Cathédrale Saint-Jean6Baptiste de Turin",
-  "creator": [],
+  "title": "Cathédrale Saint-Jean-Baptiste de Turin",
+  "creator": [
+    {
+      "xml_id": "AmedeoDiFrancescoDaSettignano",
+      "role": "architecte"
+    }
+  ],
   "dateCreated": {
     "startYear": null,
     "endYear": null,
@@ -30,9 +35,14 @@
       "date": "2026-03-17T16:29:55.575274",
       "type": "created",
       "author": "Julia"
+    },
+    {
+      "date": "2026-06-01T11:24:49.856153",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "cathédrale",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
