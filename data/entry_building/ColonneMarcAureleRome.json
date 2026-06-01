@@ -56,7 +56,13 @@
       "date": "2026-01-26T17:03:49.011136",
       "type": "modified",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-01T11:04:05.592927",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }
