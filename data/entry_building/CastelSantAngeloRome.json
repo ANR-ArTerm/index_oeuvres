@@ -3,7 +3,28 @@
   "QID_wikidata": "https://www.wikidata.org/wiki/Q486382",
   "entry_type": "building",
   "title": "Château Saint-Ange Rome",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "Demetriano",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "Pinturicchio",
+      "role": "peintre"
+    },
+    {
+      "xml_id": "AntonioDaSangalloIlGiovane",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "PerinoDelVaga",
+      "role": "peintre"
+    },
+    {
+      "xml_id": "LivioAgresti",
+      "role": "peintre"
+    }
+  ],
   "dateCreated": {
     "startYear": 130,
     "endYear": 1527,
@@ -32,15 +53,20 @@
     }
   ],
   "description": "",
-  "commentary": "",
+  "commentary": "Peintre \"Livio Agresti\" sous 3 noms possibles (Il Ricciutello, Il Ricciutino, Ritius), faut-il tous les mettre ou pas ?",
   "history": [
     {
       "date": "2026-04-30T11:49:43.831962",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-01T09:44:46.315205",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "Chateau",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
