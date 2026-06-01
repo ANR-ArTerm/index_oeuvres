@@ -7,7 +7,7 @@
   "dateCreated": {
     "startYear": null,
     "endYear": null,
-    "text": ""
+    "text": "VIIème siècle avant J.-C."
   },
   "location": {
     "type": "place",
@@ -22,7 +22,15 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Roma_-_Tempio_di_Ercole_e_di_Portunus.JPG",
+      "copyright": "Wikimedia Commons, CC BA 2.5, Mac9 (https://commons.wikimedia.org/wiki/File:Roma_-_Tempio_di_Ercole_e_di_Portunus.JPG)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -30,9 +38,14 @@
       "date": "2026-05-26T15:25:39.306443",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-01T15:53:32.728403",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "monument imaginaire ou disparu",
   "contained_by_ensemble": {}
 }
