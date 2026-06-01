@@ -7,7 +7,7 @@
   "dateCreated": {
     "startYear": null,
     "endYear": null,
-    "text": ""
+    "text": "XIIIème-XVème "
   },
   "location": {
     "type": "place",
@@ -38,9 +38,14 @@
       "date": "2026-04-27T17:47:05.754185",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-01T11:33:48.766452",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "église",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
