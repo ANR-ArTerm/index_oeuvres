@@ -3,7 +3,28 @@
   "QID_wikidata": "https://www.wikidata.org/wiki/Q191739",
   "entry_type": "building",
   "title": "Cathédrale Santa Maria del Fiore",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "ArnolfoDiCambio",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "Filippo Brunelleschi",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "AndreaPisano",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "FrancescoTalenti",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "Giotto",
+      "role": "architecte"
+    }
+  ],
   "dateCreated": {
     "startYear": 1296,
     "endYear": 1436,
@@ -43,9 +64,14 @@
       "date": "2026-02-23T17:23:25.409914",
       "type": "modified",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-01T10:45:58.832560",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "typology": null,
+  "typology": "cathédrale",
   "contained_by_ensemble": {},
   "status_entry": 0
 }
