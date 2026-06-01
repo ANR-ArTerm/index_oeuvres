@@ -36,16 +36,21 @@
       "caption": "Alò Giovannoli, Vedute degli antichi vestigi di Roma di Alo Giovannoli in due parti : la prima contiene mausolei, archi, colonne, e fabbriche pubbliche, la seconda rapprasenta terme, anfiteatri, e tempj, vers 1615"
     }
   ],
-  "description": "L'église était à l'origine le temple de Portunus. En 1916 le bâtiment a été restauré et rendu à son état de temple",
+  "description": "L'église était à l'origine le temple de Portunus. En 1916 le bâtiment a été restauré et rendu à son état de temple.",
   "commentary": "",
   "history": [
     {
       "date": "2026-05-05T12:22:05.081778",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-01T14:23:24.291211",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "église",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
