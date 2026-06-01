@@ -2,7 +2,7 @@
   "id": "ColonneAntonineRome",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q599302",
   "entry_type": "building",
-  "title": "Colonne Antonine",
+  "title": "Colonne d'Antonin le Pieux",
   "creator": [],
   "dateCreated": {
     "startYear": 161,
@@ -44,8 +44,13 @@
       "date": "2026-04-23T10:13:37.540326",
       "type": "modified",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-01T11:02:39.858958",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
