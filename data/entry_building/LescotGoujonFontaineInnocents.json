@@ -16,7 +16,7 @@
   "dateCreated": {
     "startYear": null,
     "endYear": null,
-    "text": ""
+    "text": "1549"
   },
   "location": {
     "type": "place",
@@ -52,9 +52,14 @@
       "date": "2026-03-05T14:07:17.063526",
       "type": "modified",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-01T16:19:15.005967",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "typology": null,
+  "typology": "fontaine",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
