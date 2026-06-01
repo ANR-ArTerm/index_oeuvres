@@ -43,9 +43,14 @@
       "date": "2026-04-20T15:42:15.919607",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-01T16:11:05.218503",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "galerie",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
