@@ -5,16 +5,16 @@
   "title": "Libreria Piccolomini",
   "creator": [],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1492,
+    "endYear": 1502,
+    "text": "1492-1502"
   },
-  "typology": "",
+  "typology": null,
   "location": {
     "type": "place",
     "place": {
-      "city": "",
-      "country": "",
+      "city": null,
+      "country": null,
       "coordinates": {
         "latitude": "",
         "longitude": ""
@@ -31,7 +31,13 @@
       "date": "2026-01-20T11:47:35.217983",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-01T17:03:20.350615",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }
