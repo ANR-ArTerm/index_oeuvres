@@ -38,9 +38,14 @@
       "date": "2026-04-28T12:24:21.718235",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-01T11:27:13.355226",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "église",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
