@@ -24,7 +24,7 @@
   "dateCreated": {
     "startYear": 1591,
     "endYear": 1663,
-    "text": "1591"
+    "text": "1591-1663"
   },
   "location": {
     "type": "place",
@@ -60,9 +60,14 @@
       "date": "2026-05-05T18:06:15.821686",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-01T14:42:08.710138",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "église",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
