@@ -3,11 +3,20 @@
   "QID_wikidata": "https://www.wikidata.org/wiki/Q1754247",
   "entry_type": "building",
   "title": "Cathédrale Notre-Dame-de-l'Assomption de Pise",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "Buschetto",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "Rainaldo",
+      "role": "architecte"
+    }
+  ],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1063,
+    "endYear": 1118,
+    "text": "Entre le XIème et XIIème"
   },
   "location": {
     "type": "place",
@@ -38,6 +47,11 @@
       "date": "2026-02-23T17:00:07.541908",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-01T10:05:27.532969",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "cathédrale",
