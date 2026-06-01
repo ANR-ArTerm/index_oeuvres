@@ -13,7 +13,7 @@
       "role": "architecte"
     },
     {
-      "xml_id": "ChersifronedeCnossos",
+      "xml_id": "Chersiphron",
       "role": "architecte"
     }
   ],
@@ -54,6 +54,11 @@
     },
     {
       "date": "2026-06-01T14:30:28.691910",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-06-01T14:43:39.208009",
       "type": "modified",
       "author": "Carla"
     }
