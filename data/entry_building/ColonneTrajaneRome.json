@@ -33,7 +33,7 @@
     }
   ],
   "description": "",
-  "commentary": "quid artiste etc",
+  "commentary": "",
   "history": [
     {
       "date": "2026-01-09T15:46:48.424176",
@@ -54,8 +54,13 @@
       "date": "2026-04-23T10:07:41.390131",
       "type": "modified",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-01T11:10:21.028770",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
