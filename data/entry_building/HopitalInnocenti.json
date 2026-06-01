@@ -48,9 +48,14 @@
       "date": "2026-04-30T21:18:21.296430",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-01T10:17:24.438001",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "Hopital",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
