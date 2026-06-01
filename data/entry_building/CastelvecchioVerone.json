@@ -38,9 +38,14 @@
       "date": "2026-05-11T11:20:07.416029",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-01T09:48:31.963645",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "Chateau",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
