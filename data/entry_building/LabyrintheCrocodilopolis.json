@@ -1,6 +1,6 @@
 {
   "id": "LabyrintheCrocodilopolis",
-  "QID_wikidata": "https://www.wikidata.org/wiki/Q3825160",
+  "QID_wikidata": "",
   "entry_type": "building",
   "title": "Labyrinthe de Crocodilopolis",
   "creator": [],
@@ -24,15 +24,20 @@
   "bibliography": [],
   "illustrations": [],
   "description": "",
-  "commentary": "",
+  "commentary": "Pas d'images ",
   "history": [
     {
       "date": "2026-05-21T15:08:12.119740",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-01T10:30:47.990287",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 2,
   "typology": "Labyrinthe",
   "contained_by_ensemble": {}
 }
