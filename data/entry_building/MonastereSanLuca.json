@@ -1,0 +1,51 @@
+{
+  "id": "MonastereSanLuca",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q28669614",
+  "entry_type": "building",
+  "title": "Monastère de San Luca Florence",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1327,
+    "endYear": null,
+    "text": "1327- ?"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "fantozzimicaliSoppressioniConventiFirenze2000",
+      "location": "pp. 180-181"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Pianta_del_buonsignori%2C_dettaglio_080_san_luca_monastero_%28via_san_gallo%29.jpg",
+      "storage": "online",
+      "copyright": "CC BY-SA 3.0, Sailko, https://commons.wikimedia.org/wiki/File:Pianta_del_buonsignori,_dettaglio_080_san_luca_monastero_(via_san_gallo).jpg",
+      "caption": ""
+    }
+  ],
+  "description": "L'église a été reconstruite en 1570",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-01T11:02:39.535391",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "monastère",
+  "contained_by_ensemble": {}
+}
