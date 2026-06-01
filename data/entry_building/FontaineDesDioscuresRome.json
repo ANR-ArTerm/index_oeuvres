@@ -5,9 +5,9 @@
   "title": "Fontaine des Dioscures à Rome",
   "creator": [],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1588,
+    "endYear": 1588,
+    "text": "1588"
   },
   "location": {
     "type": "place",
@@ -38,9 +38,14 @@
       "date": "2026-05-06T16:07:00.543965",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-01T15:13:23.594299",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "fontaine",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
