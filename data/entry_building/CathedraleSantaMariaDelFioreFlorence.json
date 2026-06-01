@@ -69,9 +69,14 @@
       "date": "2026-06-01T10:45:58.832560",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-06-01T10:46:08.826753",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "cathédrale",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
