@@ -7,6 +7,10 @@
     {
       "xml_id": "BaccioPontelli",
       "role": "architecte"
+    },
+    {
+      "xml_id": null,
+      "role": "architecte"
     }
   ],
   "dateCreated": {
@@ -66,9 +70,14 @@
       "date": "2026-05-11T15:57:40.185918",
       "type": "modified",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-01T11:53:55.302607",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "église",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
