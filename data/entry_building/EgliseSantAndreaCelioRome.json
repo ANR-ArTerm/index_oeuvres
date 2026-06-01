@@ -12,7 +12,7 @@
   "dateCreated": {
     "startYear": 1602,
     "endYear": 1602,
-    "text": "1602"
+    "text": "XVIIème (???-1602)"
   },
   "location": {
     "type": "place",
@@ -53,9 +53,14 @@
       "date": "2026-05-05T11:58:51.659335",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-01T14:39:23.042314",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "typology": null,
+  "typology": "église",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
