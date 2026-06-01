@@ -7,7 +7,7 @@
   "dateCreated": {
     "startYear": 74,
     "endYear": 96,
-    "text": "Ie siècle"
+    "text": "Ier siècle"
   },
   "location": {
     "type": "place",
@@ -38,9 +38,14 @@
       "date": "2026-05-05T16:09:24.517067",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-01T15:57:36.095159",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "Temple",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
