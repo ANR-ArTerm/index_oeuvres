@@ -1,0 +1,51 @@
+{
+  "id": "EgliseSanDionisio",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q28668287",
+  "entry_type": "building",
+  "title": "Église  de San Dionisio",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1374,
+    "endYear": null,
+    "text": "1374 - ?"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "fantozzimicaliSoppressioniConventiFirenze2000",
+      "location": "pp. 102-103"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Pianta_del_buonsignori%2C_dettaglio_032_ceppo_monastero_%28ospedale_bonifacio%29_2.jpg",
+      "storage": "online",
+      "copyright": "CC BY-SA 3.0, Sailko, https://commons.wikimedia.org/wiki/File:Pianta_del_buonsignori,_dettaglio_032_ceppo_monastero_(ospedale_bonifacio)_2.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-01T11:10:57.218811",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "église",
+  "contained_by_ensemble": {}
+}
