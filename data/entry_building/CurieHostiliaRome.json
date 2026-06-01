@@ -25,10 +25,10 @@
   "illustrations": [
     {
       "id": 0,
-      "url": "",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Curia_Hostilia%2C_Comitium%2C_Rostra_and_Lapis_Niger_layout.jpg",
       "storage": "online",
-      "copyright": "",
-      "caption": ""
+      "copyright": "Wikimedia Commons, Mark Miller, Domaine Public,(https://commons.wikimedia.org/wiki/File:Curia_Hostilia,_Comitium,_Rostra_and_Lapis_Niger_layout.jpg)",
+      "caption": "Plan de la Curie ancienne et de ces évolutions"
     }
   ],
   "description": "",
@@ -38,9 +38,14 @@
       "date": "2026-05-05T16:26:30.456063",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-01T11:19:18.940382",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "typology": null,
+  "typology": "monument imaginaire ou disparu",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
