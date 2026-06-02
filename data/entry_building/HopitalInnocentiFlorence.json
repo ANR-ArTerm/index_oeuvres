@@ -1,5 +1,5 @@
 {
-  "id": "HopitalInnocenti",
+  "id": "HopitalInnocentiFlorence",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q1257947",
   "entry_type": "building",
   "title": "Hopital degli Innocenti Florence",
@@ -58,6 +58,11 @@
       "date": "2026-06-02T14:35:51.998519",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-02T17:46:38.411148",
+      "type": "modified",
+      "author": "Nicolo"
     }
   ],
   "typology": "Hopital",
