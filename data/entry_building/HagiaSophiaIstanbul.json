@@ -5,11 +5,11 @@
   "title": "Sainte-Sophie (Constantinople)",
   "creator": [
     {
-      "xml_id": "IsidoreDeMilet",
+      "xml_id": null,
       "role": "architecte"
     },
     {
-      "xml_id": "AnthémiusDeTralles",
+      "xml_id": null,
       "role": "architecte"
     }
   ],
@@ -52,6 +52,11 @@
       "date": "2026-06-01T10:15:07.347579",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-06-02T11:58:48.316340",
+      "type": "modified",
+      "author": "Nicolo"
     }
   ],
   "typology": "église",
