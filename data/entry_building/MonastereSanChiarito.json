@@ -60,9 +60,14 @@
       "date": "2026-06-01T11:04:31.421229",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-02T09:54:56.245899",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "monastère",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
