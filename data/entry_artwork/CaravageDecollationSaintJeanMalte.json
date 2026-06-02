@@ -18,7 +18,7 @@
     "type": "holding_institution",
     "institution": {
       "name": "Cathédrale Saint-Jean",
-      "place": "La Valette",
+      "place": "LaValette",
       "inventory_number": "",
       "url": ""
     }
@@ -30,7 +30,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/The_Beheading_of_Saint_John-Caravaggio_%281608%29.jpg",
       "storage": "online",
-      "copyright": "Wikimedia Commons, Domaine public, Masur, https://commons.wikimedia.org/wiki/File:The_Beheading_of_Saint_John-Caravaggio_(1608).jpg",
+      "copyright": "Wikimedia Commons, Domaine public, Masur, (https://commons.wikimedia.org/wiki/File:The_Beheading_of_Saint_John-Caravaggio_(1608).jpg)",
       "caption": ""
     }
   ],
@@ -41,6 +41,11 @@
       "date": "2026-05-06T16:11:15.388556",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-02T13:54:56.365457",
+      "type": "modified",
+      "author": "Nicolo"
     }
   ],
   "materialsAndTechniques": "huile sur toile",
