@@ -29,6 +29,13 @@
       "storage": "online",
       "copyright": "Wikimedia Commons, CC BY-SA 3.0, TcfkaPanairjdde (https://commons.wikimedia.org/wiki/File:Campidoglio,_Roma_-_trofei_(dx)_fronte.jpg)",
       "caption": "Un des deux trophées, dits \"Trofei di Mario\", situés au sommet de la Cordonata, l’escalier monumental qui mène à la Piazza del Campidoglio, à Rome. Trophée de droite."
+    },
+    {
+      "id": 1,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Trofei_di_Mario%2C_Rione_XV_Esquilino%2C_Roma%2C_Lazio%2C_Italy_-_panoramio.jpg",
+      "copyright": "Wikimédia Commons, CC BY-SA 3.0, trolvag  (https://commons.wikimedia.org/wiki/File:Trofei_di_Mario,_Rione_XV_Esquilino,_Roma,_Lazio,_Italy_-_panoramio.jpg)",
+      "caption": "",
+      "storage": "online"
     }
   ],
   "description": "",
@@ -38,9 +45,14 @@
       "date": "2026-05-06T15:20:06.343416",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-02T10:15:45.038020",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "Nymphée",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
