@@ -5,7 +5,7 @@
   "title": "Hopital degli Innocenti Florence",
   "creator": [
     {
-      "xml_id": "FilippoBrunelleschi",
+      "xml_id": "Brunelleschi",
       "role": "architecte"
     }
   ],
@@ -53,6 +53,11 @@
       "date": "2026-06-01T10:17:24.438001",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-06-02T14:35:51.998519",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
   "typology": "Hopital",
