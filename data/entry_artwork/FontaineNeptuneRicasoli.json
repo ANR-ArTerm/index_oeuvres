@@ -1,5 +1,5 @@
 {
-  "id": "FontaineNeptune",
+  "id": "FontaineNeptuneRicasoli",
   "QID_wikidata": "",
   "entry_type": "artwork",
   "title": "Fontaine Neptune",
@@ -42,6 +42,11 @@
       "date": "2026-05-01T12:16:29.478742",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-02T17:27:09.979301",
+      "type": "modified",
+      "author": "Nicolo"
     }
   ],
   "materialsAndTechniques": "pierre",
