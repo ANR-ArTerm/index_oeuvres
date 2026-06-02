@@ -1,5 +1,5 @@
 {
-  "id": "MonastereSanChiarito",
+  "id": "MonastereSanChiaritoFlorence",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q3687238",
   "entry_type": "building",
   "title": "Monastère San Chiarito Florence",
@@ -65,6 +65,11 @@
       "date": "2026-06-02T09:54:56.245899",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-06-02T17:38:55.075724",
+      "type": "modified",
+      "author": "Nicolo"
     }
   ],
   "typology": "monastère",
