@@ -7,7 +7,7 @@
   "dateCreated": {
     "startYear": 1564,
     "endYear": 1867,
-    "text": ""
+    "text": "1564-1867"
   },
   "typology": "Palais",
   "location": {
@@ -44,8 +44,13 @@
       "date": "2026-04-20T15:29:56.341602",
       "type": "modified",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-02T16:52:31.384497",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
