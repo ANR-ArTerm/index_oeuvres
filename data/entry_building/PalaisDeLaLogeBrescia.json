@@ -3,7 +3,12 @@
   "QID_wikidata": "https://www.wikidata.org/wiki/Q3891454",
   "entry_type": "building",
   "title": "Palais de la Loge Brescia",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "Bramante",
+      "role": "architecte"
+    }
+  ],
   "dateCreated": {
     "startYear": 1492,
     "endYear": 1574,
@@ -38,9 +43,14 @@
       "date": "2026-04-30T15:51:54.334826",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-02T12:03:40.527676",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "BasiliqueCivile",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
