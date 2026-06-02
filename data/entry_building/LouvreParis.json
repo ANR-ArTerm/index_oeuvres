@@ -67,8 +67,8 @@
   "illustrations": [
     {
       "id": 0,
-      "url": "",
-      "copyright": "",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Louvre_Cour_Carrée_June_2010.jpg",
+      "copyright": "Wikimédia Commons, CC BY-SA 3.0, King of Hearts (https://commons.wikimedia.org/wiki/File:Louvre_Cour_Carrée_June_2010.jpg)",
       "caption": "",
       "storage": "online"
     }
@@ -85,8 +85,13 @@
       "date": "2026-06-02T09:34:30.120954",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-06-02T09:40:03.697566",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "contained_by_ensemble": {}
 }
