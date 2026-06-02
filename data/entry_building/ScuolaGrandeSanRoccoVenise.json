@@ -1,0 +1,46 @@
+{
+  "id": "ScuolaGrandeSanRoccoVenise",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1270723",
+  "entry_type": "building",
+  "title": "Scuola Grande de San Rocco à Venise",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1517,
+    "endYear": 1560,
+    "text": "XVIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Venise",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Scuola_Grande_di_San_Rocco_%28Venice%29.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Didier Descouens (https://commons.wikimedia.org/wiki/File:Scuola_Grande_di_San_Rocco_(Venice).jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-02T12:27:28.628392",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Palais",
+  "contained_by_ensemble": {}
+}
