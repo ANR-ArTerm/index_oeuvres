@@ -9,7 +9,7 @@
       "role": "architecte"
     },
     {
-      "xml_id": "FilippoBrunelleschi",
+      "xml_id": "Brunelleschi",
       "role": "architecte"
     },
     {
@@ -77,6 +77,11 @@
     },
     {
       "date": "2026-06-01T16:07:59.020711",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-06-02T14:35:18.169940",
       "type": "modified",
       "author": "Carla"
     }
