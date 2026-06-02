@@ -5,7 +5,7 @@
   "title": "Sculpture Venus",
   "creator": [
     {
-      "xml_id": "SantidiGucci",
+      "xml_id": "SantiGucci",
       "role": "sculpteur"
     }
   ],
@@ -32,6 +32,11 @@
       "date": "2026-05-01T11:53:52.775329",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-02T12:24:24.711959",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
   "materialsAndTechniques": null,
