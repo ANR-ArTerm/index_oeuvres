@@ -32,7 +32,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/PalaisBarberini-Facade_avant_du_palais.JPG",
       "storage": "online",
-      "copyright": "CC BY-SA 3.0, Mallowtek, https://commons.wikimedia.org/wiki/Palazzo_Barberini_a_Roma",
+      "copyright": "Wikimédia Commons, CC BY-SA 3.0, Mallowtek, https://commons.wikimedia.org/wiki/Palazzo_Barberini_a_Roma",
       "caption": ""
     }
   ],
@@ -43,9 +43,14 @@
       "date": "2026-04-09T14:51:41.198812",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-02T10:22:46.386352",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "Palais",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
