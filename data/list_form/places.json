@@ -251,7 +251,7 @@
   "Ingolstadt",
   "Ionie",
   "Israel",
-  "Istanboul",
+  "Istanbul",
   "Istrie",
   "Italie",
   "IvrySurSeine",
@@ -261,8 +261,8 @@
   "Jerusalem",
   "Judee",
   "Kalkar",
-  "La Valette",
   "LaHaye",
+  "LaValette",
   "Labicum",
   "LacDeGarde",
   "Lallaing",
@@ -479,7 +479,6 @@
   "Sceaux",
   "Schaffhouse",
   "Schoorl",
-  "SculoaGrandeSanRocco",
   "SeleucieDuTigre",
   "Selinonte",
   "Senlis",
@@ -575,6 +574,5 @@
   "Wurtzbourg",
   "Xipete",
   "Zelande",
-  "test",
-  "Éphèse"
+  "test"
 ]
