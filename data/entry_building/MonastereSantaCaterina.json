@@ -48,9 +48,14 @@
       "date": "2026-06-01T10:25:00.346087",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-02T10:06:11.511064",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "monastère",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
