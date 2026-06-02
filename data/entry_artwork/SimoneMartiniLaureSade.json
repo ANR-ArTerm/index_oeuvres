@@ -5,7 +5,7 @@
   "title": "Portrait de La belle Laure",
   "creator": [
     {
-      "xml_id": "SimoneMemmi",
+      "xml_id": "SimoneMartini",
       "role": "peintre"
     }
   ],
@@ -33,6 +33,11 @@
       "date": "2026-03-12T12:16:20.108656",
       "type": "modified",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-02T13:46:41.987556",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
   "contained_by_ensemble": {},
