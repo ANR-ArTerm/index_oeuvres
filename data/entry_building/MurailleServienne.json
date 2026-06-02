@@ -7,7 +7,7 @@
   "dateCreated": {
     "startYear": -600,
     "endYear": -500,
-    "text": "VIe siècle av. J.-C."
+    "text": "VIe siècle -IVe siècle av. J.-C."
   },
   "location": {
     "type": "place",
@@ -38,9 +38,14 @@
       "date": "2026-05-20T11:32:53.044536",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-02T10:09:12.309143",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "Murailles",
   "contained_by_ensemble": {}
 }
