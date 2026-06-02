@@ -48,9 +48,14 @@
       "date": "2026-04-30T16:06:26.951443",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-02T14:52:47.248154",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "Palais",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
