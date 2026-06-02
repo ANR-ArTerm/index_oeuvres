@@ -12,7 +12,7 @@
   "location": {
     "type": "place",
     "place": {
-      "city": null,
+      "city": "Naples",
       "country": "Italie",
       "coordinates": {
         "latitude": "40.850567",
@@ -38,9 +38,14 @@
       "date": "2026-04-22T12:22:42.664343",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-02T10:11:21.088664",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": null,
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
