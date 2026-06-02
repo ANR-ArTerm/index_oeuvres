@@ -3,11 +3,20 @@
   "QID_wikidata": "https://www.wikidata.org/wiki/Q28471",
   "entry_type": "building",
   "title": "Monastère royal de San Lorenzo de El Escorial",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "JeanDeBautistaDeTolede",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "JuanDeHerreraDeMaliano",
+      "role": "architecte"
+    }
+  ],
   "dateCreated": {
-    "startYear": 1557,
-    "endYear": 1557,
-    "text": "1557"
+    "startYear": 1563,
+    "endYear": 1584,
+    "text": "1563-1584"
   },
   "location": {
     "type": "place",
@@ -43,9 +52,14 @@
       "date": "2026-02-10T14:53:45.139661",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-02T10:03:09.268251",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": null,
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
