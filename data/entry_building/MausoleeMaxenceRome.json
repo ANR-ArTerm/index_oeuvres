@@ -5,7 +5,7 @@
   "title": "Mausolée de Maxence à Rome",
   "creator": [],
   "dateCreated": {
-    "startYear": 306,
+    "startYear": 309,
     "endYear": 312,
     "text": "IVe siècle"
   },
@@ -38,9 +38,14 @@
       "date": "2026-05-19T15:13:17.798885",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-02T09:43:34.366343",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "mausolée",
   "contained_by_ensemble": {}
 }
