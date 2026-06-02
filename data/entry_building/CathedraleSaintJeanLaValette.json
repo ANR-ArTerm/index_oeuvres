@@ -17,7 +17,7 @@
   "location": {
     "type": "place",
     "place": {
-      "city": "La Valette",
+      "city": "LaValette",
       "country": "Malte",
       "coordinates": {
         "latitude": "",
@@ -32,7 +32,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/St_John%27s_Co-Cathedral%2C_Valletta_001.jpg",
       "storage": "online",
-      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Matthew Axiak, https://commons.wikimedia.org/wiki/File:St_John%27s_Co-Cathedral,_Valletta_001.jpg",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Matthew Axiak, (https://commons.wikimedia.org/wiki/File:St_John%27s_Co-Cathedral,_Valletta_001.jpg)",
       "caption": ""
     }
   ],
@@ -48,6 +48,11 @@
       "date": "2026-06-01T10:38:21.074044",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-06-02T13:53:47.238115",
+      "type": "modified",
+      "author": "Nicolo"
     }
   ],
   "typology": "cathédrale",
