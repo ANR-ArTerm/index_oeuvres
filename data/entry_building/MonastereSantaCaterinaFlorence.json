@@ -1,5 +1,5 @@
 {
-  "id": "MonastereSantaCaterina",
+  "id": "MonastereSantaCaterinaFlorence",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q3735846",
   "entry_type": "building",
   "title": "Monastère Santa Caterina Florence",
@@ -53,6 +53,11 @@
       "date": "2026-06-02T10:06:11.511064",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-06-02T17:47:48.874364",
+      "type": "modified",
+      "author": "Nicolo"
     }
   ],
   "typology": "monastère",
