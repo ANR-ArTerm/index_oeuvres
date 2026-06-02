@@ -5,9 +5,9 @@
   "title": "Palais princier de Monaco",
   "creator": [],
   "dateCreated": {
-    "startYear": null,
+    "startYear": 1215,
     "endYear": null,
-    "text": ""
+    "text": "début 1215 fin des traveaux "
   },
   "location": {
     "type": "place",
@@ -38,9 +38,14 @@
       "date": "2026-03-12T14:21:37.600934",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-02T15:19:15.488699",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "Palais",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
