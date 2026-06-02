@@ -7,7 +7,7 @@
   "dateCreated": {
     "startYear": -100,
     "endYear": -1,
-    "text": "Ie av. J.-C."
+    "text": "Ier siècle av. J.-C."
   },
   "location": {
     "type": "place",
@@ -38,9 +38,14 @@
       "date": "2026-04-20T16:08:45.454358",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-02T09:50:19.041464",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "pyramide",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
