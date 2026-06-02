@@ -1,5 +1,5 @@
 {
-  "id": "MonastereSanLuca",
+  "id": "MonastereSanLucaFlorence",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q28669614",
   "entry_type": "building",
   "title": "Monastère de San Luca Florence",
@@ -48,6 +48,11 @@
       "date": "2026-06-02T10:05:03.026310",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-06-02T17:41:16.801816",
+      "type": "modified",
+      "author": "Nicolo"
     }
   ],
   "status_entry": 1,
