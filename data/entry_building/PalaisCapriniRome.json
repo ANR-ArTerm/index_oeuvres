@@ -3,18 +3,23 @@
   "QID_wikidata": "https://www.wikidata.org/wiki/Q2047517",
   "entry_type": "building",
   "title": "Palais Caprini",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "Bramante",
+      "role": "architecte"
+    }
+  ],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1510,
+    "endYear": 1517,
+    "text": "vers 1510"
   },
-  "typology": "",
+  "typology": "monument imaginaire ou disparu",
   "location": {
     "type": "place",
     "place": {
-      "city": "",
-      "country": "",
+      "city": "Rome",
+      "country": "Italie",
       "coordinates": {
         "latitude": "",
         "longitude": ""
@@ -24,14 +29,20 @@
   "related_works": [],
   "bibliography": [],
   "illustrations": [],
-  "description": "",
+  "description": "Le Palais a été détruit en 1938",
   "commentary": "",
   "history": [
     {
       "date": "2026-01-20T11:47:35.277822",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-02T10:28:07.599706",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }
