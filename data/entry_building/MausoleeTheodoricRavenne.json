@@ -7,7 +7,7 @@
   "dateCreated": {
     "startYear": 500,
     "endYear": 600,
-    "text": "VIe siècle"
+    "text": "VI-VIIe siècle"
   },
   "location": {
     "type": "place",
@@ -38,9 +38,14 @@
       "date": "2026-05-20T11:06:01.410759",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-02T09:47:31.494034",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "mausolée",
   "contained_by_ensemble": {}
 }
