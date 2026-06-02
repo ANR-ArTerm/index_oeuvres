@@ -12,7 +12,7 @@
   "dateCreated": {
     "startYear": 1534,
     "endYear": 1534,
-    "text": "Vers 1534"
+    "text": "Vers 1534 (XVIe siècle)"
   },
   "location": {
     "type": "place",
@@ -48,9 +48,14 @@
       "date": "2026-05-06T11:58:34.018405",
       "type": "modified",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-02T09:52:46.906204",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "Place",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
