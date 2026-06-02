@@ -1,5 +1,5 @@
 {
-  "id": "PalaisRicasoli",
+  "id": "PalaisRicasoliFlorence",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q3890860",
   "entry_type": "building",
   "title": "Palais Ricasoli Florence",
@@ -61,6 +61,11 @@
       "date": "2026-06-02T15:39:30.509199",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-06-02T17:30:51.976520",
+      "type": "modified",
+      "author": "Nicolo"
     }
   ],
   "typology": "Palais",
