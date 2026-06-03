@@ -1,5 +1,5 @@
 {
-  "id": "ChapelleDelMonte",
+  "id": "ChapelleDelMonteSanPietroInMontorioRome",
   "QID_wikidata": "",
   "entry_type": "ensemble",
   "title": "Chapelle Del Monte",
@@ -68,6 +68,11 @@
       "date": "2026-04-30T19:02:11.677764",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-02T17:55:03.825366",
+      "type": "modified",
+      "author": "Nicolo"
     }
   ],
   "typology": "chapelle",

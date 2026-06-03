@@ -43,9 +43,19 @@
       "date": "2026-04-23T11:27:51.461892",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-02T16:59:44.689731",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-02T17:00:19.569936",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "Palais",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }

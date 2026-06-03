@@ -1,8 +1,8 @@
 {
-  "id": "PalaisRicasoli",
+  "id": "JardinRicasoliFlorence",
   "QID_wikidata": "",
-  "entry_type": "building",
-  "title": "Palais Ricasoli Florence",
+  "entry_type": "ensemble",
+  "title": "Jardin Ricasoli Florence",
   "creator": [
     {
       "xml_id": "CosimoBartoli",
@@ -14,9 +14,9 @@
     }
   ],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": "Post 1538 - 1550 ca."
+    "startYear": 1538,
+    "endYear": 1552,
+    "text": "post 1538 - 1550ca."
   },
   "location": {
     "type": "place",
@@ -32,12 +32,8 @@
   "related_works": [],
   "bibliography": [
     {
-      "zotero_key": "poliRecuperoDiMonumento1973",
-      "location": ""
-    },
-    {
-      "zotero_key": "davisCosimoBartoliPortal1975",
-      "location": ""
+      "zotero_key": "jonietzSemanticsRecyclingCosimo2011",
+      "location": "297-325"
     }
   ],
   "illustrations": [
@@ -46,19 +42,24 @@
       "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Pianta_del_buonsignori%2C_dettaglio_032_ceppo_monastero_%28ospedale_bonifacio%29_2.jpg",
       "storage": "online",
       "copyright": "CC BY-SA 3.0, Sailko, https://commons.wikimedia.org/wiki/File:Pianta_del_buonsignori,_dettaglio_032_ceppo_monastero_(ospedale_bonifacio)_2.jpg",
-      "caption": "n. 32"
+      "caption": ""
     }
   ],
-  "description": "Conçu, commencé mais jamais achevé",
+  "description": "Conçu mais non réalisé",
   "commentary": "",
   "history": [
     {
-      "date": "2026-04-30T21:51:54.353995",
+      "date": "2026-04-30T20:54:03.757406",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-02T17:27:46.813782",
+      "type": "modified",
+      "author": "Nicolo"
     }
   ],
-  "typology": "Palais",
-  "contained_by_ensemble": {},
+  "typology": "jardin",
+  "contains_works": [],
   "status_entry": 0
 }

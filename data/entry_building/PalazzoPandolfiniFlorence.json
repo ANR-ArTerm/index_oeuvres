@@ -3,18 +3,23 @@
   "QID_wikidata": "https://www.wikidata.org/wiki/Q1228234",
   "entry_type": "building",
   "title": "Palazzo Pandolfini",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "RaffaelloSanzio",
+      "role": "architecte"
+    }
+  ],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1516,
+    "endYear": 1530,
+    "text": "1516-1530"
   },
-  "typology": "",
+  "typology": "Palais",
   "location": {
     "type": "place",
     "place": {
-      "city": "",
-      "country": "",
+      "city": "Florence",
+      "country": "Italie",
       "coordinates": {
         "latitude": "",
         "longitude": ""
@@ -31,7 +36,13 @@
       "date": "2026-01-20T11:47:35.311992",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-03T10:32:47.999598",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }

@@ -3,7 +3,20 @@
   "QID_wikidata": "https://www.wikidata.org/wiki/Q1270723",
   "entry_type": "building",
   "title": "Scuola Grande de San Rocco à Venise",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "PietroBon",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "SanteLombardo",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "AntonioAbbondi",
+      "role": "architecte"
+    }
+  ],
   "dateCreated": {
     "startYear": 1517,
     "endYear": 1560,
@@ -37,6 +50,11 @@
     {
       "date": "2026-06-02T12:27:28.628392",
       "type": "created",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-02T14:47:22.337422",
+      "type": "modified",
       "author": "Nicolo"
     }
   ],

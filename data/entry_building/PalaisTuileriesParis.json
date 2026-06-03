@@ -3,11 +3,32 @@
   "QID_wikidata": "https://www.wikidata.org/wiki/Q234364",
   "entry_type": "architecture",
   "title": "Palais des Tuileries",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "LouisLeVau",
+      "role": ""
+    },
+    {
+      "xml_id": "JeanBullant",
+      "role": ""
+    },
+    {
+      "xml_id": "JacquesGermainSoufflot",
+      "role": ""
+    },
+    {
+      "xml_id": "PhilibertDelorme",
+      "role": ""
+    },
+    {
+      "xml_id": "JacquesAndrouetDuCerceau",
+      "role": ""
+    }
+  ],
   "dateCreated": {
     "startYear": 1564,
     "endYear": 1867,
-    "text": ""
+    "text": "1564-1867"
   },
   "typology": "Palais",
   "location": {
@@ -33,7 +54,7 @@
     }
   ],
   "description": "",
-  "commentary": "",
+  "commentary": "Notice à refaire car manque section pour le rôle des artistes.\n\t\nPhilibert Delorme\nJean Bullant\nBaptiste Androuet du Cerceau\nLouis Le Vau\nJacques-Germain Soufflot",
   "history": [
     {
       "date": "2026-01-20T11:47:35.406462",
@@ -44,8 +65,28 @@
       "date": "2026-04-20T15:29:56.341602",
       "type": "modified",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-02T16:52:31.384497",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-03T10:21:08.848386",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-03T10:25:52.191898",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-03T10:28:09.268340",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }

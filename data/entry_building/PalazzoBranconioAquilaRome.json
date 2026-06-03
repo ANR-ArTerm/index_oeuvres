@@ -3,18 +3,23 @@
   "QID_wikidata": "https://www.wikidata.org/wiki/Q1267485 ",
   "entry_type": "building",
   "title": "Palazzo Branconio dell'Aquila",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "RaffaelloSanzio",
+      "role": "architecte"
+    }
+  ],
   "dateCreated": {
     "startYear": null,
     "endYear": null,
-    "text": ""
+    "text": "construit à la première moitié du XVI"
   },
-  "typology": "",
+  "typology": "monument imaginaire ou disparu",
   "location": {
     "type": "place",
     "place": {
-      "city": "",
-      "country": "",
+      "city": "Rome",
+      "country": "Italie",
       "coordinates": {
         "latitude": "",
         "longitude": ""
@@ -23,15 +28,29 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [],
-  "description": "",
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Palazzo_Branconio_dell_Aquila_17th_century_%28middle_size%29_%2816927488%29.jpg",
+      "copyright": "Wikimédia Commons, domaine publique, Pietro Ferrerio (https://commons.wikimedia.org/wiki/File:Palazzo_Branconio_dell_Aquila_17th_century_(middle_size)_(16927488).jpg)",
+      "caption": "Palazzo Branconio dell Aquila 17th century (middle size)",
+      "storage": "online"
+    }
+  ],
+  "description": "A été détruit en 1660",
   "commentary": "",
   "history": [
     {
       "date": "2026-01-20T11:47:35.298115",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-03T09:44:02.040671",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }

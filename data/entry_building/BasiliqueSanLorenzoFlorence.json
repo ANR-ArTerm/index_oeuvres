@@ -1,8 +1,8 @@
 {
-  "id": "BasiliqueSanLorenzoFirenze",
+  "id": "BasiliqueSanLorenzoFlorence",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q573881",
   "entry_type": "building",
-  "title": "Basilique San Lorenzo Firenze",
+  "title": "Basilique San Lorenzo à Florence",
   "creator": [
     {
       "xml_id": "Brunelleschi",
@@ -90,6 +90,11 @@
       "date": "2026-06-02T14:34:44.698410",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-02T14:56:36.365336",
+      "type": "modified",
+      "author": "Nicolo"
     }
   ],
   "typology": "basilique",

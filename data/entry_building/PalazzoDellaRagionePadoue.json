@@ -3,9 +3,14 @@
   "QID_wikidata": "https://www.wikidata.org/wiki/Q2517428",
   "entry_type": "building",
   "title": "Palazzo della Ragione à Padoue",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "GiovanniDegliEremitani",
+      "role": "architecte"
+    }
+  ],
   "dateCreated": {
-    "startYear": 1166,
+    "startYear": 1218,
     "endYear": 1420,
     "text": "entre XIIe et XVe siècle"
   },
@@ -38,9 +43,19 @@
       "date": "2026-04-30T15:46:02.276511",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-03T09:51:39.617479",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-03T09:53:15.114112",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "BasiliqueCivile",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }

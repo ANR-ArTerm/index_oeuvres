@@ -1,5 +1,5 @@
 {
-  "id": "FacadesTempleSante",
+  "id": "FacadesTempleSanteRome",
   "QID_wikidata": "",
   "entry_type": "artwork",
   "title": "Facades du Temple de la Santé Rome",
@@ -55,6 +55,11 @@
       "date": "2026-06-02T12:20:24.748492",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-02T17:59:15.534590",
+      "type": "modified",
+      "author": "Nicolo"
     }
   ],
   "materialsAndTechniques": "fresque",
