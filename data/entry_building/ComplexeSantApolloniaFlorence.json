@@ -21,7 +21,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "fantozzimicaliSoppressioniConventiFirenze2000",
+      "location": "pp. 82-83"
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -37,6 +42,11 @@
     {
       "date": "2026-06-03T17:28:04.498542",
       "type": "created",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-03T17:30:50.737411",
+      "type": "modified",
       "author": "Jules"
     }
   ],
