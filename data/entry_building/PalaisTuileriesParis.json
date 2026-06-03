@@ -5,7 +5,7 @@
   "title": "Palais des Tuileries",
   "creator": [
     {
-      "xml_id": "PhilibertDelorme",
+      "xml_id": "LouisLeVau",
       "role": ""
     },
     {
@@ -13,19 +13,15 @@
       "role": ""
     },
     {
-      "xml_id": "BaptisteAndrouetDuCerceau",
-      "role": ""
-    },
-    {
-      "xml_id": "LouisLeVau",
-      "role": ""
-    },
-    {
       "xml_id": "JacquesGermainSoufflot",
       "role": ""
     },
     {
-      "xml_id": "AngeJacquesGabriel",
+      "xml_id": "PhilibertDelorme",
+      "role": ""
+    },
+    {
+      "xml_id": "JacquesAndrouetDuCerceau",
       "role": ""
     }
   ],
@@ -58,7 +54,7 @@
     }
   ],
   "description": "",
-  "commentary": "",
+  "commentary": "Notice à refaire car manque section pour le rôle des artistes.",
   "history": [
     {
       "date": "2026-01-20T11:47:35.406462",
@@ -77,6 +73,11 @@
     },
     {
       "date": "2026-06-03T10:21:08.848386",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-03T10:25:52.191898",
       "type": "modified",
       "author": "Jules"
     }
