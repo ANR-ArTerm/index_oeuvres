@@ -30,9 +30,14 @@
       "date": "2026-04-30T14:48:55.602518",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-03T14:56:34.986524",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "monument imaginaire ou disparu",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
