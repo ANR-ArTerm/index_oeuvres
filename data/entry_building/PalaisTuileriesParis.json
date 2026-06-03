@@ -3,7 +3,32 @@
   "QID_wikidata": "https://www.wikidata.org/wiki/Q234364",
   "entry_type": "architecture",
   "title": "Palais des Tuileries",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "PhilibertDelorme",
+      "role": ""
+    },
+    {
+      "xml_id": "JeanBullant",
+      "role": ""
+    },
+    {
+      "xml_id": "BaptisteAndrouetDuCerceau",
+      "role": ""
+    },
+    {
+      "xml_id": "LouisLeVau",
+      "role": ""
+    },
+    {
+      "xml_id": "JacquesGermainSoufflot",
+      "role": ""
+    },
+    {
+      "xml_id": "AngeJacquesGabriel",
+      "role": ""
+    }
+  ],
   "dateCreated": {
     "startYear": 1564,
     "endYear": 1867,
@@ -47,6 +72,11 @@
     },
     {
       "date": "2026-06-02T16:52:31.384497",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-03T10:21:08.848386",
       "type": "modified",
       "author": "Jules"
     }
