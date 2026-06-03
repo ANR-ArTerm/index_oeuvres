@@ -54,7 +54,7 @@
     }
   ],
   "description": "",
-  "commentary": "Notice à refaire car manque section pour le rôle des artistes.",
+  "commentary": "Notice à refaire car manque section pour le rôle des artistes.\n\t\nPhilibert Delorme\nJean Bullant\nBaptiste Androuet du Cerceau\nLouis Le Vau\nJacques-Germain Soufflot",
   "history": [
     {
       "date": "2026-01-20T11:47:35.406462",
@@ -78,6 +78,11 @@
     },
     {
       "date": "2026-06-03T10:25:52.191898",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-03T10:28:09.268340",
       "type": "modified",
       "author": "Jules"
     }
