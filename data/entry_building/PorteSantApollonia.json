@@ -25,7 +25,12 @@
       }
     }
   },
-  "related_works": [],
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "ComplexeSantApolloniaFlorence"
+    }
+  ],
   "bibliography": [
     {
       "zotero_key": "davisCosimoBartoliPortal1975",
@@ -48,9 +53,14 @@
       "date": "2026-04-30T21:42:50.681498",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-03T17:32:12.876532",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "Porte",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
