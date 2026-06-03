@@ -7,12 +7,12 @@
   "dateCreated": {
     "startYear": null,
     "endYear": null,
-    "text": ""
+    "text": "Ier siècle avant J.-C."
   },
   "location": {
     "type": "place",
     "place": {
-      "city": null,
+      "city": "Rome",
       "country": "Italie",
       "coordinates": {
         "latitude": "",
@@ -38,9 +38,14 @@
       "date": "2026-04-30T10:52:45.638141",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-03T10:11:07.664403",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "Voie",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
