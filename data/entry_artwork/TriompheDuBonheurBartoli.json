@@ -1,5 +1,5 @@
 {
-  "id": "Triomphedubonheur",
+  "id": "TriompheDuBonheurBartoli",
   "QID_wikidata": "",
   "entry_type": "artwork",
   "title": "Triomphe du Bonheur",
@@ -27,6 +27,11 @@
       "date": "2026-05-05T11:42:16.401511",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-03T09:55:47.721863",
+      "type": "modified",
+      "author": "Nicolo"
     }
   ],
   "materialsAndTechniques": null,
