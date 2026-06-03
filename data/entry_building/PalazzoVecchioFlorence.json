@@ -5,16 +5,16 @@
   "title": "Palazzo Vecchio",
   "creator": [],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1299,
+    "endYear": 1314,
+    "text": "1299-1314"
   },
-  "typology": "",
+  "typology": "Palais",
   "location": {
     "type": "place",
     "place": {
-      "city": "",
-      "country": "",
+      "city": "Florence",
+      "country": "Italie",
       "coordinates": {
         "latitude": "",
         "longitude": ""
@@ -31,7 +31,13 @@
       "date": "2026-01-20T11:47:35.225852",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-03T12:15:40.584787",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }
