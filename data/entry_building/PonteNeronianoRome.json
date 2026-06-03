@@ -25,9 +25,9 @@
   "illustrations": [
     {
       "id": 0,
-      "url": "",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Remains_of_Neronian_Bridge%2C_Rome%2C_Italy.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
       "storage": "online",
-      "copyright": "",
+      "copyright": "Wikimédia, CC BY-SA 2.5, ColdShine (https://commons.wikimedia.org/wiki/File:Remains_of_Neronian_Bridge,_Rome,_Italy.jpg)",
       "caption": ""
     }
   ],
@@ -38,9 +38,14 @@
       "date": "2026-04-30T12:11:42.650898",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-03T14:44:05.094161",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "typology": "monument imaginaire ou disparu",
+  "typology": "Pont",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
