@@ -27,15 +27,7 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [
-    {
-      "id": 0,
-      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Rialto_Bridge%2C_Andrea_Palladio_Project.jpg",
-      "storage": "online",
-      "copyright": "Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Rialto_Bridge,_Andrea_Palladio_Project.jpg)",
-      "caption": "Giovanni Antonio Canaletto, Pont du Rialto projet d'Andrea Palladio, Museo Civico Bassano del Grappa "
-    }
-  ],
+  "illustrations": [],
   "description": "Projet jamais realisé d'Andrea Palladio pour le pont du Rialto à Venise.",
   "commentary": "",
   "history": [
@@ -43,9 +35,14 @@
       "date": "2026-04-30T14:26:17.215424",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-03T14:53:07.801164",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "monument imaginaire ou disparu",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
