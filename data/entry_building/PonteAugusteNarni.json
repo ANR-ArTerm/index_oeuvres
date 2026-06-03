@@ -7,7 +7,7 @@
   "dateCreated": {
     "startYear": -100,
     "endYear": 100,
-    "text": "entre Ie siècle av. J.-C. et Ie siècle apr. J.-C."
+    "text": "entre Ier siècle av. J.-C. et Ie siècle apr. J.-C."
   },
   "location": {
     "type": "place",
@@ -38,9 +38,14 @@
       "date": "2026-04-30T12:33:25.711073",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-03T13:52:49.886368",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "Pont",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }

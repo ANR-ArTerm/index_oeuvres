@@ -1,6 +1,6 @@
 {
   "id": "PonteMallioCagli",
-  "QID_wikidata": "",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q28003389",
   "entry_type": "building",
   "title": "Ponte Mallio à Cagli",
   "creator": [],
@@ -38,9 +38,14 @@
       "date": "2026-04-30T12:36:38.739114",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-03T14:19:53.815203",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "Pont",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }

@@ -6,7 +6,7 @@
   "creator": [],
   "dateCreated": {
     "startYear": -55,
-    "endYear": -55,
+    "endYear": -53,
     "text": "Ie siècle av. J.-C."
   },
   "location": {
@@ -22,7 +22,15 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Louis_Napoleon_Bonaparte_-_Histoire_de_Cesar_-_Atlas_2_-_Planche_15.jpg",
+      "copyright": "Wikimédia Commons, CC  BY-SA 4.0, Dudew (https://commons.wikimedia.org/wiki/File:Louis_Napoleon_Bonaparte_-_Histoire_de_Cesar_-_Atlas_2_-_Planche_15.jpg)",
+      "caption": "Croquis du pont, tiré de Histoire de Jules César - Atlas du tome 2, par Louis-Napoléon Bonaparte (1866)",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -30,9 +38,14 @@
       "date": "2026-04-30T11:35:20.393831",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-03T14:08:28.025441",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "monument imaginaire ou disparu",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }

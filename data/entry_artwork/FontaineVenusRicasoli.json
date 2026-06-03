@@ -1,5 +1,5 @@
 {
-  "id": "FontaineVenus",
+  "id": "FontaineVenusRicasoli",
   "QID_wikidata": "",
   "entry_type": "artwork",
   "title": "Fontaine Venus",
@@ -15,7 +15,7 @@
   "related_works": [
     {
       "link_type": "fait partie de",
-      "xml_id_work": "JardinRicasoli"
+      "xml_id_work": null
     }
   ],
   "bibliography": [
@@ -37,6 +37,11 @@
       "date": "2026-05-01T12:26:43.112166",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-03T16:57:58.637197",
+      "type": "modified",
+      "author": "Nicolo"
     }
   ],
   "materialsAndTechniques": "Sculpture en marbre",

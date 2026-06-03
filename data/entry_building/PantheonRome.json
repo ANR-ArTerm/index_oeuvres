@@ -44,8 +44,13 @@
       "date": "2026-04-22T10:41:12.189098",
       "type": "modified",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-03T12:16:33.377539",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }

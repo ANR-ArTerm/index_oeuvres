@@ -7,7 +7,7 @@
   "dateCreated": {
     "startYear": 14,
     "endYear": 21,
-    "text": "Ie siècle "
+    "text": "Ier siècle "
   },
   "location": {
     "type": "place",
@@ -38,9 +38,14 @@
       "date": "2026-04-30T13:55:15.215832",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-03T15:51:29.126273",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "Pont",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }

@@ -38,9 +38,14 @@
       "date": "2026-05-07T11:31:28.034440",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-03T16:45:58.779834",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "Porte",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }

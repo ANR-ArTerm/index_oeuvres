@@ -1,0 +1,56 @@
+{
+  "id": "ComplexeSantApolloniaFlorence",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q28668281",
+  "entry_type": "building",
+  "title": "Complexe Sant'Apollonia à Florence",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1339,
+    "endYear": 1447,
+    "text": "1339-1447"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "fantozzimicaliSoppressioniConventiFirenze2000",
+      "location": "pp. 82-83"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Sant%27apollonia%2C_chiostro_grande_15.JPG",
+      "storage": "online",
+      "copyright": "Wikimédia Commons, CC BY-SA 3.0, I, Sailko (https://commons.wikimedia.org/wiki/File:Sant%27apollonia,_chiostro_grande_15.JPG)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-03T17:28:04.498542",
+      "type": "created",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-03T17:30:50.737411",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "status_entry": 1,
+  "typology": "monastère",
+  "contained_by_ensemble": {}
+}

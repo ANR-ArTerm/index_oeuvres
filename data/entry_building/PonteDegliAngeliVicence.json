@@ -7,7 +7,7 @@
   "dateCreated": {
     "startYear": 0,
     "endYear": 200,
-    "text": ""
+    "text": "entre le Ier et IIe siècle après J.-C."
   },
   "location": {
     "type": "place",
@@ -30,9 +30,14 @@
       "date": "2026-04-30T14:01:05.077714",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-03T14:01:17.690610",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "monument imaginaire ou disparu",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }

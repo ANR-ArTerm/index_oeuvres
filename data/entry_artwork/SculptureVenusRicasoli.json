@@ -1,5 +1,5 @@
 {
-  "id": "SculptureVenus",
+  "id": "SculptureVenusRicasoli",
   "QID_wikidata": "",
   "entry_type": "artwork",
   "title": "Sculpture Venus",
@@ -37,6 +37,11 @@
       "date": "2026-06-02T12:24:24.711959",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-03T16:59:10.229483",
+      "type": "modified",
+      "author": "Nicolo"
     }
   ],
   "materialsAndTechniques": null,

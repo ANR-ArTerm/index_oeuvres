@@ -38,9 +38,19 @@
       "date": "2026-04-30T14:14:31.362115",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-03T15:09:02.836878",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-03T15:16:08.355662",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "Pont",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
