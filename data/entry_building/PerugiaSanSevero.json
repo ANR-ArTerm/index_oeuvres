@@ -3,18 +3,27 @@
   "QID_wikidata": "https://www.wikidata.org/wiki/Q2957143",
   "entry_type": "building",
   "title": "Chapelle Saint Severe",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "GiovanFrancescoDiSangro",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "AlessandroDiSangro",
+      "role": "architecte"
+    }
+  ],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1590,
+    "endYear": 1613,
+    "text": "1590-1613"
   },
-  "typology": "",
+  "typology": "église",
   "location": {
     "type": "place",
     "place": {
-      "city": "",
-      "country": "",
+      "city": "Naples",
+      "country": "Italie",
       "coordinates": {
         "latitude": "",
         "longitude": ""
@@ -23,7 +32,15 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Naples_san_severo.jpg",
+      "copyright": "Wikimédia Commons, CC BY-SA 3.0, Velvet (https://commons.wikimedia.org/wiki/File:Naples_san_severo.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -31,7 +48,13 @@
       "date": "2026-01-20T11:47:35.234120",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-03T12:23:30.059958",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }
