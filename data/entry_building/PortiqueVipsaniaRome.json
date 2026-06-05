@@ -1,0 +1,38 @@
+{
+  "id": "PortiqueVipsaniaRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2430760",
+  "entry_type": "building",
+  "title": "Portique de Vipsania à Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -50,
+    "endYear": 0,
+    "text": "Ie siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-05T16:33:37.196859",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {}
+}
