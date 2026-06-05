@@ -1,0 +1,51 @@
+{
+  "id": "TempleAthenaNikeAthenes",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q384813",
+  "entry_type": "building",
+  "title": "Temple d'Athéna Nikè à Athènes",
+  "creator": [
+    {
+      "xml_id": "Callicrates",
+      "role": "créateur du projet"
+    }
+  ],
+  "dateCreated": {
+    "startYear": -426,
+    "endYear": -421,
+    "text": "Ve siécle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Athenes",
+      "country": "Grece",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Temple_of_Athena_Nik%C3%A8_from_Propylaea%2C_Acropolis%2C_Athens%2C_Greece.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC0 1.0, Jebulon (https://commons.wikimedia.org/wiki/File:Temple_of_Athena_Nik%C3%A8_from_Propylaea,_Acropolis,_Athens,_Greece.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-05T11:15:46.282477",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Temple",
+  "contained_by_ensemble": {}
+}
