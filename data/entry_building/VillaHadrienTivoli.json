@@ -1,0 +1,46 @@
+{
+  "id": "VillaHadrienTivoli",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q272777",
+  "entry_type": "building",
+  "title": "Villa d'Hadrien à Tivoli",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 117,
+    "endYear": 138,
+    "text": "IIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Tivoli",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Villa_Hadriana_%28Villa_Adriana_Tivoli%29_1000_03.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, FrDr (https://commons.wikimedia.org/wiki/File:Villa_Hadriana_(Villa_Adriana_Tivoli)_1000_03.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-05T12:06:28.216085",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Palais",
+  "contained_by_ensemble": {}
+}
