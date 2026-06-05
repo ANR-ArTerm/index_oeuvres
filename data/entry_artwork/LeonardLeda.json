@@ -12,13 +12,18 @@
   "dateCreated": {
     "startYear": 1505,
     "endYear": 1510,
-    "text": "1505-1510"
+    "text": "1505-1510 ca."
   },
   "location": {
     "type": "unlocated"
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "dalliregoliLeonardoMitoDi2001",
+      "location": "pp. 116-119"
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -35,6 +40,11 @@
       "date": "2026-03-05T15:53:02.156205",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-05T15:40:23.891452",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "materialsAndTechniques": "huile sur bois",
