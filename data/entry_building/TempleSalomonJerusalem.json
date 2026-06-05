@@ -9,7 +9,7 @@
     "endYear": null,
     "text": "Xème siècle avant J.-C."
   },
-  "typology": null,
+  "typology": "monument imaginaire ou disparu",
   "location": {
     "type": "place",
     "place": {
@@ -41,6 +41,11 @@
       "date": "2026-02-23T17:36:20.800258",
       "type": "modified",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-05T16:40:38.260846",
+      "type": "modified",
+      "author": "Nicolo"
     }
   ],
   "contained_by_ensemble": {},
