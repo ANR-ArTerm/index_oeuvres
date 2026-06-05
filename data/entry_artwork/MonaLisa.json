@@ -1,0 +1,49 @@
+{
+  "id": "MonaLisa",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q12418",
+  "entry_type": "artwork",
+  "title": "La Joconde ",
+  "creator": [
+    {
+      "xml_id": "LeonardoDaVinci",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1503,
+    "endYear": 1519,
+    "text": "1503-1519"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Musée du Louvre",
+      "place": "Paris",
+      "inventory_number": "INV 779 et MR 316",
+      "url": "https://collections.louvre.fr/en/ark:/53355/cl010062370"
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/960px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-05T15:46:50.592806",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "huile sur bois",
+  "contained_by_ensemble": {}
+}
