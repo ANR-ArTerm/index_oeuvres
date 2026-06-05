@@ -1,0 +1,46 @@
+{
+  "id": "MuraillesConstantinople",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q89917",
+  "entry_type": "building",
+  "title": "Murailles de Constantinople",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 324,
+    "endYear": 1800,
+    "text": "entre IVe et XIXe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Constantinople",
+      "country": "Turquie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Theodosianische_Landmauer_in_Istanbul.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Johann H. Addicks / addicks@gmx.net  (//commons.wikimedia.org/wiki/File:Theodosianische_Landmauer_in_Istanbul.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-05T11:40:41.610182",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Murailles",
+  "contained_by_ensemble": {}
+}
