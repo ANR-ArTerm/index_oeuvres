@@ -1,0 +1,46 @@
+{
+  "id": "CircusMaximusRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q207808",
+  "entry_type": "building",
+  "title": "Circus Maximus à Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -600,
+    "endYear": 103,
+    "text": "entre VIIe siècle av. J.-C. et IIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Circus_Maximus_%E2%80%A2_Circo_Massimo_%2846813512141%29.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons,  CC BY 2.0, Sonse (https://commons.wikimedia.org/wiki/File:Circus_Maximus_%E2%80%A2_Circo_Massimo_(46813512141).jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-05T14:50:08.643292",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": null,
+  "contained_by_ensemble": {}
+}
