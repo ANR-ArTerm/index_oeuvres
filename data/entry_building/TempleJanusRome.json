@@ -1,0 +1,46 @@
+{
+  "id": "TempleJanusRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q352799",
+  "entry_type": "building",
+  "title": "Temple de Janus à Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -800,
+    "endYear": 100,
+    "text": "entre VIIe siècle av. J.-C. et Ie siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Rubens126.JPG",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, public domain, Peter Paul Rubens (https://commons.wikimedia.org/wiki/File:Rubens126.JPG)",
+      "caption": "Peter Paul Rubens, Temple de Janus, 1635, The Hermitage Museum, Saint-Pétersbourg"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-05T11:33:52.985126",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 1,
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {}
+}
