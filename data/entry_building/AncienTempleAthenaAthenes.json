@@ -1,0 +1,46 @@
+{
+  "id": "AncienTempleAthenaAthenes",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q683988",
+  "entry_type": "building",
+  "title": "Ancien temple d'Athéna à Athènes",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -550,
+    "endYear": -480,
+    "text": "entre VIe et Ve siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Athenes",
+      "country": "Grece",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Athen_Erechtheum_BW_2017-10-09_13-47-38.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Berthold Werner (https://commons.wikimedia.org/wiki/File:Athen_Erechtheum_BW_2017-10-09_13-47-38.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-05T11:23:26.938615",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Temple",
+  "contained_by_ensemble": {}
+}
