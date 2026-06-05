@@ -1,5 +1,5 @@
 {
-  "id": "PorticoPompeoRome",
+  "id": "PortiquePompeeRome",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q7231815",
   "entry_type": "building",
   "title": "Portico di Pompeo",
@@ -41,6 +41,11 @@
     },
     {
       "date": "2026-04-23T10:53:18.394025",
+      "type": "modified",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-05T16:20:13.350921",
       "type": "modified",
       "author": "Nicolo"
     }
