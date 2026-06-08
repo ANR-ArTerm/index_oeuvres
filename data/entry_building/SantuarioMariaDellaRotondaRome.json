@@ -7,7 +7,7 @@
   "dateCreated": {
     "startYear": 0,
     "endYear": 1000,
-    "text": "entre Ie siècle et XIe siècle"
+    "text": "entre Ier siècle et XIe siècle"
   },
   "location": {
     "type": "place",
@@ -38,9 +38,14 @@
       "date": "2026-04-22T11:39:30.102664",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-08T15:38:27.070061",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": null,
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
