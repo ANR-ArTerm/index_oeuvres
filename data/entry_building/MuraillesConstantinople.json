@@ -32,12 +32,17 @@
     }
   ],
   "description": "",
-  "commentary": "",
+  "commentary": "Mettre le nom \"ancien de la ville\" =} Constantinople ou le \"nom moderne\" =} Istamboul ?",
   "history": [
     {
       "date": "2026-06-05T11:40:41.610182",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-08T09:32:40.357265",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "status_entry": 0,
