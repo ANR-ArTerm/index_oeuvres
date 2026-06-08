@@ -43,9 +43,14 @@
       "date": "2026-06-05T11:15:46.282477",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-08T16:44:32.830095",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "Temple",
   "contained_by_ensemble": {}
 }
