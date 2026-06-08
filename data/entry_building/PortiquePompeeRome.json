@@ -7,7 +7,7 @@
   "dateCreated": {
     "startYear": -100,
     "endYear": -62,
-    "text": "Ie siècle av. J.-C."
+    "text": "Ier siècle av. J.-C."
   },
   "location": {
     "type": "place",
@@ -32,7 +32,7 @@
     }
   ],
   "description": "",
-  "commentary": "",
+  "commentary": "Plan d'architecture antique sur Wikimédia \"Reconstruction of a part of the Forma Urbis Romae, the great ancient marble map of Rome from the time of Septimius Severus.\" \n(https://fr.wikipedia.org/wiki/Portique_de_Pompée#/media/Fichier:Mapancientformaurbisromae.jpg)\nMettre ou pas?\n\n",
   "history": [
     {
       "date": "2026-04-23T10:40:10.335567",
@@ -48,6 +48,11 @@
       "date": "2026-06-05T16:20:13.350921",
       "type": "modified",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-08T09:39:13.234235",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "monument imaginaire ou disparu",
