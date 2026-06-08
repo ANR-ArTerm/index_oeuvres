@@ -10,11 +10,11 @@
     }
   ],
   "dateCreated": {
-    "startYear": 1635,
+    "startYear": 1256,
     "endYear": 1666,
-    "text": "1666"
+    "text": "1256-1666"
   },
-  "typology": "Eglise",
+  "typology": "église",
   "location": {
     "type": "place",
     "place": {
@@ -28,7 +28,15 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Santi_Luca_e_Martina_%28Rome%29_%282%29.jpg",
+      "copyright": "Wikimédia Commons, CC BY-SA 3.0, Diana Ringo (https://commons.wikimedia.org/wiki/File:Santi_Luca_e_Martina_(Rome)_(2).jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -36,7 +44,13 @@
       "date": "2025-12-09 15:06:52",
       "type": "created",
       "author": "Julia"
+    },
+    {
+      "date": "2026-06-08T10:09:56.113786",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }
