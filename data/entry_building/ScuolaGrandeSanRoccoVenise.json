@@ -56,9 +56,14 @@
       "date": "2026-06-02T14:47:22.337422",
       "type": "modified",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-08T15:42:31.922837",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "Palais",
   "contained_by_ensemble": {}
 }
