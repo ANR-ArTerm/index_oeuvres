@@ -3,18 +3,23 @@
   "QID_wikidata": "https://www.wikidata.org/wiki/Q18223420",
   "entry_type": "building",
   "title": "Eglise Saint-François-Majeur à Milan",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "AntonioNuvolone",
+      "role": "architecte"
+    }
+  ],
   "dateCreated": {
     "startYear": null,
     "endYear": null,
-    "text": ""
+    "text": "IVème siècle - 1806"
   },
-  "typology": "",
+  "typology": "monument imaginaire ou disparu",
   "location": {
     "type": "place",
     "place": {
-      "city": "",
-      "country": "",
+      "city": "Milan",
+      "country": "Italie",
       "coordinates": {
         "latitude": "",
         "longitude": ""
@@ -24,14 +29,20 @@
   "related_works": [],
   "bibliography": [],
   "illustrations": [],
-  "description": "",
+  "description": "ancienne église de Milan construite au IVe siècle et démolie en 1806.",
   "commentary": "",
   "history": [
     {
       "date": "2026-01-20T11:47:35.446756",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-08T11:34:55.820583",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }
