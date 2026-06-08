@@ -29,10 +29,17 @@
       "storage": "online",
       "copyright": "Wikimedia Commons, CC BY-SA 3.0,  Lasha Tskhondia et Mark Miller (https://commons.wikimedia.org/wiki/File:Theatre_of_Pompey_Sketch_up_model.png)",
       "caption": ""
+    },
+    {
+      "id": 1,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Mapancientformaurbisromae.jpg",
+      "copyright": "Wikimédia Commons, Ulysses K. Vestal (https://commons.wikimedia.org/wiki/File:Mapancientformaurbisromae.jpg)",
+      "caption": "Reconstitution d'une partie de la Forma Urbis Romae, la grande carte antique en marbre de Rome datant de l'époque de Septime Sévère.",
+      "storage": "online"
     }
   ],
   "description": "",
-  "commentary": "Plan d'architecture antique sur Wikimédia \"Reconstruction of a part of the Forma Urbis Romae, the great ancient marble map of Rome from the time of Septimius Severus.\" \n(https://fr.wikipedia.org/wiki/Portique_de_Pompée#/media/Fichier:Mapancientformaurbisromae.jpg)\nMettre ou pas?\n\n",
+  "commentary": "",
   "history": [
     {
       "date": "2026-04-23T10:40:10.335567",
@@ -53,9 +60,14 @@
       "date": "2026-06-08T09:39:13.234235",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-06-08T10:05:22.544763",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "monument imaginaire ou disparu",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
