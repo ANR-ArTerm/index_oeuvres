@@ -7,7 +7,7 @@
   "dateCreated": {
     "startYear": 1220,
     "endYear": 1580,
-    "text": "1220-1580"
+    "text": "1220-1580 ("
   },
   "location": {
     "type": "place",
@@ -48,9 +48,14 @@
       "date": "2026-05-07T15:41:21.774783",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-08T10:07:40.184424",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "église",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
