@@ -22,9 +22,17 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Forma_Urbis_-_Porticus_Liviae_%28détail%29.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
+      "copyright": "Wikimédia Commons, CC BY-SA 4.0, Ptyx (https://commons.wikimedia.org/wiki/File:Forma_Urbis_-_Porticus_Liviae_(détail).jpg)",
+      "caption": "Forma Urbis : quartier du Portique de Livie (Porticus Liviae). Palais des Conservateurs, Rome.",
+      "storage": "online"
+    }
+  ],
   "description": "",
-  "commentary": "Image d'un plan antique \"Forma Urbis : quartier du Portique de Livie (Porticus Liviae). Palais des Conservateurs, Rome. \"(https://fr.wikipedia.org/wiki/Portique_de_Livie#/media/Fichier:Forma_Urbis_-_Porticus_Liviae_(détail).jpg) \nA mettre ?",
+  "commentary": "",
   "history": [
     {
       "date": "2026-05-05T16:39:28.763287",
@@ -35,9 +43,14 @@
       "date": "2026-06-08T09:35:58.779921",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-06-08T10:02:58.114542",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "monument imaginaire ou disparu",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
