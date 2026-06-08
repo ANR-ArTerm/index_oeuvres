@@ -3,18 +3,47 @@
   "QID_wikidata": "https://www.wikidata.org/wiki/Q234364",
   "entry_type": "building",
   "title": "Salle des Cinq-Cents, Palazzo Vecchio",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "SimoneDelPollaiolo",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "GiorgioVasari",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "LeonardoDaVinci",
+      "role": "peintre"
+    },
+    {
+      "xml_id": "MichelAnge",
+      "role": "peintre"
+    },
+    {
+      "xml_id": "JanVanDerStraet",
+      "role": "peintre"
+    },
+    {
+      "xml_id": "JacopoZucchi",
+      "role": "peintre"
+    },
+    {
+      "xml_id": "GiovanniBattistaNaldini",
+      "role": "peintre"
+    }
+  ],
   "dateCreated": {
     "startYear": null,
     "endYear": null,
     "text": ""
   },
-  "typology": "",
+  "typology": "salle",
   "location": {
     "type": "place",
     "place": {
-      "city": "",
-      "country": "",
+      "city": null,
+      "country": null,
       "coordinates": {
         "latitude": "",
         "longitude": ""
@@ -31,7 +60,13 @@
       "date": "2026-01-20T11:47:35.422574",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-08T11:15:59.360923",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 0,
+  "contained_by_ensemble": {}
 }
