@@ -34,16 +34,16 @@
     }
   ],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1495,
+    "endYear": 1565,
+    "text": "1495-1565"
   },
   "typology": "salle",
   "location": {
     "type": "place",
     "place": {
-      "city": null,
-      "country": null,
+      "city": "Florence",
+      "country": "Italie",
       "coordinates": {
         "latitude": "",
         "longitude": ""
@@ -52,7 +52,15 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Firenze-palazzo_vecchio_24.jpg",
+      "copyright": "Wikimedia Commons, CC BY-SA 2.5, Bradley Grzesiak (https://commons.wikimedia.org/wiki/File:Firenze-palazzo_vecchio_24.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -65,8 +73,13 @@
       "date": "2026-06-08T11:15:59.360923",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-06-08T11:19:17.903297",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "contained_by_ensemble": {}
 }
