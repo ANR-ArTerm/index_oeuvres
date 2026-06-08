@@ -32,15 +32,20 @@
     }
   ],
   "description": "",
-  "commentary": "",
+  "commentary": "Terme \"hippodrome\" ajouté",
   "history": [
     {
       "date": "2026-06-05T14:50:08.643292",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-08T09:30:57.277051",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
-  "typology": null,
+  "status_entry": 1,
+  "typology": "hippodrome",
   "contained_by_ensemble": {}
 }
