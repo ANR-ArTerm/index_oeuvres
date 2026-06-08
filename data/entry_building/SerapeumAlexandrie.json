@@ -1,0 +1,38 @@
+{
+  "id": "SerapeumAlexandrie",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q521646",
+  "entry_type": "building",
+  "title": "Sérapéum d'Alexandrie",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -246,
+    "endYear": 391,
+    "text": "entre IIIe siècle av. J.-C. et IVe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Alexandrie",
+      "country": "Egypte",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-08T18:33:59.518291",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {}
+}
