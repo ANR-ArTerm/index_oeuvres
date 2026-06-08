@@ -22,16 +22,8 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [
-    {
-      "id": 0,
-      "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Athen_Erechtheum_BW_2017-10-09_13-47-38.jpg",
-      "storage": "online",
-      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Berthold Werner (https://commons.wikimedia.org/wiki/File:Athen_Erechtheum_BW_2017-10-09_13-47-38.jpg)",
-      "caption": ""
-    }
-  ],
-  "description": "",
+  "illustrations": [],
+  "description": "Le temple se dressait entre les sites actuels du Parthénon et de l'Érechthéion. Il fut détruit par les Perses en 480 av. J.-C., durant les guerres médiques.",
   "commentary": "",
   "history": [
     {
@@ -48,9 +40,14 @@
       "date": "2026-06-08T09:54:05.201445",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-06-08T09:59:29.389936",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
-  "typology": "Temple",
+  "status_entry": 1,
+  "typology": "monument imaginaire ou disparu",
   "contained_by_ensemble": {}
 }
