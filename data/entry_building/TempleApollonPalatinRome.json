@@ -1,0 +1,46 @@
+{
+  "id": "TempleApollonPalatinRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1236860",
+  "entry_type": "building",
+  "title": "Temple d'Apollon Palatin à Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -36,
+    "endYear": 363,
+    "text": "entre Ie siècle av. J.-C. et IVe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "",
+      "storage": "online",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "description": "Le temple est détruit lors d'un incendie en 363",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-08T17:36:33.020523",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {}
+}
