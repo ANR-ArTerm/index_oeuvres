@@ -28,19 +28,24 @@
       "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Porta_Viminale.jpg",
       "storage": "online",
       "copyright": "Wikimedia Commons, Domenico Pronti (https://commons.wikimedia.org/wiki/File:Porta_Viminale.jpg)",
-      "caption": ""
+      "caption": "Porta Viminale vers 1800"
     }
   ],
-  "description": "",
+  "description": "Porte située entre la porte Colline et la porte Esquiline détruite mais reste toujours les vestiges des murs ",
   "commentary": "",
   "history": [
     {
       "date": "2026-04-22T11:28:57.118448",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-08T09:25:19.153148",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "typology": null,
+  "typology": "monument imaginaire ou disparu",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
