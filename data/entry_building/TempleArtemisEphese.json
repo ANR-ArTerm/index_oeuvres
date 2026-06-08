@@ -25,7 +25,7 @@
   "location": {
     "type": "place",
     "place": {
-      "city": "Éphèse",
+      "city": "Istanbul",
       "country": "Turquie",
       "coordinates": {
         "latitude": "37.949722",
@@ -71,9 +71,14 @@
       "date": "2026-06-02T13:36:10.447010",
       "type": "modified",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-08T16:42:21.995459",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "monument imaginaire ou disparu",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
