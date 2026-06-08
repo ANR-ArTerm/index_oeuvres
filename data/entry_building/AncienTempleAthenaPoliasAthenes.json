@@ -1,8 +1,8 @@
 {
-  "id": "AncienTempleAthenaAthenes",
+  "id": "AncienTempleAthenaPoliasAthenes",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q683988",
   "entry_type": "building",
-  "title": "Ancien temple d'Athéna à Athènes",
+  "title": "Ancien temple d'Athéna Polias à Athènes",
   "creator": [],
   "dateCreated": {
     "startYear": -550,
@@ -32,7 +32,7 @@
     }
   ],
   "description": "",
-  "commentary": "quel temple d'Athéna mentionné ? Le Parthénon, L'Erechtéoin,  le Temple d'Athéna Niké ?",
+  "commentary": "",
   "history": [
     {
       "date": "2026-06-05T11:23:26.938615",
@@ -41,6 +41,11 @@
     },
     {
       "date": "2026-06-08T09:28:44.017438",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-08T09:54:05.201445",
       "type": "modified",
       "author": "Jules"
     }
