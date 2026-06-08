@@ -3,18 +3,27 @@
   "QID_wikidata": "https://www.wikidata.org/wiki/Q1638622",
   "entry_type": "building",
   "title": "Église Santa Maria delle Grazie (Milan)",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "GuiniforteSolari",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "Bramante",
+      "role": "architecte"
+    }
+  ],
   "dateCreated": {
     "startYear": null,
     "endYear": null,
-    "text": ""
+    "text": "XVème siècle"
   },
-  "typology": "",
+  "typology": "église",
   "location": {
     "type": "place",
     "place": {
-      "city": "",
-      "country": "",
+      "city": "Milan",
+      "country": "Italie",
       "coordinates": {
         "latitude": "",
         "longitude": ""
@@ -23,7 +32,15 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Side_and_dome_-_Santa_Maria_delle_Grazie_-_Milan_2014.jpg",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, José Luiz Bernardes Ribeiro (https://commons.wikimedia.org/wiki/File:Side_and_dome_-_Santa_Maria_delle_Grazie_-_Milan_2014.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -31,7 +48,13 @@
       "date": "2026-01-20T11:47:35.436547",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-08T14:27:53.163787",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }
