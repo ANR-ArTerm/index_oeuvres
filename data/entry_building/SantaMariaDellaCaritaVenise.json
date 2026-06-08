@@ -3,7 +3,12 @@
   "QID_wikidata": "https://www.wikidata.org/wiki/Q2929873",
   "entry_type": "building",
   "title": "Santa Maria della Carita Venise",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "BartolomeoBono",
+      "role": "architecte"
+    }
+  ],
   "dateCreated": {
     "startYear": 1100,
     "endYear": 1600,
@@ -31,16 +36,21 @@
       "caption": ""
     }
   ],
-  "description": "",
+  "description": "Eglise issue d'un projet non abouti, d'un complexe du \"Convento dela Carità\" projeté par Andréa Palladio.",
   "commentary": "",
   "history": [
     {
       "date": "2026-04-23T10:20:25.436058",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-08T14:06:21.298604",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "église",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
