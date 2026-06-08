@@ -53,9 +53,14 @@
       "date": "2026-05-11T17:27:24.064211",
       "type": "modified",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-08T16:22:36.641402",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "église",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
