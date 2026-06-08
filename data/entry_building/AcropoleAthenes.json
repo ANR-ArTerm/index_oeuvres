@@ -1,0 +1,46 @@
+{
+  "id": "AcropoleAthenes",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q131013",
+  "entry_type": "building",
+  "title": "Acropole d'Athènes",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -500,
+    "endYear": -400,
+    "text": "entre VIe et Ve siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Athenes",
+      "country": "Grece",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Attica_06-13_Athens_50_View_from_Philopappos_-_Acropolis_Hill.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, A. Savin, Wikipedia (https://commons.wikimedia.org/wiki/File:Attica_06-13_Athens_50_View_from_Philopappos_-_Acropolis_Hill.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-08T11:38:58.729877",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Acropole",
+  "contained_by_ensemble": {}
+}
