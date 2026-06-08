@@ -38,9 +38,14 @@
       "date": "2026-04-21T15:54:00.174695",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-08T16:05:18.443459",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "sculpture monumentale",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
