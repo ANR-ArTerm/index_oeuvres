@@ -1,0 +1,46 @@
+{
+  "id": "HeraionArgos",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1607754",
+  "entry_type": "building",
+  "title": "Héraion d'Argos",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -700,
+    "endYear": -423,
+    "text": "entre VIIIe et Ve siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Argos",
+      "country": "Grece",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Argos_Heraion_Plain.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 2.0, Sarh Murray (https://commons.wikimedia.org/wiki/File:Argos_Heraion_Plain.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "Le temple a été détruit par un incendie en 423 av. J.-C.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-08T18:28:04.545170",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {}
+}
