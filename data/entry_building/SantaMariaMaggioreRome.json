@@ -43,9 +43,14 @@
       "date": "2026-04-08T15:08:52.783739",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-08T15:12:00.966851",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "basilique",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
