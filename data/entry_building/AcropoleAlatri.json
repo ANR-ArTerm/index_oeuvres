@@ -63,9 +63,14 @@
       "date": "2026-05-28T16:28:43.274735",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-06-08T11:34:49.999908",
+      "type": "modified",
+      "author": "Nicolo"
     }
   ],
   "status_entry": 1,
-  "typology": "Temple",
+  "typology": "Acropole",
   "contained_by_ensemble": {}
 }
