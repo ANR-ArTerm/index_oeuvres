@@ -6,9 +6,10 @@
   "creator": [],
   "dateCreated": {
     "startYear": null,
-    "text": "1478"
+    "text": "1478",
+    "endYear": null
   },
-  "typology": "Edifice religieux",
+  "typology": null,
   "location": {
     "type": "place",
     "place": {
@@ -22,7 +23,15 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/San_tommaso_pavia3.jpg",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, FabioRomanoni (https://commons.wikimedia.org/wiki/File:San_tommaso_pavia3.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -30,7 +39,13 @@
       "date": "2025-12-09 15:40:30",
       "type": "created",
       "author": "Julia"
+    },
+    {
+      "date": "2026-06-08T10:13:22.344153",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }
