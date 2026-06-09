@@ -3,7 +3,12 @@
   "QID_wikidata": "https://www.wikidata.org/wiki/Q1607754",
   "entry_type": "building",
   "title": "Héraion d'Argos",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "EupolémosDArgos",
+      "role": "architecte"
+    }
+  ],
   "dateCreated": {
     "startYear": -700,
     "endYear": -423,
@@ -38,9 +43,14 @@
       "date": "2026-06-08T18:28:04.545170",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-09T09:46:38.057570",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "monument imaginaire ou disparu",
   "contained_by_ensemble": {}
 }
