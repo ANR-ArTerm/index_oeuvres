@@ -36,7 +36,7 @@
       "storage": "online"
     }
   ],
-  "description": "Entre le VIIIe et le IXe siècle, le temple a été incorporé dans l'église de San Polo mais a été conservé la façade. En 1688, un tremblement de terre a provoqué l'effondrement de la façade, dont il ne reste aujourd'hui que duex colonnes.",
+  "description": "Entre le VIIIe et le IXe siècle, le temple a été incorporé dans l'église de San Polo mais a été conservé la façade. En 1688, un tremblement de terre a provoqué l'effondrement de la façade, dont il ne reste aujourd'hui que deux colonnes.",
   "commentary": "",
   "history": [
     {
@@ -53,9 +53,14 @@
       "date": "2026-05-19T15:24:48.869102",
       "type": "modified",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-09T11:09:55.961747",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "monument imaginaire ou disparu",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
