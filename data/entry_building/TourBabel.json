@@ -22,9 +22,14 @@
       "date": "2026-04-21T15:39:46.884323",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-09T14:17:51.276544",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "typology": null,
+  "typology": "monument imaginaire ou disparu",
   "contained_by_ensemble": {},
   "status_entry": 0
 }
