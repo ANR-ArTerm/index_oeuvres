@@ -22,7 +22,15 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/ThermoAitolias.jpg",
+      "copyright": "Wikimedia Commons, Κώστας Κουκούλης (https://commons.wikimedia.org/wiki/File:ThermoAitolias.jpg)",
+      "caption": "Thermo, town in Aitoloakarnania Prefecure in Greece",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -30,9 +38,14 @@
       "date": "2026-06-08T17:42:59.384511",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-09T10:01:56.935830",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "monument imaginaire ou disparu",
   "contained_by_ensemble": {}
 }
