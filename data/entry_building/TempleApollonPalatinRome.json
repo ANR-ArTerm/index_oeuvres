@@ -25,10 +25,10 @@
   "illustrations": [
     {
       "id": 0,
-      "url": "",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Remains_of_Temple_Apollo_Palatinus.jpg",
       "storage": "online",
-      "copyright": "",
-      "caption": ""
+      "copyright": "Wikimedia Commons, CC BY 2.0, Antmoose / Anthony M (https://commons.wikimedia.org/wiki/File:Remains_of_Temple_Apollo_Palatinus.jpg)",
+      "caption": "Remains of Temple Apollo Palatinus"
     }
   ],
   "description": "Le temple est détruit lors d'un incendie en 363",
@@ -38,9 +38,14 @@
       "date": "2026-06-08T17:36:33.020523",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-09T09:50:55.848842",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "monument imaginaire ou disparu",
   "contained_by_ensemble": {}
 }
