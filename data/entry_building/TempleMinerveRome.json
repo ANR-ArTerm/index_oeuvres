@@ -7,7 +7,7 @@
   "dateCreated": {
     "startYear": 85,
     "endYear": 97,
-    "text": "Ie siècle "
+    "text": "Ier siècle "
   },
   "location": {
     "type": "place",
@@ -30,9 +30,14 @@
       "date": "2026-05-06T11:06:31.372908",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-09T11:31:17.757612",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "monument imaginaire ou disparu",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
