@@ -36,7 +36,15 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Trinità_dei_Monti_%28Rome%29_-_esterno.jpg",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, SonyGM (https://commons.wikimedia.org/wiki/File:Trinità_dei_Monti_(Rome)_-_esterno.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -49,8 +57,13 @@
       "date": "2026-06-09T14:35:05.529078",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-06-09T14:42:46.120573",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "contained_by_ensemble": {}
 }
