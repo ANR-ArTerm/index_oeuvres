@@ -38,9 +38,14 @@
       "date": "2026-04-30T10:48:23.258455",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-09T14:54:20.377323",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "Voie",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
