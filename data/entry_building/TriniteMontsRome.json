@@ -3,18 +3,31 @@
   "QID_wikidata": "https://www.wikidata.org/wiki/Q1229008",
   "entry_type": "building",
   "title": "Eglise et couvent de la Trinité-des-Monts de Rome",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "GiovanniGiacomoDellaPorta",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "AnnibaleLippi",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "CarloMaderno",
+      "role": "architecte"
+    }
+  ],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1502,
+    "endYear": 1585,
+    "text": "XVIème siècle"
   },
-  "typology": "",
+  "typology": "église",
   "location": {
     "type": "place",
     "place": {
-      "city": "",
-      "country": "",
+      "city": "Rome",
+      "country": "Italie",
       "coordinates": {
         "latitude": "",
         "longitude": ""
@@ -31,7 +44,13 @@
       "date": "2026-01-20T11:47:35.374360",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-09T14:35:05.529078",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 0,
+  "contained_by_ensemble": {}
 }
