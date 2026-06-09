@@ -23,16 +23,21 @@
   "related_works": [],
   "bibliography": [],
   "illustrations": [],
-  "description": "",
+  "description": "Détruit par les armées babyloniennes de Nabuchodonosor II en 586 av. J.-C.",
   "commentary": "",
   "history": [
     {
       "date": "2026-05-05T16:46:12.475965",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-09T10:09:24.629323",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "monument imaginaire ou disparu",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
