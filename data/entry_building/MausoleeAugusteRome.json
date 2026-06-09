@@ -1,0 +1,46 @@
+{
+  "id": "MausoleeAugusteRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q770847",
+  "entry_type": "building",
+  "title": "Mausolée d'Auguste à Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -28,
+    "endYear": null,
+    "text": "Ie siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Photographs_of_the_Mausoleum_of_Augustus_14_%28cropped%29.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 2.0, MumblerJamie, (https://commons.wikimedia.org/wiki/File:Photographs_of_the_Mausoleum_of_Augustus_14_(cropped).jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-09T17:10:19.153408",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "mausolée",
+  "contained_by_ensemble": {}
+}
