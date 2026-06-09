@@ -1,0 +1,46 @@
+{
+  "id": "CuriaJuliaRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1144514",
+  "entry_type": "building",
+  "title": "Curia Julia à Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -29,
+    "endYear": 526,
+    "text": "entre Ie siècle av. J.-C. et VIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Curie_Julia_%26_%C3%89glise_Santi_Luca_Martina_Foro_Romano_-_Rome_%28IT62%29_-_2021-08-25_-_1.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Chabe01 (https://commons.wikimedia.org/wiki/File:Curie_Julia_%26_%C3%89glise_Santi_Luca_Martina_Foro_Romano_-_Rome_(IT62)_-_2021-08-25_-_1.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-09T15:14:50.493042",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Curie",
+  "contained_by_ensemble": {}
+}

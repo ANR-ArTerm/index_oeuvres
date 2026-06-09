@@ -3,6 +3,7 @@
   "QID_wikidata": "https://www.wikidata.org/wiki/Q10751359",
   "entry_type": "building",
   "title": "Temple Apollon Delphes",
+<<<<<<< HEAD
   "creator": [
     {
       "xml_id": "SpintharosDeCorinthe",
@@ -17,6 +18,9 @@
       "role": "architecte"
     }
   ],
+=======
+  "creator": [],
+>>>>>>> 7bdf287 (modification notice TempleApollonDelphes par Nicolo 2026-06-09T11:33:16.154105)
   "dateCreated": {
     "startYear": null,
     "endYear": null,
@@ -45,7 +49,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Temple_of_apollo.JPG",
       "storage": "online",
-      "copyright": "CC BY-SA 2.5, AdamC2028~commonswiki, https://commons.wikimedia.org/wiki/File:Temple_of_apollo.JPG",
+      "copyright": "Wikimedia Commons, CC BY-SA 2.5, AdamC2028~commonswiki, https://commons.wikimedia.org/wiki/File:Temple_of_apollo.JPG",
       "caption": ""
     }
   ],
@@ -63,12 +67,18 @@
       "author": "Elisa"
     },
     {
+<<<<<<< HEAD
       "date": "2026-06-09T09:45:05.475264",
       "type": "modified",
       "author": "Jules"
+=======
+      "date": "2026-06-09T11:33:16.142701",
+      "type": "modified",
+      "author": "Nicolo"
+>>>>>>> 7bdf287 (modification notice TempleApollonDelphes par Nicolo 2026-06-09T11:33:16.154105)
     }
   ],
-  "typology": "Temple",
+  "typology": "monument imaginaire ou disparu",
   "contained_by_ensemble": {},
   "status_entry": 1
 }
