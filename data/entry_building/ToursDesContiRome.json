@@ -38,9 +38,14 @@
       "date": "2026-05-05T17:35:17.421843",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-09T14:18:18.108745",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "Tour",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
