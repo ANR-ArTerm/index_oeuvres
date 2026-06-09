@@ -1,6 +1,6 @@
 {
   "id": "TempleDeLaLuneRome",
-  "QID_wikidata": "",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2484467",
   "entry_type": "building",
   "title": "Temple de la Lune à Rome",
   "creator": [],
@@ -40,9 +40,14 @@
       "date": "2026-05-11T14:41:37.719939",
       "type": "modified",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-09T10:36:42.555589",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "monument imaginaire ou disparu",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
