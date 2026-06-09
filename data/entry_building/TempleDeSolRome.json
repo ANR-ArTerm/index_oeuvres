@@ -7,7 +7,7 @@
   "dateCreated": {
     "startYear": null,
     "endYear": null,
-    "text": ""
+    "text": "Ier siècle avant J.-C."
   },
   "location": {
     "type": "place",
@@ -48,9 +48,14 @@
       "date": "2026-05-11T14:43:28.128404",
       "type": "modified",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-09T11:20:01.257755",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "monument imaginaire ou disparu",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
