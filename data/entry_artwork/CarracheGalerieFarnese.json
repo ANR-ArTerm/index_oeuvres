@@ -22,7 +22,7 @@
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": "Palais Farnèse",
+      "name": null,
       "place": "Rome",
       "inventory_number": "",
       "url": ""
@@ -51,8 +51,13 @@
       "date": "2026-04-15T12:07:16.460972",
       "type": "modified",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-10T15:45:01.161828",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
