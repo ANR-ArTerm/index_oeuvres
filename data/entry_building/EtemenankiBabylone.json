@@ -1,0 +1,38 @@
+{
+  "id": "EtemenankiBabylone",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q285788",
+  "entry_type": "building",
+  "title": "Etemenanki de Babylone",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -1700,
+    "endYear": -648,
+    "text": "entre XVIIIe et VIIe siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Babylone",
+      "country": "Irak",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-10T14:37:37.174469",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": null,
+  "contained_by_ensemble": {}
+}
