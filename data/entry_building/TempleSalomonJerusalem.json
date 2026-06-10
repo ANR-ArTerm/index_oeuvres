@@ -23,7 +23,15 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Christian-van-adrichom_JERVSALEM-et-suburbia-eius_detail-solomon-temple_1-1497x1000.jpg",
+      "copyright": "Reconstitution artistique du Temple de Salomon, dessin de Christian van Adrichom, 1584)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -51,6 +59,11 @@
       "date": "2026-06-09T11:39:19.275227",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-06-10T16:49:17.025859",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "contained_by_ensemble": {},
