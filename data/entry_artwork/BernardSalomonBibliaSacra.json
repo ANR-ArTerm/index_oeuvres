@@ -10,7 +10,7 @@
     },
     {
       "xml_id": "JeanIdeTournes",
-      "role": "éditeur"
+      "role": null
     }
   ],
   "dateCreated": {
@@ -44,9 +44,14 @@
       "date": "2026-03-09T15:34:01.444869",
       "type": "modified",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-10T15:13:47.481976",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "livre illustré de gravures sur bois",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
