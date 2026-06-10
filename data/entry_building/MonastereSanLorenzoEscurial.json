@@ -5,7 +5,7 @@
   "title": "Monastère royal de San Lorenzo de El Escorial",
   "creator": [
     {
-      "xml_id": "JeanDeBautistaDeTolede",
+      "xml_id": "JuanBautistaDeToledo",
       "role": "architecte"
     },
     {
@@ -30,7 +30,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "kamenEscorialArtPower2010",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -57,6 +62,11 @@
       "date": "2026-06-02T10:03:09.268251",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-06-10T19:18:53.316830",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": null,
