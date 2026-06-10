@@ -1,0 +1,46 @@
+{
+  "id": "BasiliqueSaintPaulHorsLesMurs",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q231699",
+  "entry_type": "building",
+  "title": "Basilique Saint-Paul-Hors-Les-Murs",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 300,
+    "endYear": 1900,
+    "text": "entre IVe et XIXe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/StPaul.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY 4.0, StPaul.jpg (https://commons.wikimedia.org/wiki/File:StPaul.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-10T16:26:54.701386",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "basilique",
+  "contained_by_ensemble": {}
+}
