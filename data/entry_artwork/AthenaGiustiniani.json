@@ -25,7 +25,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Atena-Giustiniani---Vatican.jpg",
       "storage": "online",
-      "copyright": "",
+      "copyright": "Wikimédia Commons, CC BY-SA 3.0, Tetraktys (https://commons.wikimedia.org/wiki/File:Atena-Giustiniani---Vatican.jpg)",
       "caption": ""
     }
   ],
@@ -56,6 +56,11 @@
       "date": "2026-04-09T12:07:59.542996",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-10T14:57:54.006235",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "sculpture",
@@ -63,5 +68,5 @@
     "link_type": "appartient à l'ensemble",
     "xml_id_work": "GalerieJustinienne"
   },
-  "status_entry": 0
+  "status_entry": 1
 }
