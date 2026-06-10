@@ -36,7 +36,7 @@
       "caption": ""
     }
   ],
-  "description": "La villa de Palladio a été détruite par un incendie",
+  "description": "La villa de Palladio a été détruite par un incendie. Une nouvelle villa a été edifiée en 1672.",
   "commentary": "",
   "history": [
     {
@@ -48,9 +48,14 @@
       "date": "2026-06-10T10:05:39.679994",
       "type": "modified",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-10T10:06:19.798104",
+      "type": "modified",
+      "author": "Nicolo"
     }
   ],
   "typology": "monument imaginaire ou disparu",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
