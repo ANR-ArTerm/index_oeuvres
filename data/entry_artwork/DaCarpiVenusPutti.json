@@ -44,9 +44,14 @@
       "date": "2026-03-19T16:42:39.082692",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-10T16:32:36.264914",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "gravure sur bois en clair-obscur",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
