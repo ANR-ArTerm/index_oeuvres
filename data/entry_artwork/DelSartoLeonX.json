@@ -52,7 +52,13 @@
       "date": "2026-01-12T17:41:00.404002",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-10T17:08:10.211768",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }
