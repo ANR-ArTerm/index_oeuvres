@@ -1,0 +1,59 @@
+{
+  "id": "AlexandreLeGrandApelle",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Alexandre Le Grand",
+  "creator": [
+    {
+      "xml_id": "Apelle",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": "IVème siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Ephese",
+      "country": "Turquie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    },
+    "institution": {
+      "name": null,
+      "place": null,
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "TempleArtemisEphese"
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "PlineLAncienHistoria",
+      "location": "Livre XXXV, chapitre 36, 92-93"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-10T18:34:31.589490",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {}
+}
