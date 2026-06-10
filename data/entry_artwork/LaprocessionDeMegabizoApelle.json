@@ -16,12 +16,6 @@
   },
   "location": {
     "type": "place",
-    "institution": {
-      "name": null,
-      "place": null,
-      "inventory_number": "",
-      "url": ""
-    },
     "place": {
       "city": "Ephese",
       "country": "Turquie",
@@ -40,7 +34,7 @@
   "bibliography": [
     {
       "zotero_key": "PlineLAncienHistoria",
-      "location": "Livre XXXV, 93"
+      "location": "Livre XXXV, chapitre 36, 93"
     }
   ],
   "illustrations": [],
@@ -50,6 +44,11 @@
     {
       "date": "2026-06-10T18:27:08.153219",
       "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-10T18:35:55.878957",
+      "type": "modified",
       "author": "Elisa"
     }
   ],
