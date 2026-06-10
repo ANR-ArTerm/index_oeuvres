@@ -18,8 +18,8 @@
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": "",
-      "place": "",
+      "name": null,
+      "place": null,
       "inventory_number": "",
       "url": ""
     }
@@ -34,7 +34,13 @@
       "date": "2026-01-15T12:21:39.296040",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-10T12:03:32.560076",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }
