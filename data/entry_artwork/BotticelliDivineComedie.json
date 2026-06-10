@@ -67,7 +67,13 @@
       "date": "2026-01-19T14:56:04.405990",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-10T15:17:51.581573",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }
