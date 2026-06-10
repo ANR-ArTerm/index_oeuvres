@@ -1,0 +1,38 @@
+{
+  "id": "PythagoreionSamos",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1915216",
+  "entry_type": "building",
+  "title": "Pythagoreion de Samos",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -1500,
+    "endYear": -200,
+    "text": "entre XVIe et IIIe siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Samos",
+      "country": "Grece",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-10T16:46:41.993180",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Port",
+  "contained_by_ensemble": {}
+}
