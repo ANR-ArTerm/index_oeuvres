@@ -43,9 +43,14 @@
       "date": "2026-03-18T17:12:58.424571",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-10T15:14:16.164412",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "gravure sur bois",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
