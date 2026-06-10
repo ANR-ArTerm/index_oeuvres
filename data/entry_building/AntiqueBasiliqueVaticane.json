@@ -31,7 +31,7 @@
       "caption": "H. W. Brewer, Reconstitution de l'ancienne basilique saint-Pierre de Rome au Vatican autour 1450, 1891, RIBA"
     }
   ],
-  "description": "",
+  "description": "Au début du XVIe siècle la basilique a commencé à être détruit et a été détruite definitivement en 1609.\n",
   "commentary": "",
   "history": [
     {
@@ -43,6 +43,11 @@
       "date": "2026-05-28T14:48:26.118111",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-06-10T16:33:22.289132",
+      "type": "modified",
+      "author": "Nicolo"
     }
   ],
   "status_entry": 1,
