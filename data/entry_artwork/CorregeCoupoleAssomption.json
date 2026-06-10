@@ -18,7 +18,7 @@
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": "Dôme de Parme",
+      "name": null,
       "place": "Parme",
       "inventory_number": "",
       "url": ""
@@ -47,8 +47,13 @@
       "date": "2026-04-15T12:00:04.927451",
       "type": "modified",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-10T16:10:12.672187",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
