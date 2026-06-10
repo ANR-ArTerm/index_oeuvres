@@ -1,0 +1,46 @@
+{
+  "id": "TombeArchimedeSyracuse",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q21208579",
+  "entry_type": "building",
+  "title": "Tombe d'Archimede à Syracuse",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -100,
+    "endYear": 100,
+    "text": "entre Ie siècle av. J.-C. et Ie siècle "
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Syracuse",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Tomba_archimede.JPG",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY 2.5 IT, Davide Mauro (https://commons.wikimedia.org/wiki/File:Tomba_archimede.JPG)",
+      "caption": ""
+    }
+  ],
+  "description": "Ciceron identifie ce monument comme la tombe d'Archimede. Néanmoins il semble peu probable que cette tombe ait été sa véritable sépulture.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-10T12:14:50.505719",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Tombeau",
+  "contained_by_ensemble": {}
+}
