@@ -1,0 +1,38 @@
+{
+  "id": "TempleDeSalomon",
+  "QID_wikidata": "https://commons.wikimedia.org/wiki/Temple_of_Solomon",
+  "entry_type": "building",
+  "title": "Temple De Salomon",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": "X siècle av. J.-C."
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Christian-van-adrichom_JERVSALEM-et-suburbia-eius_detail-solomon-temple_1-1497x1000.jpg",
+      "storage": "online",
+      "copyright": "Public Domain",
+      "caption": "Reconstitution artistique du Temple de Salomon, dessin de Christian van Adrichom, 1584)"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-10T16:45:42.520627",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Temple",
+  "contained_by_ensemble": {}
+}
