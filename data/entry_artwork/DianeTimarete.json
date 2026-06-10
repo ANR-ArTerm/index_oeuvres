@@ -1,0 +1,59 @@
+{
+  "id": "DianeTimarete",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Diane",
+  "creator": [
+    {
+      "xml_id": "Timarete",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": "Vème siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "institution": {
+      "name": null,
+      "place": null,
+      "inventory_number": "",
+      "url": ""
+    },
+    "place": {
+      "city": "Ephese",
+      "country": "Turquie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [
+    {
+      "link_type": null,
+      "xml_id_work": null
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "PlineLAncienHistoria",
+      "location": "Livre XXXV, chapitre 147, 40"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-10T19:07:31.126853",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {}
+}
