@@ -1,0 +1,46 @@
+{
+  "id": "PortaSanPaoloRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1636207",
+  "entry_type": "building",
+  "title": "Porte San Paolo Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 200,
+    "endYear": 400,
+    "text": "entre IIIe et IVe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Porta_San_Paolo_%28Rome%29.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Livioandronico2013 (https://commons.wikimedia.org/wiki/File:Porta_San_Paolo_(Rome).jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-10T16:07:32.233263",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Porte",
+  "contained_by_ensemble": {}
+}
