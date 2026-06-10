@@ -20,16 +20,21 @@
   "related_works": [],
   "bibliography": [],
   "illustrations": [],
-  "description": "Peinture conçu par Cosimo Bartoli, représentant l'Arno, Flore, Minerve, Fortune, Immortalité et Temps; située en Via del Cocomero (aujourd'hui via Ricasoli)",
+  "description": "Peinture conçue par Cosimo Bartoli, représentant l'Arno, Flore, Minerve, Fortune, Immortalité et Temps; située en Via del Cocomero (aujourd'hui via Ricasoli)",
   "commentary": "",
   "history": [
     {
       "date": "2026-05-04T15:12:27.385795",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-10T10:54:58.983208",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": null,
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
