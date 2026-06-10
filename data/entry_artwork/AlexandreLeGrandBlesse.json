@@ -1,0 +1,35 @@
+{
+  "id": "AlexandreLeGrandBlesse",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Alexandre Le Grand Blessé",
+  "creator": [
+    {
+      "xml_id": "Lysippe",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": "IV siècle av. J.-C."
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-10T15:52:00.981732",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "sculpture en bronze",
+  "contained_by_ensemble": {}
+}
