@@ -17,7 +17,7 @@
   "location": {
     "type": "place",
     "place": {
-      "city": null,
+      "city": "CampigliaDeiBerici",
       "country": "Italie",
       "coordinates": {
         "latitude": "45.3425",
@@ -36,12 +36,17 @@
       "caption": ""
     }
   ],
-  "description": "",
+  "description": "La villa de Palladio a été détruite par un incendie",
   "commentary": "",
   "history": [
     {
       "date": "2026-04-23T15:58:33.553694",
       "type": "created",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-10T10:05:39.679994",
+      "type": "modified",
       "author": "Nicolo"
     }
   ],
