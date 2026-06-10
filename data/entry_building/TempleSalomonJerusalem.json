@@ -30,6 +30,13 @@
       "copyright": "Reconstitution artistique du Temple de Salomon, dessin de Christian van Adrichom, 1584)",
       "caption": "",
       "storage": "online"
+    },
+    {
+      "id": 1,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Francois_Vatable%2C_reconstructie_van_de_tempel_van_Salomo_%28detail%29.jpg/960px-Francois_Vatable%2C_reconstructie_van_de_tempel_van_Salomo_%28detail%29.jpg",
+      "copyright": "Public domain",
+      "caption": "Gravure du Temple de Salomon par Francois Vatable",
+      "storage": "online"
     }
   ],
   "description": "",
@@ -62,6 +69,11 @@
     },
     {
       "date": "2026-06-10T16:49:17.025859",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-10T16:50:35.174401",
       "type": "modified",
       "author": "Elisa"
     }
