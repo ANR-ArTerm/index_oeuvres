@@ -1,0 +1,46 @@
+{
+  "id": "TheatreDePompeeRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q944814",
+  "entry_type": "building",
+  "title": "Théâtre de Pompée à Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -61,
+    "endYear": -55,
+    "text": "Ie siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Theatre_of_Pompey_3D_cut_out.png",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Lasha Tskondia - L. VII. C. (https://commons.wikimedia.org/wiki/File:Theatre_of_Pompey_3D_cut_out.png)",
+      "caption": "Reconstruction du theatre"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-10T17:21:36.313555",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Theatre",
+  "contained_by_ensemble": {}
+}
