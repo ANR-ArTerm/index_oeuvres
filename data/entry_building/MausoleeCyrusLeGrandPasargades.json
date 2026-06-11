@@ -1,0 +1,46 @@
+{
+  "id": "MausoleeCyrusLeGrandPasargades",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2635530",
+  "entry_type": "building",
+  "title": "Mausolée de Cyrus le Grand à Pasargades",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -600,
+    "endYear": -530,
+    "text": "VIe siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Pasargades",
+      "country": "Iran",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/CyrustheGreatTomb_22057.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, http://blogtext.org/TruthSeeker/ (https://commons.wikimedia.org/wiki/File:CyrustheGreatTomb_22057.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-11T15:38:52.504800",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "mausolée",
+  "contained_by_ensemble": {}
+}
