@@ -1,0 +1,38 @@
+{
+  "id": "PortSyracuse",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3909290",
+  "entry_type": "building",
+  "title": "Porte de Syracuse",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -500,
+    "endYear": -400,
+    "text": "Ve siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Syracuse",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-11T15:26:13.740433",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Port",
+  "contained_by_ensemble": {}
+}
