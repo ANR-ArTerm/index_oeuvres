@@ -1,0 +1,40 @@
+{
+  "id": "VenusApelle",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q483760",
+  "entry_type": "artwork",
+  "title": "Venus Anadyomène",
+  "creator": [
+    {
+      "xml_id": "Apelle",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": "IVe siècle av. J.-C."
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "cirucciApellesAphroditeAnadyomene2023a",
+      "location": ""
+    }
+  ],
+  "illustrations": [],
+  "description": "Perdu.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-11T16:04:00.761582",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {}
+}
