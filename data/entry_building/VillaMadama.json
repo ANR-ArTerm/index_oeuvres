@@ -66,9 +66,14 @@
       "date": "2026-05-07T13:11:56.011347",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-09T16:39:05.303223",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "Villa",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }

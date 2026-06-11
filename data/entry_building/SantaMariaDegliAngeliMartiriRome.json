@@ -31,8 +31,8 @@
     {
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Basilica_di_Santa_Maria_degli_Angeli_e_dei_Martiri_-_22-11-2019.jpg",
-      "copyright": "Gustavo La Pizza -  CC BY-SA",
-      "caption": "",
+      "copyright": "Wikimedia Commons, CC BY-SA, Gustavo La Pizza (https://commons.wikimedia.org/wiki/File:Basilica_di_Santa_Maria_degli_Angeli_e_dei_Martiri_-_22-11-2019.jpg)",
+      "caption": "Basilica di Santa Maria degli Angeli e dei Martiri",
       "storage": "online"
     }
   ],
@@ -53,9 +53,14 @@
       "date": "2026-04-09T11:56:08.501436",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-10T10:39:50.397646",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "basilique",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }

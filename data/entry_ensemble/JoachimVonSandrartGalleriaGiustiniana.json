@@ -1,0 +1,40 @@
+{
+  "id": "JoachimVonSandrartGalleriaGiustiniana",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q131764600",
+  "entry_type": "ensemble",
+  "title": "La  galerie Jugalleria Giustiniana",
+  "creator": [
+    {
+      "xml_id": "JoachimVonSandrart",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1630,
+    "endYear": 1631,
+    "text": "Vers 1631"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [
+    {
+      "link_type": "copié d'après",
+      "xml_id_work": "GalleriaGiustiniana"
+    }
+  ],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-10T16:48:33.341232",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "suite d'estampes",
+  "contains_works": []
+}

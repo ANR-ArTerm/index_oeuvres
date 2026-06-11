@@ -24,7 +24,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Andrea_del_Sarto_%28da%29_-_San_Sebastiano_che_tiene_due_frecce_e_la_palma_del_martirio.jpg",
       "storage": "online",
-      "copyright": "Domaine public, Bridgeman art library : objet 222728",
+      "copyright": "Wikimedia Commons, Domaine public, Bridgeman art library : objet 222728 ",
       "caption": "copié d'après Andrea Del Sarto "
     }
   ],
@@ -35,8 +35,14 @@
       "date": "2026-01-29T15:19:14.944251",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-10T11:55:13.013441",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "huile sur toile",
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }

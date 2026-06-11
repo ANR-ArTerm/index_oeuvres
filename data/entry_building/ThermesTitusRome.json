@@ -7,7 +7,7 @@
   "dateCreated": {
     "startYear": 80,
     "endYear": 80,
-    "text": "Ie siècle "
+    "text": "Ier siècle "
   },
   "location": {
     "type": "place",
@@ -43,9 +43,14 @@
       "date": "2026-04-09T11:15:42.062907",
       "type": "modified",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-09T14:13:26.986533",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "Thermes",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }

@@ -35,9 +35,14 @@
       "date": "2026-04-23T15:55:04.437186",
       "type": "modified",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-09T11:36:30.550357",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "Temple",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }

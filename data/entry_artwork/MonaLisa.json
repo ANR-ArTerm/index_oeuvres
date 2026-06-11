@@ -24,7 +24,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "maraniLeonardVinciCarriere1999",
+      "location": "n. 27"
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -40,6 +45,11 @@
     {
       "date": "2026-06-05T15:46:50.592806",
       "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-10T15:24:13.139962",
+      "type": "modified",
       "author": "Elisa"
     }
   ],

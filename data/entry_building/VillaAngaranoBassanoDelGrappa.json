@@ -21,7 +21,7 @@
   "location": {
     "type": "place",
     "place": {
-      "city": null,
+      "city": "Vicence",
       "country": "Italie",
       "coordinates": {
         "latitude": "45.78055556",
@@ -47,9 +47,14 @@
       "date": "2026-04-23T16:05:15.029643",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-09T15:11:08.900834",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "Villa",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }

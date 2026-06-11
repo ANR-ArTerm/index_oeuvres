@@ -5,7 +5,7 @@
   "title": "Temple de la Santé",
   "creator": [
     {
-      "xml_id": "Inconnu",
+      "xml_id": null,
       "role": "architecte"
     }
   ],
@@ -28,7 +28,7 @@
   "related_works": [
     {
       "link_type": "appartient au même ensemble",
-      "xml_id_work": "FacadesTempleSante"
+      "xml_id_work": null
     }
   ],
   "bibliography": [
@@ -55,9 +55,14 @@
       "date": "2026-05-05T11:16:44.336547",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-09T11:40:55.540391",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "Temple",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }

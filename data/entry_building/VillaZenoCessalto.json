@@ -17,7 +17,7 @@
   "location": {
     "type": "place",
     "place": {
-      "city": null,
+      "city": "Cessalto",
       "country": "Italie",
       "coordinates": {
         "latitude": "45.70027778",
@@ -43,9 +43,14 @@
       "date": "2026-04-23T12:24:37.712665",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-10T10:49:57.828226",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "Villa",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }

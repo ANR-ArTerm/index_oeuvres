@@ -43,9 +43,14 @@
       "date": "2026-04-23T15:06:30.322887",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-09T15:27:05.802759",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "Villa",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }

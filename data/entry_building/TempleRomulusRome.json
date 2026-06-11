@@ -7,7 +7,7 @@
   "dateCreated": {
     "startYear": 309,
     "endYear": 309,
-    "text": "309"
+    "text": "Ier siècle après J.-C."
   },
   "location": {
     "type": "place",
@@ -43,9 +43,14 @@
       "date": "2026-04-22T11:12:22.440073",
       "type": "modified",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-09T11:38:35.780212",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "Temple",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }

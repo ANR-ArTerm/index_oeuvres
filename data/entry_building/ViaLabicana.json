@@ -35,9 +35,14 @@
       "date": "2026-05-12T12:08:03.933490",
       "type": "modified",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-09T14:53:44.040185",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "Voie",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }

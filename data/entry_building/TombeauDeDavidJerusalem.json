@@ -38,10 +38,15 @@
       "date": "2026-06-01T15:17:55.859716",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-09T14:14:59.148765",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "complete_entry": false,
   "typology": "Tombeau",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }

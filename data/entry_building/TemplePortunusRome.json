@@ -7,7 +7,7 @@
   "dateCreated": {
     "startYear": -80,
     "endYear": 1916,
-    "text": "entre Ie siècle av. J.-C. et XXe siècle"
+    "text": "entre Ier siècle av. J.-C. et XXe siècle"
   },
   "location": {
     "type": "place",
@@ -48,9 +48,14 @@
       "date": "2026-05-05T12:22:54.647715",
       "type": "modified",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-09T11:37:36.645172",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "Temple",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }

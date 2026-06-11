@@ -17,7 +17,7 @@
   "location": {
     "type": "place",
     "place": {
-      "city": null,
+      "city": "PojanaMaggiore",
       "country": "Italie",
       "coordinates": {
         "latitude": "45.2853392",
@@ -48,9 +48,14 @@
       "date": "2026-06-02T14:50:33.614443",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-10T09:48:15.178093",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "Villa",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }

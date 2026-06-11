@@ -1,0 +1,65 @@
+{
+  "id": "PalaisProsperoVisconti",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3891600",
+  "entry_type": "building",
+  "title": "Palais de Prospero Visconti",
+  "creator": [
+    {
+      "xml_id": "GiuseppeMeda",
+      "role": "auteur du modèle"
+    },
+    {
+      "xml_id": "PellegrinoTibaldi",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1589,
+    "endYear": 1591,
+    "text": "1589-1591"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Milan",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "lanzaMilanoSuoiPalazzi1992",
+      "location": "pp. 341-342"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Milano_-_palazzo_di_Prospero_Visconti.jpg",
+      "storage": "online",
+      "copyright": "CC BY-SA 3.0, MarkusMark, https://commons.wikimedia.org/wiki/File:Milano_-_palazzo_di_Prospero_Visconti.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-11T13:15:02.811406",
+      "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-11T14:56:34.049267",
+      "type": "modified",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 8,
+  "typology": "Palais",
+  "contained_by_ensemble": {}
+}

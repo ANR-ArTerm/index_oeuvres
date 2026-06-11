@@ -41,9 +41,14 @@
       "date": "2026-05-06T16:19:57.572823",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-10T15:34:06.447708",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "huile sur toile",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
