@@ -25,8 +25,21 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
-  "illustrations": [],
+  "bibliography": [
+    {
+      "zotero_key": "dacosMichelangeloRaffaelloVaticano2008",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Loge_du_2ème_étage_du_palais_apostolique_du_Vatican.jpg/960px-Loge_du_2ème_étage_du_palais_apostolique_du_Vatican.jpg",
+      "copyright": "CC BY-SA 3.0, Gaspard Miltiade, https://commons.wikimedia.org/wiki/File:Loge_du_2ème_étage_du_palais_apostolique_du_Vatican.jpg",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -54,6 +67,11 @@
       "date": "2026-02-19T15:56:35.758384",
       "type": "modified",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-11T17:07:37.571190",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "contains_works": [],
