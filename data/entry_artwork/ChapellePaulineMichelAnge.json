@@ -1,0 +1,69 @@
+{
+  "id": "ChapellePaulineMichelAnge",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1034868",
+  "entry_type": "artwork",
+  "title": "Chapelle Pauline",
+  "creator": [
+    {
+      "xml_id": "MichelAnge",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1542,
+    "endYear": 1550,
+    "text": "1542-1550"
+  },
+  "location": {
+    "type": "place",
+    "institution": {
+      "name": null,
+      "place": null,
+      "inventory_number": "",
+      "url": ""
+    },
+    "place": {
+      "city": "Vatican",
+      "country": "Vatican",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "steinbergMichelangelosLastPaintings1975",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Michelangelo%2C_conversione_di_saulo%2C_1542-45%2C_01.jpg/1920px-Michelangelo%2C_conversione_di_saulo%2C_1542-45%2C_01.jpg",
+      "storage": "online",
+      "copyright": "C.C. 3.0, Sailko, https://it.wikipedia.org/wiki/File:Michelangelo,_conversione_di_saulo,_1542-45,_01.jpg",
+      "caption": "La Conversion de saint Paul"
+    },
+    {
+      "id": 1,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Michelangelo%2C_crocifissione_di_san_pietro%2C_1546-50%2C_01.jpg/1920px-Michelangelo%2C_crocifissione_di_san_pietro%2C_1546-50%2C_01.jpg",
+      "storage": "online",
+      "copyright": "C.C. 3.0, Sailko, https://it.wikipedia.org/wiki/File:Michelangelo,_crocifissione_di_san_pietro,_1546-50,_01.jpg",
+      "caption": "Le Martyre de saint Pierre"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-11T16:52:35.735876",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 8,
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {}
+}
