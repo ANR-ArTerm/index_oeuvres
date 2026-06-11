@@ -30,7 +30,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "lanzaMilanoSuoiPalazzi1992",
+      "location": "pp. 341-342"
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -47,9 +52,14 @@
       "date": "2026-06-11T13:15:02.811406",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-11T14:56:34.049267",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 8,
   "typology": "Palais",
   "contained_by_ensemble": {}
 }
