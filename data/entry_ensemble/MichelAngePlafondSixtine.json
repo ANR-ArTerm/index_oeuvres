@@ -24,7 +24,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "partridgeMichelangeloVoltaCappella1996",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -61,6 +66,11 @@
       "date": "2026-05-04T17:16:24.417495",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-11T15:55:52.679552",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "ensemble décoratif",
