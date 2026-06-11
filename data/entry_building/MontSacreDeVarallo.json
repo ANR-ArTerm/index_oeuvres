@@ -1,0 +1,51 @@
+{
+  "id": "MontSacreDeVarallo",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2211082",
+  "entry_type": "building",
+  "title": "Mont Sacré de Varallo",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1486,
+    "endYear": null,
+    "text": "1486-XVIIIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Varallo",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "symcoxJerusalemAlpsSacro2019a",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Sacro_Monte_%28Varallo_Sesia%29_20.jpg/1920px-Sacro_Monte_%28Varallo_Sesia%29_20.jpg",
+      "storage": "online",
+      "copyright": "C. C. 4.0, Carlodell, https://it.wikipedia.org/wiki/File:Sacro_Monte_(Varallo_Sesia)_20.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-11T17:01:12.661642",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": null,
+  "contained_by_ensemble": {}
+}
