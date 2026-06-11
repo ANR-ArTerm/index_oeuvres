@@ -1,0 +1,78 @@
+{
+  "id": "LaBatailleDuPontMilviusVatican",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1996932",
+  "entry_type": "artwork",
+  "title": "La Bataille du Pont Milvius",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "auteur du modèle"
+    },
+    {
+      "xml_id": "GiulioRomano",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1520,
+    "endYear": 1524,
+    "text": "1520-1524"
+  },
+  "location": {
+    "type": "place",
+    "institution": {
+      "name": null,
+      "place": null,
+      "inventory_number": "",
+      "url": ""
+    },
+    "place": {
+      "city": "PalaisDuVatican",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "ChambreConstantinVatican"
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "benelliRaffaelloPittoreArchitetto2020",
+      "location": "pp. 34-35"
+    },
+    {
+      "zotero_key": "quednauAspectsRaphaelsUltima1986",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Battle_at_Pont_Milvius.jpg/3840px-Battle_at_Pont_Milvius.jpg",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-11T17:25:27.793308",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {
+    "link_type": "appartient à l'ensemble",
+    "xml_id_work": "StanzeVatican"
+  }
+}
