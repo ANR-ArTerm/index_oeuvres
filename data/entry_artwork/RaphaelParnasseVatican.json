@@ -16,12 +16,6 @@
   },
   "location": {
     "type": "place",
-    "institution": {
-      "name": "Vatican, Musées du Vatican",
-      "place": "Vatican",
-      "inventory_number": "",
-      "url": ""
-    },
     "place": {
       "city": "PalaisDuVatican",
       "country": "Vatican",
@@ -37,7 +31,16 @@
       "xml_id_work": "RaphaelChambreSignature"
     }
   ],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "joost-gaugierRaphaelsStanzaSegnatura2002",
+      "location": ""
+    },
+    {
+      "zotero_key": "realeRaffaelloParnaso1999",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -53,6 +56,11 @@
     {
       "date": "2026-06-11T17:13:18.910457",
       "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-11T17:17:01.780512",
+      "type": "modified",
       "author": "Elisa"
     }
   ],
