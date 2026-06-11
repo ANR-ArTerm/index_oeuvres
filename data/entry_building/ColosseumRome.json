@@ -58,9 +58,14 @@
       "date": "2026-06-11T13:08:38.157236",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-11T13:08:45.743321",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "colisée",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 8
 }
