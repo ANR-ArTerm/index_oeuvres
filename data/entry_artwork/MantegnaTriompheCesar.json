@@ -25,8 +25,77 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
-  "illustrations": [],
+  "bibliography": [
+    {
+      "zotero_key": "martindaleTriumphsCaesarAndrea1979",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Trionfi_di_cesare_01.jpg",
+      "copyright": "Public Domain",
+      "caption": "Les Trompettes et les porteurs d'enseigne",
+      "storage": "online"
+    },
+    {
+      "id": 1,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Triumph2-Mantegna-bearers-of-standards.jpg",
+      "copyright": "Public domain",
+      "caption": "Les Chars triomphaux, les trophées, les machines de guerre",
+      "storage": "online"
+    },
+    {
+      "id": 2,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Triumph3-Mantegna-bearers-of-trophies-and-bullion.jpg",
+      "copyright": "Public domain",
+      "caption": " Le Char aux trophées et les porteurs de butin",
+      "storage": "online"
+    },
+    {
+      "id": 3,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Triumph4-Mantegna-vase-bearers.jpg",
+      "copyright": "Public domain",
+      "caption": "Les Porteurs de vase, les taureaux sacrificiels, les trompettes",
+      "storage": "online"
+    },
+    {
+      "id": 4,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Triumph5-Mantegna-elephants.jpg",
+      "copyright": "Public domain",
+      "caption": "Les Trompettes, les taureaux sacrificiels, les éléphants",
+      "storage": "online"
+    },
+    {
+      "id": 5,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Triumph6-Mantegna-corselet-bearers.jpg",
+      "copyright": "Public domain",
+      "caption": "Les Porteurs de cuirasses, de trophées et de pièces d'armement",
+      "storage": "online"
+    },
+    {
+      "id": 6,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Triumph7-Mantegna-captives.jpg",
+      "copyright": "Public domain",
+      "caption": "Les Prisonniers",
+      "storage": "online"
+    },
+    {
+      "id": 7,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Triumph8-Mantegna-musicians.jpg",
+      "copyright": "Public domain",
+      "caption": "Les Musiciens et les porte-enseignes",
+      "storage": "online"
+    },
+    {
+      "id": 8,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Triumph9-Mantegna-Julius-Caesar.jpg",
+      "copyright": "Public domain",
+      "caption": "Jules César sur le char triomphal",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -39,6 +108,11 @@
       "date": "2026-03-09T10:43:07.137426",
       "type": "modified",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-11T17:34:01.735022",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "contained_by_ensemble": {},
