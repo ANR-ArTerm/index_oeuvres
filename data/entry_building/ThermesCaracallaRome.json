@@ -1,0 +1,46 @@
+{
+  "id": "ThermesCaracallaRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q502098",
+  "entry_type": "building",
+  "title": "Thermes de Caracalla à Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 212,
+    "endYear": 537,
+    "text": "entre IIIe et VIe siècle "
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Imm005_6A.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Orell Witthuhn (https://commons.wikimedia.org/wiki/File:Imm005_6A.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-11T15:11:27.306877",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Thermes",
+  "contained_by_ensemble": {}
+}
