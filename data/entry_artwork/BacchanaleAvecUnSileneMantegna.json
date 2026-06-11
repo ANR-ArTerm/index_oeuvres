@@ -1,0 +1,48 @@
+{
+  "id": "BacchanaleAvecUnSileneMantegna",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3632481",
+  "entry_type": "artwork",
+  "title": "Bacchanale avec un Silène",
+  "creator": [
+    {
+      "xml_id": "AndreaMantegna",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1470,
+    "endYear": 1480,
+    "text": "1470-1490"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "martineauAndreaMantegna1992",
+      "location": "p. 279"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Mantegna%2C_baccanale_con_sileno.jpg",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-11T18:33:26.171621",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {}
+}
