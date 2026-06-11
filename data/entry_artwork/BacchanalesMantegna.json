@@ -1,0 +1,48 @@
+{
+  "id": "BacchanalesMantegna",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3632482",
+  "entry_type": "artwork",
+  "title": "Bacchanales",
+  "creator": [
+    {
+      "xml_id": "AndreaMantegna",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1475,
+    "endYear": 1480,
+    "text": "1475-1480"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "martineauAndreaMantegna1992",
+      "location": "p. 278"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Mantegna%2C_baccanale_con_un_tino.jpg",
+      "storage": "online",
+      "copyright": "Public Domain",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-11T18:30:19.609014",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {}
+}
