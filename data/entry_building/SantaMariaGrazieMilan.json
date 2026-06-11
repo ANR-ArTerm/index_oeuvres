@@ -11,12 +11,16 @@
     {
       "xml_id": "Bramante",
       "role": "architecte"
+    },
+    {
+      "xml_id": "GiovanniAntonioAmadeo",
+      "role": "architecte"
     }
   ],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": "XVème siècle"
+    "startYear": 1463,
+    "endYear": 1497,
+    "text": "1463-1497"
   },
   "typology": "église",
   "location": {
@@ -31,7 +35,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "buganzaConventoDiSanta2017",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -53,6 +62,11 @@
       "date": "2026-06-08T14:27:53.163787",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-06-11T16:19:20.086875",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "status_entry": 1,
