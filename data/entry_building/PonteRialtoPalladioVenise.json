@@ -27,7 +27,15 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Rialto_Bridge%2C_Andrea_Palladio_Project.jpg",
+      "copyright": "Wikimedia Commons, public domain, Museo Civico Bassano del Grappa (https://commons.wikimedia.org/wiki/File:Rialto_Bridge,_Andrea_Palladio_Project.jpg)",
+      "caption": "Giovanni Antonio Canal, Projet de pont du Rialto d'Andrea Palladio, Museo Civico Bassano del Grappa, 1750",
+      "storage": "online"
+    }
+  ],
   "description": "Projet jamais realisé d'Andrea Palladio pour le pont du Rialto à Venise.",
   "commentary": "",
   "history": [
@@ -40,6 +48,11 @@
       "date": "2026-06-03T14:53:07.801164",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-06-12T15:43:00.987732",
+      "type": "modified",
+      "author": "Nicolo"
     }
   ],
   "typology": "monument imaginaire ou disparu",
