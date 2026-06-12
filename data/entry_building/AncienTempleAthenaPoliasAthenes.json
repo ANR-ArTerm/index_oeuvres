@@ -47,7 +47,10 @@
       "author": "Jules"
     }
   ],
-  "status_entry": 1,
   "typology": "monument imaginaire ou disparu",
-  "contained_by_ensemble": {}
+  "contained_by_ensemble": {
+    "link_type": "appartient à l'ensemble",
+    "xml_id_work": "AcropoleAthenes"
+  },
+  "status_entry": 1
 }
