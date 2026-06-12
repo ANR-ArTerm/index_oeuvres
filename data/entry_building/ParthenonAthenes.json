@@ -1,0 +1,59 @@
+{
+  "id": "ParthenonAthenes",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q10288",
+  "entry_type": "building",
+  "title": "Parthénon à Athènes",
+  "creator": [
+    {
+      "xml_id": "Callicrates",
+      "role": "créateur du projet"
+    },
+    {
+      "xml_id": "Ictinos",
+      "role": "créateur du projet"
+    },
+    {
+      "xml_id": "Phidias",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": -447,
+    "endYear": -432,
+    "text": "Ve siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Athenes",
+      "country": "Grece",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/The_Parthenon_in_Athens.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY 2.0, Steve Swayne (https://commons.wikimedia.org/wiki/File:The_Parthenon_in_Athens.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-12T14:19:56.140061",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Temple",
+  "contained_by_ensemble": {}
+}
