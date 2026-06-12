@@ -1,0 +1,49 @@
+{
+  "id": "PriereAuJardinCorrege",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3535914",
+  "entry_type": "artwork",
+  "title": "L'Agonie dans le jardin",
+  "creator": [
+    {
+      "xml_id": "Correge",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1524,
+    "endYear": 1524,
+    "text": "1524"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "WellingtonMuseum",
+      "place": "Londres",
+      "inventory_number": "WM.1585-1948",
+      "url": "https://artuk.org/discover/artworks/the-agony-in-the-garden-144127"
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Oración_en_el_huerto_%28Correggio%29.jpg?_=20160403220208",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-12T17:37:35.993047",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 1,
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {}
+}
