@@ -1,0 +1,54 @@
+{
+  "id": "SaintSebastienFoppa",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3947949",
+  "entry_type": "artwork",
+  "title": "Saint Sébastien",
+  "creator": [
+    {
+      "xml_id": "VincenzoFoppa",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1485,
+    "endYear": 1490,
+    "text": "1485-1490"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "PinacothèqueDeBrera",
+      "place": "Milan",
+      "inventory_number": "68",
+      "url": "https://pinacotecabrera.org/collezioni/collezione-on-line/martirio-di-san-sebastiano/"
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "agostiVincenzoFoppaProtagonista2002",
+      "location": "pp. 204-205"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Vincenzo_Foppa_003.jpg/960px-Vincenzo_Foppa_003.jpg",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-12T16:37:49.166893",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {}
+}
