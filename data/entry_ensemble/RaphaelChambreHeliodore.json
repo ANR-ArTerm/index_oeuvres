@@ -52,12 +52,18 @@
       "date": "2026-05-29T12:54:31.337698",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-12T16:15:16.864968",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
   "materialsAndTechniques": "fresque",
   "contained_by_ensemble": {
     "link_type": "appartient à l'ensemble",
-    "xml_id_work":"StanzeVatican"
+    "xml_id_work": "StanzeVatican"
   },
-  "status_entry": 0
+  "status_entry": 0,
+  "contains_works": []
 }
