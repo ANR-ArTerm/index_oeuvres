@@ -1,5 +1,5 @@
 {
-  "id": "AcropoleAthenes2",
+  "id": "AcropoleAthenes",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q131013",
   "entry_type": "ensemble",
   "title": "Acropole d'Athènes",
@@ -11,12 +11,6 @@
   },
   "location": {
     "type": "place",
-    "institution": {
-      "name": null,
-      "place": null,
-      "inventory_number": "",
-      "url": ""
-    },
     "place": {
       "city": "Athenes",
       "country": "Grece",
@@ -44,6 +38,11 @@
       "date": "2026-06-12T14:24:10.867078",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-12T14:24:40.105308",
+      "type": "modified",
+      "author": "Nicolo"
     }
   ],
   "status_entry": 0,
@@ -51,15 +50,18 @@
   "contains_works": [
     {
       "link_type": "appartient à l'ensemble",
-      "xml_id_work": "ParthenonAthenes"
+      "xml_id_work": "ParthenonAthenes",
+      "link_types_contained": null
     },
     {
       "link_type": "appartient à l'ensemble",
-      "xml_id_work": "TempleAthenaNikeAthenes"
+      "xml_id_work": "TempleAthenaNikeAthenes",
+      "link_types_contained": null
     },
     {
       "link_type": "appartient à l'ensemble",
-      "xml_id_work": "AncienTempleAthenaPoliasAthenes"
+      "xml_id_work": "AncienTempleAthenaPoliasAthenes",
+      "link_types_contained": null
     }
   ]
 }
