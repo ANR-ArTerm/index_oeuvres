@@ -24,7 +24,12 @@
       "url": ""
     }
   },
-  "related_works": [],
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "StanzeVatican"
+    }
+  ],
   "bibliography": [
     {
       "zotero_key": "raffaelRaffaelloNellappartamentoDi1993",
@@ -55,6 +60,11 @@
     },
     {
       "date": "2026-06-12T16:15:16.864968",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-06-12T16:17:13.940323",
       "type": "modified",
       "author": "Carla"
     }
