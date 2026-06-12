@@ -1,0 +1,71 @@
+{
+  "id": "EgliseSantaMariaPressoSanSatiroMilan",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q589462",
+  "entry_type": "building",
+  "title": "Église Santa Maria presso San Satiro",
+  "creator": [
+    {
+      "xml_id": "Bramante",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "GiovanniAntonioAmadeo",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1478,
+    "endYear": 1518,
+    "text": "1478-1518"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Milan",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "schofieldBramanteProblemSanta2000",
+      "location": ""
+    },
+    {
+      "zotero_key": "burattiMirabiliArtificioSanta2025",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Milano_San_Satiro_1.jpg",
+      "storage": "online",
+      "copyright": "CC BY-SA 3.0, Marco Bonavoglia, https://commons.wikimedia.org/wiki/File:Milano_San_Satiro_1.jpg",
+      "caption": ""
+    },
+    {
+      "id": 1,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Santa_Maria_presso_San_Satiro_%28Milan%29_05.JPG/960px-Santa_Maria_presso_San_Satiro_%28Milan%29_05.JPG",
+      "storage": "online",
+      "copyright": "CC BY-SA 4.0, Carlodell, https://commons.wikimedia.org/wiki/File:Santa_Maria_presso_San_Satiro_(Milan)_05.JPG",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-12T16:23:42.392913",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "église",
+  "contained_by_ensemble": {}
+}
