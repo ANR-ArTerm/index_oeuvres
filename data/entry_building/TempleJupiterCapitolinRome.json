@@ -6,8 +6,8 @@
   "creator": [],
   "dateCreated": {
     "startYear": -600,
-    "endYear": -500,
-    "text": "Vie siècle av. J.-C."
+    "endYear": 455,
+    "text": "entre VI e siècle av. J.-C. et Ve siècle"
   },
   "location": {
     "type": "place",
@@ -23,7 +23,7 @@
   "related_works": [],
   "bibliography": [],
   "illustrations": [],
-  "description": "",
+  "description": "L'ancien temple a été détruit par un incendie en 83 av. J.-C. Il fut reconstruit en 69 av. J.-C., puis détruit par un nouvel incendie en 69 apr. J.-C. Enfin, il fut reconstruit par Domitien en 82, mais lors du sac de Rome en 455, a été détruit.",
   "commentary": "",
   "history": [
     {
@@ -35,6 +35,11 @@
       "date": "2026-06-09T11:25:08.217636",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-06-12T11:58:30.918586",
+      "type": "modified",
+      "author": "Nicolo"
     }
   ],
   "status_entry": 1,
