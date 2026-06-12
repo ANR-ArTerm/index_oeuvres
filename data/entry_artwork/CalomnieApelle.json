@@ -1,0 +1,48 @@
+{
+  "id": "CalomnieApelle",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q58370982",
+  "entry_type": "artwork",
+  "title": "Calomnie",
+  "creator": [
+    {
+      "xml_id": "Apelle",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": "IVe siècle av. J.-C."
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "castCalumnyApellesStudy1981",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Sandro_Botticelli_La_calumnia_de_Apeles.jpg/1920px-Sandro_Botticelli_La_calumnia_de_Apeles.jpg",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": "Cette œuvre s'inspire du tableau perdu d'Appelle, décrit par l'écrivain grec Lucien dans son ouvrage \"De Calumnia\""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-12T15:33:43.687743",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {}
+}
