@@ -1,0 +1,52 @@
+{
+  "id": "ProcessionTriomphaleMaximilienDurer",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1797620",
+  "entry_type": "artwork",
+  "title": "Procession Triomphale de l'empereur Maximilien Ie",
+  "creator": [
+    {
+      "xml_id": "AlbrechtDurer",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "HansBurgkmair",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1512,
+    "endYear": 1522,
+    "text": "1512-1522"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "faraInventarioGeneraleStampe2007",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Triumphzug_Kaiser_Maximilians_2.jpg",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": "Détail de la \"Procession triomphale\" montrant le cortège des bagages"
+    }
+  ],
+  "description": "\"Les Triomphes de Maximilien\" est une série monumentale de gravures sur bois du XVIe siècle réalisées par divers artistes. Lomazzo parle des gravures de Dürer.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-12T17:25:37.370137",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "xylographie",
+  "contained_by_ensemble": {}
+}
