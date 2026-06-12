@@ -1,0 +1,65 @@
+{
+  "id": "AcropoleAthenes2",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q131013",
+  "entry_type": "ensemble",
+  "title": "Acropole d'Athènes",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -500,
+    "endYear": -300,
+    "text": "entre VIe et Ve siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "institution": {
+      "name": null,
+      "place": null,
+      "inventory_number": "",
+      "url": ""
+    },
+    "place": {
+      "city": "Athenes",
+      "country": "Grece",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Attica_06-13_Athens_50_View_from_Philopappos_-_Acropolis_Hill.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, A. Savin, Wikipedia (https://commons.wikimedia.org/wiki/File:Attica_06-13_Athens_50_View_from_Philopappos_-_Acropolis_Hill.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-12T14:24:10.867078",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "ensemble de monuments",
+  "contains_works": [
+    {
+      "link_type": "appartient à l'ensemble",
+      "xml_id_work": "ParthenonAthenes"
+    },
+    {
+      "link_type": "appartient à l'ensemble",
+      "xml_id_work": "TempleAthenaNikeAthenes"
+    },
+    {
+      "link_type": "appartient à l'ensemble",
+      "xml_id_work": "AncienTempleAthenaPoliasAthenes"
+    }
+  ]
+}
