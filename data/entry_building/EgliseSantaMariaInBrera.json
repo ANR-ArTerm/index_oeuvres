@@ -1,0 +1,56 @@
+{
+  "id": "EgliseSantaMariaInBrera",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3674100",
+  "entry_type": "building",
+  "title": "Église Santa Maria in Brera",
+  "creator": [
+    {
+      "xml_id": "GiovanniDiBalduccio",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": 1349,
+    "text": "1201-1349"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Milan",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "arisirotaNovitaSuGualtiero2008",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Milano%2C_Chiesa_di_Santa_Maria_in_Brera_01.jpg",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": "Gravure de Giorgio Giulini, XVIIIe siècle"
+    }
+  ],
+  "description": "Démolie en 1808-1809.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-12T17:04:11.504537",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "église",
+  "contained_by_ensemble": {}
+}
