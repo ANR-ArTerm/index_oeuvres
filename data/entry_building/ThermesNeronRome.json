@@ -7,7 +7,7 @@
   "dateCreated": {
     "startYear": null,
     "endYear": null,
-    "text": "entre Ie et IIIe siècle "
+    "text": "entre Ier et IIIe siècle "
   },
   "location": {
     "type": "place",
@@ -26,18 +26,23 @@
     {
       "id": 0,
       "url": "",
-      "storage": "",
+      "storage": "online",
       "copyright": "",
       "caption": ""
     }
   ],
-  "description": "",
+  "description": "Construit par Néron et reconstruit plus tard par Alexandre Sévère",
   "commentary": "da sistemare la descrizione scrivendo che inizialmente erano state costruite da Nerone e successivamente rifatte da Alessandro Severo",
   "history": [
     {
       "date": "2026-06-11T15:03:01.507188",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-15T15:33:01.158439",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "status_entry": 0,
