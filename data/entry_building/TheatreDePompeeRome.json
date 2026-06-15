@@ -7,7 +7,7 @@
   "dateCreated": {
     "startYear": -61,
     "endYear": -55,
-    "text": "Ie siècle av. J.-C."
+    "text": "Ier siècle av. J.-C."
   },
   "location": {
     "type": "place",
@@ -38,9 +38,14 @@
       "date": "2026-06-10T17:21:36.313555",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-15T11:58:06.833671",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "Theatre",
   "contained_by_ensemble": {}
 }
