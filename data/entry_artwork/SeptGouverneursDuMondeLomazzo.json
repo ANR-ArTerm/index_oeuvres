@@ -1,0 +1,35 @@
+{
+  "id": "SeptGouverneursDuMondeLomazzo",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Les sept gouverneurs du monde",
+  "creator": [
+    {
+      "xml_id": "GiovanniPaoloLomazzo",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": "2e moitié du XVIe siècle"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "Oeuvre perdu realisés par l'artiste pour Giambattista Castaldo et puis envoyée à Antoine Perrenot De Granvelle.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-15T16:24:29.880913",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 8,
+  "materialsAndTechniques": null,
+  "contained_by_ensemble": {}
+}
