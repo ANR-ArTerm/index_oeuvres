@@ -3,7 +3,12 @@
   "QID_wikidata": "https://www.wikidata.org/wiki/Q2211082",
   "entry_type": "building",
   "title": "Mont Sacré de Varallo",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "BernardinoCaim",
+      "role": "architecte"
+    }
+  ],
   "dateCreated": {
     "startYear": 1486,
     "endYear": null,
@@ -43,9 +48,14 @@
       "date": "2026-06-11T17:01:12.661642",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-15T10:32:11.503978",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
-  "typology": null,
+  "status_entry": 1,
+  "typology": "église",
   "contained_by_ensemble": {}
 }
