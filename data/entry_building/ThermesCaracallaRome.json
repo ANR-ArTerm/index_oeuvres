@@ -38,9 +38,14 @@
       "date": "2026-06-11T15:11:27.306877",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-15T15:16:36.793925",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "Thermes",
   "contained_by_ensemble": {}
 }
