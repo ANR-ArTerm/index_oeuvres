@@ -1,0 +1,62 @@
+{
+  "id": "TabernacleEscorialNizzola",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Tabernacle de l'Escorial",
+  "creator": [
+    {
+      "xml_id": "GiacomoNizzola",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1581,
+    "endYear": 1587,
+    "text": "1581-1587"
+  },
+  "location": {
+    "type": "place",
+    "institution": {
+      "name": null,
+      "place": null,
+      "inventory_number": "",
+      "url": ""
+    },
+    "place": {
+      "city": "Escorial",
+      "country": "Espagne",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "appartient au même ensemble",
+      "xml_id_work": "MonastereSanLorenzoEscurial"
+    }
+  ],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Tabernáculo_del_altar_mayor._Monasterio_del_Escorial.jpg",
+      "storage": "online",
+      "copyright": "CC BY-SA 4.0, Lancastermerrin88, https://commons.wikimedia.org/wiki/File:Tabernáculo_del_altar_mayor._Monasterio_del_Escorial.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-15T17:22:27.511649",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 1,
+  "materialsAndTechniques": "cristal de roche, jaspe et pierres précieuses",
+  "contained_by_ensemble": {}
+}
