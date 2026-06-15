@@ -40,9 +40,14 @@
       "date": "2026-06-11T18:33:26.171621",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-15T16:23:24.425903",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "materialsAndTechniques": "burin",
   "contained_by_ensemble": {}
 }
