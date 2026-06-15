@@ -51,6 +51,11 @@
       "date": "2026-06-12T14:19:56.140061",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-15T10:56:54.016628",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "Temple",
@@ -58,5 +63,5 @@
     "link_type": "appartient à l'ensemble",
     "xml_id_work": "AcropoleAthenes"
   },
-  "status_entry": 0
+  "status_entry": 1
 }
