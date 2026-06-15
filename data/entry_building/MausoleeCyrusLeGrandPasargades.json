@@ -43,9 +43,14 @@
       "date": "2026-06-11T15:50:13.088907",
       "type": "modified",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-15T10:27:40.584095",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "mausolée",
   "contained_by_ensemble": {}
 }
