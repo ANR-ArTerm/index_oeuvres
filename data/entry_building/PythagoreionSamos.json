@@ -30,9 +30,14 @@
       "date": "2026-06-10T16:46:41.993180",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-15T11:23:54.627229",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
-  "typology": "Port",
+  "status_entry": 1,
+  "typology": null,
   "contained_by_ensemble": {}
 }
