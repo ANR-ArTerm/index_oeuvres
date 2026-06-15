@@ -7,7 +7,7 @@
   "dateCreated": {
     "startYear": -29,
     "endYear": 526,
-    "text": "entre Ie siècle av. J.-C. et VIe siècle"
+    "text": "entre Ier siècle av. J.-C. et VIe siècle"
   },
   "location": {
     "type": "place",
@@ -38,9 +38,14 @@
       "date": "2026-06-09T15:14:50.493042",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-15T09:48:03.551587",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "Curie",
   "contained_by_ensemble": {}
 }
