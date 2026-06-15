@@ -40,9 +40,14 @@
       "date": "2026-06-12T17:13:26.245528",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-15T16:12:16.255357",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "materialsAndTechniques": "eau-forte",
   "contained_by_ensemble": {}
 }
