@@ -43,9 +43,14 @@
       "date": "2026-06-15T15:33:01.158439",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-06-15T15:34:09.959098",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "monument imaginaire ou disparu",
   "contained_by_ensemble": {}
 }
