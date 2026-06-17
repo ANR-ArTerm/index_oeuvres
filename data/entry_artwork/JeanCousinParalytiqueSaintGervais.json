@@ -1,0 +1,49 @@
+{
+  "id": "JeanCousinParalytiqueSaintGervais",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "La Guérison du paralytique ou ",
+  "creator": [
+    {
+      "xml_id": "JeanCousin",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1540,
+    "endYear": 1550,
+    "text": "1540-1550"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Église Saint-Gervais-Saint-Protais",
+      "place": "Paris",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://agorha.inha.fr/ark:/54721/1a5d7430-7955-460a-bba0-c5aac3e895f6/doc/963f02d0-57e2-4d0d-aec8-516f16122ebb/medium.jpg",
+      "storage": "online",
+      "copyright": "Agorha, Institut national d'histoire de l'art, CC BY 4.0, © Centre André Chastel (UMR 8150)(https://agorha.inha.fr/ark:/54721/67628cf6-485b-4c01-a1be-c152c1dd94ae)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-17T18:05:42.688579",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "Vitrail",
+  "contained_by_ensemble": {}
+}
