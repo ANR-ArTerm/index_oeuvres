@@ -2,7 +2,7 @@
   "id": "DominiquinPortementCroixGetty",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q20180050",
   "entry_type": "artwork",
-  "title": "Le Portement de la Croix po",
+  "title": "Le Portement de la Croix ",
   "creator": [
     {
       "xml_id": "Dominiquin",
@@ -17,8 +17,8 @@
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": "Getty Center",
-      "place": "Los Angeles",
+      "name": null,
+      "place": null,
       "inventory_number": " 83.PC.373",
       "url": "https://www.getty.edu/art/collection/object/103RFK"
     }
@@ -46,9 +46,14 @@
       "date": "2026-05-05T18:20:00.062023",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-17T11:22:31.407294",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "Huile sur cuivre",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
