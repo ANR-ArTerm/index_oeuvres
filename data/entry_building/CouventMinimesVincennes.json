@@ -1,0 +1,38 @@
+{
+  "id": "CouventMinimesVincennes",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q111745852",
+  "entry_type": "building",
+  "title": "Couvent des Minimes de Vincennes ",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1164,
+    "endYear": 1179,
+    "text": "1179"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Abbaye_des_Minimes_arriv%C3%A9e_de_Louis_XIV_Van_der_Meulen.png",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, VVVCFFrance  (https://commons.wikimedia.org/wiki/File:Abbaye_des_Minimes_arriv%C3%A9e_de_Louis_XIV_Van_der_Meulen.png)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-17T18:52:52.634711",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {}
+}
