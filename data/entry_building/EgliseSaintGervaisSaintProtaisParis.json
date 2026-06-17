@@ -1,0 +1,59 @@
+{
+  "id": "EgliseSaintGervaisSaintProtaisParis",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q427340",
+  "entry_type": "building",
+  "title": "Église Saint-Gervais-Saint-Protais de Paris",
+  "creator": [
+    {
+      "xml_id": "SalomonDeBrosse",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "MartinChambiges",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "VictorBaltard",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1494,
+    "endYear": 1621,
+    "text": "1621"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Paris",
+      "country": "France",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/%C3%89glise_Saint-Gervais.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, ZeusUpsistos  (https://commons.wikimedia.org/wiki/File:%C3%89glise_Saint-Gervais.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-17T17:38:10.640856",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "église",
+  "contained_by_ensemble": {}
+}
