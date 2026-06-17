@@ -38,9 +38,14 @@
       "date": "2026-06-17T16:41:12.873046",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-17T16:47:41.448548",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "Murailles",
   "contained_by_ensemble": {}
 }
