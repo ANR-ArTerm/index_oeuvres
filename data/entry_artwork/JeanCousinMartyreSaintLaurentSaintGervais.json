@@ -11,8 +11,8 @@
   ],
   "dateCreated": {
     "startYear": 1540,
-    "endYear": 1540,
-    "text": "1540"
+    "endYear": 1550,
+    "text": "1540-1550"
   },
   "location": {
     "type": "holding_institution",
@@ -30,7 +30,7 @@
       "id": 0,
       "url": "https://agorha.inha.fr/ark:/54721/41dfa41e-7378-4b2a-a833-68ce46663efe/doc/fa7b8307-b38e-45f3-a4d2-09b752f310a3/medium.jpg",
       "storage": "online",
-      "copyright": "Agorha, CC BY-SA 4.0, Institut national d'histoire de l'art, ©Guy-Michel Leproux, (https://agorha.inha.fr/ark:/54721/922d740d-2b69-46b1-a231-e05dbd7e0c9d )",
+      "copyright": "Agorha, Institut national d'histoire de l'art, CC BY-SA 4.0, ©Guy-Michel Leproux, (https://agorha.inha.fr/ark:/54721/922d740d-2b69-46b1-a231-e05dbd7e0c9d )",
       "caption": ""
     }
   ],
@@ -41,9 +41,14 @@
       "date": "2026-06-17T17:51:28.259482",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-17T18:07:25.966024",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
   "status_entry": 0,
-  "materialsAndTechniques": null,
+  "materialsAndTechniques": "Vitrail",
   "contained_by_ensemble": {}
 }
