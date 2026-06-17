@@ -10,9 +10,9 @@
     }
   ],
   "dateCreated": {
-    "startYear": 1512,
+    "startYear": 1515,
     "endYear": 1515,
-    "text": "1512-1515"
+    "text": "1515"
   },
   "location": {
     "type": "multiple_locations"
@@ -21,7 +21,7 @@
   "bibliography": [
     {
       "zotero_key": "faraInventarioGeneraleStampe2007",
-      "location": ""
+      "location": "pp. 369-372"
     }
   ],
   "illustrations": [
@@ -45,6 +45,11 @@
       "date": "2026-06-15T16:12:16.255357",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-06-17T16:06:40.442023",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "status_entry": 1,
