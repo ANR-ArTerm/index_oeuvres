@@ -10,9 +10,9 @@
     }
   ],
   "dateCreated": {
-    "startYear": 1551,
-    "endYear": 1551,
-    "text": "1551"
+    "startYear": 1540,
+    "endYear": 1550,
+    "text": "1540-1550"
   },
   "location": {
     "type": "unlocated"
@@ -26,6 +26,11 @@
     {
       "date": "2026-06-17T18:00:09.400970",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-06-17T18:06:37.120532",
+      "type": "modified",
       "author": "Carla"
     }
   ],
