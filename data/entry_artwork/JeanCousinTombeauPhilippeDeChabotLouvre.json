@@ -1,0 +1,49 @@
+{
+  "id": "JeanCousinTombeauPhilippeDeChabotLouvre",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q87410213",
+  "entry_type": "artwork",
+  "title": "Tombeau de PhilippeDeChabot",
+  "creator": [
+    {
+      "xml_id": "JeanCousin",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1560,
+    "endYear": 1570,
+    "text": "avant 1560 - 1570"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Musée du Louvre",
+      "place": "Paris",
+      "inventory_number": "ML 91 ; ML 92 ; MR 1579 ; MR SUP 175",
+      "url": "https://collections.louvre.fr/en/ark:/53355/cl010211901"
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Tombeau_Philippe_Chabot_Louvre_MR1779_orange.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC0 1.0, Jebulon,  (https://commons.wikimedia.org/wiki/File:Tombeau_Philippe_Chabot_Louvre_MR1779_orange.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-17T19:22:44.025731",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "sculpture",
+  "contained_by_ensemble": {}
+}
