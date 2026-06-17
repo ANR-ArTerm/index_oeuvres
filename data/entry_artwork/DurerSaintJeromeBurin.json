@@ -15,7 +15,13 @@
     "text": "1514"
   },
   "location": {
-    "type": "multiple_locations"
+    "type": "holding_institution",
+    "institution": {
+      "name": "National Galerie washington",
+      "place": "Washington",
+      "inventory_number": "",
+      "url": ""
+    }
   },
   "related_works": [],
   "bibliography": [],
@@ -35,9 +41,14 @@
       "date": "2026-03-03T17:01:49.899692",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-17T11:34:17.089258",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "burin",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
