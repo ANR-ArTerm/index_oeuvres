@@ -35,9 +35,14 @@
       "date": "2026-04-21T16:53:32.770367",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-17T16:55:16.725850",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "sculpture en cire",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
