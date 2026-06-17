@@ -19,7 +19,13 @@
     "text": "1546"
   },
   "location": {
-    "type": "multiple_locations"
+    "type": "holding_institution",
+    "institution": {
+      "name": "Victoria and Albert Museum",
+      "place": "Londres",
+      "inventory_number": "inv. DYCE.1215",
+      "url": "https://collections.vam.ac.uk/item/O1153513/leda-and-the-swan-print-vico-enea/"
+    }
   },
   "related_works": [],
   "bibliography": [
@@ -49,9 +55,14 @@
       "date": "2026-03-20T12:22:18.191247",
       "type": "modified",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-17T14:56:39.393919",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "burin",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
