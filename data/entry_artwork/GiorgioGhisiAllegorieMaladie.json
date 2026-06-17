@@ -55,9 +55,14 @@
       "date": "2026-05-28T11:37:27.781440",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-17T17:07:40.163462",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "burin",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
