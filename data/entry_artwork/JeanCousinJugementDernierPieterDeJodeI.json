@@ -1,0 +1,47 @@
+{
+  "id": "JeanCousinJugementDernierPieterDeJodeI",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Le jugement dernier",
+  "creator": [
+    {
+      "xml_id": "JeanCousinLeJeune",
+      "role": "auteur du modèle"
+    },
+    {
+      "xml_id": "PieterDeJodeI",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1570,
+    "endYear": 1634,
+    "text": "XVIIe siècle"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "",
+      "storage": "online",
+      "copyright": "New York, Metropolitan Museum of Arts,  inv.21.36.225 (https://www.metmuseum.org/art/collection/search/643917)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-17T19:11:06.895069",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": null,
+  "contained_by_ensemble": {}
+}
