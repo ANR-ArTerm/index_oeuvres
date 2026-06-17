@@ -1,0 +1,46 @@
+{
+  "id": "MurHadrienGrandeBretagne",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q57357",
+  "entry_type": "building",
+  "title": "Mur d'Hadrien en Grande-Bretagne",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 122,
+    "endYear": 128,
+    "text": "IIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": null,
+      "country": "Angleterre",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Hadrian%27s_Wall_and_old_tree%2C_Melkridge_Common_-_geograph.org.uk_-_1068757.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 2.0, Andrew Smith, Hadrian's Wall and old tree, Melkridge Common (https://commons.wikimedia.org/wiki/File:Hadrian%27s_Wall_and_old_tree,_Melkridge_Common_-_geograph.org.uk_-_1068757.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-17T16:41:12.873046",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Murailles",
+  "contained_by_ensemble": {}
+}
