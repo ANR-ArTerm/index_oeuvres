@@ -25,7 +25,7 @@
     {
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/St._Peter_Niccoline_Chapel.jpg",
-      "copyright": "",
+      "copyright": "Wikimedia Commons, Fra Angelico, Domaine Public (https://commons.wikimedia.org/wiki/File:St._Peter_Niccoline_Chapel.jpg)",
       "caption": "",
       "storage": "online"
     }
@@ -37,7 +37,13 @@
       "date": "2026-01-14T10:18:00.342393",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-17T16:33:08.120687",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }
