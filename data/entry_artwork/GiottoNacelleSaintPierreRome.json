@@ -54,7 +54,13 @@
       "date": "2026-01-13T15:40:04.962425",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-17T17:11:51.310171",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }
