@@ -44,9 +44,14 @@
       "date": "2026-03-18T18:12:17.623061",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-17T16:52:05.541788",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "eau-forte",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
