@@ -49,6 +49,13 @@
       "copyright": "Public domain",
       "caption": "Rubens, dessin d'après le carton de Léonard de Vinci, 1603",
       "storage": "online"
+    },
+    {
+      "id": 1,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Leonardo_da_vinci%2C_Battle_of_Anghiari_%28Tavola_Doria%29.jpg",
+      "copyright": "Public domain",
+      "caption": "Francesco Morandini, Tavola Doria, 1503-1505",
+      "storage": "online"
     }
   ],
   "description": "Perdu.",
@@ -71,6 +78,11 @@
     },
     {
       "date": "2026-06-11T16:13:17.641598",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-17T18:45:48.305776",
       "type": "modified",
       "author": "Elisa"
     }
