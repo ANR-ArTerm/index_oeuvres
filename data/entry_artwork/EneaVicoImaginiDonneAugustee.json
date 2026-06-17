@@ -34,7 +34,7 @@
     }
   ],
   "description": "Suite de 63 estampes et d'un frontispice publiée à Venise en 1557.",
-  "commentary": "",
+  "commentary": "Image ne fonctionne pas sur SIFON pour la visionneuse mais fonctionne via navigateur \n",
   "history": [
     {
       "date": "2026-03-20T14:14:11.958822",
@@ -50,9 +50,14 @@
       "date": "2026-03-20T14:14:50.703355",
       "type": "modified",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-17T14:53:10.884389",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "burin",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
