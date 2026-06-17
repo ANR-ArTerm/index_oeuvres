@@ -15,7 +15,13 @@
     "text": "1558"
   },
   "location": {
-    "type": "multiple_locations"
+    "type": "holding_institution",
+    "institution": {
+      "name": "British Museum",
+      "place": "Londres",
+      "inventory_number": "inv. 1866,0526.105",
+      "url": "https://www.britishmuseum.org/collection/object/P_1866-0526-105"
+    }
   },
   "related_works": [],
   "bibliography": [
@@ -45,9 +51,14 @@
       "date": "2026-03-20T12:23:50.895500",
       "type": "modified",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-17T12:07:58.281632",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "burin",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
