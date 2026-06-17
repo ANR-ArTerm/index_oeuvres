@@ -21,7 +21,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "RaphaelLettreLeon2005",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -43,9 +48,19 @@
       "date": "2026-06-02T09:50:19.041464",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-06-17T14:27:35.944687",
+      "type": "modified",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-17T14:27:52.520681",
+      "type": "modified",
+      "author": "Nicolo"
     }
   ],
   "typology": "pyramide",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 8
 }

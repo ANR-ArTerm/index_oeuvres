@@ -15,7 +15,13 @@
     "text": "1550"
   },
   "location": {
-    "type": "multiple_locations"
+    "type": "holding_institution",
+    "institution": {
+      "name": "National Gallery of Arts",
+      "place": "Washington",
+      "inventory_number": "inv. 1964.8.1708",
+      "url": "https://www.nga.gov/artworks/48963-giovanni-de-medici"
+    }
   },
   "related_works": [],
   "bibliography": [
@@ -45,9 +51,14 @@
       "date": "2026-03-20T12:22:46.082104",
       "type": "modified",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-17T14:36:49.905615",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "burin",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }

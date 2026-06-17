@@ -24,12 +24,12 @@
       "id": 0,
       "url": "https://agorha.inha.fr/ark:/54721/153c3ca8-bed0-4f13-b71a-b40504fab898/doc/7e3b02d2-c06b-4efe-8d05-ebf8015e1491/thumbnail.jpg",
       "storage": "online",
-      "copyright": "Mairie d'Aire-sur-Adour, Institut national d'histoire de l'art (France) - licence : Attribution 4.0 International (CC BY 4.0), https://agorha.inha.fr/ark:/54721/02645b03-d199-4366-bb1f-3e666fe5a523",
+      "copyright": "Mairie d'Aire-sur-l'Adour, Institut national d'histoire de l'art (France) - licence : Attribution 4.0 International (CC BY 4.0), https://agorha.inha.fr/ark:/54721/02645b03-d199-4366-bb1f-3e666fe5a523",
       "caption": "Copié d'après l'original de Andrea del Sarto. "
     }
   ],
-  "description": "On ne connaît le Saint Jérôme de Andrea Dal Sarto que par sa copie conservée Oiron ",
-  "commentary": "Voir avec Carla pour plus d'infos",
+  "description": "On ne connaît le Saint Jérôme de Andrea Dal Sarto que par sa copie conservée dans l'église Saint-Maurice à Oiron (commune Deux-Sèvres).",
+  "commentary": "",
   "history": [
     {
       "date": "2026-01-29T15:44:23.756916",
@@ -40,9 +40,14 @@
       "date": "2026-06-10T11:53:45.016552",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-06-17T12:05:06.441583",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "huile sur toile",
-  "status_entry": 0,
+  "status_entry": 1,
   "contained_by_ensemble": {}
 }

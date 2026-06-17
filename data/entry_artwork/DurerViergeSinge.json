@@ -1,6 +1,6 @@
 {
   "id": "DurerViergeSinge",
-  "QID_wikidata": "",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q18338506",
   "entry_type": "artwork",
   "title": "Vierge avec un singe",
   "creator": [
@@ -29,7 +29,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Durer_-_Madonna_with_a_monkey.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20090907091342",
       "storage": "online",
-      "copyright": "Public domain",
+      "copyright": "Wikimédia Commons, Public domain (CC 0) (https://commons.wikimedia.org/wiki/File:Clevelandart_1964.29.jpg)",
       "caption": ""
     }
   ],
@@ -45,9 +45,14 @@
       "date": "2026-05-29T12:37:00.738812",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-17T11:44:12.804805",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "burin",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }

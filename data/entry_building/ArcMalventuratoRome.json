@@ -21,7 +21,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "RaphaelLettreLeon2005",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -53,9 +58,14 @@
       "date": "2026-05-28T15:05:57.684597",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-06-17T14:26:55.229573",
+      "type": "modified",
+      "author": "Nicolo"
     }
   ],
   "typology": "Arc",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 8
 }
