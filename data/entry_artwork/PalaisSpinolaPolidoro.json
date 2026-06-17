@@ -1,0 +1,54 @@
+{
+  "id": "PalaisSpinolaPolidoro",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Façade de Palazzo Spinola",
+  "creator": [
+    {
+      "xml_id": "PolidoroDaCaravaggio",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": "1520 ca."
+  },
+  "location": {
+    "type": "place",
+    "institution": {
+      "name": null,
+      "place": null,
+      "inventory_number": "",
+      "url": ""
+    },
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "leonedecastrisPolidoroCaravaggioLopera2001",
+      "location": "p. 500"
+    }
+  ],
+  "illustrations": [],
+  "description": "Perdu",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-17T19:06:55.097904",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {}
+}
