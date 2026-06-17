@@ -1,0 +1,35 @@
+{
+  "id": "JeanCousinSamaritaineSaintGervais",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "La Samaritaine",
+  "creator": [
+    {
+      "xml_id": "JeanCousin",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1551,
+    "endYear": 1551,
+    "text": "1551"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "Cette verrière a aujourd'hui disparu. ",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-17T18:00:09.400970",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "Vitrail",
+  "contained_by_ensemble": {}
+}
