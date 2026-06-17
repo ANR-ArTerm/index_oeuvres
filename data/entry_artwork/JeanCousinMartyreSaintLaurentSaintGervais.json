@@ -1,0 +1,49 @@
+{
+  "id": "JeanCousinMartyreSaintLaurentSaintGervais",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Le Martyre de saint Laurent ",
+  "creator": [
+    {
+      "xml_id": "JeanCousin",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1540,
+    "endYear": 1540,
+    "text": "1540"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Église Saint-Gervais-Saint-Protais",
+      "place": "Paris",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://agorha.inha.fr/ark:/54721/41dfa41e-7378-4b2a-a833-68ce46663efe/doc/fa7b8307-b38e-45f3-a4d2-09b752f310a3/medium.jpg",
+      "storage": "online",
+      "copyright": "Agorha, CC BY-SA 4.0, Institut national d'histoire de l'art, ©Guy-Michel Leproux, (https://agorha.inha.fr/ark:/54721/922d740d-2b69-46b1-a231-e05dbd7e0c9d )",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-17T17:51:28.259482",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": null,
+  "contained_by_ensemble": {}
+}
