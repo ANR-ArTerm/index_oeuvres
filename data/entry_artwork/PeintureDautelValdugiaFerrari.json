@@ -10,15 +10,26 @@
     }
   ],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": "II moitié du XVIe siècle"
+    "startYear": 1539,
+    "endYear": 1539,
+    "text": "1539"
   },
   "location": {
-    "type": "unlocated"
+    "type": "holding_institution",
+    "institution": {
+      "name": "EgliseSanGiorgio",
+      "place": "Valduggia",
+      "inventory_number": "",
+      "url": ""
+    }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "gabrielliAffreschiDiGaudenzio1960a",
+      "location": ""
+    }
+  ],
   "illustrations": [],
   "description": "",
   "commentary": "",
@@ -27,9 +38,14 @@
       "date": "2026-06-15T17:31:35.353970",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-17T17:43:41.761707",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 0,
-  "materialsAndTechniques": null,
+  "status_entry": 2,
+  "materialsAndTechniques": "fresque",
   "contained_by_ensemble": {}
 }
