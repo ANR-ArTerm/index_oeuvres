@@ -1,0 +1,49 @@
+{
+  "id": "JeanCousinJugementDernierReims",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Le Jugement dernier",
+  "creator": [
+    {
+      "xml_id": "JeanCousin",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1490,
+    "endYear": 1560,
+    "text": "Inconnue"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Musée des Beaux-Art de Reims",
+      "place": "Reims",
+      "inventory_number": "inv. 795.1.65",
+      "url": "https://musees-reims.fr/oeuvre/le-jugement-dernier"
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://agorha.inha.fr/ark:/54721/06f93ee9-4511-4d48-9af4-460f23b16a03/doc/ced76b9c-b43b-4a55-8e7f-4d3200e74a05/medium.jpg",
+      "storage": "online",
+      "copyright": "Agorha, Institut national d'histoire de l'art, CC BY-SA 4.0, © Reims, musée des Beaux-arts, © Christian Devleeschauwer, (https://agorha.inha.fr/ark:/54721/cd55f949-9699-49a8-a6a5-99769490e1d6)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-17T18:48:21.277809",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "Huile sur cuivre",
+  "contained_by_ensemble": {}
+}
