@@ -1,0 +1,49 @@
+{
+  "id": "JeanCousinLeJeuneJugementDernierLouvre",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q19820078",
+  "entry_type": "artwork",
+  "title": "Le Jugement dernier",
+  "creator": [
+    {
+      "xml_id": "JeanCousinLeJeune",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1585,
+    "endYear": 1585,
+    "text": "1585"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Musée du Louvre",
+      "place": "Paris",
+      "inventory_number": " INV 3445",
+      "url": "https://collections.louvre.fr/ark:/53355/cl010062184"
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Jean_Cousin_le_jugement_dernier.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public,  Shonagon,  (https://commons.wikimedia.org/wiki/File:Le_Jugement_dernier_-_Jean_Cousin_le_Jeune_-_Mus%C3%A9e_du_Louvre_Peintures_INV_3445_;_MR_1358.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-17T18:40:00.863045",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {}
+}
