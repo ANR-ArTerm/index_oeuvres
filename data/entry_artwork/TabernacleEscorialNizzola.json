@@ -16,12 +16,6 @@
   },
   "location": {
     "type": "place",
-    "institution": {
-      "name": null,
-      "place": null,
-      "inventory_number": "",
-      "url": ""
-    },
     "place": {
       "city": "Escorial",
       "country": "Espagne",
@@ -37,7 +31,12 @@
       "xml_id_work": "MonastereSanLorenzoEscurial"
     }
   ],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "babelonJacopoTrezzoCostruzione2015",
+      "location": "pp. 131-149"
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -53,6 +52,11 @@
     {
       "date": "2026-06-15T17:22:27.511649",
       "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-17T16:20:49.856001",
+      "type": "modified",
       "author": "Elisa"
     }
   ],
