@@ -1,0 +1,54 @@
+{
+  "id": "PalaisGaddiPolidoro",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Façade du Palazzo Gaddi",
+  "creator": [
+    {
+      "xml_id": "PolidoroDaCaravaggio",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1523,
+    "endYear": 1524,
+    "text": "1523-1524"
+  },
+  "location": {
+    "type": "place",
+    "institution": {
+      "name": null,
+      "place": null,
+      "inventory_number": "",
+      "url": ""
+    },
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "leonedecastrisPolidoroCaravaggioLopera2001",
+      "location": "pp. 498-499"
+    }
+  ],
+  "illustrations": [],
+  "description": "Perdu",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-17T18:10:40.798775",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {}
+}
