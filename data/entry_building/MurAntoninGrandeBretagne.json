@@ -22,15 +22,7 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [
-    {
-      "id": 0,
-      "url": "",
-      "storage": "online",
-      "copyright": "",
-      "caption": ""
-    }
-  ],
+  "illustrations": [],
   "description": "",
   "commentary": "",
   "history": [
@@ -38,9 +30,14 @@
       "date": "2026-06-17T16:44:28.097578",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-17T16:53:49.728718",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "monument imaginaire ou disparu",
   "contained_by_ensemble": {}
 }
