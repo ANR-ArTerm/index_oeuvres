@@ -2,7 +2,7 @@
   "id": "JeanCousinParalytiqueSaintGervais",
   "QID_wikidata": "",
   "entry_type": "artwork",
-  "title": "La Guérison du paralytique ou ",
+  "title": "La Guérison du paralytique ",
   "creator": [
     {
       "xml_id": "JeanCousin",
@@ -41,9 +41,14 @@
       "date": "2026-06-17T18:05:42.688579",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-18T09:21:44.738140",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "materialsAndTechniques": "Vitrail",
   "contained_by_ensemble": {}
 }
