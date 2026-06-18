@@ -1,0 +1,49 @@
+{
+  "id": "NicolasPoussinMiracleSaintFrancoisXavierLouvre",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q29842246",
+  "entry_type": "artwork",
+  "title": "Le Miracle de saint François-Xavier ou Saint François-Xavier rappelant à la vie la fille d'un habitant de Cangoxima [Kagoshima], au Japon",
+  "creator": [
+    {
+      "xml_id": "NicolasPoussin",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1641,
+    "endYear": 1641,
+    "text": "1641"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Musée du Louvre",
+      "place": "Paris",
+      "inventory_number": "INV 7289 ; MR 2313",
+      "url": "https://collections.louvre.fr/ark:/53355/cl010062526"
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/archive/e/ec/20130309124557%21Poussin_Miracle_de_saint_Fran%C3%A7ois_Xavier_Louvre.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, Mel22, (https://fr.wikipedia.org/wiki/Fichier:Poussin_Miracle_de_saint_Fran%C3%A7ois_Xavier_Louvre.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-18T17:48:49.094826",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {}
+}
