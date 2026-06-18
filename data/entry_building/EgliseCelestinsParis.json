@@ -1,0 +1,30 @@
+{
+  "id": "EgliseCelestinsParis",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q657921",
+  "entry_type": "building",
+  "title": "Couvent des Célestins de Paris",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1365,
+    "endYear": 1600,
+    "text": "1365-1370, le cloître fut rebâti au XVIe"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "L'ensemble conventuel fut détruit entre 1895 et 1901.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-18T11:44:59.696977",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "couvent",
+  "contained_by_ensemble": {}
+}
