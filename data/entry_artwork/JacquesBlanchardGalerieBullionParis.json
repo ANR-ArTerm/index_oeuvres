@@ -1,0 +1,41 @@
+{
+  "id": "JacquesBlanchardGalerieBullionParis",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Galerie de l'hôtel de Bullion, décor des douze mois de l'année",
+  "creator": [
+    {
+      "xml_id": "JacquesBlanchard",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1634,
+    "endYear": 1634,
+    "text": "1634"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": null,
+      "place": null,
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "Cette notice est quasi vide, c'est normal, je dois aller trouver les infos en biblio ! laissons-là en rouge nn contrôlée",
+  "history": [
+    {
+      "date": "2026-06-18T15:15:01.692561",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": null,
+  "contained_by_ensemble": {}
+}
