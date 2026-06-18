@@ -1,0 +1,36 @@
+{
+  "id": "JacquesBlanchardGalerieChambreDesComptes",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Décor de la galerie de ",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": null,
+      "place": null,
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "idem notice quasi vide mais c'est normal, je vais en biblio pour régler cela  (message de carla)",
+  "history": [
+    {
+      "date": "2026-06-18T15:16:59.618917",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": null,
+  "contained_by_ensemble": {}
+}
