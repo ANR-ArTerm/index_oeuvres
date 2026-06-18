@@ -1,0 +1,43 @@
+{
+  "id": "NoviciatJesuitesParis",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q122186850",
+  "entry_type": "building",
+  "title": "Le Noviciat des Jésuites de Paris",
+  "creator": [
+    {
+      "xml_id": "EtienneMartellange",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1600,
+    "endYear": 1700,
+    "text": "XVIIème siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Paris",
+      "country": "France",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-18T17:52:09.244649",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {}
+}
