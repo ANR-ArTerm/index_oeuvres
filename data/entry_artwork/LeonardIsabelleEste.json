@@ -14,12 +14,12 @@
     "endYear": null,
     "text": ""
   },
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": null,
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": "",
-      "place": "",
+      "name": null,
+      "place": null,
       "inventory_number": "",
       "url": ""
     }
@@ -31,7 +31,15 @@
       "location": "n° 22"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Leonardo_da_Vinci%2C_Portrait_of_Isabella_d%27Este.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
+      "copyright": "Wikimedia Commons,  Public Domain, Louvre Exibition (https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci,_Portrait_of_Isabella_d%27Este.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -39,7 +47,13 @@
       "date": "2026-01-15T16:40:40.430180",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-18T16:27:19.386478",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }
