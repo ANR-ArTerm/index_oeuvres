@@ -46,9 +46,14 @@
       "date": "2026-06-17T18:07:25.966024",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-18T09:19:54.478310",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "materialsAndTechniques": "Vitrail",
   "contained_by_ensemble": {}
 }
