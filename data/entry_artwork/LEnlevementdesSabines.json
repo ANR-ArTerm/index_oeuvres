@@ -37,7 +37,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Giambologna_raptodasabina.jpg",
       "storage": "online",
-      "copyright": "CC BY-SA 3.0, Tetraktys, https://commons.wikimedia.org/wiki/File:Giambologna_raptodasabina.jpg",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Tetraktys, https://commons.wikimedia.org/wiki/File:Giambologna_raptodasabina.jpg",
       "caption": ""
     }
   ],
@@ -48,9 +48,14 @@
       "date": "2026-05-29T14:34:21.449968",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-18T09:35:27.784265",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "materialsAndTechniques": "Sculpture en marbre",
   "contained_by_ensemble": {}
 }
