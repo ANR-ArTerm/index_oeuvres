@@ -35,7 +35,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/GaudenzioFerrari_StorieCristo_Varallo.jpg",
       "storage": "online",
-      "copyright": "Public domain",
+      "copyright": "Wikimedia Commons, Public domain, Gaudenzio Ferrari (https://commons.wikimedia.org/wiki/File:GaudenzioFerrari_StorieCristo_Varallo2.jpg)",
       "caption": ""
     }
   ],
@@ -46,6 +46,11 @@
       "date": "2026-06-17T17:30:27.001975",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-18T09:14:23.036703",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "status_entry": 0,
