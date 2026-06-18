@@ -1,0 +1,35 @@
+{
+  "id": "SimonVouetPortraitAhmetI",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Portrait du sultan Ahmed Ier",
+  "creator": [
+    {
+      "xml_id": "SimonVouet",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "cette notice est à refaire ap mon passage en biblio",
+  "history": [
+    {
+      "date": "2026-06-18T15:50:08.458904",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": null,
+  "contained_by_ensemble": {}
+}
