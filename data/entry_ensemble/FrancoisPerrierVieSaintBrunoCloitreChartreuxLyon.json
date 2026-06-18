@@ -1,0 +1,41 @@
+{
+  "id": "FrancoisPerrierVieSaintBrunoCloitreChartreuxLyon",
+  "QID_wikidata": "",
+  "entry_type": "ensemble",
+  "title": "Cycle de fresques de la Vie de saint Bruno",
+  "creator": [
+    {
+      "xml_id": "FrancoisPerrier",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1629,
+    "endYear": 1630,
+    "text": "1629-1630"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": null,
+      "place": null,
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "il me faut aller en bibliothèque pour finir cette notice ",
+  "history": [
+    {
+      "date": "2026-06-18T18:27:04.916187",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "cycle de peintures",
+  "contains_works": []
+}
