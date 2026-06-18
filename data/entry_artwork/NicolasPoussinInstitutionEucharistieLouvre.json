@@ -1,0 +1,49 @@
+{
+  "id": "NicolasPoussinInstitutionEucharistieLouvre",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Jésus Christ instituant l'Eucharistie",
+  "creator": [
+    {
+      "xml_id": "NicolasPoussin",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1641,
+    "endYear": 1641,
+    "text": "1641"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Musée du Louvre",
+      "place": "Paris",
+      "inventory_number": "INV 7283 ; MR 2323",
+      "url": "https://collections.louvre.fr/ark:/53355/cl010062524"
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Poussin_-_J%C3%A9sus_Christ_instituant_l%27Eucharistie%2C_1641%2C_INV_7283_%3B_MR_2323.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, Maltaper, (https://commons.wikimedia.org/wiki/File:Poussin_-_J%C3%A9sus_Christ_instituant_l%27Eucharistie,_1641,_INV_7283_;_MR_2323.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-18T17:42:44.120371",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {}
+}
