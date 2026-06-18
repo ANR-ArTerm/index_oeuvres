@@ -23,7 +23,12 @@
       "url": "https://collections.louvre.fr/ark:/53355/cl010062184"
     }
   },
-  "related_works": [],
+  "related_works": [
+    {
+      "link_type": "œuvre associée",
+      "xml_id_work": "JeanCousinJugementDernierPieterDeJodeI"
+    }
+  ],
   "bibliography": [],
   "illustrations": [
     {
@@ -40,6 +45,11 @@
     {
       "date": "2026-06-17T18:40:00.863045",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-06-18T11:29:48.070604",
+      "type": "modified",
       "author": "Carla"
     }
   ],
