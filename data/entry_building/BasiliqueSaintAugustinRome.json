@@ -3,7 +3,16 @@
   "QID_wikidata": "https://www.wikidata.org/wiki/Q1424095",
   "entry_type": "building",
   "title": "Basilique Saint Augustin",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "BaccioPontelli",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "GiacomoDiPietrasanta",
+      "role": "architecte"
+    }
+  ],
   "dateCreated": {
     "startYear": 1420,
     "endYear": 1483,
@@ -54,8 +63,13 @@
       "date": "2026-06-17T19:29:07.338821",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-18T09:05:30.742275",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "contained_by_ensemble": {}
 }
