@@ -1,0 +1,49 @@
+{
+  "id": "NicolasPoussinMortDeLaViergeBelgique",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q106348454",
+  "entry_type": "artwork",
+  "title": "La Mort de la Vierge",
+  "creator": [
+    {
+      "xml_id": "NicolasPoussin",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1623,
+    "endYear": 1623,
+    "text": "1623"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Église Saint-Pancrace de Sterrebeek",
+      "place": "Zaventem",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/La_Mort_de_la_Vierge_-_Nicolas_Poussin_-_1623.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, Mel22, (https://commons.wikimedia.org/wiki/File:La_Mort_de_la_Vierge_-_Nicolas_Poussin_-_1623.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-18T17:27:39.571087",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {}
+}
