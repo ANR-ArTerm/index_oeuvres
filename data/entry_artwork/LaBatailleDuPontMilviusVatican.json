@@ -20,12 +20,6 @@
   },
   "location": {
     "type": "place",
-    "institution": {
-      "name": null,
-      "place": null,
-      "inventory_number": "",
-      "url": ""
-    },
     "place": {
       "city": "PalaisDuVatican",
       "country": "Italie",
@@ -38,7 +32,7 @@
   "related_works": [
     {
       "link_type": "fait partie de",
-      "xml_id_work": "ChambreConstantinVatican"
+      "xml_id_work": null
     }
   ],
   "bibliography": [
@@ -56,7 +50,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Battle_at_Pont_Milvius.jpg/3840px-Battle_at_Pont_Milvius.jpg",
       "storage": "online",
-      "copyright": "Public domain",
+      "copyright": "Wikimedia Commons, Public domain, Giulio Romano (https://commons.wikimedia.org/wiki/File:Battle_at_Pont_Milvius.jpg)",
       "caption": ""
     }
   ],
@@ -67,9 +61,14 @@
       "date": "2026-06-11T17:25:27.793308",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-18T09:03:07.597760",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "materialsAndTechniques": "fresque",
   "contained_by_ensemble": {
     "link_type": "appartient à l'ensemble",
