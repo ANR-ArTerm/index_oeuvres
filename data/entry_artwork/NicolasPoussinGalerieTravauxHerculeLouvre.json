@@ -1,0 +1,35 @@
+{
+  "id": "NicolasPoussinGalerieTravauxHerculeLouvre",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Les Travaux d’Hercule pour les Grandes Galeries du Louvre",
+  "creator": [
+    {
+      "xml_id": "NicolasPoussin",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1641,
+    "endYear": 1642,
+    "text": "1641-1642"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "il n'y a pas d'illustration et c normal. il faudrait créer des notices \"filles\" de celle-ci qui est la maman. sinon on met juste une image d'illustration et on l'indique \" oui ça a été détruit/inachévé\" mais on a des gravures qui donnent une idée de ce à quoi cela pouvait ressembler. ",
+  "history": [
+    {
+      "date": "2026-06-18T18:08:43.339300",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": null,
+  "contained_by_ensemble": {}
+}
