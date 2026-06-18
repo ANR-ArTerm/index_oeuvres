@@ -7,6 +7,10 @@
     {
       "xml_id": "FrancoisPerrier",
       "role": "peintre"
+    },
+    {
+      "xml_id": "HoraceLeBlanc",
+      "role": "peintre"
     }
   ],
   "dateCreated": {
@@ -27,11 +31,16 @@
   "bibliography": [],
   "illustrations": [],
   "description": "",
-  "commentary": "il me faut aller en bibliothèque pour finir cette notice ",
+  "commentary": "il me faut aller en bibliothèque pour finir cette notice. Je ne sais pas si les 10 fresques existent toujours.",
   "history": [
     {
       "date": "2026-06-18T18:27:04.916187",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-06-18T18:28:03.680475",
+      "type": "modified",
       "author": "Carla"
     }
   ],
