@@ -1,0 +1,30 @@
+{
+  "id": "ChapelleDesOrleans",
+  "QID_wikidata": "",
+  "entry_type": "building",
+  "title": "Chapelle des Orléans",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1365,
+    "endYear": 1370,
+    "text": "1365-1370"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-18T11:53:54.766023",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Chapelle",
+  "contained_by_ensemble": {}
+}
