@@ -1,0 +1,51 @@
+{
+  "id": "ChateauSaintGermainEnLaye",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1520841",
+  "entry_type": "building",
+  "title": "Château de Saint-Germain-en-Laye",
+  "creator": [
+    {
+      "xml_id": "PierreChambiges",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1124,
+    "endYear": 1900,
+    "text": "1124 - Début du XXe"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Saint-Germain-en-Laye",
+      "country": "France",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Ch%C3%A2teau_de_Saint-Germain-en-Laye.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, EXistenZ~commonswiki, (https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_de_Saint-Germain-en-Laye.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-18T17:38:45.088978",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Chateau",
+  "contained_by_ensemble": {}
+}
