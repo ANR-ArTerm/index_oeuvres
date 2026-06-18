@@ -38,7 +38,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Laoco%C3%B6n_and_his_sons_group.jpg",
       "storage": "online",
-      "copyright": "Wikimedia Commons, Wilfredor, https://commons.wikimedia.org/wiki/File:Laoco%C3%B6n_and_his_sons_group.jpg",
+      "copyright": "Wikimedia Commons, CC0 1.0, Wilfredor, https://commons.wikimedia.org/wiki/File:Laoco%C3%B6n_and_his_sons_group.jpg",
       "caption": ""
     }
   ],
@@ -64,9 +64,14 @@
       "date": "2026-05-28T17:03:26.879091",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-18T09:30:31.735031",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "Sculpture en marbre",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
