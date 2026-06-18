@@ -1,0 +1,46 @@
+{
+  "id": "EgliseSaintJosephDesCarmesParis",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1153474",
+  "entry_type": "building",
+  "title": "Église Saint-Joseph-des-Carmes",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1613,
+    "endYear": 1620,
+    "text": "1613-1620"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Paris",
+      "country": "France",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/StJosephCarmes.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, domaine public, Oderik (https://commons.wikimedia.org/wiki/File:StJosephCarmes.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-18T14:57:47.843421",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "église",
+  "contained_by_ensemble": {}
+}
