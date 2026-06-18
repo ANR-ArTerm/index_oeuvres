@@ -22,9 +22,14 @@
       "date": "2026-06-18T11:53:54.766023",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-18T15:57:42.518689",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "Chapelle",
   "contained_by_ensemble": {}
 }
