@@ -21,7 +21,12 @@
   "location": {
     "type": "multiple_locations"
   },
-  "related_works": [],
+  "related_works": [
+    {
+      "link_type": "copié d'après",
+      "xml_id_work": "JeanCousinLeJeuneJugementDernierLouvre"
+    }
+  ],
   "bibliography": [],
   "illustrations": [
     {
@@ -44,6 +49,11 @@
       "date": "2026-06-18T09:17:44.419761",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-06-18T11:28:47.260668",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
   "status_entry": 0,
