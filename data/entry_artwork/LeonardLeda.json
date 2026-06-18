@@ -45,9 +45,14 @@
       "date": "2026-06-05T15:40:23.891452",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-18T16:28:04.165221",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "huile sur bois",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
