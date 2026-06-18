@@ -31,7 +31,15 @@
       "location": "n° 7"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Ginevra_de%27_Benci_-_National_Gallery_of_Art.jpg",
+      "copyright": "Wikimedia Commons, Domaine Public (https://commons.wikimedia.org/wiki/File:Ginevra_de%27_Benci_-_National_Gallery_of_Art.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -49,8 +57,13 @@
       "date": "2026-05-21T11:37:38.753989",
       "type": "modified",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-18T15:52:18.838449",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "contained_by_ensemble": {}
 }
