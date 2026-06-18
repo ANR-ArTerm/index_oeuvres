@@ -1,0 +1,49 @@
+{
+  "id": "JacquesBlanchardDescenteSaintEspritMayNotreDameParis",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q29214132",
+  "entry_type": "artwork",
+  "title": "La Descente du Saint-Esprit ",
+  "creator": [
+    {
+      "xml_id": "JacquesBlanchard",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1634,
+    "endYear": 1634,
+    "text": "1634"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Cathédrale Notre-Dame de Paris",
+      "place": "Paris",
+      "inventory_number": " NDP 772a",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/La_Descente_du_Saint-Esprit%2C_par_Jacques_Blanchard.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, Pyb, (https://commons.wikimedia.org/wiki/File:La_Descente_du_Saint-Esprit,_par_Jacques_Blanchard.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "manque la technqiue, à trouver en biblio (message de carla)",
+  "history": [
+    {
+      "date": "2026-06-18T15:26:49.917265",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": null,
+  "contained_by_ensemble": {}
+}
