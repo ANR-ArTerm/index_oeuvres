@@ -18,8 +18,8 @@
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": "",
-      "place": "",
+      "name": null,
+      "place": null,
       "inventory_number": "",
       "url": ""
     }
@@ -32,14 +32,20 @@
     }
   ],
   "illustrations": [],
-  "description": "",
-  "commentary": "Fresque perdue présente à l'église Santa Maria delle Grazie à Milan.",
+  "description": "Fresque perdue présente à l'église Santa Maria delle Grazie à Milan.",
+  "commentary": "",
   "history": [
     {
       "date": "2026-01-15T16:40:40.449960",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-18T11:11:31.008115",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }
