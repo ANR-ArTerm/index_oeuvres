@@ -1,0 +1,63 @@
+{
+  "id": "PropheteIsaieRaphael",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3226022",
+  "entry_type": "artwork",
+  "title": "Prophète Isaïe",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1511,
+    "endYear": 1512,
+    "text": "1511-1512"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Église Sainte-Marie-de-la-Paix",
+      "place": "Rome",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "SainteMariePaixRome"
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "ginzburgcarignaniIsaiaDiRaffaello2020",
+      "location": ""
+    },
+    {
+      "zotero_key": "ginzburgcarignaniPuttoTraLantico2022a",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Raffaello%2C_profeta_isaia.jpg",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-19T17:46:23.991273",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {}
+}
