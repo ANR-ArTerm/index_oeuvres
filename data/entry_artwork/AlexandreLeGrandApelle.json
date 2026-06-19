@@ -31,14 +31,9 @@
       "xml_id_work": "TempleArtemisEphese"
     }
   ],
-  "bibliography": [
-    {
-      "zotero_key": "PlineLAncienHistoria",
-      "location": "Livre XXXV, chapitre 36, 92-93"
-    }
-  ],
+  "bibliography": [],
   "illustrations": [],
-  "description": "",
+  "description": "Oeuvre mentionnée par Pline dans L'Ancien Historia (Livre XXXV, chapitre 36, 92-93).\n",
   "commentary": "",
   "history": [
     {
@@ -50,6 +45,11 @@
       "date": "2026-06-15T16:06:04.566795",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-06-19T17:18:22.410563",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "status_entry": 1,
