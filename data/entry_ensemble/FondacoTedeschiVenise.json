@@ -19,7 +19,15 @@
     "text": "1508"
   },
   "location": {
-    "type": "multiple_locations"
+    "type": "place",
+    "place": {
+      "city": null,
+      "country": null,
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
   },
   "related_works": [],
   "bibliography": [
@@ -62,6 +70,11 @@
     },
     {
       "date": "2026-06-19T19:40:48.712928",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-19T19:44:51.465017",
       "type": "modified",
       "author": "Elisa"
     }
