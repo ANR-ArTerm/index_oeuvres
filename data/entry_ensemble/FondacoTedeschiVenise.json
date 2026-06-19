@@ -34,6 +34,10 @@
     {
       "zotero_key": "dalcoFondacoTedeschiVenezia2016",
       "location": ""
+    },
+    {
+      "zotero_key": "novaGiorgioneTizianoFondaco2017",
+      "location": ""
     }
   ],
   "illustrations": [
@@ -75,6 +79,11 @@
     },
     {
       "date": "2026-06-19T19:44:51.465017",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-19T19:45:21.627127",
       "type": "modified",
       "author": "Elisa"
     }
