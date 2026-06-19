@@ -22,7 +22,12 @@
     "type": "multiple_locations"
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "dalcoFondacoTedeschiVenezia2016",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -49,6 +54,11 @@
       "date": "2026-04-23T14:53:25.390766",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-19T19:39:05.909920",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "ensemble décoratif",
