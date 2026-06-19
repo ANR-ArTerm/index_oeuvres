@@ -10,18 +10,18 @@
     }
   ],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1511,
+    "endYear": 1511,
+    "text": "1511"
   },
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": "huile sur bois",
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": "",
-      "place": "",
-      "inventory_number": "",
-      "url": ""
+      "name": "NationalGalleryLondon",
+      "place": "London",
+      "inventory_number": "NG27",
+      "url": "https://www.nationalgallery.org.uk/paintings/raphael-pope-julius-ii"
     }
   },
   "related_works": [],
@@ -31,15 +31,29 @@
       "location": "n° 71"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Pope_Julius_II.jpg/960px-Pope_Julius_II.jpg",
+      "copyright": "Public domain",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
-  "commentary": "dussler p. 29",
+  "commentary": "",
   "history": [
     {
       "date": "2026-01-15T16:40:40.237111",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-19T19:17:32.998335",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 0
+  "status_entry": 0,
+  "contained_by_ensemble": {}
 }
