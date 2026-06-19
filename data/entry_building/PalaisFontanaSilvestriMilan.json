@@ -1,0 +1,56 @@
+{
+  "id": "PalaisFontanaSilvestriMilan",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3661106",
+  "entry_type": "building",
+  "title": "Palais Fontana Silvestri",
+  "creator": [
+    {
+      "xml_id": "Bramante",
+      "role": "architecte et peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": "XIIe-XVe siècles"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Milan",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "campanellaCasaFontanaSilvestri2002",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/8986_-_Milano_-_Corso_Venezia_-_Casa_Fontana-Silvestri_-_Foto_Giovanni_Dall%27Orto_1-Mar-2007.jpg",
+      "storage": "online",
+      "copyright": "G.dallorto, https://commons.wikimedia.org/wiki/File:8986_-_Milano_-_Corso_Venezia_-_Casa_Fontana-Silvestri_-_Foto_Giovanni_Dall%27Orto_1-Mar-2007.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-19T21:37:37.695698",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Palais",
+  "contained_by_ensemble": {}
+}
