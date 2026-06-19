@@ -11,17 +11,25 @@
     {
       "xml_id": "Bramante",
       "role": "architecte"
+    },
+    {
+      "xml_id": "BaldassarrePeruzzi",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "PirroLigorio",
+      "role": "architecte"
     }
   ],
   "dateCreated": {
-    "startYear": 1482,
-    "endYear": 1482,
-    "text": "1482"
+    "startYear": 1484,
+    "endYear": 1565,
+    "text": "1484-1565"
   },
   "location": {
     "type": "place",
     "place": {
-      "city": "Rome",
+      "city": "Vatican",
       "country": "Italie",
       "coordinates": {
         "latitude": "",
@@ -30,7 +38,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "nicoloBelvedereDiInnocenzo2009",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -41,7 +54,7 @@
     }
   ],
   "description": "",
-  "commentary": "peu de sources sur wikipédia (date à vérifier = 1 an de construction) ?",
+  "commentary": "",
   "history": [
     {
       "date": "2026-01-29T12:16:28.543885",
@@ -52,9 +65,14 @@
       "date": "2026-05-28T16:56:31.473930",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-06-19T19:30:19.191802",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "Palais",
-  "status_entry": 1,
+  "status_entry": 0,
   "contained_by_ensemble": {}
 }
