@@ -1,0 +1,46 @@
+{
+  "id": "PortAncienGenes",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2105217",
+  "entry_type": "building",
+  "title": "Port Ancien de G",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Genes",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Genova-1810ca-acquatinta-Garneray.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, public domain, Ambroise Louis Garneray (https://commons.wikimedia.org/wiki/File:Genova-1810ca-acquatinta-Garneray.jpg)",
+      "caption": "Ambroise Louis Garneray, Veduta di Genova, 1810"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-19T15:29:36.724899",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": null,
+  "contained_by_ensemble": {}
+}
