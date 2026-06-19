@@ -1,0 +1,60 @@
+{
+  "id": "AbbayeDeChiaravalle",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q860569",
+  "entry_type": "building",
+  "title": "Abbaye de Chiaravalle",
+  "creator": [
+    {
+      "xml_id": "Bramante",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "FrancescoPecorari",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1135,
+    "endYear": 1616,
+    "text": "1135-1616"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Chiaravalle",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "tomeaChiaravalleArteStoria1992",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/AbbaziaChiaravalle.jpg",
+      "storage": "online",
+      "copyright": "CC BY-SA 3.0, Ian Spackman, https://commons.wikimedia.org/wiki/File:AbbaziaChiaravalle.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-19T21:27:15.958765",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": null,
+  "contained_by_ensemble": {}
+}
