@@ -1,0 +1,46 @@
+{
+  "id": "TombeAlyatteIISardes",
+  "QID_wikidata": "",
+  "entry_type": "building",
+  "title": "Tombe d'Alyatte II",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -560,
+    "endYear": -560,
+    "text": "VIe siècle qv. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Sardes",
+      "country": "Turquie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Bin_Tepe%2C_large_tumulus.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC0 1.0, Jona Lendering (https://commons.wikimedia.org/wiki/File:Bin_Tepe,_large_tumulus.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-19T11:34:45.069569",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Tombeau",
+  "contained_by_ensemble": {}
+}
