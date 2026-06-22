@@ -34,10 +34,10 @@
     },
     {
       "id": 1,
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Arcimboldo_-_Les_saisons_-_L%27été.jpg/1280px-Arcimboldo_-_Les_saisons_-_L%27été.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Arcimboldo_Summer_1563.jpg/960px-Arcimboldo_Summer_1563.jpg",
       "storage": "online",
       "copyright": "Public domain",
-      "caption": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Arcimboldo_-_Les_saisons_-_L%27automne.jpg/1280px-Arcimboldo_-_Les_saisons_-_L%27automne.jpg"
+      "caption": ""
     },
     {
       "id": 2,
@@ -48,7 +48,7 @@
     },
     {
       "id": 3,
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Arcimboldo_-_Les_saisons_-_L%27hiver.jpg/1280px-Arcimboldo_-_Les_saisons_-_L%27hiver.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Arcimboldo_Winter_1563.jpg/960px-Arcimboldo_Winter_1563.jpg",
       "storage": "online",
       "copyright": "Public domain",
       "caption": "Hiver"
@@ -60,6 +60,11 @@
     {
       "date": "2026-06-22T18:14:24.788506",
       "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-22T18:22:34.639003",
+      "type": "modified",
       "author": "Elisa"
     }
   ],
