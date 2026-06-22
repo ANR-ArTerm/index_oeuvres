@@ -1,0 +1,35 @@
+{
+  "id": "SebastienBourdonSeptOeuvresMisericorde",
+  "QID_wikidata": "",
+  "entry_type": "ensemble",
+  "title": "Les oeuvres de miséricorde",
+  "creator": [
+    {
+      "xml_id": "SebastienBourdon",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1670,
+    "endYear": 1670,
+    "text": "1670"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-22T21:24:37.142531",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "suite d'estampes",
+  "contains_works": []
+}
