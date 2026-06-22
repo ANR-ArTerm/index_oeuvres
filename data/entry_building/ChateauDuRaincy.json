@@ -27,9 +27,14 @@
       "date": "2026-06-22T16:46:36.013792",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-22T16:54:07.079946",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "Chateau",
   "contained_by_ensemble": {}
 }
