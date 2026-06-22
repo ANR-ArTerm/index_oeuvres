@@ -70,9 +70,14 @@
       "date": "2026-06-19T19:30:19.191802",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-22T10:42:14.059978",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "Palais",
-  "status_entry": 0,
+  "status_entry": 1,
   "contained_by_ensemble": {}
 }
