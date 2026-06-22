@@ -12,7 +12,7 @@
   "dateCreated": {
     "startYear": null,
     "endYear": null,
-    "text": ""
+    "text": "1503-1519"
   },
   "materialsAndTechniques": "huile sur bois",
   "location": {
@@ -31,7 +31,15 @@
       "location": "n° 30"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Léonard_de_Vinci%2C_sainte_Anne%2C_Louvre.jpg",
+      "copyright": "Wikimédia Commons, Léonard de Vinci, Domain Public (https://commons.wikimedia.org/wiki/File:Léonard_de_Vinci,_sainte_Anne,_Louvre.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -44,8 +52,13 @@
       "date": "2026-05-21T11:49:46.327587",
       "type": "modified",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-22T11:44:15.964160",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "contained_by_ensemble": {}
 }
