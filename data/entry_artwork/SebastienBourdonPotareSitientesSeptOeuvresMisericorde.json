@@ -1,5 +1,5 @@
 {
-  "id": "SebastienBourdonPotareSitientesDonnerSeptOeuvresMisericorde",
+  "id": "SebastienBourdonPotareSitientesSeptOeuvresMisericorde",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q65577280",
   "entry_type": "artwork",
   "title": "Potare sitientes ou Donner à boire à ceux qui ont soif",
@@ -31,6 +31,11 @@
     {
       "date": "2026-06-22T21:38:11.810503",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-06-22T21:39:38.899253",
+      "type": "modified",
       "author": "Carla"
     }
   ],
