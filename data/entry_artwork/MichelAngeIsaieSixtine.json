@@ -46,6 +46,11 @@
       "date": "2026-02-04T14:49:15.995930",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-22T17:22:45.916787",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "fresque",
@@ -53,5 +58,5 @@
     "link_type": "appartient à l'ensemble",
     "xml_id_work": "MichelAngePlafondSixtine"
   },
-  "status_entry": 0
+  "status_entry": 1
 }
