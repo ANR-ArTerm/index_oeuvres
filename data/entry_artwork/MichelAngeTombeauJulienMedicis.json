@@ -26,7 +26,7 @@
   "related_works": [
     {
       "link_type": "appartient au même ensemble",
-      "xml_id_work": "BasiliqueSanLorenzoFirenze"
+      "xml_id_work": null
     }
   ],
   "bibliography": [
@@ -44,7 +44,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/The_Sagrestia_Nuova_at_the_Medici_Chapel_-_48170012017.jpg",
       "storage": "online",
-      "copyright": "CC BY 2.0, Ham, https://commons.wikimedia.org/wiki/File:The_Sagrestia_Nuova_at_the_Medici_Chapel_-_48170012017.jpg",
+      "copyright": "Wikimedia Commons, CC BY 2.0, Ham, https://commons.wikimedia.org/wiki/File:The_Sagrestia_Nuova_at_the_Medici_Chapel_-_48170012017.jpg",
       "caption": ""
     }
   ],
@@ -60,6 +60,11 @@
       "date": "2026-05-29T14:42:03.544784",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-22T17:29:03.040164",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "Sculpture en marbre",
@@ -67,5 +72,5 @@
     "link_type": "appartient à l'ensemble",
     "xml_id_work": "SagrestiaNuovaFlorence"
   },
-  "status_entry": 0
+  "status_entry": 1
 }
