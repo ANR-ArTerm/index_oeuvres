@@ -35,7 +35,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Emperor_Charles_Conquers_Furor_%28Leone_Leoni%29.jpg",
       "storage": "online",
-      "copyright": "Public domain",
+      "copyright": "Wikimedia Commons, Public domain",
       "caption": ""
     }
   ],
@@ -56,9 +56,14 @@
       "date": "2026-06-22T15:31:55.469737",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-22T16:43:48.069114",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "materialsAndTechniques": "sculpture en bronze",
   "contained_by_ensemble": {}
 }
