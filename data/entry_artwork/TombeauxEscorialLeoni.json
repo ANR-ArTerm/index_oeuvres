@@ -1,0 +1,54 @@
+{
+  "id": "TombeauxEscorialLeoni",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Tombeaux Charles V et Philippe II",
+  "creator": [
+    {
+      "xml_id": "PompeoLeoni",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1590,
+    "endYear": 1600,
+    "text": "1590-1600 ca."
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "MonastereSanLorenzoEscurial",
+      "place": "Escorial",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "schroderLeonePompeoLeoni2012",
+      "location": "pp. 132-159"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Monastery_of_El_Escorial_12.jpg/1920px-Monastery_of_El_Escorial_12.jpg?_=20100328005755",
+      "storage": "online",
+      "copyright": "CC Attribution-Share Alike 3.0, Bgag, https://commons.wikimedia.org/wiki/File:Monastery_of_El_Escorial_12.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-22T16:26:57.772549",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "sculpture en bronze",
+  "contained_by_ensemble": {}
+}
