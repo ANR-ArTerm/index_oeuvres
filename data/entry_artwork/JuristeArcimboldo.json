@@ -1,0 +1,54 @@
+{
+  "id": "JuristeArcimboldo",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1194663",
+  "entry_type": "artwork",
+  "title": "Juriste",
+  "creator": [
+    {
+      "xml_id": "GiuseppeArcimboldo",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1566,
+    "endYear": 1566,
+    "text": "1566"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "NationalMuseum",
+      "place": "Stockholm",
+      "inventory_number": "NMGrh 1227",
+      "url": "https://collection.nationalmuseum.se/en/collection/item/15897/"
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "ferino-pagdenArcimboldo152615932008",
+      "location": "pp. 170-173"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/The_Lawyer%2C_possibly_Ulrich_Zasius%2C_1461-1536%2C_humanist%2C_jurist_%28Giuseppe_Arcimboldo%29_-_Nationalmuseum_-_15897.jpg/1280px-The_Lawyer%2C_possibly_Ulrich_Zasius%2C_1461-1536%2C_humanist%2C_jurist_%28Giuseppe_Arcimboldo%29_-_Nationalmuseum_-_15897.jpg",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-22T18:45:24.095194",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {}
+}
