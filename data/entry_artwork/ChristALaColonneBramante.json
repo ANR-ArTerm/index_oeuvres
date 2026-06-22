@@ -1,0 +1,54 @@
+{
+  "id": "ChristALaColonneBramante",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3697588",
+  "entry_type": "artwork",
+  "title": "Christ à la colonne",
+  "creator": [
+    {
+      "xml_id": "Bramante",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1490,
+    "endYear": 1490,
+    "text": "1490 ca."
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "PinacothèqueDeBrera",
+      "place": "Milan",
+      "inventory_number": "Deposito Abbazia di Chiaravalle",
+      "url": "https://pinacotecabrera.org/collezioni/collezione-on-line/cristo-alla-colonna/"
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "lauberMilanoPinacotecaDi2012",
+      "location": "pp. 114-115"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bramante-cristo-alla-colonna.jpg/960px-Bramante-cristo-alla-colonna.jpg",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-22T15:46:55.246249",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "huile sur bois",
+  "contained_by_ensemble": {}
+}
