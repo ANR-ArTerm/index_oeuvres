@@ -35,7 +35,7 @@
     {
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Trionfi_di_cesare_01.jpg",
-      "copyright": "Public Domain",
+      "copyright": "Wikimedia Commons, Public Domain",
       "caption": "Les Trompettes et les porteurs d'enseigne",
       "storage": "online"
     },
@@ -113,8 +113,13 @@
       "date": "2026-06-11T17:34:01.735022",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-22T15:54:17.538656",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
