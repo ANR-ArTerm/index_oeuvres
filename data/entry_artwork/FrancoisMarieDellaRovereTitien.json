@@ -24,7 +24,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "wetheyPaintingsTitianComplete1971",
+      "location": "135-136"
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -46,6 +51,11 @@
       "date": "2026-06-22T11:11:54.413209",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-06-22T14:50:02.540394",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "status_entry": 1,
