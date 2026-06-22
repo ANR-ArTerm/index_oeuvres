@@ -35,9 +35,14 @@
       "date": "2026-06-18T17:52:09.244649",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-22T10:48:06.957206",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "monument imaginaire ou disparu",
   "contained_by_ensemble": {}
 }
