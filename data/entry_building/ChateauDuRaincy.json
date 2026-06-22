@@ -1,0 +1,35 @@
+{
+  "id": "ChateauDuRaincy",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2971810",
+  "entry_type": "building",
+  "title": "Château du Raincy",
+  "creator": [
+    {
+      "xml_id": "LouisLeVau",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1640,
+    "endYear": 1640,
+    "text": "1640"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "Le Château du Raincy a aujourd'hui disparu. Il fut gravement endommagé par un incendie en 1773, puis démoli sous l'Empire.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-22T16:46:36.013792",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Chateau",
+  "contained_by_ensemble": {}
+}
