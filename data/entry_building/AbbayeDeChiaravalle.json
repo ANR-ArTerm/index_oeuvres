@@ -52,9 +52,14 @@
       "date": "2026-06-19T21:27:15.958765",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-22T10:41:13.179717",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
-  "typology": null,
+  "status_entry": 1,
+  "typology": "abbaye",
   "contained_by_ensemble": {}
 }
