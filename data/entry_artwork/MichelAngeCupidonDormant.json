@@ -19,15 +19,7 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [
-    {
-      "id": 0,
-      "url": "",
-      "storage": "",
-      "copyright": "",
-      "caption": ""
-    }
-  ],
+  "illustrations": [],
   "description": "L'œuvre a disparu aujourd'hui. ",
   "commentary": "",
   "history": [
@@ -35,9 +27,14 @@
       "date": "2026-02-04T11:50:05.263214",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-22T17:21:04.977426",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "Sculpture en marbre",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
