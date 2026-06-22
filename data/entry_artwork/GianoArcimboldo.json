@@ -25,12 +25,17 @@
     }
   ],
   "illustrations": [],
-  "description": "Perdu",
+  "description": "Perdu. Documenté par Lomazzo.",
   "commentary": "",
   "history": [
     {
       "date": "2026-06-22T18:29:52.598234",
       "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-22T18:46:05.465411",
+      "type": "modified",
       "author": "Elisa"
     }
   ],
