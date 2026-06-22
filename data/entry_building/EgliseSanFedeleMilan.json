@@ -1,0 +1,56 @@
+{
+  "id": "EgliseSanFedeleMilan",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q902210",
+  "entry_type": "building",
+  "title": "Église San Fedele",
+  "creator": [
+    {
+      "xml_id": "PellegrinoTibaldi",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1569,
+    "endYear": 1579,
+    "text": "1569-1579"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Milan",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "dellatorrePellegrinoTibaldiArchitetto1994",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/San_Fedele%2C_Milano_2373.jpg/1280px-San_Fedele%2C_Milano_2373.jpg",
+      "storage": "online",
+      "copyright": "CC BY-SA 4.0, C messier, https://commons.wikimedia.org/wiki/File:San_Fedele,_Milano_2373.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-22T17:45:38.378322",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "église",
+  "contained_by_ensemble": {}
+}
