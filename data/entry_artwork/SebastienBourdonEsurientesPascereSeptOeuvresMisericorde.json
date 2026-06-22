@@ -1,0 +1,46 @@
+{
+  "id": "SebastienBourdonEsurientesPascereSeptOeuvresMisericorde",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q65577278",
+  "entry_type": "artwork",
+  "title": "Esurientes pascere ou Nourrir ceux qui ont faim",
+  "creator": [
+    {
+      "xml_id": "SebastienBourdon",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1670,
+    "endYear": 1670,
+    "text": "Vers 1670"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/S%C3%A9bastien_Bourdon%2C_Esurientes_pascere%2C_probably_1658%2C_NGA_56901.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, Brwz, (https://commons.wikimedia.org/wiki/File:S%C3%A9bastien_Bourdon,_Esurientes_pascere,_probably_1658,_NGA_56901.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-22T21:31:43.593983",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "eau-forte et burin",
+  "contained_by_ensemble": {
+    "link_type": "appartient à l'ensemble",
+    "xml_id_work": "SebastienBourdonSeptOeuvresMisericorde"
+  }
+}
