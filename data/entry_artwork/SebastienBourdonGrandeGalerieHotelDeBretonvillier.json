@@ -1,0 +1,39 @@
+{
+  "id": "SebastienBourdonGrandeGalerieHotelDeBretonvillier",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Décor peint de la Galerie de l'hôtel de Bretonvilliers",
+  "creator": [
+    {
+      "xml_id": "SebastienBourdon",
+      "role": "auteur du modèle"
+    },
+    {
+      "xml_id": "GeorgesCharmeton",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1663,
+    "endYear": 1663,
+    "text": "1663"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "L'hôtel fut détruit en 1840. En 1874 l'édification du pont de Sully acheva sa destruction, aujourd'hui ne subsistent qu'un pavillon. ",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-22T17:38:42.720001",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": null,
+  "contained_by_ensemble": {}
+}
