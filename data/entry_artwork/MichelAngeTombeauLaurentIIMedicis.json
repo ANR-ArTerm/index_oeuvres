@@ -26,7 +26,7 @@
   "related_works": [
     {
       "link_type": "appartient au même ensemble",
-      "xml_id_work": "BasiliqueSanLorenzoFirenze"
+      "xml_id_work": null
     }
   ],
   "bibliography": [
@@ -65,6 +65,11 @@
       "date": "2026-05-29T14:59:29.867659",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-22T17:30:08.473961",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "Sculpture en marbre",
@@ -72,5 +77,5 @@
     "link_type": "appartient à l'ensemble",
     "xml_id_work": "SagrestiaNuovaFlorence"
   },
-  "status_entry": 0
+  "status_entry": 1
 }
