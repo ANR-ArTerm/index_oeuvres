@@ -36,9 +36,14 @@
       "date": "2026-06-22T21:08:34.235851",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-22T21:11:59.410557",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 3,
   "materialsAndTechniques": null,
   "contained_by_ensemble": {}
 }
