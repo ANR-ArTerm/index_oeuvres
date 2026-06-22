@@ -1,0 +1,43 @@
+{
+  "id": "CouventDesFeuillantsParis",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q72700",
+  "entry_type": "building",
+  "title": "Couvent des Feuillants",
+  "creator": [
+    {
+      "xml_id": "DenisAntoine",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1587,
+    "endYear": 1776,
+    "text": "1587-1776 La construction s'étend sur cette longue période mais se concentre pour "
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/229-235_rue_Saint-Honor%C3%A9.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Jospe, (https://commons.wikimedia.org/wiki/File:229-235_rue_Saint-Honor%C3%A9.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "Le couvent fut partiellement détruit durant le consulat, ne subsistent aujourd'hui que les immeubles de rapport qui appartenaient au couvent construits par Denis Antoine (n° 229-235 de la rue Saint-Honoré). ",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-22T17:00:18.151294",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "couvent",
+  "contained_by_ensemble": {}
+}
