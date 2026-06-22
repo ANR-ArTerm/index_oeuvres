@@ -51,9 +51,14 @@
       "date": "2026-06-22T15:31:49.992855",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-22T15:31:55.469737",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "materialsAndTechniques": "sculpture en bronze",
   "contained_by_ensemble": {}
 }
