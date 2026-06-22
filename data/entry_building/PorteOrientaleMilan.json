@@ -21,7 +21,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "mezzanotteMilanoNellarteNella1948",
+      "location": "pp. 936-940"
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -43,6 +48,11 @@
       "date": "2026-06-22T11:10:24.362535",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-06-22T15:59:01.827962",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "status_entry": 1,
