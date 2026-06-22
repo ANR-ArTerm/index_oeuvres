@@ -1,0 +1,54 @@
+{
+  "id": "SallePalaisPoggiTibaldi",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Histoires d'Ulysse",
+  "creator": [
+    {
+      "xml_id": "PellegrinoTibaldi",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1549,
+    "endYear": 1551,
+    "text": "1549-1551"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "PalaisPoggi",
+      "place": "Bologne",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "fortunatipietrantonioImmaginarioDiEcclesiastico2000",
+      "location": "pp. 113-130"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Story_of_Ulysses_by_Pellegrino_Tibaldi_in_Palazzo_Poggi_%28Bologna%29_11.JPG/960px-Story_of_Ulysses_by_Pellegrino_Tibaldi_in_Palazzo_Poggi_%28Bologna%29_11.JPG",
+      "storage": "online",
+      "copyright": "CC Attribution-Share Alike 4.0, Carlodell, https://commons.wikimedia.org/wiki/File:Story_of_Ulysses_by_Pellegrino_Tibaldi_in_Palazzo_Poggi_(Bologna)_11.JPG",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-22T17:36:35.174420",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 2,
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {}
+}
