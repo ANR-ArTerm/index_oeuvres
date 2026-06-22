@@ -1,0 +1,63 @@
+{
+  "id": "MaitreautelDeLEscorialLeoni",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Retable de l'Escorial",
+  "creator": [
+    {
+      "xml_id": "PompeoLeoni",
+      "role": "sculpteur"
+    },
+    {
+      "xml_id": "LeoneLeoni",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1579,
+    "endYear": 1591,
+    "text": "1579-1591"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "MonastereSanLorenzoEscurial",
+      "place": "Escorial",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "MonastereSanLorenzoEscurial"
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "schroderLeonePompeoLeoni2012",
+      "location": "pp. 108-131"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Retablo_mayor_de_San_Lorenzo_de_El_Escorial_%28cropped%29.jpg/960px-Retablo_mayor_de_San_Lorenzo_de_El_Escorial_%28cropped%29.jpg?_=20231206202327",
+      "storage": "online",
+      "copyright": "Cc  Attribution 3.0, Karmakolle, https://commons.wikimedia.org/wiki/File:Retablo_mayor_de_San_Lorenzo_de_El_Escorial_(cropped).jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-22T15:43:07.508941",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "sculpture en bronze",
+  "contained_by_ensemble": {}
+}
