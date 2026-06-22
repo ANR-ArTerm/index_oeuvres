@@ -1,0 +1,40 @@
+{
+  "id": "GianoArcimboldo",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Giano",
+  "creator": [
+    {
+      "xml_id": "GiuseppeArcimboldo",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1570,
+    "endYear": 1573,
+    "text": "1570-1573"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": null,
+      "location": ""
+    }
+  ],
+  "illustrations": [],
+  "description": "Perdu",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-22T18:29:52.598234",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 1,
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {}
+}
