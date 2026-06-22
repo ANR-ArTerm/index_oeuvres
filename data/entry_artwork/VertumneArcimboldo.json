@@ -1,0 +1,54 @@
+{
+  "id": "VertumneArcimboldo",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q16333797",
+  "entry_type": "artwork",
+  "title": "Vertumne",
+  "creator": [
+    {
+      "xml_id": "GiuseppeArcimboldo",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1590,
+    "endYear": 1590,
+    "text": "1590 en."
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "ChâteauDeSkokloste",
+      "place": "Bålsta",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "ferino-pagdenArcimboldo152615932008",
+      "location": "pp. 186-187"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Porträtt%2C_Rudolf_II_som_Vertumnus._Guiseppe_Arcimboldo_-_Skoklosters_slott_-_87582.tif/lossy-page1-1280px-Porträtt%2C_Rudolf_II_som_Vertumnus._Guiseppe_Arcimboldo_-_Skoklosters_slott_-_87582.tif.jpg",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-22T19:18:19.418364",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {}
+}
