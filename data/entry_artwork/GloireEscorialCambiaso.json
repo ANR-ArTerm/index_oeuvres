@@ -55,9 +55,14 @@
       "date": "2026-06-22T16:49:22.548859",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-22T16:56:56.262904",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "materialsAndTechniques": "fresque",
   "contained_by_ensemble": {}
 }
