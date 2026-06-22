@@ -1,0 +1,46 @@
+{
+  "id": "CaveAVinArcimboldo",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Cave à vin",
+  "creator": [
+    {
+      "xml_id": "GiuseppeArcimboldo",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1574,
+    "endYear": 1574,
+    "text": "1574"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "PrivateCollection",
+      "place": "London",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "ferino-pagdenArcimboldo152615932008",
+      "location": "pp. 179, 182"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-22T18:49:32.084706",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 2,
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {}
+}
