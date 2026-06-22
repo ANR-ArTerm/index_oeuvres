@@ -1,0 +1,69 @@
+{
+  "id": "QuatreElementsArcimboldo",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1750032",
+  "entry_type": "artwork",
+  "title": "Quatre Éléments",
+  "creator": [
+    {
+      "xml_id": "GiuseppeArcimboldo",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1566,
+    "endYear": 1566,
+    "text": "1566"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "ferino-pagdenArcimboldo152615932008",
+      "location": "pp. 147-156"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Arcimboldo_Air_%28copy%29.jpg",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": ""
+    },
+    {
+      "id": 1,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Giuseppe_Arcimboldo_Fire_Kunsthistorisches_Museum.jpg/1280px-Giuseppe_Arcimboldo_Fire_Kunsthistorisches_Museum.jpg",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": ""
+    },
+    {
+      "id": 2,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Arcimboldo_Earth.jpg/960px-Arcimboldo_Earth.jpg",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": ""
+    },
+    {
+      "id": 3,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Arcimboldowater.jpg/960px-Arcimboldowater.jpg",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-22T18:07:34.652086",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {}
+}
