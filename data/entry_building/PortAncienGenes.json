@@ -2,7 +2,7 @@
   "id": "PortAncienGenes",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q2105217",
   "entry_type": "building",
-  "title": "Port Ancien de G",
+  "title": "Port Ancien de Gènes",
   "creator": [],
   "dateCreated": {
     "startYear": null,
@@ -38,9 +38,14 @@
       "date": "2026-06-19T15:29:36.724899",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-22T11:09:27.170435",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
-  "typology": null,
+  "status_entry": 1,
+  "typology": "Port",
   "contained_by_ensemble": {}
 }
