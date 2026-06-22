@@ -35,7 +35,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Portrait_of_Francesco_Maria_della_Rovere%2C_Duke_of_Urbino_%28by_Titian%29_–_Galleria_degli_Uffizi%2C_Florence.jpg/1280px-Portrait_of_Francesco_Maria_della_Rovere%2C_Duke_of_Urbino_%28by_Titian%29_–_Galleria_degli_Uffizi%2C_Florence.jpg",
       "storage": "online",
-      "copyright": "Public domain",
+      "copyright": "Wikimedia Commons, Public domain",
       "caption": ""
     }
   ],
@@ -61,9 +61,14 @@
       "date": "2026-06-22T14:50:35.464718",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-22T16:48:29.340446",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "materialsAndTechniques": "huile sur toile",
   "contained_by_ensemble": {}
 }
