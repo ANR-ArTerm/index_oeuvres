@@ -1,0 +1,35 @@
+{
+  "id": "FrancoisPerrierGalerieDoreeHotelLaVrilliereParis",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q55597037",
+  "entry_type": "artwork",
+  "title": "Plafond de la galerie dorée de la hôtel de La Vrillière",
+  "creator": [
+    {
+      "xml_id": "FrancoisPerrier",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1646,
+    "endYear": 1649,
+    "text": "1646-1649"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "Le plafond de François Perrier fut détruit entre 1865-1869. Il était dans l'hôtel de la Vrillière, actuel hôtel de Toulouse abritant la Banque de France.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-22T15:50:58.163807",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": null,
+  "contained_by_ensemble": {}
+}
