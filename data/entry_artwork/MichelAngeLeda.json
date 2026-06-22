@@ -65,9 +65,14 @@
       "date": "2026-02-04T16:22:44.103174",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-22T17:27:49.409416",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "détrempe sur bois",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
