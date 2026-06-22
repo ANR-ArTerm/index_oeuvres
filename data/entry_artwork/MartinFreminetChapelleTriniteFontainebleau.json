@@ -41,9 +41,14 @@
       "date": "2026-06-18T14:16:32.486435",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-22T17:09:21.435332",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "materialsAndTechniques": "Huile sur plâtre",
   "contained_by_ensemble": {}
 }
