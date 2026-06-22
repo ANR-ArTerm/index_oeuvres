@@ -18,7 +18,7 @@
     "type": "holding_institution",
     "institution": {
       "name": null,
-      "place": "",
+      "place": null,
       "inventory_number": "",
       "url": ""
     }
@@ -27,12 +27,17 @@
   "bibliography": [],
   "illustrations": [],
   "description": "",
-  "commentary": "",
+  "commentary": "Pas d'image ni de data mais fresques existent encore ! Faut-il prendre les images sur un autre site ?",
   "history": [
     {
       "date": "2026-02-05T14:43:51.867586",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-22T12:20:12.911176",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "fresque",
