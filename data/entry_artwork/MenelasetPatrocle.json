@@ -35,7 +35,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aiace_e_achille_%28o_patroclo_e_menelao%2C_o_pasquino%29%2C_copia_romana_da_orig._del_III_sec_ac.%2C_con_restauri_di_g._caccini_e_stefano_ricci.jpg/960px-Aiace_e_achille_%28o_patroclo_e_menelao%2C_o_pasquino%29%2C_copia_romana_da_orig._del_III_sec_ac.%2C_con_restauri_di_g._caccini_e_stefano_ricci.jpg",
       "storage": "online",
-      "copyright": "CC BY 3.0, Sailko, https://commons.wikimedia.org/wiki/File:Aiace_e_achille_(o_patroclo_e_menelao,_o_pasquino),_copia_romana_da_orig._del_III_sec_ac.,_con_restauri_di_g._caccini_e_stefano_ricci.jpg",
+      "copyright": "Wikimedia Commons, CC BY 3.0, Sailko, https://commons.wikimedia.org/wiki/File:Aiace_e_achille_(o_patroclo_e_menelao,_o_pasquino),_copia_romana_da_orig._del_III_sec_ac.,_con_restauri_di_g._caccini_e_stefano_ricci.jpg",
       "caption": ""
     }
   ],
@@ -51,9 +51,14 @@
       "date": "2026-05-29T16:52:28.291878",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-22T17:13:57.709674",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "materialsAndTechniques": null,
   "contained_by_ensemble": {}
 }
