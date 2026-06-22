@@ -24,7 +24,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "listonPerformanceEmpireLeone2012",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -40,6 +45,11 @@
     {
       "date": "2026-06-22T13:17:39.148921",
       "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-22T15:31:49.992855",
+      "type": "modified",
       "author": "Elisa"
     }
   ],
