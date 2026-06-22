@@ -31,7 +31,15 @@
       "location": "n° 6"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Madonna_of_the_Carnation_Leonardo_da_Vinci.jpg",
+      "copyright": "Wikimedia Commons, Leonard de Vinci, Domaine Public (https://commons.wikimedia.org/wiki/File:Madonna_of_the_Carnation_Leonardo_da_Vinci.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -44,8 +52,13 @@
       "date": "2026-05-21T11:48:52.116826",
       "type": "modified",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-22T11:19:57.410663",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "contained_by_ensemble": {}
 }
