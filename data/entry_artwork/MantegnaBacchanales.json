@@ -25,7 +25,15 @@
       "location": "n° 208-209"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Mantegna%2C_baccanale_con_un_tino.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
+      "copyright": "Wikimedia Commons, Public Domain (https://commons.wikimedia.org/wiki/File:Mantegna,_baccanale_con_un_tino.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -33,7 +41,13 @@
       "date": "2026-03-06T14:48:18.466330",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-22T14:51:51.831139",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }
