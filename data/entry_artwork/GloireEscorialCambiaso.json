@@ -1,0 +1,63 @@
+{
+  "id": "GloireEscorialCambiaso",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Gloire",
+  "creator": [
+    {
+      "xml_id": "LucaCambiaso",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1583,
+    "endYear": 1585,
+    "text": "1583-1585"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "MonastereSanLorenzoEscurial",
+      "place": "Escorial",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "MonastereSanLorenzoEscurial"
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "boccardoLucaCambiasoMaestro2007",
+      "location": "pp. 57, 59"
+    },
+    {
+      "zotero_key": "magnaniLucaCambiasoGenova1995",
+      "location": "pp. 259-270"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Frescos_de_la_bóveda_de_la_Real_Basílica_de_San_Lorenzo_de_El_Escorial.jpg/960px-Frescos_de_la_bóveda_de_la_Real_Basílica_de_San_Lorenzo_de_El_Escorial.jpg",
+      "storage": "online",
+      "copyright": "CC Attribution-Share Alike 4.0, Jl FilpoC, https://commons.wikimedia.org/wiki/File:Frescos_de_la_bóveda_de_la_Real_Basílica_de_San_Lorenzo_de_El_Escorial.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-22T16:49:22.548859",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {}
+}
