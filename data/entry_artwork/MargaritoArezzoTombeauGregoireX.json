@@ -9,11 +9,11 @@
     "endYear": null,
     "text": ""
   },
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": null,
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": "",
+      "name": null,
       "place": "Arezzo",
       "inventory_number": "",
       "url": ""
@@ -21,7 +21,15 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Duomo_di_arezzo%2C_interno%2C_sepolcro_di_gregorio_X%2C_inizi_XIV_secolo.JPG",
+      "copyright": "Wikimédia Commons, CC SA-BY 3.0, Sailko (https://fr.wikipedia.org/wiki/Fichier:Duomo_di_arezzo,_interno,_sepolcro_di_gregorio_X,_inizi_XIV_secolo.JPG)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -29,7 +37,13 @@
       "date": "2026-01-13T15:10:34.453459",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-22T17:06:15.785681",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }
