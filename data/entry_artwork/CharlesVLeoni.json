@@ -1,0 +1,49 @@
+{
+  "id": "CharlesVLeoni",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q5752001",
+  "entry_type": "artwork",
+  "title": "L'empereur Charles Quint domine la Fureur",
+  "creator": [
+    {
+      "xml_id": "LeoneLeoni",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1551,
+    "endYear": 1555,
+    "text": "1551-1555"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Musée du Prado",
+      "place": "Madrid",
+      "inventory_number": "E000273/001",
+      "url": "https://www.museodelprado.es/coleccion/obra-de-arte/carlos-v-y-el-furor-sin-armadura/dc052be4-d3f4-4d00-9af8-edcbfb338e60"
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Emperor_Charles_Conquers_Furor_%28Leone_Leoni%29.jpg",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-22T13:17:39.148921",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 1,
+  "materialsAndTechniques": "sculpture en bronze",
+  "contained_by_ensemble": {}
+}
