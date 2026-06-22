@@ -32,7 +32,7 @@
   "bibliography": [],
   "illustrations": [],
   "description": "",
-  "commentary": "",
+  "commentary": "Giovanni di Pietro ou Lo Spagna ? (vu sur site de la NG Lo Spagna)\n",
   "history": [
     {
       "date": "2026-01-15T16:40:40.185237",
@@ -43,6 +43,11 @@
       "date": "2026-05-21T11:52:46.772663",
       "type": "modified",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-22T12:08:23.635796",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "status_entry": 0,
