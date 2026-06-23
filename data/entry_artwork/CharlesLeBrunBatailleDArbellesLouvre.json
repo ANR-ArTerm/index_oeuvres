@@ -1,0 +1,49 @@
+{
+  "id": "CharlesLeBrunBatailleDArbellesLouvre",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q29848371",
+  "entry_type": "artwork",
+  "title": "La bataille d'Arbelles",
+  "creator": [
+    {
+      "xml_id": "CharlesLeBrun",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1668,
+    "endYear": 1669,
+    "text": "1668-1668"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Musée du Louvre",
+      "place": "Paris",
+      "inventory_number": "INV 2895 ; MR 1916",
+      "url": "https://collections.louvre.fr/ark:/53355/cl010060587"
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Charles_Le_Brun_Bataille_d%27Arbelles.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Never covered, (https://commons.wikimedia.org/wiki/File:Charles_Le_Brun_Bataille_d%27Arbelles.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-23T19:25:38.667966",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {}
+}
