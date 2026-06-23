@@ -1,0 +1,49 @@
+{
+  "id": "CharlesLeBrunCoupolePavillonAuroreSceaux",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Coupole du pavillon de l'aurore ou l'Aurore sur son char chassant la Nuit",
+  "creator": [
+    {
+      "xml_id": "CharlesLeBrun",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1673,
+    "endYear": 1673,
+    "text": "1673"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Pavillon de l'Aurore",
+      "place": "Sceaux",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/L%27Aurore_Sceaux_mus%C3%A9e_de_l%27Ile-de-France.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, VladoubidoOo, (https://commons.wikimedia.org/wiki/File:L%27Aurore_Sceaux_mus%C3%A9e_de_l%27Ile-de-France.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-23T19:15:00.684891",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {}
+}
