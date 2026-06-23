@@ -1,0 +1,30 @@
+{
+  "id": "CouventNotreDameDuCalvaireParis",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q33500094",
+  "entry_type": "building",
+  "title": "Couvent de Notre-Dame du Calvaire, quartier Saint Germain",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1635,
+    "endYear": 1635,
+    "text": "Vers 1635"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "Le Couvent des Filles du Calvaire a été détruit en 1848 après que la congrégation ait été supprimée en 1790.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-23T15:46:42.934839",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "couvent",
+  "contained_by_ensemble": {}
+}
