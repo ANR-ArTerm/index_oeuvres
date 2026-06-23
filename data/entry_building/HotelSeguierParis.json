@@ -1,0 +1,46 @@
+{
+  "id": "HotelSeguierParis",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q22980216",
+  "entry_type": "building",
+  "title": "Hôtel dit Séguier",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1640,
+    "endYear": 1755,
+    "text": "1755"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Paris",
+      "country": "France",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/P1160704_Paris_VI_rue_S%C3%A9guier_n%C2%B016_rwk.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Mbzt, (https://commons.wikimedia.org/wiki/File:P1160704_Paris_VI_rue_S%C3%A9guier_n%C2%B016_rwk.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-23T18:12:46.441258",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": null,
+  "contained_by_ensemble": {}
+}
