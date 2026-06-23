@@ -29,28 +29,28 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Arcimboldo_Air_%28copy%29.jpg",
       "storage": "online",
-      "copyright": "Public domain",
+      "copyright": "Wikimédia Commons, Public domain",
       "caption": ""
     },
     {
       "id": 1,
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Giuseppe_Arcimboldo_Fire_Kunsthistorisches_Museum.jpg/1280px-Giuseppe_Arcimboldo_Fire_Kunsthistorisches_Museum.jpg",
       "storage": "online",
-      "copyright": "Public domain",
+      "copyright": "Wikimédia Commons, Public domain",
       "caption": ""
     },
     {
       "id": 2,
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Arcimboldo_Earth.jpg/960px-Arcimboldo_Earth.jpg",
       "storage": "online",
-      "copyright": "Public domain",
+      "copyright": "Wikimédia Commons, Public domain",
       "caption": ""
     },
     {
       "id": 3,
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Arcimboldowater.jpg/960px-Arcimboldowater.jpg",
       "storage": "online",
-      "copyright": "Public domain",
+      "copyright": "Wikimédia Commons, Public domain",
       "caption": ""
     }
   ],
@@ -61,9 +61,14 @@
       "date": "2026-06-22T18:07:34.652086",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-23T16:07:38.863712",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "materialsAndTechniques": "huile sur toile",
   "contained_by_ensemble": {}
 }
