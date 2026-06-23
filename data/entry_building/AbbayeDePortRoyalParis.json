@@ -1,0 +1,51 @@
+{
+  "id": "AbbayeDePortRoyalParis",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2820659",
+  "entry_type": "building",
+  "title": "Abbaye de Port-Royal Paris",
+  "creator": [
+    {
+      "xml_id": "PierreLescot",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1566,
+    "endYear": 1566,
+    "text": "Vers 1566"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Paris",
+      "country": "France",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Cloitre_de_Port-Royal_Paris%2C_Cochin.JPG",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, LPLT, (https://commons.wikimedia.org/wiki/File:Cloitre_de_Port-Royal_Paris,_Cochin.JPG)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-23T17:17:57.979346",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "abbaye",
+  "contained_by_ensemble": {}
+}
