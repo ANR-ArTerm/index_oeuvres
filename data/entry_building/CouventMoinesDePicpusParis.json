@@ -1,0 +1,30 @@
+{
+  "id": "CouventMoinesDePicpusParis",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q107657489",
+  "entry_type": "building",
+  "title": "Couvent des moines de Picpus",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1600,
+    "endYear": 1600,
+    "text": "1600"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "Le couvent a été détruit. ",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-23T18:37:12.808577",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "couvent",
+  "contained_by_ensemble": {}
+}
