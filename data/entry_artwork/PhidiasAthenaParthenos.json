@@ -18,7 +18,12 @@
     "type": "unlocated"
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "leipenAthenaParthenosReconstruction1971",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -40,9 +45,14 @@
       "date": "2026-06-02T11:41:14.936028",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-23T17:26:28.434690",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "sculpture chryséléphantine",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
