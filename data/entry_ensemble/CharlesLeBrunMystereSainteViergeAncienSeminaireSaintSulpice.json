@@ -1,0 +1,35 @@
+{
+  "id": "CharlesLeBrunMystereSainteViergeAncienSeminaireSaintSulpice",
+  "QID_wikidata": "",
+  "entry_type": "ensemble",
+  "title": "Cycle de peinture pour le séminaire de Saint-Sulpice représentant les mystères de la Sainte Vierge",
+  "creator": [
+    {
+      "xml_id": "CharlesLeBrun",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1654,
+    "endYear": 1656,
+    "text": "1654-1656"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-23T18:54:30.036150",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "cycle de peintures",
+  "contains_works": []
+}
