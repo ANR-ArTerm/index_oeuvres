@@ -1,0 +1,46 @@
+{
+  "id": "SebastienBourdonVestireNudosSeptOeuvresMisericorde",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Vestire nudos ou vêtir les nus",
+  "creator": [
+    {
+      "xml_id": "SebastienBourdon",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1670,
+    "endYear": 1670,
+    "text": "1670"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/One_of_the_seven_Acts_of_Mercy%3B_Dress_the_naked._Line_engrav_Wellcome_V0015266.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Fæ, (https://commons.wikimedia.org/wiki/File:One_of_the_seven_Acts_of_Mercy;_Dress_the_naked._Line_engrav_Wellcome_V0015266.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-23T11:21:56.144140",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 3,
+  "materialsAndTechniques": "eau-forte et burin",
+  "contained_by_ensemble": {
+    "link_type": "appartient à l'ensemble",
+    "xml_id_work": "SebastienBourdonSeptOeuvresMisericorde"
+  }
+}
