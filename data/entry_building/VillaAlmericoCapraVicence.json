@@ -30,7 +30,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "PalladioOeuvreArchitecturale2001",
+      "location": "pp. 65-67"
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -52,9 +57,14 @@
       "date": "2026-06-09T15:08:14.801149",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-06-23T17:50:31.808489",
+      "type": "modified",
+      "author": "Nicolo"
     }
   ],
   "typology": null,
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 8
 }
