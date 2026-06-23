@@ -54,8 +54,8 @@
   "location": {
     "type": "place",
     "place": {
-      "city": "Rome",
-      "country": "Italie",
+      "city": "Vatican",
+      "country": "Vatican",
       "coordinates": {
         "latitude": "",
         "longitude": ""
@@ -110,6 +110,11 @@
       "date": "2026-05-28T15:51:34.254638",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-06-23T16:01:20.788108",
+      "type": "modified",
+      "author": "Nicolo"
     }
   ],
   "contained_by_ensemble": {},
