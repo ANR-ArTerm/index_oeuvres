@@ -20,7 +20,7 @@
       "name": "Palais du Luxembourg,  actuel siège du Sénat",
       "place": "Paris",
       "inventory_number": "",
-      "url": ""
+      "url": "https://www.senat.fr/connaitre-le-senat/patrimoine/la-salle-du-livre-dor.html"
     }
   },
   "related_works": [],
@@ -44,6 +44,11 @@
     },
     {
       "date": "2026-06-23T14:42:33.321700",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-06-23T15:36:39.367299",
       "type": "modified",
       "author": "Carla"
     }
