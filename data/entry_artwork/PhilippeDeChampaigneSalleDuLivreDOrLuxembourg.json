@@ -34,12 +34,17 @@
       "caption": ""
     }
   ],
-  "description": "",
+  "description": "La plupart des décors peints par Philippe de Champaigne ayant disparus, il ne reste plus que le plafond de la salle du livre d'or pour se figurer le travail de l'artiste en qualité de décorateur. ",
   "commentary": "",
   "history": [
     {
       "date": "2026-06-23T14:40:56.776573",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-06-23T14:42:33.321700",
+      "type": "modified",
       "author": "Carla"
     }
   ],
