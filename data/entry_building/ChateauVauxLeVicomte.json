@@ -1,0 +1,51 @@
+{
+  "id": "ChateauVauxLeVicomte",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q739976",
+  "entry_type": "building",
+  "title": "Château de Vaux-le-Vicomte",
+  "creator": [
+    {
+      "xml_id": "LouisLeVau",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1656,
+    "endYear": 1661,
+    "text": "1656-1661"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Maincy",
+      "country": "France",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/0_Maincy_-_Ch%C3%A2teau_de_Vaux-le-Vicomte_%282%29.JPG",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Jean-Pol GRANDMONT, (https://commons.wikimedia.org/wiki/File:0_Maincy_-_Ch%C3%A2teau_de_Vaux-le-Vicomte_(2).JPG)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-23T19:01:47.165569",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Chateau",
+  "contained_by_ensemble": {}
+}
