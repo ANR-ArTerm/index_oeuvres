@@ -1,0 +1,51 @@
+{
+  "id": "MausoleeHonoriVatican",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q63522197",
+  "entry_type": "building",
+  "title": "Mausolée d'Honori en Vatican",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 400,
+    "endYear": 1519,
+    "text": "entre Ve et XVIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Vatican",
+      "country": "Vatican",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie du même complexe architectural",
+      "xml_id_work": "AntiqueBasiliqueVaticane"
+    }
+  ],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Lanciani_1893%E2%80%931901_Sant%27Andrea_in_Vaticano.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, public domain, Rodolfo Lanciani (https://commons.wikimedia.org/wiki/File:Lanciani_1893%E2%80%931901_Sant%27Andrea_in_Vaticano.jpg)",
+      "caption": "Rodolfo Lanciani, Plan de l'Antique Basilique Vaticaine, 1893-1901"
+    }
+  ],
+  "description": "Le mausolée, devenu au VIIIe siècle la Chapelle de Sainte-Petronilla, a été détruit en 1519 pour la construction de la nouvelle Basilique Saint-Pierre.",
+  "commentary": "Il faut régler la legende",
+  "history": [
+    {
+      "date": "2026-06-23T16:17:05.968804",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {}
+}
