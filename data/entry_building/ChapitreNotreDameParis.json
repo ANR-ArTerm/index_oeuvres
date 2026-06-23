@@ -1,0 +1,43 @@
+{
+  "id": "ChapitreNotreDameParis",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q120869237",
+  "entry_type": "building",
+  "title": "Chapitre de Notre-Dame de Paris",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "CathedraleNotreDameParis"
+    }
+  ],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Rue_du_chapitre_et_clo%C3%AEtre_Notre-Dame_en_1737_sur_plan_Turgot.png",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, VVVCFFrance, (https://commons.wikimedia.org/wiki/File:Rue_du_chapitre_et_clo%C3%AEtre_Notre-Dame_en_1737_sur_plan_Turgot.png)",
+      "caption": "Vue de la rue du chapitre et cloître Notre-Dame en 1737 sur plan Turgot."
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-23T16:03:43.782317",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": null,
+  "contained_by_ensemble": {}
+}
