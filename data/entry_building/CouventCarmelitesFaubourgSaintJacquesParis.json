@@ -1,0 +1,30 @@
+{
+  "id": "CouventCarmelitesFaubourgSaintJacquesParis",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q41355013",
+  "entry_type": "building",
+  "title": "Couvent des Carmélites du faubourg Saint-Jacques",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1603,
+    "endYear": 1603,
+    "text": "1603"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "Le couvent fut détruit après la Révolution française en 1797. ",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-23T11:50:25.859998",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "couvent",
+  "contained_by_ensemble": {}
+}
