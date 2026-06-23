@@ -1,0 +1,51 @@
+{
+  "id": "EgliseSantaMariaDellaFebbreVatican",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3673839",
+  "entry_type": "building",
+  "title": "Eglise de Santa Maria della Febbre ou Chapelle San Andrea",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 300,
+    "endYear": 1777,
+    "text": "entre IVe et XVIIIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Vatican",
+      "country": "Vatican",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie du même complexe architectural",
+      "xml_id_work": "AntiqueBasiliqueVaticane"
+    }
+  ],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Lanciani_1893%E2%80%931901_Sant%27Andrea_in_Vaticano.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, public domain, Rodolfo Lanciani, (https://commons.wikimedia.org/wiki/File:Lanciani_1893%E2%80%931901_Sant%27Andrea_in_Vaticano.jpg)",
+      "caption": "Rodolfo Lanciani, Plan de l'Antique Basilique Vaticaine, 1893-1901"
+    }
+  ],
+  "description": "L'Eglise de Santa Maria della Febbre, devenu en 1462 Chapelle de Saint-André, a été detruit en 1777",
+  "commentary": "il faut régler la legende",
+  "history": [
+    {
+      "date": "2026-06-23T16:25:54.728387",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {}
+}

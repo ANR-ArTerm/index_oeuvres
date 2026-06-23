@@ -37,16 +37,21 @@
     }
   ],
   "illustrations": [],
-  "description": "Perdu",
+  "description": "Le pape commande une série de fresques (détruites au XVIIe siècle) pour la chapelle à Andrea Mantegna.",
   "commentary": "",
   "history": [
     {
       "date": "2026-06-19T19:35:59.318669",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-23T16:28:31.524323",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "materialsAndTechniques": "fresque",
   "contained_by_ensemble": {}
 }
