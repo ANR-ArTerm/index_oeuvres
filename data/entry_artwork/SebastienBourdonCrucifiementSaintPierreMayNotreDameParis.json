@@ -1,0 +1,49 @@
+{
+  "id": "SebastienBourdonCrucifiementSaintPierreMayNotreDameParis",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q63213201",
+  "entry_type": "artwork",
+  "title": "Le Crucifiement de Saint Pierre",
+  "creator": [
+    {
+      "xml_id": "SebastienBourdon",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1643,
+    "endYear": 1643,
+    "text": "1643"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Cathédrale Notre-Dame de Paris",
+      "place": "Paris",
+      "inventory_number": "NDP 772f (cathédrale Notre-Dame de Paris)  INV 2809, MR 1257 (département des peintures du musée du Louvre)",
+      "url": "https://www.notredamedeparis.fr/oeuvre/le-crucifiement-de-saint-pierre/#:~:text=S%C3%A9bastien%20Bourdon%20(1643)-,May%20peint%20en%201643%20par%20S%C3%A9bastien%20Bourdon%2C%20offert%20par%20la,en%20bas%20par%20ses%20bourreaux."
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Bourdon%2C_S%C3%A9bastien_-_Le_crucifiement_de_Saint_Pierre_-_1643.JPG?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, Mattes, (https://commons.wikimedia.org/wiki/File:Bourdon,_S%C3%A9bastien_-_Le_crucifiement_de_Saint_Pierre_-_1643.JPG)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-23T11:42:07.932206",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {}
+}
