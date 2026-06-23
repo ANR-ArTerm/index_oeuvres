@@ -1,0 +1,46 @@
+{
+  "id": "SebastienBourdonHospitioExipereAdvenasSeptOeuvresMisericorde",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q65577282",
+  "entry_type": "artwork",
+  "title": "Hospitio exipere advenas ou ",
+  "creator": [
+    {
+      "xml_id": "SebastienBourdon",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1670,
+    "endYear": 1670,
+    "text": "1670"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/S%C3%A9bastien_Bourdon%2C_Hospitio_exipere_advenas%2C_probably_1658%2C_NGA_56903.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, Brwz, (https://commons.wikimedia.org/wiki/File:S%C3%A9bastien_Bourdon,_Hospitio_exipere_advenas,_probably_1658,_NGA_56903.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-23T11:15:52.003278",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 3,
+  "materialsAndTechniques": "eau-forte et burin",
+  "contained_by_ensemble": {
+    "link_type": "appartient à l'ensemble",
+    "xml_id_work": "SebastienBourdonSeptOeuvresMisericorde"
+  }
+}
