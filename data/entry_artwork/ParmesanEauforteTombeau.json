@@ -25,7 +25,15 @@
       "location": "n° 5 (8)"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Parmigianino%2C_The_Entombment%2C_c._1530%2C_NGA_57553.jpg",
+      "copyright": "Wikimédia Commons, CC0 1.0",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -33,7 +41,13 @@
       "date": "2026-03-06T14:48:18.472914",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-23T17:33:14.438090",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }
