@@ -1,0 +1,49 @@
+{
+  "id": "PhilippeDeChampaignePortraitRichelieuSorbonne",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Portrait du cardinal de Richelieu",
+  "creator": [
+    {
+      "xml_id": "PhilippeDeChampaigne",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1640,
+    "endYear": 1640,
+    "text": "1640"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Chancellerie des Universités, Sorbonne",
+      "place": "Paris",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Cardinal-Richelieu.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, Louis le Grand~commonswiki, (https://commons.wikimedia.org/wiki/File:Cardinal-Richelieu.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-23T16:49:56.785175",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {}
+}
