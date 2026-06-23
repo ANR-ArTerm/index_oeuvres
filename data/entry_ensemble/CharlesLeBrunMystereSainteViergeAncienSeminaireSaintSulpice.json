@@ -27,9 +27,20 @@
       "date": "2026-06-23T18:54:30.036150",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-23T18:58:44.279496",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
   "status_entry": 0,
   "typology": "cycle de peintures",
-  "contains_works": []
+  "contains_works": [
+    {
+      "link_type": "appartient à l'ensemble",
+      "xml_id_work": "CharlesLeBrunDescenteSaintEspritLouvre",
+      "link_types_contained": null
+    }
+  ]
 }
