@@ -1,0 +1,49 @@
+{
+  "id": "PhilippeDeChampaigneResurrectionLazareGrenoble",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q115676120",
+  "entry_type": "artwork",
+  "title": "La Resurrection de Lazare",
+  "creator": [
+    {
+      "xml_id": "PhilippeDeChampaigne",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1633,
+    "endYear": 1633,
+    "text": "1633"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Musée de Grenoble-J.L. Lacroix",
+      "place": "Grenoble",
+      "inventory_number": "Inv. : MG 57",
+      "url": "https://www.navigart.fr/grenoble/artwork/philippe-de-champaigne-resurrection-de-lazare-60000000005515"
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Champaigne_R%C3%A9surrection_de_Lazare_Grenoble.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public,  VladoubidoOo, (https://commons.wikimedia.org/wiki/File:Champaigne_R%C3%A9surrection_de_Lazare_Grenoble.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-23T15:11:56.295127",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 3,
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {}
+}
