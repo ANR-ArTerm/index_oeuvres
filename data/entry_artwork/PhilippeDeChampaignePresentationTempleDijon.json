@@ -1,0 +1,49 @@
+{
+  "id": "PhilippeDeChampaignePresentationTempleDijon",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q130379440",
+  "entry_type": "artwork",
+  "title": "La Présentation au temple",
+  "creator": [
+    {
+      "xml_id": "PhilippeDeChampaigne",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1628,
+    "endYear": 1628,
+    "text": "1628"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Musée des Beaux-Arts de Dijon",
+      "place": "Dijon",
+      "inventory_number": "Inv. CA 104",
+      "url": "https://musees.dijon.fr/artworks/la-presentation-au-temple/"
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Champaigne_Pr%C3%A9sentation_au_temple_Dijon.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, VladoubidoOo, (https://commons.wikimedia.org/wiki/File:Champaigne_Pr%C3%A9sentation_au_temple_Dijon.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-23T14:53:11.215413",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {}
+}
