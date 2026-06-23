@@ -1,0 +1,49 @@
+{
+  "id": "CharlesLeBrunTenteDariusVersailles",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "La Tente de Darius ou les Reines de Perse aux pieds d'Alexandre",
+  "creator": [
+    {
+      "xml_id": "CharlesLeBrun",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1660,
+    "endYear": 1661,
+    "text": "1660-1661"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Château de Versailles",
+      "place": "Versailles",
+      "inventory_number": "MV 6165, INV 2896, MR 1917",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Charles_Le_Brun_-_Les_reines_de_Perse_aux_pieds_d%27Alexandre_dit_aussi_la_tente_de_Darius_-_Google_Art_Project.jpg",
+      "storage": "online",
+      "copyright": "DcoetzeeBot , (https://commons.wikimedia.org/wiki/File:Charles_Le_Brun_-_Les_reines_de_Perse_aux_pieds_d%27Alexandre_dit_aussi_la_tente_de_Darius_-_Google_Art_Project.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-23T19:22:41.069236",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {}
+}
