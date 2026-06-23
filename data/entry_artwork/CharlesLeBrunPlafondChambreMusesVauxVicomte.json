@@ -1,0 +1,49 @@
+{
+  "id": "CharlesLeBrunPlafondChambreMusesVauxVicomte",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Plafond de la chambre des Muses ou ",
+  "creator": [
+    {
+      "xml_id": "CharlesLeBrun",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1659,
+    "endYear": 1659,
+    "text": "1659"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Château de Vaux-le-Vicomte",
+      "place": "Maincy",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/0_Le_Triomphe_de_la_Fid%C3%A9lit%C3%A9_-_Charles_Lebrun_-_Ch%C3%A2teau_de_Vaux-le-Vicomte.JPG",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Jean-Pol GRANDMONT, (https://commons.wikimedia.org/wiki/File:0_Le_Triomphe_de_la_Fid%C3%A9lit%C3%A9_-_Charles_Lebrun_-_Ch%C3%A2teau_de_Vaux-le-Vicomte.JPG)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-23T19:09:36.429441",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {}
+}
