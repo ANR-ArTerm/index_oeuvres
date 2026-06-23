@@ -29,17 +29,22 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Ancient_civilization%3B_an_introduction_to_modern_history_%281916%29_%2814584800120%29.jpg/960px-Ancient_civilization%3B_an_introduction_to_modern_history_%281916%29_%2814584800120%29.jpg",
       "storage": "online",
-      "copyright": "Public domain",
+      "copyright": "Wikimédia Commons, Public domain",
       "caption": "Arthur Mayer  Wolfson,  Minerve de Phidias (en  Ancient civilization, 1916)"
     }
   ],
   "description": "Se trouvait dans le Parthénon d'Athènes, aujourd'hui disparue. ",
-  "commentary": "",
+  "commentary": "Titre de la statue chryséléphantine est \"Athéna Parthénos\" ?\n",
   "history": [
     {
       "date": "2026-05-05T11:14:31.524913",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-23T10:34:38.381375",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "or, ivoire, pierres précieuses",
