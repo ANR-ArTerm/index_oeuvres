@@ -36,16 +36,21 @@
       "caption": "Rodolfo Lanciani, Plan de l'Antique Basilique Vaticaine, 1893-1901"
     }
   ],
-  "description": "L'Eglise de Santa Maria della Febbre, devenu en 1462 Chapelle de Saint-André, a été detruit en 1777",
+  "description": "L'Eglise de Santa Maria della Febbre, devenu en 1462 Chapelle de Saint-André, a été détruite en 1777",
   "commentary": "il faut régler la legende",
   "history": [
     {
       "date": "2026-06-23T16:25:54.728387",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-23T16:40:38.162534",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "monument imaginaire ou disparu",
   "contained_by_ensemble": {}
 }
