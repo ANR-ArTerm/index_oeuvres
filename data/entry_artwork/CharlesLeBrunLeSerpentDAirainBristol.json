@@ -1,0 +1,49 @@
+{
+  "id": "CharlesLeBrunLeSerpentDAirainBristol",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q90735765",
+  "entry_type": "artwork",
+  "title": "Le serpent d'Airain",
+  "creator": [
+    {
+      "xml_id": "CharlesLeBrun",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1650,
+    "endYear": 1650,
+    "text": "1650"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Bristol City Museum and Art Gallery",
+      "place": "Bristol",
+      "inventory_number": "K41",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Le_Brun_Le_serpent_d%27Airain.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, VladoubidoOo, ( https://commons.wikimedia.org/wiki/File:Le_Brun_Le_serpent_d%27Airain.jpg?uselang=fr) ",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-23T18:33:27.231130",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {}
+}
