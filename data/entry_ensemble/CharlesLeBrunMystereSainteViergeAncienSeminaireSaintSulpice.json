@@ -11,8 +11,8 @@
   ],
   "dateCreated": {
     "startYear": 1654,
-    "endYear": 1656,
-    "text": "1654-1656"
+    "endYear": 1657,
+    "text": "1654-1657"
   },
   "location": {
     "type": "multiple_locations"
@@ -30,6 +30,11 @@
     },
     {
       "date": "2026-06-23T18:58:44.279496",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-06-23T19:02:09.835832",
       "type": "modified",
       "author": "Carla"
     }
