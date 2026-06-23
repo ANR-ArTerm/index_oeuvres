@@ -40,9 +40,14 @@
       "date": "2026-06-23T16:19:58.036453",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-06-23T16:21:40.713907",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": null,
   "contained_by_ensemble": {}
 }
