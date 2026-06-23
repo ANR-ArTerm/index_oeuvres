@@ -26,7 +26,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "PalladioOeuvreArchitecturale2001",
+      "location": "p. 180-181"
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -36,7 +41,7 @@
       "caption": ""
     }
   ],
-  "description": "",
+  "description": "La villa que nous voyons aujourd'hui est très différente de celle conçue par Palladio.",
   "commentary": "",
   "history": [
     {
@@ -52,5 +57,5 @@
   ],
   "typology": "Villa",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 8
 }
