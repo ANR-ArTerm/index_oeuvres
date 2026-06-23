@@ -28,13 +28,18 @@
       "caption": "Vue de la rue du chapitre et cloître Notre-Dame en 1737 sur plan Turgot."
     }
   ],
-  "description": "",
+  "description": "A disparu.",
   "commentary": "",
   "history": [
     {
       "date": "2026-06-23T16:03:43.782317",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-23T16:19:58.036453",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "status_entry": 0,
