@@ -1,0 +1,49 @@
+{
+  "id": "PhilippeDeChampaigneAssomptionLouvre",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q115675911",
+  "entry_type": "artwork",
+  "title": "L'Assomption",
+  "creator": [
+    {
+      "xml_id": "PhilippeDeChampaigne",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1600,
+    "endYear": 1700,
+    "text": "Courant du XVIIe"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Musée de Grenoble-J.L. Lacroix",
+      "place": "Grenoble",
+      "inventory_number": "Inv. MG 58",
+      "url": "https://www.navigart.fr/grenoble/artwork/philippe-de-champaigne-l-assomption-de-la-vierge-60000000004812"
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Champaigne_Assomption_Grenoble.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, VladoubidoOo , (https://commons.wikimedia.org/wiki/File:Champaigne_Assomption_Grenoble.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "Cette œuvre est un dépôt du musée du Louvre au musée de Grenoble. ",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-23T15:35:54.762063",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {}
+}
