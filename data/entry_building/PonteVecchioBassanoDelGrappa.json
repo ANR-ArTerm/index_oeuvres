@@ -26,7 +26,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "PontiDiPalladio1980",
+      "location": "pp. 25-28"
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -48,9 +53,14 @@
       "date": "2026-06-03T16:29:14.266362",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-06-23T17:04:30.553775",
+      "type": "modified",
+      "author": "Nicolo"
     }
   ],
   "typology": "Pont",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 8
 }
