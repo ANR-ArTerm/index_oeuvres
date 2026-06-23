@@ -34,13 +34,13 @@
     {
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Giuseppe_Arcimboldo_-_The_Waiter_-_WGA0835FXD.jpg/960px-Giuseppe_Arcimboldo_-_The_Waiter_-_WGA0835FXD.jpg?_=20180323204749",
-      "copyright": "Public domain",
+      "copyright": "Wikimedia Commons, Public domain",
       "caption": "",
       "storage": "online"
     }
   ],
   "description": "",
-  "commentary": "",
+  "commentary": "Titre de l'oeuvre serait \"le serveur\" \"the Waiter\" en anglais \n",
   "history": [
     {
       "date": "2026-06-22T18:49:32.084706",
@@ -56,6 +56,11 @@
       "date": "2026-06-22T18:59:31.080076",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-23T10:04:13.413687",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "status_entry": 0,
