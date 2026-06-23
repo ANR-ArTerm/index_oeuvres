@@ -21,7 +21,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "PontiDiPalladio1980",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -43,9 +48,14 @@
       "date": "2026-06-03T14:08:28.025441",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-06-23T16:57:08.403672",
+      "type": "modified",
+      "author": "Nicolo"
     }
   ],
   "typology": "monument imaginaire ou disparu",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 8
 }
