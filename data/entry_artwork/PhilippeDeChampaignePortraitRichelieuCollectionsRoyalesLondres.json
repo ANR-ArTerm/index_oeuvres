@@ -1,0 +1,49 @@
+{
+  "id": "PhilippeDeChampaignePortraitRichelieuCollectionsRoyalesLondres",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q28026344",
+  "entry_type": "artwork",
+  "title": "Portrait du cardinal de Richelieu",
+  "creator": [
+    {
+      "xml_id": "PhilippeDeChampaigne",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1637,
+    "endYear": 1637,
+    "text": "1637"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Royal Collection",
+      "place": "Londres",
+      "inventory_number": "RCIN 404757",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Philippe_de_Champaigne_%281602-74%29_-_Armand%2C_Cardinal_Richelieu_%281585-1642%29_-_RCIN_404757_-_Royal_Collection.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, BotMultichillT, (https://commons.wikimedia.org/wiki/File:Philippe_de_Champaigne_(1602-74)_-_Armand,_Cardinal_Richelieu_(1585-1642)_-_RCIN_404757_-_Royal_Collection.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-23T16:59:52.184081",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {}
+}
