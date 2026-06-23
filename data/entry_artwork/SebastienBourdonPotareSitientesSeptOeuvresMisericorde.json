@@ -24,7 +24,15 @@
       "location": "p. ?"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/S%C3%A9bastien_Bourdon%2C_Potare_sitientes%2C_probably_1658%2C_NGA_56902.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
+      "copyright": "Wikimedia Commons, domaine public, Brwz, (https://commons.wikimedia.org/wiki/File:S%C3%A9bastien_Bourdon,_Potare_sitientes,_probably_1658,_NGA_56902.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -35,6 +43,11 @@
     },
     {
       "date": "2026-06-22T21:39:38.899253",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-06-23T11:11:54.627369",
       "type": "modified",
       "author": "Carla"
     }
