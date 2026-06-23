@@ -26,10 +26,17 @@
       "storage": "online",
       "copyright": "Wikimedia Commons, CC BY-SA 4.0, Jospe, (https://commons.wikimedia.org/wiki/File:229-235_rue_Saint-Honor%C3%A9.jpg)",
       "caption": ""
+    },
+    {
+      "id": 1,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/FeuillantConvent.jpg",
+      "copyright": "Wikimédia Commons, Domaine Public, G. Lenotre, Paris révolutionnaire, Paris, Firmin-Didot, 1895. (https://commons.wikimedia.org/wiki/File:FeuillantConvent.jpg)",
+      "caption": "Vue du jardin du couvent des Feuillants à Paris, en France, depuis le manège des Tuileries au moment de la Révolution ",
+      "storage": "online"
     }
   ],
   "description": "Le couvent fut partiellement détruit durant le consulat, ne subsistent aujourd'hui que les immeubles de rapport qui appartenaient au couvent construits par Denis Antoine (n° 229-235 de la rue Saint-Honoré). ",
-  "commentary": "Image sur Wikipédia montrant le couvent dans son intégralité ( au moment de la Révolution) \nhttps://fr.wikipedia.org/wiki/Couvent_des_Feuillants#/media/Fichier:FeuillantConvent.jpg",
+  "commentary": "",
   "history": [
     {
       "date": "2026-06-22T17:00:18.151294",
@@ -40,9 +47,14 @@
       "date": "2026-06-23T09:54:04.492307",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-06-23T14:24:44.221777",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "couvent",
   "contained_by_ensemble": {}
 }
