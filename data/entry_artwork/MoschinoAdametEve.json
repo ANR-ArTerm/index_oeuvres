@@ -35,7 +35,7 @@
       "id": 0,
       "url": "http://www.sigecweb.beniculturali.it/images/fullsize/ICCD50007128/ICCD8105683_AFOP%20DPANINI0041.jpg",
       "storage": "online",
-      "copyright": "CC-BY 4.0, MIC",
+      "copyright": "CC-BY 4.0, MIC ",
       "caption": ""
     }
   ],
@@ -46,9 +46,14 @@
       "date": "2026-05-29T15:36:51.677725",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-23T11:03:22.004425",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "materialsAndTechniques": "Sculpture en marbre",
   "contained_by_ensemble": {}
 }
