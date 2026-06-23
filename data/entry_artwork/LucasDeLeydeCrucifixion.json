@@ -35,9 +35,14 @@
       "date": "2026-04-27T17:41:28.281409",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-23T15:50:06.294540",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "burin",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
