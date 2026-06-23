@@ -30,7 +30,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Giovanni_paciarelli%2C_schema_del_pavimento_del_duomo_di_siena%2C_1884.jpg",
       "storage": "online",
-      "copyright": "Domaine public, https://commons.wikimedia.org/wiki/File:Giovanni_paciarelli,_schema_del_pavimento_del_duomo_di_siena,_1884.jpg",
+      "copyright": "Wikimédia Commons, Domaine public, https://commons.wikimedia.org/wiki/File:Giovanni_paciarelli,_schema_del_pavimento_del_duomo_di_siena,_1884.jpg",
       "caption": ""
     }
   ],
@@ -41,8 +41,14 @@
       "date": "2026-02-03T17:16:42.548985",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-23T17:39:27.026406",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "mosaïque",
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }
