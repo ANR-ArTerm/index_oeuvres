@@ -1,0 +1,49 @@
+{
+  "id": "CharlesLeBrunHerculeTuantChevauxDeDiomedeNottingham",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q96614533",
+  "entry_type": "artwork",
+  "title": "Hercule tuant les chevaux de Diomède",
+  "creator": [
+    {
+      "xml_id": "CharlesLeBrun",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1640,
+    "endYear": 1640,
+    "text": "1640"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Château de Nottingham",
+      "place": "Nottingham",
+      "inventory_number": "NCM 1893-52",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Charles_Le_Brun_%281619-1690%29_-_Hercules_Vanquishing_Diomedes_-_NCM_1893-52_-_Nottingham_Castle_Museum_and_Art_Gallery.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, BotMultichillT, (https://commons.wikimedia.org/wiki/File:Charles_Le_Brun_(1619-1690)_-_Hercules_Vanquishing_Diomedes_-_NCM_1893-52_-_Nottingham_Castle_Museum_and_Art_Gallery.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-23T18:20:19.358652",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {}
+}
