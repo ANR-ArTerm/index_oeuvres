@@ -1,0 +1,49 @@
+{
+  "id": "PhilippeDeChampaignePortraitRichelieuMuseeCondeChantilly",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Portrait du cardinal de Richelieu",
+  "creator": [
+    {
+      "xml_id": "PhilippeDeChampaigne",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1636,
+    "endYear": 1636,
+    "text": "1636"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Musée Condé",
+      "place": "Chantilly",
+      "inventory_number": "PE308",
+      "url": "https://chateaudechantilly.fr/categ-collection/peintures/portrait-du-cardinal-de-richelieu/"
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Philippe_de_Champaigne%2C_Le_Cardinal_de_Richelieu.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine pubic, Guise, (https://fr.wikipedia.org/wiki/Fichier:Philippe_de_Champaigne,_Le_Cardinal_de_Richelieu.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-23T17:05:55.129602",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {}
+}
