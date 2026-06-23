@@ -5,7 +5,7 @@
   "creator": [
     {
       "xml_id": "AndreaMantegna",
-      "role": "graveur (?)"
+      "role": "copié d'après"
     },
     {
       "xml_id": "AndreaMantegna",
@@ -29,7 +29,15 @@
       "location": "n° 214"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Mantegna_-_School_ofstyle_of_-_The_descent_from_the_Cross%2C_1834%2C0804.343.jpg",
+      "copyright": "Wikimédia Commons, Domaine Publique (https://commons.wikimedia.org/wiki/File:Mantegna_-_School_ofstyle_of_-_The_descent_from_the_Cross,_1834,0804.343.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -42,8 +50,13 @@
       "date": "2026-05-21T11:57:36.479608",
       "type": "modified",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-23T17:21:46.590535",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "contained_by_ensemble": {}
 }
