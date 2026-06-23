@@ -1,0 +1,35 @@
+{
+  "id": "CharlesLeBrunCycleHistoireAlexandre",
+  "QID_wikidata": "",
+  "entry_type": "ensemble",
+  "title": "Compositions pour une tenture sur l'histoire d'Alexandre",
+  "creator": [
+    {
+      "xml_id": "CharlesLeBrun",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1660,
+    "endYear": 1673,
+    "text": "1660-1673"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-23T19:18:40.378262",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "cycle de peintures",
+  "contains_works": []
+}
