@@ -35,7 +35,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/The_Lawyer%2C_possibly_Ulrich_Zasius%2C_1461-1536%2C_humanist%2C_jurist_%28Giuseppe_Arcimboldo%29_-_Nationalmuseum_-_15897.jpg/1280px-The_Lawyer%2C_possibly_Ulrich_Zasius%2C_1461-1536%2C_humanist%2C_jurist_%28Giuseppe_Arcimboldo%29_-_Nationalmuseum_-_15897.jpg",
       "storage": "online",
-      "copyright": "Public domain",
+      "copyright": "Wikimedia Commons, Public domain (https://commons.wikimedia.org/wiki/File:The_Lawyer,_possibly_Ulrich_Zasius,_1461-1536,_humanist,_jurist_(Giuseppe_Arcimboldo)_-_Nationalmuseum_-_15897.jpg)",
       "caption": ""
     }
   ],
@@ -46,9 +46,14 @@
       "date": "2026-06-22T18:45:24.095194",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-23T10:29:15.396371",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "materialsAndTechniques": "huile sur toile",
   "contained_by_ensemble": {}
 }
