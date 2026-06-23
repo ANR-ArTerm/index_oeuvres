@@ -35,9 +35,14 @@
       "date": "2026-04-28T14:51:56.880375",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-23T17:39:53.052776",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "sculpture chryséléphantine",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
