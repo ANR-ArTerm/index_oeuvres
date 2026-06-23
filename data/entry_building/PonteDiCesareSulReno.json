@@ -24,7 +24,7 @@
   "bibliography": [
     {
       "zotero_key": "PontiDiPalladio1980",
-      "location": ""
+      "location": "pp. 14-16"
     }
   ],
   "illustrations": [
@@ -51,6 +51,11 @@
     },
     {
       "date": "2026-06-23T16:57:08.403672",
+      "type": "modified",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-23T17:01:58.587353",
       "type": "modified",
       "author": "Nicolo"
     }
