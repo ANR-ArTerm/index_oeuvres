@@ -11,8 +11,8 @@
   ],
   "dateCreated": {
     "startYear": 1503,
-    "endYear": 1519,
-    "text": "1503-1519"
+    "endYear": 1517,
+    "text": "1503-15à6 ou 1513-1516 jusqu'à 1517"
   },
   "location": {
     "type": "holding_institution",
@@ -35,7 +35,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/960px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
       "storage": "online",
-      "copyright": "Public domain",
+      "copyright": "Wikimédia Commons, Public domain",
       "caption": ""
     }
   ],
@@ -51,9 +51,14 @@
       "date": "2026-06-10T15:24:13.139962",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-23T10:38:18.697689",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "materialsAndTechniques": "huile sur bois",
   "contained_by_ensemble": {}
 }
