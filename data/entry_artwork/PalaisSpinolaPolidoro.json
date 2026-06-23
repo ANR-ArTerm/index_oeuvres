@@ -40,9 +40,14 @@
       "date": "2026-06-17T19:06:55.097904",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-23T11:52:08.266653",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "materialsAndTechniques": "fresque",
   "contained_by_ensemble": {}
 }
