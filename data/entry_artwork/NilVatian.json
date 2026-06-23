@@ -25,7 +25,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/The_Nile%2C_inv._2300_-_Braccio_Nuovo%2C_Museo_Chiaramonti_-_Vatican_Museums_-_DSC00913.jpg",
       "storage": "online",
-      "copyright": "Domaine public, Daderot, https://commons.wikimedia.org/wiki/File:The_Nile,_inv._2300_-_Braccio_Nuovo,_Museo_Chiaramonti_-_Vatican_Museums_-_DSC00913.jpg",
+      "copyright": "Wikimédia Commons, Domaine public, Daderot, https://commons.wikimedia.org/wiki/File:The_Nile,_inv._2300_-_Braccio_Nuovo,_Museo_Chiaramonti_-_Vatican_Museums_-_DSC00913.jpg",
       "caption": ""
     }
   ],
@@ -36,9 +36,14 @@
       "date": "2026-02-09T16:07:40.991437",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-23T11:25:47.465903",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "Sculpture en marbre",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
