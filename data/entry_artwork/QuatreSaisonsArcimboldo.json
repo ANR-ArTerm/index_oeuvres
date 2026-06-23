@@ -29,28 +29,28 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Arcimboldo_-_Les_saisons_-_Le_printemps_-_Sans_cadre.jpg/1280px-Arcimboldo_-_Les_saisons_-_Le_printemps_-_Sans_cadre.jpg",
       "storage": "online",
-      "copyright": "Public domain",
+      "copyright": "Wikimédia Commons, Public domain",
       "caption": "Printemps"
     },
     {
       "id": 1,
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Arcimboldo_Summer_1563.jpg/960px-Arcimboldo_Summer_1563.jpg",
       "storage": "online",
-      "copyright": "Public domain",
+      "copyright": "Wikimédia Commons, Public domain",
       "caption": ""
     },
     {
       "id": 2,
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Arcimboldo_-_Les_saisons_-_L%27automne.jpg/1280px-Arcimboldo_-_Les_saisons_-_L%27automne.jpg",
       "storage": "online",
-      "copyright": "Public domain",
+      "copyright": "Wikimédia Commons, Public domain",
       "caption": "Autumn"
     },
     {
       "id": 3,
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Arcimboldo_Winter_1563.jpg/960px-Arcimboldo_Winter_1563.jpg",
       "storage": "online",
-      "copyright": "Public domain",
+      "copyright": "Wikimédia Commons, Public domain",
       "caption": "Hiver"
     }
   ],
@@ -66,9 +66,14 @@
       "date": "2026-06-22T18:22:34.639003",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-23T16:09:06.335293",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "materialsAndTechniques": "huile sur toile",
   "contained_by_ensemble": {}
 }
