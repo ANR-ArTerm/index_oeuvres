@@ -35,7 +35,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Giuseppe_Arcimboldo_-_Flora_-_WGA0834.jpg?_=20110601040538",
       "storage": "online",
-      "copyright": "Public domain",
+      "copyright": "Wikimédia Commons, Public domain (https://fr.wikipedia.org/wiki/Fichier:Giuseppe_Arcimboldo_-_Flora_-_WGA0834.jpg)",
       "caption": ""
     }
   ],
@@ -46,9 +46,14 @@
       "date": "2026-06-22T19:11:54.462636",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-23T10:25:13.126161",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "materialsAndTechniques": "huile sur toile",
   "contained_by_ensemble": {}
 }
