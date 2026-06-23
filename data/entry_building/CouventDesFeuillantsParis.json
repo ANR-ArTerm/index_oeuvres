@@ -12,7 +12,7 @@
   "dateCreated": {
     "startYear": 1587,
     "endYear": 1776,
-    "text": "1587-1776 La construction s'étend sur cette longue période mais se concentre pour "
+    "text": "1587-1776 La construction s'étend sur cette longue période mais majorité au "
   },
   "location": {
     "type": "unlocated"
@@ -29,12 +29,17 @@
     }
   ],
   "description": "Le couvent fut partiellement détruit durant le consulat, ne subsistent aujourd'hui que les immeubles de rapport qui appartenaient au couvent construits par Denis Antoine (n° 229-235 de la rue Saint-Honoré). ",
-  "commentary": "",
+  "commentary": "Image sur Wikipédia montrant le couvent dans son intégralité ( au moment de la Révolution) \nhttps://fr.wikipedia.org/wiki/Couvent_des_Feuillants#/media/Fichier:FeuillantConvent.jpg",
   "history": [
     {
       "date": "2026-06-22T17:00:18.151294",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-23T09:54:04.492307",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "status_entry": 0,
