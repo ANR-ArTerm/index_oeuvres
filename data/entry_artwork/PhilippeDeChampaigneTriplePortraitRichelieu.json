@@ -1,0 +1,49 @@
+{
+  "id": "PhilippeDeChampaigneTriplePortraitRichelieu",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q20054113",
+  "entry_type": "artwork",
+  "title": "Triple portrait du cardinal de Richelieu",
+  "creator": [
+    {
+      "xml_id": "PhilippeDeChampaigne",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1640,
+    "endYear": 1640,
+    "text": "1640"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "National Gallery",
+      "place": "Londres",
+      "inventory_number": "NG 798",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Triple_Portrait_of_Cardinal_de_Richelieu_probably_1642%2C_Philippe_de_Champaigne.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, Sokolov~commonswiki,  (https://commons.wikimedia.org/wiki/File:Triple_Portrait_of_Cardinal_de_Richelieu_probably_1642,_Philippe_de_Champaigne.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-23T17:10:28.368831",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {}
+}
