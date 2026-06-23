@@ -1,0 +1,46 @@
+{
+  "id": "PhilippeDeChampaigneAppartementMarieMedicisLuxembourg",
+  "QID_wikidata": "",
+  "entry_type": "ensemble",
+  "title": "Décor des appartements de Marie de Médicis au Luxembourg",
+  "creator": [
+    {
+      "xml_id": "PhilippeDeChampaigne",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1628,
+    "endYear": 1628,
+    "text": "Vers 1628"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Palais du Luxembourg,  actuel siège du Sénat",
+      "place": "Paris",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-23T14:26:30.776763",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "ensemble décoratif",
+  "contains_works": [
+    {
+      "link_type": null,
+      "xml_id_work": null
+    }
+  ]
+}
