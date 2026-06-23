@@ -1,0 +1,57 @@
+{
+  "id": "PalaisRoyalParis",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q329948",
+  "entry_type": "building",
+  "title": "Le Palais-Royal",
+  "creator": [
+    {
+      "xml_id": "JacquesLemercier",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1628,
+    "endYear": 1628,
+    "text": "1628"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Paris",
+      "country": "France",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    },
+    "institution": {
+      "name": null,
+      "place": null,
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Palais_Royal%2C_Paris_8_September_2019.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 2.0, Paris 16 (https://commons.wikimedia.org/wiki/File:Palais_Royal,_Paris_8_September_2019.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-23T15:50:30.404733",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Palais",
+  "contained_by_ensemble": {}
+}
