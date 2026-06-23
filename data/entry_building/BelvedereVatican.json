@@ -30,7 +30,7 @@
     "type": "place",
     "place": {
       "city": "Vatican",
-      "country": "Italie",
+      "country": "Vatican",
       "coordinates": {
         "latitude": "",
         "longitude": ""
@@ -75,6 +75,11 @@
       "date": "2026-06-22T10:42:14.059978",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-06-23T16:02:23.234046",
+      "type": "modified",
+      "author": "Nicolo"
     }
   ],
   "typology": "Palais",
