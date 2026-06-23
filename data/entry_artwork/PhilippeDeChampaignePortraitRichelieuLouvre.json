@@ -1,0 +1,49 @@
+{
+  "id": "PhilippeDeChampaignePortraitRichelieuLouvre",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q15707397",
+  "entry_type": "artwork",
+  "title": "Portrait du cardinal de Richelieu",
+  "creator": [
+    {
+      "xml_id": "PhilippeDeChampaigne",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1639,
+    "endYear": 1639,
+    "text": "1639"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Musée du Louvre",
+      "place": "Paris",
+      "inventory_number": "INV 1136",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Portrait_of_Richelieu_by_Philippe_de_Champaigne_Louvre_INV_1136_n01.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, Coyau, (https://commons.wikimedia.org/wiki/File:Portrait_of_Richelieu_by_Philippe_de_Champaigne_Louvre_INV_1136_n01.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-23T16:24:37.343289",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {}
+}
