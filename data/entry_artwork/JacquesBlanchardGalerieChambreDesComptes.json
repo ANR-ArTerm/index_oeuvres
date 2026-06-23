@@ -2,7 +2,7 @@
   "id": "JacquesBlanchardGalerieChambreDesComptes",
   "QID_wikidata": "",
   "entry_type": "artwork",
-  "title": "Décor de la galerie de ",
+  "title": "Décor de la galerie des chambres des comptes",
   "creator": [],
   "dateCreated": {
     "startYear": null,
@@ -28,9 +28,14 @@
       "date": "2026-06-18T15:16:59.618917",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-23T14:52:44.918453",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 3,
   "materialsAndTechniques": null,
   "contained_by_ensemble": {}
 }
