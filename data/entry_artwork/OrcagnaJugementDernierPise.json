@@ -26,7 +26,15 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Last-judgement-buffalmacco-pisa-after-restoration.jpg",
+      "copyright": "Wikimédia Commons, CC BY-SA 4.0, r\tFederigo Federighi (https://fr.wikipedia.org/wiki/Fichier:Last-judgement-buffalmacco-pisa-after-restoration.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -34,7 +42,13 @@
       "date": "2026-01-13T17:10:20.885084",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-23T12:01:51.760638",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }
