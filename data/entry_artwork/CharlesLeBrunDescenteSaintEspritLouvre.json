@@ -1,0 +1,49 @@
+{
+  "id": "CharlesLeBrunDescenteSaintEspritLouvre",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q29848196",
+  "entry_type": "artwork",
+  "title": "La descente du Saint Esprit",
+  "creator": [
+    {
+      "xml_id": "CharlesLeBrun",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1656,
+    "endYear": 1657,
+    "text": "1656-1657"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Musée du Louvre",
+      "place": "Paris",
+      "inventory_number": "INV 2888 ; MR 1926",
+      "url": "https://collections.louvre.fr/ark:/53355/cl010060608"
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Le_Brun_La_Descente_du_saint_Esprit.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, VladoubidoOo, (https://commons.wikimedia.org/wiki/File:Le_Brun_La_Descente_du_saint_Esprit.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-23T18:57:52.055816",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {}
+}
