@@ -1,0 +1,30 @@
+{
+  "id": "CouventCarmelitesRueChapon",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q114080745",
+  "entry_type": "building",
+  "title": "Couvent des Carmélites (extention rue Chapon)",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1617,
+    "endYear": 1617,
+    "text": "1617"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "Le couvent fut supprimé en 1790 et l'église détruite pour y construire le théâtre du massacre de la rue Transnonain.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-23T11:54:28.796833",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "couvent",
+  "contained_by_ensemble": {}
+}
