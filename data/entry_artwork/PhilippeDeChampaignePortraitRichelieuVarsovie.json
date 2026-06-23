@@ -1,0 +1,49 @@
+{
+  "id": "PhilippeDeChampaignePortraitRichelieuVarsovie",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q22341734",
+  "entry_type": "artwork",
+  "title": "Portrait du cardinal de Richelieu",
+  "creator": [
+    {
+      "xml_id": "PhilippeDeChampaigne",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1640,
+    "endYear": 1640,
+    "text": "1640"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Musée national de Varsovie",
+      "place": "Varsovie",
+      "inventory_number": "M.Ob.651 et M.Ob.651 MNW",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Philippe_de_Champaigne_-_Portrait_of_cardinal_Richelieu_-_M.Ob.651_-_National_Museum_in_Warsaw.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, BotMultichillT, (https://commons.wikimedia.org/wiki/File:Philippe_de_Champaigne_-_Portrait_of_cardinal_Richelieu_-_M.Ob.651_-_National_Museum_in_Warsaw.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-23T16:57:13.893000",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {}
+}
