@@ -1,0 +1,49 @@
+{
+  "id": "CharlesLeBrunPassageGraniqueLouvre",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q29848329",
+  "entry_type": "artwork",
+  "title": "Le Passage du Granique ou la bataille du Granique",
+  "creator": [
+    {
+      "xml_id": "CharlesLeBrun",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1664,
+    "endYear": 1665,
+    "text": "1664-1665"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Musée du Louvre",
+      "place": "Paris",
+      "inventory_number": "INV 2894 ; MR 1915",
+      "url": "https://collections.louvre.fr/ark:/53355/cl010060586"
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Charles_Le_Brun%2C_Le_Passage_du_Granique%2C_1665.png?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, Hohum, ( https://commons.wikimedia.org/wiki/File:Charles_Le_Brun,_Le_Passage_du_Granique,_1665.png)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-24T10:40:58.015515",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {}
+}
