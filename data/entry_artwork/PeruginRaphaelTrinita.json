@@ -18,12 +18,12 @@
     "endYear": null,
     "text": ""
   },
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": null,
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": "",
-      "place": "",
+      "name": null,
+      "place": null,
       "inventory_number": "",
       "url": ""
     }
@@ -35,7 +35,15 @@
       "location": "p. 68"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Raffaello%2C_trinità_%281505-1508%29_e_santi_del_perugino_%281521%29%2C_01.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Sailko (https://commons.wikimedia.org/wiki/File:Raffaello,_trinità_(1505-1508)_e_santi_del_perugino_(1521),_01.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -43,7 +51,13 @@
       "date": "2026-01-15T16:40:40.192300",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-24T10:34:08.094841",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }
