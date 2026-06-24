@@ -28,7 +28,7 @@
     {
       "id": 0,
       "url": "data/images/106016001.jpg",
-      "storage": "local",
+      "storage": "online",
       "copyright": "CC BY-NC-SA 4.0, The Trustees of the British Museum",
       "caption": "The Cyclops Painter, Calyx-krater avec Polyphème dormant, environ 420-410 av. J.-C., pottery, London, British Museum (n. inv. 1947,0714.18) "
     }
@@ -40,6 +40,11 @@
       "date": "2026-05-07T12:28:29.696136",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-24T11:28:21.351838",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
   "materialsAndTechniques": "fresque",
