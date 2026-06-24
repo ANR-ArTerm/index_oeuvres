@@ -30,8 +30,8 @@
       "storage": "online"
     }
   ],
-  "description": "Le couvent des Minimes de Vincennes est un ancien couvent de l'Ordre des Minimes à l'emplacement de l'actuel Lac des Minimes du bois de Vincennes.",
-  "commentary": "",
+  "description": "Le couvent des Minimes de Vincennes est à l'emplacement de l'actuel Lac des Minimes du bois de Vincennes.",
+  "commentary": "Image sur Gallica BNF qui pourrait remplacer l'illustration 2 (sans légende douteuse) \nhttps://gallica.bnf.fr/ark:/12148/btv1b53046282g?rk=64378;0",
   "history": [
     {
       "date": "2026-06-17T18:52:52.634711",
@@ -40,6 +40,11 @@
     },
     {
       "date": "2026-06-18T09:09:55.527586",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-24T09:40:08.559171",
       "type": "modified",
       "author": "Jules"
     }
