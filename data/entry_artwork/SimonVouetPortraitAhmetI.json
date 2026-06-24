@@ -10,26 +10,44 @@
     }
   ],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1611,
+    "endYear": 1612,
+    "text": "1611-1612"
   },
   "location": {
     "type": "unlocated"
   },
   "related_works": [],
-  "bibliography": [],
-  "illustrations": [],
-  "description": "",
-  "commentary": "cette notice est à refaire ap mon passage en biblio",
+  "bibliography": [
+    {
+      "zotero_key": "thuillierjacquesVouetExpositionParis1990",
+      "location": "p 91-92"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "",
+      "copyright": "",
+      "caption": "",
+      "storage": "local"
+    }
+  ],
+  "description": "Les auteurs indiquent n'avoir pas encore identifié de portrait représentant du Grand Turc, Jacques Thuillier propose néanmoins d'attribuer à Simon Vouet un portrait dessiné de jeune turc que l'on propose pour illustrer notre propos. ",
+  "commentary": "",
   "history": [
     {
       "date": "2026-06-18T15:50:08.458904",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-24T15:23:04.541113",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 3,
   "materialsAndTechniques": null,
   "contained_by_ensemble": {}
 }
