@@ -9,7 +9,7 @@
     }
   ],
   "entry_type": "artwork",
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": null,
   "dateCreated": {
     "startYear": null,
     "endYear": null,
@@ -33,7 +33,13 @@
       "date": "2026-03-06T14:48:18.473002",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-24T10:28:05.974861",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 0,
+  "contained_by_ensemble": {}
 }
