@@ -1,0 +1,67 @@
+{
+  "id": "CharlesLeBrunEscalierDesAmbassadeursQuatreNationsVersailles",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Les différentes nations de l'Afrique, l'Amérique, l'Asie et l'Europe. ",
+  "creator": [
+    {
+      "xml_id": "CharlesLeBrun",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1679,
+    "endYear": 1679,
+    "text": "1679"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Les_diff%C3%A9rentes_Nations_de_l%27Afrique.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, EFLighthart, (https://commons.wikimedia.org/wiki/File:Les_diff%C3%A9rentes_Nations_de_l%27Afrique.jpg)",
+      "caption": "Les différentes Nations de l'Afrique,  1720, Louis Surugue (graveur) Louis Surugue (éditeur) d'après Charles Le Brun (peintre) d'après Jean-Michel Chevotet (dessinateur), eau-forte, château de Versailles."
+    },
+    {
+      "id": 1,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Les_diff%C3%A9rentes_Nations_de_l%27Asie.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, EFLighthart  (https://commons.wikimedia.org/wiki/File:Les_diff%C3%A9rentes_Nations_de_l%27Asie.jpg)",
+      "caption": "Les différentes Nations de l'Asie,  1720, Louis Surugue (graveur) Louis Surugue (éditeur) d'après Charles Le Brun (peintre) d'après Jean-Michel Chevotet (dessinateur), eau-forte, château de Versailles."
+    },
+    {
+      "id": 2,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Les_diff%C3%A9rentes_Nations_de_l%27Am%C3%A9rique.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, EFLighthart (https://fr.wikipedia.org/wiki/Fichier:Les_diff%C3%A9rentes_Nations_de_l%27Am%C3%A9rique.jpg)",
+      "caption": "Les différentes Nations de l'Amérique,  1720, Louis Surugue (graveur) Louis Surugue (éditeur) d'après Charles Le Brun (peintre) d'après Jean-Michel Chevotet (dessinateur), eau-forte, château de Versailles."
+    },
+    {
+      "id": 3,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Les_diff%C3%A9rentes_Nations_de_l%27Europe.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, EFLighthart, (https://fr.wikipedia.org/wiki/Fichier:Les_diff%C3%A9rentes_Nations_de_l%27Europe.jpg)",
+      "caption": "Les différentes Nations de l'Europe, 1720, \tAlexis II Loir (graveur) d'après Louis Surugue (graveur) d'après Charles Le Brun (peintre) Louis Surugue (éditeur) d'après Jean-Michel Chevotet (dessinateur), eau-forte, château de Versailles."
+    }
+  ],
+  "description": "L'escalier des Ambassadeurs fut finalement détruit en 1752, néanmoins, on conserve des gravures des galeries en trompe-l'oeil peintes par Charles Le Brun. ",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-24T11:46:05.195265",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {
+    "link_type": "appartient à l'ensemble",
+    "xml_id_work": "CharlesLeBrunEscalierDesAmbassadeursVersailles"
+  }
+}
