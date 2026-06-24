@@ -2,7 +2,7 @@
   "id": "CharlesLeBrunPlafondChambreMusesVauxVicomte",
   "QID_wikidata": "",
   "entry_type": "artwork",
-  "title": "Plafond de la chambre des Muses ou ",
+  "title": "Plafond de la chambre des Muses",
   "creator": [
     {
       "xml_id": "CharlesLeBrun",
@@ -41,9 +41,14 @@
       "date": "2026-06-23T19:09:36.429441",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-24T10:09:55.469495",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "materialsAndTechniques": "huile sur toile",
   "contained_by_ensemble": {}
 }
