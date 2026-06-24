@@ -29,7 +29,7 @@
     {
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Charles_Le_Brun_-_Alexander_and_Porus_-_WGA12530.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
-      "copyright": "Wikimédia Commons, Domaine Public (https://commons.wikimedia.org/wiki/File:Charles_Le_Brun_-_Alexander_and_Porus_-_WGA12530.jpg)",
+      "copyright": "Wikimédia Commons, Domaine Public, JarektUploadBot,(https://commons.wikimedia.org/wiki/File:Charles_Le_Brun_-_Alexander_and_Porus_-_WGA12530.jpg)",
       "caption": "",
       "storage": "online"
     }
@@ -46,9 +46,17 @@
       "date": "2026-06-24T09:52:04.552099",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-06-24T10:35:51.286639",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
   "status_entry": 1,
   "materialsAndTechniques": "huile sur toile",
-  "contained_by_ensemble": {}
+  "contained_by_ensemble": {
+    "link_type": "appartient à l'ensemble",
+    "xml_id_work": "CharlesLeBrunCycleHistoireAlexandre"
+  }
 }
