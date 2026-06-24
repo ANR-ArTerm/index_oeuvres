@@ -36,7 +36,7 @@
     }
   ],
   "description": "",
-  "commentary": "créer la notice wikidata",
+  "commentary": "",
   "history": [
     {
       "date": "2026-01-19T11:51:06.649858",
@@ -47,6 +47,11 @@
       "date": "2026-02-20T16:19:44.306795",
       "type": "modified",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-24T11:51:08.974055",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
   "contained_by_ensemble": {},
