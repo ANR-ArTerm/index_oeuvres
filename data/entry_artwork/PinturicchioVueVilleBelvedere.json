@@ -30,13 +30,13 @@
     {
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Pinturicchio%2C_veduta_di_citt%C3%A0%2C_museo_pio-clementino_%281488-1490_circa%29.jpg",
-      "copyright": "Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Pinturicchio,_veduta_di_citt%C3%A0,_museo_pio-clementino_(1488-1490_circa).jpg)",
+      "copyright": "Wikimedia Commons, Domaine Public (https://commons.wikimedia.org/wiki/File:Pinturicchio,_veduta_di_citt%C3%A0,_museo_pio-clementino_(1488-1490_circa).jpg)",
       "caption": "",
       "storage": "online"
     }
   ],
   "description": "",
-  "commentary": "créer la notice wikidata",
+  "commentary": "",
   "history": [
     {
       "date": "2026-01-19T11:51:06.649858",
@@ -47,6 +47,11 @@
       "date": "2026-02-20T16:19:44.306795",
       "type": "modified",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-24T11:55:12.926463",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "contained_by_ensemble": {},
