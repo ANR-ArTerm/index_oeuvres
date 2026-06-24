@@ -22,9 +22,14 @@
       "date": "2026-06-23T18:37:12.808577",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-24T09:31:54.451163",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "couvent",
   "contained_by_ensemble": {}
 }
