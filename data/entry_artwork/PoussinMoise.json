@@ -14,11 +14,11 @@
   },
   "related_works": [
     {
-      "link_type": "œuvre incertaine, peut-être à identifier avec",
+      "link_type": null,
       "xml_id_work": "PoussinMoiseLeNotre"
     },
     {
-      "link_type": "œuvre incertaine, peut-être à identifier avec",
+      "link_type": null,
       "xml_id_work": "PoussinMoisePointel"
     }
   ],
@@ -41,8 +41,14 @@
       "date": "2026-01-28T22:40:49.257261",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-24T15:07:07.727905",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "huile sur toile",
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }
