@@ -1,6 +1,6 @@
 {
   "id": "MichelAngeCascina",
-  "QID_wikidata": "https://www.wikidata.org/wiki/Q2236898",
+  "QID_wikidata": "",
   "entry_type": "artwork",
   "title": "Bataille de Cascina",
   "creator": [
@@ -39,6 +39,11 @@
     },
     {
       "date": "2026-06-24T10:22:24.908016",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-24T10:22:55.962996",
       "type": "modified",
       "author": "Jules"
     }
