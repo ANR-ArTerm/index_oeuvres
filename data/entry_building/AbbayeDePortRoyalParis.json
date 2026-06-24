@@ -43,9 +43,14 @@
       "date": "2026-06-23T17:17:57.979346",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-24T09:29:54.649779",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "abbaye",
   "contained_by_ensemble": {}
 }
