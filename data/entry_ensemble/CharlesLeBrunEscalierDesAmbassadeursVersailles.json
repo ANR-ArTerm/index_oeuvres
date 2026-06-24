@@ -1,0 +1,45 @@
+{
+  "id": "CharlesLeBrunEscalierDesAmbassadeursVersailles",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3057826",
+  "entry_type": "ensemble",
+  "title": "Escalier des Ambassadeurs",
+  "creator": [
+    {
+      "xml_id": "CharlesLeBrun",
+      "role": "peintre"
+    },
+    {
+      "xml_id": "FrancoisDOrbay",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1679,
+    "endYear": 1679,
+    "text": "1679"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Château de Versailles",
+      "place": "Versailles",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "L'escalier fut détruit en 1752 pour l'aménagement  des appartements privés de Louis XV et de ceux de sa fille Madame Adélaïde.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-24T11:04:46.905823",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "ensemble décoratif",
+  "contains_works": []
+}
