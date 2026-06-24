@@ -23,9 +23,9 @@
     {
       "id": 0,
       "url": "data/images/main-image.jpg",
-      "storage": "local",
+      "storage": "online",
       "copyright": "New York, Metropolitan Museum of Arts, inv.53.600.3163, (https://www.metmuseum.org/art/collection/search/376816)",
-      "caption": ""
+      "caption": "Figure de l'admiration."
     }
   ],
   "description": "",
@@ -34,6 +34,11 @@
     {
       "date": "2026-06-24T12:14:19.952943",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-06-24T12:15:24.566094",
+      "type": "modified",
       "author": "Carla"
     }
   ],
