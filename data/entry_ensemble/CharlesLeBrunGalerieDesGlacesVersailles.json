@@ -1,0 +1,41 @@
+{
+  "id": "CharlesLeBrunGalerieDesGlacesVersailles",
+  "QID_wikidata": "",
+  "entry_type": "ensemble",
+  "title": "Plafond de la Galerie des Glaçes",
+  "creator": [
+    {
+      "xml_id": "CharlesLeBrun",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1680,
+    "endYear": 1684,
+    "text": "1680-1684"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Château de Versailles",
+      "place": "Versailles",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-24T10:52:53.063217",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "ensemble décoratif",
+  "contains_works": []
+}
