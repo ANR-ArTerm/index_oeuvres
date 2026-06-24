@@ -20,7 +20,7 @@
   "related_works": [
     {
       "link_type": "appartient au même ensemble",
-      "xml_id_work": "BasiliqueSanLorenzoFirenze"
+      "xml_id_work": null
     }
   ],
   "bibliography": [
@@ -47,9 +47,14 @@
       "date": "2026-05-29T16:28:07.219105",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-24T14:11:24.842140",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "fresque",
-  "status_entry": 0,
+  "status_entry": 1,
   "contained_by_ensemble": {}
 }
