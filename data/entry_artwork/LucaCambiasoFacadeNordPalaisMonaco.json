@@ -27,7 +27,7 @@
   "bibliography": [],
   "illustrations": [],
   "description": "",
-  "commentary": "Pas d'image ni de data mais fresques existent encore ! Faut-il prendre les images sur un autre site ?",
+  "commentary": "Pas d'image ni de data mais fresques existent encore ! Faut-il prendre les images sur un autre site (https://revuedada.fr/palais-de-monaco-restauration-fresques/) ?\n",
   "history": [
     {
       "date": "2026-02-05T14:43:51.867586",
@@ -36,6 +36,11 @@
     },
     {
       "date": "2026-06-22T12:20:12.911176",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-24T10:15:34.593629",
       "type": "modified",
       "author": "Jules"
     }
