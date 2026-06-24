@@ -27,9 +27,40 @@
       "date": "2026-06-23T19:18:40.378262",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-24T10:47:12.620020",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
   "status_entry": 0,
   "typology": "cycle de peintures",
-  "contains_works": []
+  "contains_works": [
+    {
+      "link_type": "appartient à l'ensemble",
+      "xml_id_work": "CharlesLeBrunTenteDariusVersailles",
+      "link_types_contained": null
+    },
+    {
+      "link_type": "appartient à l'ensemble",
+      "xml_id_work": "CharlesLeBrunBatailleDArbellesLouvre",
+      "link_types_contained": null
+    },
+    {
+      "link_type": "appartient à l'ensemble",
+      "xml_id_work": "CharlesLeBrunAlexandrePorusLouvre",
+      "link_types_contained": null
+    },
+    {
+      "link_type": "appartient à l'ensemble",
+      "xml_id_work": "CharlesLeBrunPassageGraniqueLouvre",
+      "link_types_contained": null
+    },
+    {
+      "link_type": "appartient à l'ensemble",
+      "xml_id_work": "CharlesLeBrunEntreeAlexandreDansBabyloneLouvre",
+      "link_types_contained": null
+    }
+  ]
 }
