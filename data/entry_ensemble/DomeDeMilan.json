@@ -1,0 +1,52 @@
+{
+  "id": "DomeDeMilan",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q18068",
+  "entry_type": "ensemble",
+  "title": "Dôme de Milan",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1386,
+    "endYear": 1892,
+    "text": "entre XIVe et XIXe siècle"
+  },
+  "location": {
+    "type": "place",
+    "institution": {
+      "name": null,
+      "place": null,
+      "inventory_number": "",
+      "url": ""
+    },
+    "place": {
+      "city": "Milan",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Milan_Cathedral_from_Piazza_del_Duomo.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0,  Jiuguang Wang (https://commons.wikimedia.org/wiki/File:Milan_Cathedral_from_Piazza_del_Duomo.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-24T15:22:01.536209",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "dôme",
+  "contains_works": []
+}
