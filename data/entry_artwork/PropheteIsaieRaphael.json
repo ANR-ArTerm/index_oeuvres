@@ -44,7 +44,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Raffaello%2C_profeta_isaia.jpg",
       "storage": "online",
-      "copyright": "Public domain",
+      "copyright": "Wikimedia Commons, Public domain",
       "caption": ""
     }
   ],
@@ -55,9 +55,14 @@
       "date": "2026-06-19T17:46:23.991273",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-24T15:32:48.894974",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "materialsAndTechniques": "fresque",
   "contained_by_ensemble": {}
 }
