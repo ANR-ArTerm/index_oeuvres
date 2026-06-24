@@ -38,9 +38,14 @@
       "date": "2026-06-23T18:12:46.441258",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-24T09:42:05.391327",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": null,
   "contained_by_ensemble": {}
 }
