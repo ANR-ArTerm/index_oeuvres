@@ -14,12 +14,12 @@
     "endYear": null,
     "text": "Date de vie de Protogene = Seconde moitié du IVème siècle av J.-C."
   },
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": null,
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": "",
-      "place": "",
+      "name": null,
+      "place": null,
       "inventory_number": "",
       "url": ""
     }
@@ -39,7 +39,13 @@
       "date": "2026-01-13T13:51:53.710244",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-24T16:08:59.024182",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }
