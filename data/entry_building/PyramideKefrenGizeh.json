@@ -1,5 +1,5 @@
 {
-  "id": "PyramideKefrenGizeh",
+  "id": "PyramideKhephrenGizeh",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q208358",
   "entry_type": "building",
   "title": "Pyramide de Khéphren à Gizeh",
@@ -7,7 +7,7 @@
   "dateCreated": {
     "startYear": -2500,
     "endYear": -2400,
-    "text": "XXVIe siécle qv. J.-C."
+    "text": "XXVIe siécle av. J.-C."
   },
   "location": {
     "type": "place",
