@@ -10,9 +10,9 @@
     }
   ],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1636,
+    "endYear": 1636,
+    "text": "1636"
   },
   "location": {
     "type": "unlocated"
@@ -43,6 +43,11 @@
     },
     {
       "date": "2026-06-25T15:26:09.565827",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-06-25T15:27:33.086643",
       "type": "modified",
       "author": "Carla"
     }
