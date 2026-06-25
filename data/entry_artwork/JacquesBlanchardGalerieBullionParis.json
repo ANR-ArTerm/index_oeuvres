@@ -24,7 +24,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "thuillierjacquesJacquesBlanchard1998",
+      "location": ""
+    }
+  ],
   "illustrations": [],
   "description": "",
   "commentary": "Cette notice est quasi vide, c'est normal, je dois aller trouver les infos en biblio ! laissons-là en rouge nn contrôlée",
@@ -38,6 +43,11 @@
       "date": "2026-06-23T14:38:47.799007",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-06-25T17:51:11.976217",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
   "status_entry": 2,
