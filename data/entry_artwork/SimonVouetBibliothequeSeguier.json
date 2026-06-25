@@ -1,0 +1,43 @@
+{
+  "id": "SimonVouetBibliothequeSeguier",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Décor de la bibliothèque de l'hôtel Séguier",
+  "creator": [
+    {
+      "xml_id": "SimonVouet",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://apicollections.parismusees.paris.fr/sites/default/files/styles/4k/collections/atoms/images/CAR/aze_carg021036_001.jpg?itok=Gn2efTZg",
+      "storage": "online",
+      "copyright": "Paris, Musée Carnavalet, Histoire de Paris, inv. G.21036, (https://www.parismuseescollections.paris.fr/fr/musee-carnavalet/oeuvres/chapelle-de-l-hotel-seguier#infos-secondaires-detail)",
+      "caption": "Chapelle de l'Hôtel Séguier, Zaech Bernard, d'après Simon Vouet, XVIIeme siècle, estampe, Musée Carnavalet, Histoire de Paris.  "
+    }
+  ],
+  "description": "Simon Vouet conduisit de nombreux travaux de décoration pour Pierre Séguier, Président à mortier au Parlement de Paris, au sein de son hôtel particulier. Les décors disparurent progressivement après la mort du propriétaire? puis définitivement après Révolution française. Seules demeurent les estampes représentant la voûte de la chapelle conçue par Simon Vouet. Celles-ci illustrent l'ambition programmatique des décors conçus par Vouet. \n",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-25T15:16:32.107432",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": null,
+  "contained_by_ensemble": {}
+}
