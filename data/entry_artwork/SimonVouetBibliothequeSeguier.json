@@ -18,7 +18,12 @@
     "type": "unlocated"
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "thuillierjacquesVouetExpositionParis1990",
+      "location": "p. "
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -34,6 +39,11 @@
     {
       "date": "2026-06-25T15:16:32.107432",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-06-25T15:26:09.565827",
+      "type": "modified",
       "author": "Carla"
     }
   ],
