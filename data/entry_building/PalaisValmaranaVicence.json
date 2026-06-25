@@ -26,7 +26,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "PalladioOeuvreArchitecturale2001",
+      "location": "pp. 58-63"
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -57,5 +62,5 @@
   ],
   "typology": "Palais",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 8
 }
