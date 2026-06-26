@@ -1,0 +1,44 @@
+{
+  "id": "PeterCandidAegidiusSadelerQuatreDocteursEglise",
+  "QID_wikidata": "",
+  "entry_type": "ensemble",
+  "title": "Série des Quatre docteurs de l'Église",
+  "creator": [
+    {
+      "xml_id": "PeterCandid",
+      "role": "auteur du modèle"
+    },
+    {
+      "xml_id": "AegidiusSadeler",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1585,
+    "endYear": 1627,
+    "text": "1585-1627"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "hollsteinDutchFlemishEtchings1949",
+      "location": "Vol. 21, 22. "
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-26T12:17:00.292839",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "suite d'estampes",
+  "contains_works": []
+}
