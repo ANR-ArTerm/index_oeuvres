@@ -1,0 +1,49 @@
+{
+  "id": "BernaertVanOrleyJugementDernierAnvers",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q21615121",
+  "entry_type": "artwork",
+  "title": "Le Jugement dernier et les sept œuvres de miséricorde ",
+  "creator": [
+    {
+      "xml_id": "BernaertVanOrley",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1517,
+    "endYear": 1525,
+    "text": "1517-1525"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Musée royal des Beaux-Arts d'Anvers",
+      "place": "Anvers",
+      "inventory_number": "inv. 741",
+      "url": "https://kmska.be/fr/chefdoeuvre/le-jugement-dernier-et-la-septieme-oeuvre-de-misericorde-ensevelir-les-morts"
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Laatste_Oordeel_en_de_zeven_werken_van_barmhartigheid%2C_Bernard_van_Orley%2C_%281517-1525%29%2C_Koninklijk_Museum_voor_Schone_Kunsten_Antwerpen%2C_741-745.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, Sam.Donvil, (https://commons.wikimedia.org/wiki/File:Laatste_Oordeel_en_de_zeven_werken_van_barmhartigheid,_Bernard_van_Orley,_(1517-1525),_Koninklijk_Museum_voor_Schone_Kunsten_Antwerpen,_741-745.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-26T17:33:56.733187",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "huile sur bois",
+  "contained_by_ensemble": {}
+}
