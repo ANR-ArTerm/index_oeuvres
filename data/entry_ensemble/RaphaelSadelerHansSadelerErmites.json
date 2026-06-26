@@ -1,0 +1,39 @@
+{
+  "id": "RaphaelSadelerHansSadelerErmites",
+  "QID_wikidata": "",
+  "entry_type": "ensemble",
+  "title": "Les ermites ou Sylvae sacrae monumenta anachoretarum ",
+  "creator": [
+    {
+      "xml_id": "RaphaelSadeler",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "HansSadeler",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1593,
+    "endYear": 1594,
+    "text": "1593-1594"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-26T11:42:11.801727",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "suite d'estampes",
+  "contains_works": []
+}
