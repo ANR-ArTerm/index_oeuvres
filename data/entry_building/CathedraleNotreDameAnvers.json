@@ -1,0 +1,51 @@
+{
+  "id": "CathedraleNotreDameAnvers",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q5901",
+  "entry_type": "building",
+  "title": "Cathédrale Notre-Dame d'Anvers",
+  "creator": [
+    {
+      "xml_id": "RombautIIKeldermans",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1352,
+    "endYear": 1521,
+    "text": "1352-1521"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Anvers",
+      "country": "Belgique",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Antwerp_-_Cathedral_of_Our_Lady.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, APK, (https://commons.wikimedia.org/wiki/File:Antwerp_-_Cathedral_of_Our_Lady.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-26T17:53:25.113003",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "cathédrale",
+  "contained_by_ensemble": {}
+}
