@@ -24,16 +24,27 @@
   "related_works": [],
   "bibliography": [],
   "illustrations": [],
-  "description": "",
+  "description": "Cette série ",
   "commentary": "",
   "history": [
     {
       "date": "2026-06-26T11:42:11.801727",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-26T11:51:53.346104",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
   "status_entry": 0,
   "typology": "suite d'estampes",
-  "contains_works": []
+  "contains_works": [
+    {
+      "link_type": "appartient à l'ensemble",
+      "xml_id_work": "RaphaelSadelerHansSadelerJacobSylvaeSacraeMET",
+      "link_types_contained": null
+    }
+  ]
 }
