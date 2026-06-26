@@ -24,7 +24,7 @@
   "related_works": [],
   "bibliography": [],
   "illustrations": [],
-  "description": "Cette série ",
+  "description": "Cette série est une suite de 29 pièces.\n",
   "commentary": "",
   "history": [
     {
@@ -34,6 +34,11 @@
     },
     {
       "date": "2026-06-26T11:51:53.346104",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-06-26T11:55:18.608342",
       "type": "modified",
       "author": "Carla"
     }
