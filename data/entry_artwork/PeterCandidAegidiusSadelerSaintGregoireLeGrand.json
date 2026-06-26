@@ -1,0 +1,55 @@
+{
+  "id": "PeterCandidAegidiusSadelerSaintGregoireLeGrand",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Saint Grégoire le Grand",
+  "creator": [
+    {
+      "xml_id": "PeterCandid",
+      "role": "auteur du modèle"
+    },
+    {
+      "xml_id": "AegidiusSadeler",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1585,
+    "endYear": 1627,
+    "text": "1585-1627"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": null,
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_16/c809e0f4_2c4b_4848_8c8b_a3be0110618a/mid_00445754_001.jpg",
+      "storage": "online",
+      "copyright": "© The Trustees of the British Museum. Shared under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) licence.",
+      "caption": "British museum Londres, inv. 1863,0509.709, (https://www.britishmuseum.org/collection/object/P_1863-0509-709)"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-26T17:07:45.521063",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "gravure",
+  "contained_by_ensemble": {
+    "link_type": "appartient à l'ensemble",
+    "xml_id_work": "PeterCandidAegidiusSadelerQuatreDocteursEglise"
+  }
+}
