@@ -1,0 +1,49 @@
+{
+  "id": "QuintenMetsysDeplorationOttawa",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q59505242",
+  "entry_type": "artwork",
+  "title": "La Déploration sur le corps du Christ",
+  "creator": [
+    {
+      "xml_id": "QuintenMetsys",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1510,
+    "endYear": 1510,
+    "text": "1510"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "National Gallery of Canada",
+      "place": "Ottawa",
+      "inventory_number": "inv. 4942",
+      "url": "https://www.beaux-arts.ca/collection/artwork/la-deploration-du-christ-1"
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Quinten_Massys%2C_Circle_of_-_The_Lamentation%2C_c._1510%2C_4942.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, Maltaper, (https://commons.wikimedia.org/wiki/File:Quinten_Massys,_Circle_of_-_The_Lamentation,_c._1510,_4942.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "La déploration sur le corps du Christ est également connu comme le retable de la corporation des menuisiers dans la cathédrale Notre-Dame d'Anvers. ",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-26T18:13:17.493808",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "huile sur bois",
+  "contained_by_ensemble": {}
+}
