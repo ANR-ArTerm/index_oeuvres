@@ -22,7 +22,12 @@
     "type": "multiple_locations"
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "hollsteinDutchFlemishEtchings1949",
+      "location": "(Vol. 21, 22. )"
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -42,6 +47,11 @@
     },
     {
       "date": "2026-06-26T17:03:44.319096",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-06-26T17:13:54.061644",
       "type": "modified",
       "author": "Carla"
     }
