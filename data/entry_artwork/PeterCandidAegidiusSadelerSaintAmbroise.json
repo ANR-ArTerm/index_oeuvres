@@ -31,7 +31,7 @@
   "illustrations": [
     {
       "id": 0,
-      "url": "",
+      "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_16/560c8e07_c0df_4229_addb_a3be01105cc9/mid_00445751_001.jpg",
       "storage": "online",
       "copyright": "© The Trustees of the British Museum. Shared under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) licence.",
       "caption": "The British Museum, inv. 1863,0509.710, asset number 445751001, (https://www.britishmuseum.org/collection/object/P_1863-0509-710)"
@@ -43,6 +43,11 @@
     {
       "date": "2026-06-26T12:25:51.537360",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-06-26T16:56:46.443416",
+      "type": "modified",
       "author": "Carla"
     }
   ],
