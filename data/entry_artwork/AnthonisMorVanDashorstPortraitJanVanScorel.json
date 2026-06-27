@@ -1,0 +1,54 @@
+{
+  "id": "AnthonisMorVanDashorstPortraitJanVanScorel",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q118875484",
+  "entry_type": "artwork",
+  "title": "Portrait de Jan Van Scorel",
+  "creator": [
+    {
+      "xml_id": "AnthonisMorVanDashorst",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1560,
+    "endYear": 1560,
+    "text": "1560"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Burlington House",
+      "place": "Londres",
+      "inventory_number": "inv. LDSAL 338 ; Scharf XXXVIII ",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "max.j.friedlanderEarlyNetherlandishPainting1975",
+      "location": "p. 103, n°364"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Antonis_Mor_-_Jan_van_Scorel_%281495%E2%80%931562%29%2C_1559-1560%2C_LDSAL_338%3B_Scharf_XXXVIII.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, Maltaper (https://commons.wikimedia.org/wiki/File:Antonis_Mor_-_Jan_van_Scorel_(1495%E2%80%931562),_1559-1560,_LDSAL_338;_Scharf_XXXVIII.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-27T13:43:16.529941",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "huile sur bois",
+  "contained_by_ensemble": {}
+}
