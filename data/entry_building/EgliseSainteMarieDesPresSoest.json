@@ -1,0 +1,46 @@
+{
+  "id": "EgliseSainteMarieDesPresSoest",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1337464",
+  "entry_type": "building",
+  "title": "Église Sainte-Marie-des-Prés de Soest",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1313,
+    "endYear": 1890,
+    "text": "De 1313 jusqu'au XIXe siècle. "
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Soest",
+      "country": "Allemagne",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Soest.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Pibwl, (https://commons.wikimedia.org/wiki/File:Soest.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-27T13:00:57.403868",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "église",
+  "contained_by_ensemble": {}
+}
