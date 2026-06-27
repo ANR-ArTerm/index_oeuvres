@@ -1,5 +1,5 @@
 {
-  "id": "PieterCoeckeVanAelstVoyageConstantinople",
+  "id": "PieterCoeckeVanAelstMoeursFachonsDeFaireDeTurcz",
   "QID_wikidata": "",
   "entry_type": "ensemble",
   "title": "Le Voyage vers Constantinople",
@@ -37,12 +37,17 @@
       "caption": "Washington, DC, National Gallery of Art, inv. 1964.8.462, (https://www.nga.gov/artworks/47664-journey-constantinople)"
     }
   ],
-  "description": "Cette suite d'estampe fut publié de manière posthume par la veuve et seconde épouse, Maria Verhulst, de Pieter Coecke van Aelst.\n \n",
+  "description": "Cette suite de gravure sur bois fut publié de manière posthume par la veuve et seconde épouse, Maria Verhulst, de Pieter Coecke van Aelst.\n \n",
   "commentary": "",
   "history": [
     {
       "date": "2026-06-27T12:29:12.761677",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-06-27T12:53:33.974733",
+      "type": "modified",
       "author": "Carla"
     }
   ],
