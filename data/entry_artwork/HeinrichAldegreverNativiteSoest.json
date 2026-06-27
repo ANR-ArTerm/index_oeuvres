@@ -1,0 +1,49 @@
+{
+  "id": "HeinrichAldegreverNativiteSoest",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "La Nativité ou le retable Aldegrever",
+  "creator": [
+    {
+      "xml_id": "HeinrichAldegrever",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1526,
+    "endYear": 1527,
+    "text": "1526-1527"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Église Sainte-Marie-des-Prés de Soest",
+      "place": "Soest",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Soest_st_maria_zur_wiese_seitenkapelle.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Hpschaefer, (https://commons.wikimedia.org/wiki/File:Soest_st_maria_zur_wiese_seitenkapelle.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-27T13:28:59.361970",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "huile sur bois",
+  "contained_by_ensemble": {}
+}
