@@ -1,0 +1,43 @@
+{
+  "id": "PieterCoeckeVanAelstMoeursFachonsDeFaireDeTurcz",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q122870800",
+  "entry_type": "artwork",
+  "title": "Ces moeurs et fachons de faire de Turcz",
+  "creator": [
+    {
+      "xml_id": "PieterCoeckeVanAelst",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1553,
+    "endYear": 1553,
+    "text": "1553"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "",
+      "storage": "online",
+      "copyright": "",
+      "caption": "Amsterdam,  Rijksmuseum, inv. RP-P-OB-2304, (https://www.rijksmuseum.nl/nl/collectie/object/RP-P-OB-2304--f3458255d1f871646b3073e1821bcaf6)"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-27T12:51:38.758105",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "gravure sur bois",
+  "contained_by_ensemble": {}
+}
