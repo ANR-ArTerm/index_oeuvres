@@ -1,0 +1,48 @@
+{
+  "id": "HansHolbeinDeJongePortraitHenriVIIIEtSaFamille",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Portrait du roi Henri VIII et de sa famille",
+  "creator": [
+    {
+      "xml_id": "HansHolbeinDeJonge",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1536,
+    "endYear": 1543,
+    "text": "1536-1543"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "olivermillarTudorStuartEarly1963",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Family_of_Henry_VIII_c_1545.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, Ngc5195Mir, (https://commons.wikimedia.org/wiki/File:Family_of_Henry_VIII_c_1545.jpg?uselang=fr)",
+      "caption": "Copie d'après Holbein, Londres, Hampton Court Palace, inv. RCIN 405796, (https://www.rct.uk/collection/405796/the-family-of-henry-viii)"
+    }
+  ],
+  "description": "Anciennement attribué à Hans Holbein le Jeune, le tableau proposé ici comme illustration est aujourd'hui inventorié comme une copie d'après la version d'Holbein le Jeune. ",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-27T16:09:07.734621",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": null,
+  "contained_by_ensemble": {}
+}
