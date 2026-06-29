@@ -676,6 +676,7 @@
   "Democrite",
   "Demonax",
   "Demosthene",
+  "DenisAntoine",
   "DenisDeLaHaye",
   "DenisSauvage",
   "DenysAncien",
@@ -965,6 +966,7 @@
   "GeorgGeldorp",
   "GeorgPencz",
   "GeorgeVilliers",
+  "GeorgesCharmeton",
   "GeorgesDAmboise",
   "GeorgesDArmagnac",
   "GeorgesLallemand",
@@ -1128,6 +1130,7 @@
   "GiulioLicinio",
   "GiulioRomano",
   "GiuseppeArchimboldo",
+  "GiuseppeArcimboldo",
   "GiuseppeCesari",
   "GiuseppeMeda",
   "GiuseppeMoleti",
@@ -1547,6 +1550,7 @@
   "LouisIILerambert",
   "LouisIPhelypeauxDeLaVrilliere",
   "LouisIX",
+  "LouisLeVau",
   "LouisSavot",
   "LouisXI",
   "LouisXII",
@@ -2460,6 +2464,7 @@
   "Zorus",
   "Zuccaro",
   "ulan_500027513",
+<<<<<<< HEAD
   "Œnone",
   "LouisLeVau",
   "DenisAntoine",
@@ -2469,4 +2474,7 @@
   "LeoVonKlenze",
   "RombautIIKeldermans",
   "Hans Bock"
+=======
+  "Œnone"
+>>>>>>> 73c927a (modification notice LeonardAnghiari par Elisa 2026-06-29T11:04:06.640600)
 ]
