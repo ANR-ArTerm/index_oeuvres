@@ -35,7 +35,7 @@
     {
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Raphaels_Disputation_of_the_Holy_Sacrament.jpg",
-      "copyright": "",
+      "copyright": "Wikimédia Commons, Domaine Public ",
       "caption": "",
       "storage": "online"
     }
@@ -57,7 +57,13 @@
       "date": "2026-01-21T14:38:34.358352",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-29T17:30:08.441627",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }
