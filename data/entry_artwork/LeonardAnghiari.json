@@ -59,7 +59,7 @@
     }
   ],
   "description": "Ne reste que des copies de la fresque détruite en 1560\n",
-  "commentary": "",
+  "commentary": "Vérifier si l'illustration 3 est bien de Francesco Morandini ou de Léonard de Vinci ",
   "history": [
     {
       "date": "2026-01-15T16:40:40.163415",
@@ -90,8 +90,13 @@
       "date": "2026-06-18T09:42:19.360624",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-06-29T10:00:31.925519",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "contained_by_ensemble": {}
 }
