@@ -25,7 +25,15 @@
       "location": "n° 3 (4)"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Dieu_apparaissant_à_Noé_-_estampe_-_%28d%27après_Raphaël%29_%3B_%28Marc-Antoine_Raimondi%29_-_btv1b6953196d.jpg",
+      "copyright": "Wikimédia Commons, Domaine Public, (https://commons.wikimedia.org/wiki/File:Dieu_apparaissant_à_Noé_-_estampe_-_(d%27après_Raphaël)_;_(Marc-Antoine_Raimondi)_-_btv1b6953196d.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "Noé dans bartsch, abraham selon d'autres",
   "history": [
@@ -33,7 +41,13 @@
       "date": "2026-03-06T14:48:18.467714",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-29T16:05:48.158364",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }
