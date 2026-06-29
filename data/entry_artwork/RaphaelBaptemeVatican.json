@@ -41,8 +41,14 @@
       "date": "2026-02-03T14:45:49.827992",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-29T17:05:56.813576",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "fresque",
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }
