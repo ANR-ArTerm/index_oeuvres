@@ -20,7 +20,15 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP831905.jpg",
+      "copyright": "MET, Public Domain (https://www.metmuseum.org/art/collection/search/416042)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -33,8 +41,13 @@
       "date": "2026-06-29T10:51:07.172180",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-06-29T11:56:06.850834",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 2,
+  "status_entry": 1,
   "contained_by_ensemble": {}
 }
