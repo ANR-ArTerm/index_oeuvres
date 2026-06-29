@@ -19,14 +19,12 @@
     "text": "1508"
   },
   "location": {
-    "type": "place",
-    "place": {
-      "city": null,
-      "country": null,
-      "coordinates": {
-        "latitude": "",
-        "longitude": ""
-      }
+    "type": "holding_institution",
+    "institution": {
+      "name": null,
+      "place": "Venise",
+      "inventory_number": "",
+      "url": ""
     }
   },
   "related_works": [],
@@ -50,7 +48,7 @@
     }
   ],
   "description": "",
-  "commentary": "",
+  "commentary": "Fresques existent toujours mais détachées. Maintenant à la Ca' d'Oro (A vérifier)\n",
   "history": [
     {
       "date": "2026-04-10T19:04:02.402025",
@@ -86,9 +84,14 @@
       "date": "2026-06-19T19:45:21.627127",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-29T14:52:10.516668",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "typology": "ensemble décoratif",
+  "typology": "cycle de peintures",
   "contains_works": [],
-  "status_entry": 0
+  "status_entry": 1
 }
