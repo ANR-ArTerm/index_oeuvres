@@ -25,7 +25,15 @@
       "location": "n° 481 (357)"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP855117.jpg",
+      "copyright": "MET, Domain Public, https://www.metmuseum.org/art/collection/search/342682",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -43,8 +51,13 @@
       "date": "2026-06-29T11:00:52.739406",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-06-29T12:14:19.425100",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 2,
+  "status_entry": 0,
   "contained_by_ensemble": {}
 }
