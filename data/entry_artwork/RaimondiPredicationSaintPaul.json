@@ -25,7 +25,15 @@
       "location": "n° 44 (50)"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Marcantonio_-_St_Paul_at_left_preaching%2C_with_arms_upraised%2C_to_a_crowd_at_Athens%2C_1868%2C0822.28.jpg",
+      "copyright": "Wikimédia Commons, Domaine Public (https://commons.wikimedia.org/wiki/File:Marcantonio_-_St_Paul_at_left_preaching,_with_arms_upraised,_to_a_crowd_at_Athens,_1868,0822.28.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -33,7 +41,13 @@
       "date": "2026-03-06T14:48:18.468737",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-29T16:12:59.362329",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }
