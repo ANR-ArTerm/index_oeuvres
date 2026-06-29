@@ -25,7 +25,15 @@
       "location": "n° 352 (264)"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Raimondi_-_Quos_Ego%2C_DG1971361.jpg",
+      "copyright": "Wikimédia Commons, Domaine Public (https://commons.wikimedia.org/wiki/File:Raimondi_-_Quos_Ego,_DG1971361.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -33,7 +41,13 @@
       "date": "2026-03-06T14:48:18.466200",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-29T16:03:00.181642",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }
