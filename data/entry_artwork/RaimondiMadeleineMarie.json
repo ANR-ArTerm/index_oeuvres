@@ -9,7 +9,7 @@
     }
   ],
   "entry_type": "artwork",
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": null,
   "dateCreated": {
     "startYear": null,
     "endYear": null,
@@ -25,15 +25,29 @@
       "location": "n° 45 (51)"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP852720.jpg",
+      "copyright": "MET, Domaine Public, https://www.metmuseum.org/art/collection/search/342537",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
-  "commentary": "PROBLEME",
+  "commentary": "",
   "history": [
     {
       "date": "2026-03-06T14:48:18.470326",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-29T15:49:34.370118",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }
