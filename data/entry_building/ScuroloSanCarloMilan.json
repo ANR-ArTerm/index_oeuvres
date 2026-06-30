@@ -11,14 +11,6 @@
   },
   "location": {
     "type": "holding_institution",
-    "place": {
-      "city": null,
-      "country": null,
-      "coordinates": {
-        "latitude": "",
-        "longitude": ""
-      }
-    },
     "institution": {
       "name": "Dome de Milan",
       "place": "Milan",
@@ -27,7 +19,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "DuomoMilanoBorromeoTibaldi2011",
+      "location": "pp. 67-84"
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -37,16 +34,21 @@
       "caption": ""
     }
   ],
-  "description": "",
-  "commentary": "da aggiungere la descrizione, fa Nicolò",
+  "description": "Nel 1557 era stato creato un primo Scurolo, modificato e decorato nel 1572 su progetto di Pellegrino Tibaldi. Il nuovo Scurolo fu iniziato da Tibaldi nel 1577 ma l'architettura attuale corrisponde ai lavori iniziati nel 1606 sotto la direzione di Francesco Maria Richini, completata intorno al 1630 avec des interventions ultérieures.. ",
+  "commentary": "",
   "history": [
     {
       "date": "2026-06-29T17:49:27.571694",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-30T11:18:50.253026",
+      "type": "modified",
+      "author": "Nicolo"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 8,
   "typology": "Chapelle",
   "contained_by_ensemble": {
     "link_type": "appartient à l'ensemble",
