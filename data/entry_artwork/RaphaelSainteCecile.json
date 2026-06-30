@@ -35,7 +35,7 @@
     {
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Bologna_Pinacoteca_Nazionale_-_Rafa%C3%ABl_Santi_%281483-1520%29_-_Heilige_Cecilia_in_extase_met_Paulus%2C_Johannes_%28evangelist%29%2C_Augustinus_en_Maria_Magdalena_-_26-04-2012_9-13-18.jpg",
-      "copyright": "",
+      "copyright": "Wikimédia Commons, Public Domain (https://upload.wikimedia.org/wikipedia/commons/8/80/Bologna_Pinacoteca_Nazionale_-_Rafaël_Santi_%281483-1520%29_-_Heilige_Cecilia_in_extase_met_Paulus%2C_Johannes_%28evangelist%29%2C_Augustinus_en_Maria_Magdalena_-_26-04-2012_9-13-18.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original)",
       "caption": "",
       "storage": "online"
     }
@@ -62,7 +62,13 @@
       "date": "2026-01-19T16:18:29.845334",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-30T11:37:49.413308",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }
