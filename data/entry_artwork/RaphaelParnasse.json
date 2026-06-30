@@ -31,15 +31,7 @@
       "location": "p. 74"
     }
   ],
-  "illustrations": [
-    {
-      "id": 0,
-      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Rafael_-_El_Parnaso_%28Estancia_del_Sello%2C_Roma%2C_1511%29.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
-      "copyright": "Wikimédia Commons, Public Domain (https://commons.wikimedia.org/wiki/File:Rafael_-_El_Parnaso_(Estancia_del_Sello,_Roma,_1511).jpg)",
-      "caption": "",
-      "storage": "online"
-    }
-  ],
+  "illustrations": [],
   "description": "",
   "commentary": "",
   "history": [
@@ -55,6 +47,11 @@
     },
     {
       "date": "2026-06-30T11:08:39.255979",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-30T11:10:12.710591",
       "type": "modified",
       "author": "Jules"
     }
