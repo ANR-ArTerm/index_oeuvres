@@ -1,5 +1,5 @@
 {
-  "id": "ZucconeDonatello",
+  "id": "DonatelloZuccone",
   "QID_wikidata": "",
   "entry_type": "artwork",
   "title": "Prophète dit \"Zuccone\"",
@@ -40,6 +40,11 @@
     {
       "date": "2026-06-30T10:43:54.482689",
       "type": "created",
+      "author": "Julia"
+    },
+    {
+      "date": "2026-06-30T10:46:46.386906",
+      "type": "modified",
       "author": "Julia"
     }
   ],
