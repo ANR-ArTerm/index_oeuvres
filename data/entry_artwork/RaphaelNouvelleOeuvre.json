@@ -2,7 +2,7 @@
   "id": "RaphaelNouvelleOeuvre",
   "QID_wikidata": "",
   "entry_type": "artwork",
-  "title": "Nouvelel oeuvre",
+  "title": "Nouvelle oeuvre",
   "creator": [],
   "dateCreated": {
     "startYear": null,
@@ -13,7 +13,7 @@
     "type": "holding_institution",
     "institution": {
       "name": null,
-      "place": "",
+      "place": null,
       "inventory_number": "",
       "url": ""
     }
@@ -22,12 +22,17 @@
   "bibliography": [],
   "illustrations": [],
   "description": "",
-  "commentary": "",
+  "commentary": "A vérifier ",
   "history": [
     {
       "date": "2026-03-30T11:52:36.181048",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-30T11:13:43.180506",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": null,
