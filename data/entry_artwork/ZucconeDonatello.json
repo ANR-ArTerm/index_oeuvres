@@ -1,0 +1,49 @@
+{
+  "id": "ZucconeDonatello",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Prophète dit \"Zuccone\"",
+  "creator": [
+    {
+      "xml_id": "Donatello",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1434,
+    "endYear": 1436,
+    "text": "1434-1436"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Museo dell'Opera del Duomo",
+      "place": "Florence",
+      "inventory_number": "0900225682",
+      "url": "https://catalogo.duomo.firenze.it/operedarte/884"
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Zuccone_Donatello_OPA_Florence.jpg/330px-Zuccone_Donatello_OPA_Florence.jpg",
+      "storage": "online",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-30T10:43:54.482689",
+      "type": "created",
+      "author": "Julia"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "Sculpture en marbre",
+  "contained_by_ensemble": {}
+}
