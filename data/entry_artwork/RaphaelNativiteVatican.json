@@ -30,7 +30,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Loggia_di_raffaello%2C_13%2C_01.jpg",
       "storage": "online",
-      "copyright": "Domaine public, https://fr.wikipedia.org/wiki/Loggia_de_Rapha%C3%ABl#/media/Fichier:Loggia_di_raffaello,_13,_01.jpg",
+      "copyright": "Wikimédia Commons, Domaine public, https://fr.wikipedia.org/wiki/Loggia_de_Rapha%C3%ABl#/media/Fichier:Loggia_di_raffaello,_13,_01.jpg",
       "caption": ""
     }
   ],
@@ -41,8 +41,14 @@
       "date": "2026-02-03T14:33:39.450840",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-30T10:58:28.600091",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "fresque",
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }
