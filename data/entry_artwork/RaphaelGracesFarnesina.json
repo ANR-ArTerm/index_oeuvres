@@ -55,9 +55,14 @@
       "date": "2026-02-04T16:10:24.415181",
       "type": "modified",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-30T09:55:40.580947",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "fresque",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }
