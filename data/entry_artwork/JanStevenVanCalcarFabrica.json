@@ -1,0 +1,43 @@
+{
+  "id": "JanStevenVanCalcarFabrica",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1233009",
+  "entry_type": "artwork",
+  "title": "Illustration du De humani corporis fabrica",
+  "creator": [
+    {
+      "xml_id": "JanStevenVanCalcar",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1543,
+    "endYear": 1543,
+    "text": "\t 1543"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/De_humani_corporis_fabrica_%28Of_the_Structure_of_the_Human_Body%29_MET_DP357361.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC0 1.0, Pharos, (https://fr.wikipedia.org/wiki/Fichier:De_humani_corporis_fabrica_(Of_the_Structure_of_the_Human_Body)_MET_DP357361.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-26T18:20:11.468944",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "gravure sur bois",
+  "contained_by_ensemble": {}
+}

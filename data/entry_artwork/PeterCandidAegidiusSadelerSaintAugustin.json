@@ -1,0 +1,60 @@
+{
+  "id": "PeterCandidAegidiusSadelerSaintAugustin",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Saint Augustin",
+  "creator": [
+    {
+      "xml_id": "PeterCandid",
+      "role": "auteur du modèle"
+    },
+    {
+      "xml_id": "AegidiusSadeler",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1585,
+    "endYear": 1585,
+    "text": "1585-1627"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "hollsteinDutchFlemishEtchings1949",
+      "location": "(Vol. 21, 22. )"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_16/1ebd0b07_650d_48b1_ab90_a3be01106022/mid_00445753_001.jpg",
+      "storage": "online",
+      "copyright": "© The Trustees of the British Museum. Shared under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) licence.",
+      "caption": "British museum, inv. 1863,0509.711, (https://www.britishmuseum.org/collection/object/P_1863-0509-711)"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-26T17:11:20.289262",
+      "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-06-26T17:15:01.596862",
+      "type": "modified",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "gravure",
+  "contained_by_ensemble": {
+    "link_type": "appartient à l'ensemble",
+    "xml_id_work": "PeterCandidAegidiusSadelerQuatreDocteursEglise"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "PieterCoeckeVanAelstTentureSaintPaul",
+  "QID_wikidata": "",
+  "entry_type": "ensemble",
+  "title": "Tenture de l'histoire de saint Paul",
+  "creator": [
+    {
+      "xml_id": "PieterCoeckeVanAelst",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1530,
+    "endYear": 1535,
+    "text": "1530-1535"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "clelandelizabethahPieterCoeckeVan2014",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Pieter_Coecke_van_Aelst%2C_Martyrdom_of_Paul%2C_17th_century%2C_Museum_of_the_City_of_Brussels.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, Karmakolle, (https://commons.wikimedia.org/wiki/File:Pieter_Coecke_van_Aelst,_Martyrdom_of_Paul,_17th_century,_Museum_of_the_City_of_Brussels.jpg)",
+      "caption": "Musée de la ville de Bruxelles, Le Martyre de saint Paul ou Décollation de saint Paul, (https://collections.heritage.brussels/fr/objects/36754) "
+    }
+  ],
+  "description": "L'histoire de Saint Paul se divise en 9 épisode, le martyre de saint Paul étant le dernier. \n",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-26T19:18:16.170743",
+      "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-06-27T12:08:02.262380",
+      "type": "modified",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Tenture",
+  "contains_works": []
+}

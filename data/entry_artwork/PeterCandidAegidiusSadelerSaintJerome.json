@@ -1,0 +1,65 @@
+{
+  "id": "PeterCandidAegidiusSadelerSaintJerome",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Saint Jérôme",
+  "creator": [
+    {
+      "xml_id": "PeterCandid",
+      "role": "auteur du modèle"
+    },
+    {
+      "xml_id": "AegidiusSadeler",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1585,
+    "endYear": 1627,
+    "text": "1585-1627"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "hollsteinDutchFlemishEtchings1949",
+      "location": "(Vol. 21, 22. )"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_16/f7cabcf7_8e72_4a24_b40a_a3be0110757c/mid_00445763_001.jpg",
+      "copyright": "© The Trustees of the British Museum. Shared under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) licence.",
+      "caption": "British Museum Londres, inv. 1863,0509.712, (https://www.britishmuseum.org/collection/object/P_1863-0509-712?selectedImageId=445763001)",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-26T16:58:41.158658",
+      "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-06-26T17:03:44.319096",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-06-26T17:13:54.061644",
+      "type": "modified",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "gravure",
+  "contained_by_ensemble": {
+    "link_type": "appartient à l'ensemble",
+    "xml_id_work": "PeterCandidAegidiusSadelerQuatreDocteursEglise"
+  }
+}

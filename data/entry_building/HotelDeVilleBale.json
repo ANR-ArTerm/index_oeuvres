@@ -1,0 +1,55 @@
+{
+  "id": "HotelDeVilleBale",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q688984",
+  "entry_type": "building",
+  "title": "Hôtel de ville de Bâle",
+  "creator": [
+    {
+      "xml_id": "Hans Bock",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "HansHolbeinDeJonge",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1504,
+    "endYear": 1514,
+    "text": "1504-1514"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Bâle",
+      "country": "Suisse",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/BaselHaus2008.JPG",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Joergsam, (https://commons.wikimedia.org/wiki/File:BaselHaus2008.JPG)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-27T13:53:10.298110",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Hôtel de ville",
+  "contained_by_ensemble": {}
+}

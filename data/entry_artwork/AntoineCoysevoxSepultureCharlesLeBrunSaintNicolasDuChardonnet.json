@@ -1,0 +1,49 @@
+{
+  "id": "AntoineCoysevoxSepultureCharlesLeBrunSaintNicolasDuChardonnet",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Sépulture de Charles Le Brun",
+  "creator": [
+    {
+      "xml_id": "AntoineCoysevox",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1690,
+    "endYear": 1690,
+    "text": "1690"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Église Saint-Nicolas du Chardonnet",
+      "place": "Paris",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/P1340943_Paris_V_eglise_Chardonnet_Lebrun_rwk.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Mbzt (https://commons.wikimedia.org/wiki/File:P1340943_Paris_V_eglise_Chardonnet_Lebrun_rwk.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-24T12:05:57.034840",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "sculpture",
+  "contained_by_ensemble": {}
+}

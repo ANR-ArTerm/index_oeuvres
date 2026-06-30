@@ -1,0 +1,48 @@
+{
+  "id": "DurerTroisGracesOuQuatreSorcieres",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q7735048",
+  "entry_type": "artwork",
+  "title": "Les Quatre Sorcières ou les Trois Grâces ou Quatre femmes nues",
+  "creator": [
+    {
+      "xml_id": "AlbrechtDurer",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1497,
+    "endYear": 1497,
+    "text": "1497"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "dunandThemeTroisGraces1974",
+      "location": "p. 233-258"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Albrecht_D%C3%BCrer%2C_Four_Naked_Women%2C_1497%2C_NGA_6580.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, Brwz, (https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer,_Four_Naked_Women,_1497,_NGA_6580.jpg)",
+      "caption": "Washington, D.C., National Gallery of Art, inv. 1943.3.3462."
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-25T18:21:26.158889",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "gravure sur cuivre",
+  "contained_by_ensemble": {}
+}

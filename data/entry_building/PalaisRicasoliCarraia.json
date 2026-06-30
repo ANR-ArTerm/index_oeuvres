@@ -3,16 +3,7 @@
   "QID_wikidata": "https://www.wikidata.org/wiki/Q3890759",
   "entry_type": "building",
   "title": "Palais Ricasoli à Ponte alla Carraia",
-  "creator": [
-    {
-      "xml_id": null,
-      "role": "architecte"
-    },
-    {
-      "xml_id": null,
-      "role": "architecte"
-    }
-  ],
+  "creator": [],
   "dateCreated": {
     "startYear": null,
     "endYear": null,

@@ -7,6 +7,10 @@
     {
       "xml_id": "Raphael",
       "role": "auteur du modèle"
+    },
+    {
+      "xml_id": "PieterCoeckeVanAelst",
+      "role": "Lissier"
     }
   ],
   "dateCreated": {
@@ -45,6 +49,16 @@
     {
       "date": "2026-02-04T14:53:08.533965",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-06-26T19:10:07.057986",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-06-26T19:19:22.351335",
+      "type": "modified",
       "author": "Carla"
     }
   ],

@@ -1,0 +1,56 @@
+{
+  "id": "ResidenceMunich",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q686548",
+  "entry_type": "building",
+  "title": "La Résidence de Munich",
+  "creator": [
+    {
+      "xml_id": "LeoVonKlenze",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1190,
+    "endYear": 1870,
+    "text": "fin du XIIe-1870. Apogée en 1826."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Munich",
+      "country": "Allemagne",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/M%C3%BCnchner_Residenz_2014-08-02_Pano.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, MagentaGreen (https://commons.wikimedia.org/wiki/File:M%C3%BCnchner_Residenz_2014-08-02_Pano.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-25T19:27:17.532805",
+      "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-06-26T11:27:23.878862",
+      "type": "modified",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Palais",
+  "contained_by_ensemble": {}
+}

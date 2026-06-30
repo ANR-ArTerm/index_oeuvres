@@ -1,0 +1,48 @@
+{
+  "id": "CharlesLeBrunExpressionsDesPassionDeLAme",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Expressions des passions de l'Âme",
+  "creator": [
+    {
+      "xml_id": "CharlesLeBrun",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1732,
+    "endYear": 1732,
+    "text": "1732"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "data/images/main-image.jpg",
+      "storage": "online",
+      "copyright": "New York, Metropolitan Museum of Arts, inv.53.600.3163, (https://www.metmuseum.org/art/collection/search/376816)",
+      "caption": "Figure de l'admiration."
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-24T12:14:19.952943",
+      "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-06-24T12:15:24.566094",
+      "type": "modified",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "gravure",
+  "contained_by_ensemble": {}
+}

@@ -1,0 +1,43 @@
+{
+  "id": "DurerTriompheMaximilienI",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1300406",
+  "entry_type": "artwork",
+  "title": "Arc de triomphe de Maximilien",
+  "creator": [
+    {
+      "xml_id": "AlbrechtDurer",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1512,
+    "endYear": 1515,
+    "text": "1512-1515"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Albrecht_D%C3%BCrer%2C_The_Triumphal_Arch_of_Maximilian%2C_1515_%281799_edition%29%2C_NGA_76935.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, Brwz, (https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer,_The_Triumphal_Arch_of_Maximilian,_1515_(1799_edition),_NGA_76935.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-25T19:16:38.568136",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "gravure sur bois",
+  "contained_by_ensemble": {}
+}

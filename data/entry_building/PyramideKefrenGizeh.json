@@ -1,0 +1,46 @@
+{
+  "id": "PyramideKhephrenGizeh",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q208358",
+  "entry_type": "building",
+  "title": "Pyramide de Khéphren à Gizeh",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -2500,
+    "endYear": -2400,
+    "text": "XXVIe siécle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Gizeh",
+      "country": "Egypte",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Flickr_-_MrSnooks_-_Cairo%2C_Egypt_%289%29.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 2.0, Ben Snooks (https://commons.wikimedia.org/wiki/File:Flickr_-_MrSnooks_-_Cairo,_Egypt_(9).jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-25T16:08:54.943374",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "pyramide",
+  "contained_by_ensemble": {}
+}

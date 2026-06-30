@@ -1,0 +1,46 @@
+{
+  "id": "PyramideKheopsGizeh",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q37200",
+  "entry_type": "building",
+  "title": "Pyramide de Khéops à Gizeh",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -2500,
+    "endYear": -2400,
+    "text": "XXVIe siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Gizeh",
+      "country": "Egypte",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Kheops-Pyramid.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Nina Aldin Thune (https://commons.wikimedia.org/wiki/File:Kheops-Pyramid.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-25T16:13:21.144155",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "pyramide",
+  "contained_by_ensemble": {}
+}

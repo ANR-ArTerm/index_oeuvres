@@ -1,0 +1,62 @@
+{
+  "id": "PieterCoeckeVanAelstMoeursFachonsDeFaireDeTurcz",
+  "QID_wikidata": "",
+  "entry_type": "ensemble",
+  "title": "Le Voyage vers Constantinople",
+  "creator": [
+    {
+      "xml_id": "PieterCoeckeVanAelst",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1553,
+    "endYear": 1553,
+    "text": "1553"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "hollsteinDutchFlemishEtchings1949",
+      "location": "Vol. 4"
+    },
+    {
+      "zotero_key": "alsteensDrawingsPieterCoecke2014",
+      "location": "p 275. "
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://api.nga.gov/iiif/6de09f58-2603-4dfb-95a1-a6e655692912/full/!800,800/0/default.jpg",
+      "storage": "online",
+      "copyright": "Washington, DC, National Gallery of Art, CC0 1.0, ",
+      "caption": "Washington, DC, National Gallery of Art, inv. 1964.8.462, (https://www.nga.gov/artworks/47664-journey-constantinople)"
+    }
+  ],
+  "description": "Cette suite de gravure sur bois fut publié de manière posthume par la veuve et seconde épouse, Maria Verhulst, de Pieter Coecke van Aelst.\n \n",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-27T12:29:12.761677",
+      "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-06-27T12:53:33.974733",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-06-27T12:57:39.674002",
+      "type": "modified",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "suite d'estampes",
+  "contains_works": []
+}
