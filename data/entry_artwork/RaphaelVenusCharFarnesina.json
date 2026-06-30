@@ -22,7 +22,7 @@
     "type": "holding_institution",
     "institution": {
       "name": "Villa Farnesina",
-      "place": "",
+      "place": null,
       "inventory_number": "",
       "url": ""
     }
@@ -65,6 +65,11 @@
       "date": "2026-02-04T16:38:31.303093",
       "type": "modified",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-30T12:08:17.169484",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "fresque",
@@ -72,5 +77,5 @@
     "link_type": "appartient à l'ensemble",
     "xml_id_work": "LoggiaPsyche"
   },
-  "status_entry": 0
+  "status_entry": 1
 }
