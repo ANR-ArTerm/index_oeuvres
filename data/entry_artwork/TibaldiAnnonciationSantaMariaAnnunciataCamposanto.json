@@ -1,0 +1,58 @@
+{
+  "id": "TibaldiAnnonciationSantaMariaAnnunciataCamposanto",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Annonciation à Santa Maria Annunciata in Camposanto à Milan",
+  "creator": [
+    {
+      "xml_id": "VincenzoSeregni",
+      "role": "auteur du modèle"
+    },
+    {
+      "xml_id": "Pellegrino Tibaldi",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1570,
+    "endYear": 1600,
+    "text": "deuxième moitié du XVIe siècle"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "EgliseSantaMariaAnnunciataCamposantoMilan",
+      "place": "Milan",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "œuvre associée",
+      "xml_id_work": "DomeDeMilan"
+    }
+  ],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/S_Maria_Annunciata_in_Camposanto%2C_altar_maggiore_LU06112.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Lalupa (https://commons.wikimedia.org/wiki/File:S_Maria_Annunciata_in_Camposanto,_altar_maggiore_LU06112.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "Le bas-relief avait été initialement conçu pour le portail du Dome de Milan. Il a été déplacé sur l'autel de l'église Santa Maria Annunciata in Camposanto au XVIIe siècle.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-30T16:56:46.672198",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "Bas-relief",
+  "contained_by_ensemble": {}
+}
