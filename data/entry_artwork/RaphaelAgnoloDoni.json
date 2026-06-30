@@ -25,7 +25,15 @@
       "location": "n° 45 A"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Agnolo_Doni%27s_portrait_paintings_by_Raffaello_Sanzio.jpg",
+      "copyright": "Wikimédia Commons, Domaine Public (https://commons.wikimedia.org/wiki/File:Agnolo_Doni%27s_portrait_paintings_by_Raffaello_Sanzio.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -33,7 +41,13 @@
       "date": "2026-01-15T16:40:40.197370",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-30T08:53:25.390028",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }
