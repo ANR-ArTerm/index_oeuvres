@@ -1,5 +1,5 @@
 {
-  "id": "SainteMariePaixRome",
+  "id": "EgliseSainteMariePaixRome",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q1514683",
   "entry_type": "building",
   "title": "Église Sainte-Marie-de-la-Paix",
@@ -83,6 +83,11 @@
       "date": "2026-06-19T17:40:22.244410",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-30T17:50:00.743455",
+      "type": "modified",
+      "author": "Nicolo"
     }
   ],
   "status_entry": 1,
