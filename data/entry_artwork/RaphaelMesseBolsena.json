@@ -35,7 +35,7 @@
     {
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Massatbolsena.jpg",
-      "copyright": "",
+      "copyright": "Wikimédia Commons, Public Domain (https://commons.wikimedia.org/wiki/File:Massatbolsena.jpg)",
       "caption": "",
       "storage": "online"
     }
@@ -57,7 +57,13 @@
       "date": "2026-01-14T10:09:18.984996",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-30T10:56:06.238258",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }
