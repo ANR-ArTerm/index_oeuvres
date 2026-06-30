@@ -50,8 +50,13 @@
       "date": "2026-04-15T10:35:57.038733",
       "type": "modified",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-24T17:11:01.607704",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }

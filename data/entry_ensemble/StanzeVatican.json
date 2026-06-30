@@ -27,7 +27,7 @@
   "related_works": [
     {
       "link_type": "appartient au même ensemble",
-      "xml_id_work": "SalleConstantinVatican"
+      "xml_id_work": null
     },
     {
       "link_type": "appartient au même ensemble",
@@ -52,28 +52,28 @@
     {
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Raphael_Charlemagne.jpg",
-      "copyright": "Public domain",
+      "copyright": "Wikimedia Commons, Public domain",
       "caption": "",
       "storage": "online"
     },
     {
       "id": 1,
       "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Raffael_Stanza_della_Segnatura.jpg",
-      "copyright": "Public domain",
+      "copyright": "Wikimedia Commons, Public domain",
       "caption": "",
       "storage": "online"
     },
     {
       "id": 2,
       "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Raffael_Staza_di_Eliodoro.jpg",
-      "copyright": "Public domain",
+      "copyright": "Wikimédia Commons, Public domain",
       "caption": "",
       "storage": "online"
     },
     {
       "id": 3,
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Sala_di_costantino%2C_veduta_01.jpg/960px-Sala_di_costantino%2C_veduta_01.jpg",
-      "copyright": "",
+      "copyright": "Wikimédia Commons, Public Domain ",
       "caption": "",
       "storage": "online"
     }
@@ -90,6 +90,11 @@
       "date": "2026-05-06T12:42:22.297045",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-24T15:42:45.123023",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "contains_works": [
@@ -99,5 +104,5 @@
       "link_types_contained": null
     }
   ],
-  "status_entry": 0
+  "status_entry": 1
 }

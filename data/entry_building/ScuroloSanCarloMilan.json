@@ -1,0 +1,57 @@
+{
+  "id": "ScuroloSanCarloMilan",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q124962520",
+  "entry_type": "building",
+  "title": "Scurolo de San Carlo Dome de Milan",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1606,
+    "endYear": 1817,
+    "text": "entre XVIIe et XIXe siècle"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Dome de Milan",
+      "place": "Milan",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "DuomoMilanoBorromeoTibaldi2011",
+      "location": "pp. 67-84"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Scurolo_of_Saint_Carlo.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Carlo Dell'Orto (https://commons.wikimedia.org/wiki/File:Scurolo_of_Saint_Carlo.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "Nel 1557 era stato creato un primo Scurolo, modificato e decorato nel 1572 su progetto di Pellegrino Tibaldi. Il nuovo Scurolo fu iniziato da Tibaldi nel 1577 ma l'architettura attuale corrisponde ai lavori iniziati nel 1606 sotto la direzione di Francesco Maria Richini, completata intorno al 1630 avec des interventions ultérieures.. ",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-29T17:49:27.571694",
+      "type": "created",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-30T11:18:50.253026",
+      "type": "modified",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 8,
+  "typology": "Chapelle",
+  "contained_by_ensemble": {
+    "link_type": "appartient à l'ensemble",
+    "xml_id_work": "DomeDeMilan"
+  }
+}

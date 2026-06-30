@@ -59,8 +59,13 @@
       "date": "2026-05-06T15:55:15.025579",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-29T10:43:09.339620",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }

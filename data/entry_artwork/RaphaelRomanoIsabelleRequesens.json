@@ -39,7 +39,7 @@
     {
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Portrait_de_Jeanne_d%27Aragon%2C_by_Raffaello_Sanzio%2C_from_C2RMF.jpg/960px-Portrait_de_Jeanne_d%27Aragon%2C_by_Raffaello_Sanzio%2C_from_C2RMF.jpg",
-      "copyright": "Wikimedia Commons, https://commons.wikimedia.org/wiki/File:Portrait_de_Jeanne_d%27Aragon,_by_Raffaello_Sanzio,_from_C2RMF.jpg",
+      "copyright": "Wikimedia Commons, Public Domain, https://commons.wikimedia.org/wiki/File:Portrait_de_Jeanne_d%27Aragon,_by_Raffaello_Sanzio,_from_C2RMF.jpg",
       "caption": "",
       "storage": "online"
     }
@@ -66,8 +66,13 @@
       "date": "2026-03-30T11:47:10.906646",
       "type": "modified",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-30T11:21:37.628110",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }

@@ -2,7 +2,7 @@
   "id": "ProcessionTriomphaleMaximilienDurer",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q1797620",
   "entry_type": "artwork",
-  "title": "Procession Triomphale de l'empereur Maximilien Ie",
+  "title": "Procession Triomphale de l'empereur Maximilien ",
   "creator": [
     {
       "xml_id": "AlbrechtDurer",
@@ -49,9 +49,14 @@
       "date": "2026-06-17T16:07:29.910822",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-24T15:31:51.252244",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "materialsAndTechniques": "xylographie",
   "contained_by_ensemble": {}
 }

@@ -24,14 +24,14 @@
     },
     {
       "id": 1,
-      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Couvent_des_Minimes_sur_plan_des_chasses_du_roi.png",
-      "copyright": "Wikimedia Commons, CC BY-SA 4.0, VVVCFFrance (https://commons.wikimedia.org/wiki/File:Couvent_des_Minimes_sur_plan_des_chasses_du_roi.png)",
-      "caption": "Couvent des Minimes sur plan des chasses du roi Travail personnel d'après carte des Chasses du Roi sur Gallica BNF",
-      "storage": "online"
+      "url": "data\\images\\Plan_général_du_Chasteau_Jardins_[...]_btv1b53046282g.JPEG",
+      "copyright": "Gallica ",
+      "caption": "http://catalogue.bnf.fr/ark:/12148/cb402689323",
+      "storage": "local"
     }
   ],
   "description": "Le couvent des Minimes de Vincennes est à l'emplacement de l'actuel Lac des Minimes du bois de Vincennes.",
-  "commentary": "Image sur Gallica BNF qui pourrait remplacer l'illustration 2 (sans légende douteuse) \nhttps://gallica.bnf.fr/ark:/12148/btv1b53046282g?rk=64378;0",
+  "commentary": "",
   "history": [
     {
       "date": "2026-06-17T18:52:52.634711",
@@ -47,9 +47,14 @@
       "date": "2026-06-24T09:40:08.559171",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-06-29T10:24:00.853437",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "monument imaginaire ou disparu",
   "contained_by_ensemble": {}
 }

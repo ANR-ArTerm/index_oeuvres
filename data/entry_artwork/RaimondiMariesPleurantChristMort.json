@@ -25,15 +25,29 @@
       "location": "n° 37 (43)"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Marcantonio_Raimondi_-_Lamentation_-_WGA18977.jpg",
+      "copyright": "Wikimédia Commons, Public Domain (https://commons.wikimedia.org/wiki/File:Marcantonio_Raimondi_-_Lamentation_-_WGA18977.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
-  "commentary": "PROBLEME",
+  "commentary": "",
   "history": [
     {
       "date": "2026-03-06T14:48:18.470933",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-29T15:53:10.360760",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }

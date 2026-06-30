@@ -92,7 +92,13 @@
       "date": "2026-01-19T14:21:53.370706",
       "type": "modified",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-29T17:06:57.633976",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }

@@ -39,7 +39,7 @@
       "id": 0,
       "url": " https://upload.wikimedia.org/wikipedia/commons/c/c6/Sistina_con_arazzi.jpg",
       "storage": "online",
-      "copyright": "Domaine public, https://commons.wikimedia.org/wiki/File:Sistina_con_arazzi.jpg",
+      "copyright": "Wikimédia Commons, Domaine public, https://commons.wikimedia.org/wiki/File:Sistina_con_arazzi.jpg",
       "caption": ""
     }
   ],
@@ -60,9 +60,14 @@
       "date": "2026-06-26T19:19:22.351335",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-30T12:05:10.434536",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "Tapisserie",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }

@@ -9,7 +9,7 @@
     }
   ],
   "entry_type": "artwork",
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": null,
   "dateCreated": {
     "startYear": null,
     "endYear": null,
@@ -25,7 +25,15 @@
       "location": "n° 501-I (372) à 512-I (374)"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP870061.jpg",
+      "copyright": "MTE, Public Domain, https://www.metmuseum.org/art/collection/search/345684",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -33,7 +41,18 @@
       "date": "2026-03-06T14:48:18.469880",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-29T10:48:45.602526",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-29T11:36:44.465447",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }

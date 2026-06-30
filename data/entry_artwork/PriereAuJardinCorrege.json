@@ -35,7 +35,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Oración_en_el_huerto_%28Correggio%29.jpg?_=20160403220208",
       "storage": "online",
-      "copyright": "Public domain",
+      "copyright": "Wikimedia Commons, Public domain",
       "caption": ""
     }
   ],
@@ -56,9 +56,14 @@
       "date": "2026-06-17T16:15:37.462081",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-24T15:30:00.701253",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "materialsAndTechniques": "huile sur toile",
   "contained_by_ensemble": {}
 }

@@ -35,7 +35,7 @@
     {
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg",
-      "copyright": "",
+      "copyright": "Wikimédia Commons, Domaine Public (https://commons.wikimedia.org/wiki/File:\"The_School_of_Athens\"_by_Raffaello_Sanzio_da_Urbino.jpg)",
       "caption": "",
       "storage": "online"
     }
@@ -62,7 +62,13 @@
       "date": "2026-01-21T12:47:45.499067",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-30T09:21:50.494628",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }

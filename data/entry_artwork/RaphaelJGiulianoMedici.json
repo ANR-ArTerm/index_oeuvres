@@ -14,12 +14,12 @@
     "endYear": null,
     "text": ""
   },
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": null,
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": "",
-      "place": "",
+      "name": null,
+      "place": null,
       "inventory_number": "",
       "url": "https://www.metmuseum.org/fr/art/collection/search/437373"
     }
@@ -31,7 +31,15 @@
       "location": "n° A22"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DP265692.jpg",
+      "copyright": "MET, Public Domain (https://www.metmuseum.org/art/collection/search/437373)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -39,7 +47,13 @@
       "date": "2026-01-15T16:40:40.294568",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-30T10:23:41.130140",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }

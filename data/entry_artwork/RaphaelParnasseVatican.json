@@ -46,7 +46,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rafael_-_El_Parnaso_%28Estancia_del_Sello%2C_Roma%2C_1511%29.jpg/3840px-Rafael_-_El_Parnaso_%28Estancia_del_Sello%2C_Roma%2C_1511%29.jpg",
       "storage": "online",
-      "copyright": "Public domain",
+      "copyright": "Wikimédia Commons, Public domain (https://commons.wikimedia.org/wiki/File:Rafael_-_El)_Parnaso_(Estancia_del_Sello,_Roma,_1511).jpg",
       "caption": ""
     }
   ],
@@ -62,9 +62,14 @@
       "date": "2026-06-11T17:17:01.780512",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-06-30T11:11:37.573249",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "materialsAndTechniques": "fresque",
   "contained_by_ensemble": {}
 }

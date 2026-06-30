@@ -9,7 +9,7 @@
     }
   ],
   "entry_type": "artwork",
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": null,
   "dateCreated": {
     "startYear": null,
     "endYear": null,
@@ -25,7 +25,15 @@
       "location": "n° 18 (19)"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Raimondi_-_The_Death_of_Lucretia%2C_P1108.jpg",
+      "copyright": "Wikimédia Commons, Domaine Public (https://commons.wikimedia.org/wiki/File:Raimondi_-_The_Death_of_Lucretia,_P1108.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -33,7 +41,13 @@
       "date": "2026-03-06T14:48:18.465310",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-29T15:45:52.712330",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }

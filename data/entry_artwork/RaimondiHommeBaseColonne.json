@@ -9,7 +9,7 @@
     }
   ],
   "entry_type": "artwork",
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": null,
   "dateCreated": {
     "startYear": null,
     "endYear": null,
@@ -25,7 +25,15 @@
       "location": "n° 476 (354)"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP855118.jpg",
+      "copyright": "MET, Public Domain, https://www.metmuseum.org/art/collection/search/342683",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -33,7 +41,18 @@
       "date": "2026-03-06T14:48:18.470096",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-29T10:54:01.418584",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-29T12:01:22.435404",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }

@@ -25,7 +25,15 @@
       "location": "n° 104 (89)"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP223393.jpg",
+      "copyright": "MET, Public Domain, https://www.metmuseum.org/art/collection/search/345726",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -33,7 +41,13 @@
       "date": "2026-03-06T14:48:18.470826",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-29T15:56:48.957430",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }

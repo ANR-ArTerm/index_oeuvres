@@ -18,7 +18,7 @@
     "type": "holding_institution",
     "institution": {
       "name": "The Metropolitan Museum of Art",
-      "place": "",
+      "place": null,
       "inventory_number": "16.30ab",
       "url": "https://www.metmuseum.org/fr/art/collection/search/437372"
     }
@@ -29,7 +29,7 @@
     {
       "id": 0,
       "url": "data/images/palaOddiLunette.jpg",
-      "storage": "local",
+      "storage": "online",
       "copyright": "Metropolitan Museum : https://www.metmuseum.org/fr/art/collection/search/437372",
       "caption": ""
     }
@@ -46,6 +46,11 @@
       "date": "2026-02-04T13:02:07.483252",
       "type": "modified",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-30T10:24:23.659434",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "huile sur bois",
@@ -53,5 +58,5 @@
     "link_type": "appartient à l'ensemble",
     "xml_id_work": "RaphaelPalaColonna"
   },
-  "status_entry": 0
+  "status_entry": 1
 }

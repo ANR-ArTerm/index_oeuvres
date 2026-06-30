@@ -17,8 +17,8 @@
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": "",
-      "place": "",
+      "name": null,
+      "place": null,
       "inventory_number": "",
       "url": ""
     }
@@ -46,8 +46,14 @@
       "date": "2026-01-27T11:27:04.007070",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-30T12:00:22.811151",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "fresque",
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }

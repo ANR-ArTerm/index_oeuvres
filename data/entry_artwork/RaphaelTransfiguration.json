@@ -35,7 +35,7 @@
     {
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Transfigurazione_%28Raffaello%29_September_2015-1a.jpg",
-      "copyright": "Wikipedia Commons",
+      "copyright": "Wikipedia Commons, Public Domain (https://commons.wikimedia.org/wiki/File:Transfigurazione_(Raffaello)_September_2015-1a.jpg)",
       "caption": "",
       "storage": "online"
     }
@@ -62,7 +62,13 @@
       "date": "2026-01-09T12:32:06.542100",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-30T12:07:16.102481",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }

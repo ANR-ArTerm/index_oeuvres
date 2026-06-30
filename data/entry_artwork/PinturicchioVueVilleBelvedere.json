@@ -30,7 +30,7 @@
     {
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Pinturicchio%2C_veduta_di_citt%C3%A0%2C_museo_pio-clementino_%281488-1490_circa%29.jpg",
-      "copyright": "Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Pinturicchio,_veduta_di_citt%C3%A0,_museo_pio-clementino_(1488-1490_circa).jpg)",
+      "copyright": "Wikimedia Commons, Domaine Public (https://commons.wikimedia.org/wiki/File:Pinturicchio,_veduta_di_citt%C3%A0,_museo_pio-clementino_(1488-1490_circa).jpg)",
       "caption": "",
       "storage": "online"
     }
@@ -60,5 +60,5 @@
     }
   ],
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1
 }

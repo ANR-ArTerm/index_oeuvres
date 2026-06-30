@@ -26,7 +26,7 @@
     "type": "holding_institution",
     "institution": {
       "name": null,
-      "place": "",
+      "place": null,
       "inventory_number": "",
       "url": ""
     }
@@ -49,6 +49,11 @@
       "date": "2026-02-19T17:05:15.597977",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-29T17:04:32.678546",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "fresque",
@@ -56,5 +61,5 @@
     "link_type": "appartient à l'ensemble",
     "xml_id_work": null
   },
-  "status_entry": 0
+  "status_entry": 1
 }

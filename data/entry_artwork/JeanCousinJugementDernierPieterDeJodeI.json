@@ -54,9 +54,14 @@
       "date": "2026-06-18T11:28:47.260668",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-06-29T09:29:35.259984",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 2,
   "materialsAndTechniques": null,
   "contained_by_ensemble": {}
 }

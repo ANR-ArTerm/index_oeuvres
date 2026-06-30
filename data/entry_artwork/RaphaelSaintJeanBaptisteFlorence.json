@@ -31,7 +31,15 @@
       "location": "n° A4"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/John_the_Baptist_in_the_wilderness_%28by_Raffaello_Sanzio%29_–_Tribuna_degli_Uffizi%2C_Florence.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
+      "copyright": "Wikimédia Commons, Public Domain (https://commons.wikimedia.org/wiki/File:John_the_Baptist_in_the_wilderness_(by_Raffaello_Sanzio)_–_Tribuna_degli_Uffizi,_Florence.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -44,8 +52,13 @@
       "date": "2026-05-21T12:07:02.413610",
       "type": "modified",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-30T11:51:12.702118",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "contained_by_ensemble": {}
 }

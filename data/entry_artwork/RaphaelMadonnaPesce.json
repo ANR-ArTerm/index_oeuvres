@@ -14,12 +14,12 @@
     "endYear": null,
     "text": ""
   },
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": null,
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": "",
-      "place": "",
+      "name": null,
+      "place": null,
       "inventory_number": "",
       "url": ""
     }
@@ -31,7 +31,15 @@
       "location": "n° 54"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Raffaello_Sanzio_-_Sacra_Famiglia_con_Rafael%2C_Tobia_e_San_Girolamo%2C_o_Vergine_del_pesce.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
+      "copyright": "Wikimédia Commons, Public Domain (https://commons.wikimedia.org/wiki/File:Raffaello_Sanzio_-_Sacra_Famiglia_con_Rafael,_Tobia_e_San_Girolamo,_o_Vergine_del_pesce.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -39,7 +47,13 @@
       "date": "2026-01-15T16:40:40.269785",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-30T10:48:45.733111",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }

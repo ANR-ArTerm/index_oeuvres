@@ -33,7 +33,7 @@
       "storage": "online"
     }
   ],
-  "description": "Perdu.",
+  "description": "L'œuvre mentionnée dans le texte n'existe plus, mais l'artiste a réalisé plusieurs versions de ce même tableau.\n",
   "commentary": "",
   "history": [
     {
@@ -55,9 +55,14 @@
       "date": "2026-06-23T16:05:00.781493",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-06-29T09:26:09.923401",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "materialsAndTechniques": "huile sur toile",
   "contained_by_ensemble": {}
 }

@@ -41,6 +41,11 @@
       "date": "2026-02-04T15:32:20.725884",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-29T17:09:23.404559",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "huile sur bois",
@@ -48,5 +53,5 @@
     "link_type": "appartient à l'ensemble",
     "xml_id_work": "RaphaelPalaColonna"
   },
-  "status_entry": 0
+  "status_entry": 1
 }

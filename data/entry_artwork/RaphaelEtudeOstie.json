@@ -14,12 +14,12 @@
     "endYear": null,
     "text": ""
   },
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": null,
   "location": {
     "type": "holding_institution",
     "institution": {
       "name": "Vienne",
-      "place": "",
+      "place": null,
       "inventory_number": "17575",
       "url": "https://sammlungenonline.albertina.at/en/objects/26262/zwei-mannerakte-mit-kopfstudie-studie-fur-die-schlacht-von"
     }
@@ -28,13 +28,19 @@
   "bibliography": [],
   "illustrations": [],
   "description": "",
-  "commentary": "",
+  "commentary": "https://www.metmuseum.org/art/collection/search/888960 \"On loan to The Met\"",
   "history": [
     {
       "date": "2026-01-15T16:40:40.297550",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-30T09:34:21.408675",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 2,
+  "contained_by_ensemble": {}
 }

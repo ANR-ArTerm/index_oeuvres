@@ -9,7 +9,7 @@
     }
   ],
   "entry_type": "artwork",
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": null,
   "dateCreated": {
     "startYear": null,
     "endYear": null,
@@ -25,7 +25,15 @@
       "location": "n° 113 (100)"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP852724.jpg",
+      "copyright": "MET, Public Domain, https://www.metmuseum.org/art/collection/search/342542",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -33,7 +41,18 @@
       "date": "2026-03-06T14:48:18.469238",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-06-24T17:24:03.861893",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-29T12:42:22.119300",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "contained_by_ensemble": {}
 }
