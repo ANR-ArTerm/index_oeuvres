@@ -1,0 +1,61 @@
+{
+  "id": "BaptistereDomeDeMilan",
+  "QID_wikidata": "",
+  "entry_type": "building",
+  "title": "Baptistère du Dome de Milan",
+  "creator": [
+    {
+      "xml_id": "PellegrinoTibaldi",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "VincenzoSeregni",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1569,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "holding_institution",
+    "place": {
+      "city": null,
+      "country": null,
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    },
+    "institution": {
+      "name": "Dome de Milan",
+      "place": "Milan",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": null,
+      "location": "pp.  67-84"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-30T11:44:49.826344",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "baptistère",
+  "contained_by_ensemble": {
+    "link_type": "appartient à l'ensemble",
+    "xml_id_work": "DomeDeMilan"
+  }
+}
