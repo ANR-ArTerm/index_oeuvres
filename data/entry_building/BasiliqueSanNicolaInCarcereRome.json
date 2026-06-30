@@ -1,0 +1,46 @@
+{
+  "id": "BasiliqueSanNicolaInCarcereRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2145580",
+  "entry_type": "building",
+  "title": "Basilique San Nicola in Carcere à Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1599,
+    "endYear": 1865,
+    "text": "entre XVIe et XIXe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/San_Nicola_in_Carcere_-_esterno.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY 04, Ninfamania (https://commons.wikimedia.org/wiki/File:San_Nicola_in_Carcere_-_esterno.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "Une église avait été construite au XIIe siècle, puis démolie et reconstruite en 1599",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-30T17:46:03.685576",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "église",
+  "contained_by_ensemble": {}
+}
