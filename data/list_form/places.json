@@ -109,6 +109,7 @@
   "Bucephalie",
   "Byblos",
   "Byzance",
+  "Bålsta",
   "Cadix",
   "Cadmee",
   "Cadore",
@@ -574,6 +575,7 @@
   "Spoleto",
   "SriLanka",
   "Steenwijk",
+  "Stockholm",
   "Strasbourg",
   "StratoniceeDeCarie",
   "Suede",
@@ -663,6 +665,7 @@
   "Xipete",
   "Zaventem",
   "Zelande",
+<<<<<<< HEAD
   "test",
   "Stockholm",
   "Bålsta",
@@ -678,4 +681,7 @@
   "Soest",
   "Bâle",
   "Suisse"
+=======
+  "test"
+>>>>>>> 73c927a (modification notice LeonardAnghiari par Elisa 2026-06-29T11:04:06.640600)
 ]

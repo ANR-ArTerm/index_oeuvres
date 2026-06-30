@@ -676,6 +676,7 @@
   "Democrite",
   "Demonax",
   "Demosthene",
+  "DenisAntoine",
   "DenisDeLaHaye",
   "DenisSauvage",
   "DenysAncien",
@@ -965,6 +966,7 @@
   "GeorgGeldorp",
   "GeorgPencz",
   "GeorgeVilliers",
+  "GeorgesCharmeton",
   "GeorgesDAmboise",
   "GeorgesDArmagnac",
   "GeorgesLallemand",
@@ -1128,6 +1130,7 @@
   "GiulioLicinio",
   "GiulioRomano",
   "GiuseppeArchimboldo",
+  "GiuseppeArcimboldo",
   "GiuseppeCesari",
   "GiuseppeMeda",
   "GiuseppeMoleti",
@@ -1547,6 +1550,7 @@
   "LouisIILerambert",
   "LouisIPhelypeauxDeLaVrilliere",
   "LouisIX",
+  "LouisLeVau",
   "LouisSavot",
   "LouisXI",
   "LouisXII",
@@ -2459,8 +2463,6 @@
   "Zoroastre",
   "Zorus",
   "Zuccaro",
-  "ulan_500027513",
-  "Œnone",
   "LouisLeVau",
   "DenisAntoine",
   "GeorgesCharmeton",
@@ -2469,5 +2471,6 @@
   "LeoVonKlenze",
   "RombautIIKeldermans",
   "Hans Bock",
-  "FrancescoMariaRichini"
+  "FrancescoMariaRichini",
+  "Œnone"
 ]
