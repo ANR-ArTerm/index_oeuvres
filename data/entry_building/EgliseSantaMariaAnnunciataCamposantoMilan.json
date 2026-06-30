@@ -1,0 +1,51 @@
+{
+  "id": "EgliseSantaMariaAnnunciataCamposantoMilan",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q16600273",
+  "entry_type": "building",
+  "title": "Eglise Santa Maria Annunciata in Camposanto à Milan",
+  "creator": [
+    {
+      "xml_id": "AurelioTrezzi",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1616,
+    "endYear": 1740,
+    "text": ""
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Milan",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/5233MilanoFabbricaDuomo.JPG",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, MarkusMark (https://commons.wikimedia.org/wiki/File:5233MilanoFabbricaDuomo.JPG)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-30T17:22:50.785679",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "église",
+  "contained_by_ensemble": {}
+}
