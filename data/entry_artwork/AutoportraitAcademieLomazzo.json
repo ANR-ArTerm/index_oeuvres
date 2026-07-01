@@ -35,7 +35,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/5.zavargna.JPG/1280px-5.zavargna.JPG",
       "storage": "online",
-      "copyright": "Public domain",
+      "copyright": "Wikimédia Commons, Public domain",
       "caption": ""
     }
   ],
@@ -46,9 +46,14 @@
       "date": "2026-07-01T13:39:57.834139",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-01T15:22:02.337753",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "materialsAndTechniques": "huile sur toile",
   "contained_by_ensemble": {}
 }
