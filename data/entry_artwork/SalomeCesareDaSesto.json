@@ -1,0 +1,54 @@
+{
+  "id": "SalomeCesareDaSesto",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Salomé",
+  "creator": [
+    {
+      "xml_id": "CesareDaSesto",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1512,
+    "endYear": 1516,
+    "text": "1512-1516"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "KunstHistorischesMuseum",
+      "place": "Vienne",
+      "inventory_number": "202",
+      "url": "https://www.khm.at/kunstwerke/salome-mit-dem-haupt-johannes-d-taeufers-1779"
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "carminatiCesareSesto147715231994",
+      "location": "pp. 207-214"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Cesare_da_Sesto_%281477-1523%29_-_Salome_-_NG2485_-_National_Gallery.jpg",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-01T15:51:25.159873",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "huile sur bois",
+  "contained_by_ensemble": {}
+}
