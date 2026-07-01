@@ -1,0 +1,56 @@
+{
+  "id": "EgliseSanSigismondoCremona",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3672044",
+  "entry_type": "building",
+  "title": "Eglise de San Sigismondo",
+  "creator": [
+    {
+      "xml_id": "BartolomeoGadio",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1463,
+    "endYear": 1535,
+    "text": "1463-1535"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Cremona",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "voltiniChiesaDiSan1985",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Cremona%2C_Chiesa_di_San_Sigismondo_01.jpg/1920px-Cremona%2C_Chiesa_di_San_Sigismondo_01.jpg",
+      "storage": "online",
+      "copyright": "CC BY-SA 4.0, Parsifall, https://commons.wikimedia.org/wiki/File:Cremona,_Chiesa_di_San_Sigismondo_01.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-01T13:45:58.880884",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "église",
+  "contained_by_ensemble": {}
+}
