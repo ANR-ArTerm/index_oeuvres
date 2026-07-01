@@ -40,7 +40,7 @@
     {
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Raffael_Staza_di_Eliodoro.jpg",
-      "copyright": "Public domain",
+      "copyright": "Wikimédia Commons, Public domain",
       "caption": "",
       "storage": "online"
     }
@@ -72,6 +72,11 @@
       "date": "2026-06-12T16:21:41.256453",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-07-01T14:29:47.532754",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "fresque",
@@ -79,6 +84,6 @@
     "link_type": "appartient à l'ensemble",
     "xml_id_work": "StanzeVatican"
   },
-  "status_entry": 0,
+  "status_entry": 1,
   "contains_works": []
 }
