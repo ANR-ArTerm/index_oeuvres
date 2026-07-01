@@ -25,7 +25,15 @@
       "location": "n° 17"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Madonna_and_Child_Enthroned_with_Saints.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
+      "copyright": "Wikimédia Commons, Public Domain (https://commons.wikimedia.org/wiki/File:Madonna_and_Child_Enthroned_with_Saints.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -38,8 +46,13 @@
       "date": "2026-02-04T12:43:28.667838",
       "type": "modified",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-07-01T14:40:44.788274",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "contains_works": [],
-  "status_entry": 0
+  "status_entry": 1
 }
