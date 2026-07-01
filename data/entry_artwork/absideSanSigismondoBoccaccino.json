@@ -1,0 +1,71 @@
+{
+  "id": "absideSanSigismondoBoccaccino",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "abside de l'église de San Sigismondo",
+  "creator": [
+    {
+      "xml_id": "CamilloBoccaccino",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1535,
+    "endYear": 1537,
+    "text": "1535-1537 ca."
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "EgliseDeSanSigismondo",
+      "place": "Cremona",
+      "inventory_number": "",
+      "url": ""
+    },
+    "place": {
+      "city": "Cremona",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "EgliseSanSigismondoCremona"
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "canutiCoroDiSan1998",
+      "location": ""
+    },
+    {
+      "zotero_key": "voltiniChiesaDiSan1985",
+      "location": "pp. 49-55"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/130924_Cremona_San_Sigismondo_%28132%29.JPG/1920px-130924_Cremona_San_Sigismondo_%28132%29.JPG",
+      "storage": "online",
+      "copyright": "CC BY-SA 3.0, Mattis, https://commons.wikimedia.org/wiki/File:130924_Cremona_San_Sigismondo_(132).JPG",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-01T14:55:23.033735",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {}
+}
