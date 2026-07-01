@@ -1,0 +1,59 @@
+{
+  "id": "ViergeEnGloireEtSaintsCampi",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Vièrge en gloire et Saints",
+  "creator": [
+    {
+      "xml_id": "GiulioCampi",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1539,
+    "endYear": 1539,
+    "text": "1539"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "EgliseDeSanSigismondo",
+      "place": "Cremona",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "EgliseSanSigismondoCremona"
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": null,
+      "location": "pp. 57, 63"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "",
+      "storage": "online",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-01T15:16:15.386568",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 2,
+  "materialsAndTechniques": null,
+  "contained_by_ensemble": {}
+}
