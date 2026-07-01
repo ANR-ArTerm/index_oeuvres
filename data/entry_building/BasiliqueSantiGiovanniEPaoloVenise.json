@@ -1,0 +1,56 @@
+{
+  "id": "BasiliqueSantiGiovanniEPaoloVenise",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q155225",
+  "entry_type": "building",
+  "title": "Basilique de San Zanipolo",
+  "creator": [
+    {
+      "xml_id": "BartolomeoBono",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1234,
+    "endYear": 1430,
+    "text": "1234-1430"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Venise",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "pavanelloBasilicaSantiGiovanni2013",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Exterior_of_Santi_Giovanni_e_Paolo_%28Venice%29_from_Campo_San_Zanipolo.jpg/1920px-Exterior_of_Santi_Giovanni_e_Paolo_%28Venice%29_from_Campo_San_Zanipolo.jpg",
+      "storage": "online",
+      "copyright": "CC BY-SA 4.0, Archaeodontosaurus, https://commons.wikimedia.org/wiki/File:Exterior_of_Santi_Giovanni_e_Paolo_(Venice)_from_Campo_San_Zanipolo.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-01T17:14:41.087264",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "basilique",
+  "contained_by_ensemble": {}
+}
