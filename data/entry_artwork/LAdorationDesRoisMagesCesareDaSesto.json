@@ -1,0 +1,59 @@
+{
+  "id": "LAdorationDesRoisMagesCesareDaSesto",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "L'Adoration des Rois Mages",
+  "creator": [
+    {
+      "xml_id": "CesareDaSesto",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1516,
+    "endYear": 1519,
+    "text": "1516-1519"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "musée de Capodimonte",
+      "place": "Naples",
+      "inventory_number": "126",
+      "url": ""
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "EgliseSanNiccoloDeiGentiluominiMessina"
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "carminatiCesareSesto147715231994",
+      "location": "pp. 196-200"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/SestoAdor.jpg?_=20090502130633",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-01T15:44:56.774211",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {}
+}
