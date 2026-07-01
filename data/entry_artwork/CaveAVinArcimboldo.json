@@ -39,7 +39,7 @@
       "storage": "online"
     }
   ],
-  "description": "L'œuvre mentionnée dans le texte n'existe plus, mais l'artiste a réalisé plusieurs versions de ce même tableau.",
+  "description": "",
   "commentary": "\n",
   "history": [
     {
@@ -66,6 +66,11 @@
       "date": "2026-06-29T09:23:50.292595",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-01T13:14:35.728562",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "status_entry": 1,
