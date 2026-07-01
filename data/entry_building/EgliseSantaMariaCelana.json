@@ -1,0 +1,51 @@
+{
+  "id": "EgliseSantaMariaCelana",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q104670942",
+  "entry_type": "building",
+  "title": "Eglise de Santa Maria Assunta",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1264,
+    "endYear": 1536,
+    "text": "ante 1264-1536"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Celana",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "brembillaSantaMariaAssunta1998",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Facciata_Chiesa_di_Celana.jpg/960px-Facciata_Chiesa_di_Celana.jpg",
+      "storage": "online",
+      "copyright": "CC0, Vennor, https://commons.wikimedia.org/wiki/File:Facciata_Chiesa_di_Celana.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-01T16:18:10.548246",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "église",
+  "contained_by_ensemble": {}
+}
