@@ -1,0 +1,56 @@
+{
+  "id": "EgliseCarminiVenise",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2780025",
+  "entry_type": "building",
+  "title": "Église de Santa Maria dei Carmini",
+  "creator": [
+    {
+      "xml_id": "SebastianoMariani",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1286,
+    "endYear": 1514,
+    "text": "1286-1514"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Venise",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "mannoChiesaConventoDi2017",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Santa_Maria_dei_Carmini_%28facade%29.jpg/960px-Santa_Maria_dei_Carmini_%28facade%29.jpg",
+      "storage": "online",
+      "copyright": "CC BY-SA 4.0, Archaeodontosaurus, https://commons.wikimedia.org/wiki/File:Santa_Maria_dei_Carmini_(facade).jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-01T15:59:13.793096",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "église",
+  "contained_by_ensemble": {}
+}

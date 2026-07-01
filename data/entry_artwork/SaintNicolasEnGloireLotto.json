@@ -1,0 +1,54 @@
+{
+  "id": "SaintNicolasEnGloireLotto",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3947723",
+  "entry_type": "artwork",
+  "title": "Saint Nicolas en gloire",
+  "creator": [
+    {
+      "xml_id": "LorenzoLotto",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1527,
+    "endYear": 1529,
+    "text": "1527-1529"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "EgliseDeSantaMariaDeiCarmini",
+      "place": "Venise",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "dalpozzoloLorenzoLottoCatalogo2021",
+      "location": "pp. 274-275"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Santa_Maria_dei_Carmini_%28Venice%29_-_Saint_Nicholas_in_Glory_with_Saints_John_the_Baptist_and_Lucy_by_Lorenzo_Lotto.jpg/960px-Santa_Maria_dei_Carmini_%28Venice%29_-_Saint_Nicholas_in_Glory_with_Saints_John_the_Baptist_and_Lucy_by_Lorenzo_Lotto.jpg",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-01T16:06:40.781849",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {}
+}
