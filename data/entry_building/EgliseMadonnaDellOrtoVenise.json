@@ -6,8 +6,8 @@
   "creator": [],
   "dateCreated": {
     "startYear": 1350,
-    "endYear": 1350,
-    "text": "XIVeme siècle"
+    "endYear": 1503,
+    "text": "1350-1503"
   },
   "location": {
     "type": "place",
@@ -21,7 +21,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "penzoChiesaMadonnaDellOrto2014",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -43,9 +48,14 @@
       "date": "2026-06-01T11:27:13.355226",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-01T17:34:54.674410",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "église",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
