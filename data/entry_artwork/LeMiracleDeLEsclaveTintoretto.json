@@ -25,8 +25,8 @@
   },
   "related_works": [
     {
-      "link_type": null,
-      "xml_id_work": null
+      "link_type": "œuvre associée",
+      "xml_id_work": "ScuolaGrandeSanMarcoVenise"
     }
   ],
   "bibliography": [
@@ -50,6 +50,11 @@
     {
       "date": "2026-07-01T17:59:27.741826",
       "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-07-01T18:00:13.560892",
+      "type": "modified",
       "author": "Elisa"
     }
   ],
