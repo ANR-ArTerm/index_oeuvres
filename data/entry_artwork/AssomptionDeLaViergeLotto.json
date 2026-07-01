@@ -23,7 +23,12 @@
       "url": ""
     }
   },
-  "related_works": [],
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "EgliseSantaMariaCelana"
+    }
+  ],
   "bibliography": [
     {
       "zotero_key": "dalpozzoloLorenzoLottoCatalogo2021",
@@ -45,6 +50,11 @@
     {
       "date": "2026-07-01T16:11:57.653078",
       "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-07-01T16:18:37.360697",
+      "type": "modified",
       "author": "Elisa"
     }
   ],
