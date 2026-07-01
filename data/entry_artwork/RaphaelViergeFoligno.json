@@ -31,7 +31,15 @@
       "location": "n° 52"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Madonna_di_Foligno_%28Raphael%29_September_2015-1a.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
+      "copyright": "Wikimédia Commons, Public Domain (https://commons.wikimedia.org/wiki/File:Madonna_di_Foligno_(Raphael)_September_2015-1a.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -44,8 +52,13 @@
       "date": "2026-05-21T12:03:45.342938",
       "type": "modified",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-07-01T14:13:28.078053",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "contained_by_ensemble": {}
 }
