@@ -37,7 +37,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Cremona%2C_Chiesa_di_San_Sigismondo_01.jpg/1920px-Cremona%2C_Chiesa_di_San_Sigismondo_01.jpg",
       "storage": "online",
-      "copyright": "CC BY-SA 4.0, Parsifall, https://commons.wikimedia.org/wiki/File:Cremona,_Chiesa_di_San_Sigismondo_01.jpg",
+      "copyright": "Wikimédia Commons, CC BY-SA 4.0, Parsifall, https://commons.wikimedia.org/wiki/File:Cremona,_Chiesa_di_San_Sigismondo_01.jpg",
       "caption": ""
     }
   ],
@@ -48,9 +48,14 @@
       "date": "2026-07-01T13:45:58.880884",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-01T15:00:34.253688",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "église",
   "contained_by_ensemble": {}
 }
