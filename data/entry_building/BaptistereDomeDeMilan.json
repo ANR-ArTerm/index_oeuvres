@@ -20,14 +20,6 @@
   },
   "location": {
     "type": "holding_institution",
-    "place": {
-      "city": null,
-      "country": null,
-      "coordinates": {
-        "latitude": "",
-        "longitude": ""
-      }
-    },
     "institution": {
       "name": "Dome de Milan",
       "place": "Milan",
@@ -50,9 +42,14 @@
       "date": "2026-06-30T11:44:49.826344",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-07-01T14:56:50.931874",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "baptistère",
   "contained_by_ensemble": {
     "link_type": "appartient à l'ensemble",
