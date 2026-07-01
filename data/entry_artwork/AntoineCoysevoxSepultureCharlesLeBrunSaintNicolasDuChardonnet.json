@@ -41,9 +41,14 @@
       "date": "2026-06-24T12:05:57.034840",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-07-01T15:16:25.858744",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "materialsAndTechniques": "sculpture",
   "contained_by_ensemble": {}
 }
