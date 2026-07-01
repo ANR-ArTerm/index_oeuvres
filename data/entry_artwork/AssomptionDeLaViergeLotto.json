@@ -1,0 +1,54 @@
+{
+  "id": "AssomptionDeLaViergeLotto",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q104686802",
+  "entry_type": "artwork",
+  "title": "Assomption de la Vièrge",
+  "creator": [
+    {
+      "xml_id": "LorenzoLotto",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1527,
+    "endYear": 1527,
+    "text": "1527"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "EgliseSantaMaria",
+      "place": "Celana",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "dalpozzoloLorenzoLottoCatalogo2021",
+      "location": "pp. 264-265"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Lorenzo_lotto%2C_assunta_di_celana%2C_1527%2C_00.jpg/1280px-Lorenzo_lotto%2C_assunta_di_celana%2C_1527%2C_00.jpg",
+      "storage": "online",
+      "copyright": "CC BY 3.0, Sailko, https://commons.wikimedia.org/wiki/File:Lorenzo_lotto,_assunta_di_celana,_1527,_00.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-01T16:11:57.653078",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {}
+}
