@@ -51,9 +51,14 @@
       "date": "2026-07-01T15:16:15.386568",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-01T15:45:54.473822",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "status_entry": 2,
-  "materialsAndTechniques": null,
+  "materialsAndTechniques": "tempera sur bois",
   "contained_by_ensemble": {}
 }
