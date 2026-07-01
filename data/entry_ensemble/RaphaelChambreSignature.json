@@ -40,7 +40,7 @@
     {
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Raffael_Stanza_della_Segnatura.jpg",
-      "copyright": "Public Domain",
+      "copyright": "Wikimédia Commons, Public Domain",
       "caption": "",
       "storage": "online"
     }
@@ -62,12 +62,18 @@
       "date": "2026-05-29T12:51:58.193813",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-01T14:32:54.570025",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "fresque",
   "contained_by_ensemble": {
-    "link_type":"appartient à l'ensemble",
-    "xml_id_work":"StanzeVatican"
+    "link_type": "appartient à l'ensemble",
+    "xml_id_work": "StanzeVatican"
   },
-  "status_entry": 0
+  "status_entry": 1,
+  "contains_works": []
 }
