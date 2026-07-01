@@ -1,0 +1,54 @@
+{
+  "id": "AutoportraitAcademieLomazzo",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3630764",
+  "entry_type": "artwork",
+  "title": "Autoportrait en abbé de l'Académie de Val Blenio",
+  "creator": [
+    {
+      "xml_id": "GiovanniPaoloLomazzo",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1568,
+    "endYear": 1568,
+    "text": "1568"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "PinacothèqueDeBrera",
+      "place": "Milan",
+      "inventory_number": "112",
+      "url": "https://pinacotecabrera.org/collezioni/collezione-on-line/autoritratto-in-veste-di-abate-dellaccademia-della-valle-di-blenio/"
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "lauberMilanoPinacotecaDi2012",
+      "location": "p. 241"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/5.zavargna.JPG/1280px-5.zavargna.JPG",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-01T13:39:57.834139",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {}
+}
