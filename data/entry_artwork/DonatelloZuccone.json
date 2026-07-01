@@ -30,7 +30,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Zuccone_Donatello_OPA_Florence.jpg/330px-Zuccone_Donatello_OPA_Florence.jpg",
       "storage": "online",
-      "copyright": "",
+      "copyright": "Wikimédia Commons, Public Domain",
       "caption": ""
     }
   ],
@@ -46,9 +46,14 @@
       "date": "2026-06-30T10:46:46.386906",
       "type": "modified",
       "author": "Julia"
+    },
+    {
+      "date": "2026-07-01T15:45:29.125049",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "materialsAndTechniques": "Sculpture en marbre",
   "contained_by_ensemble": {}
 }
