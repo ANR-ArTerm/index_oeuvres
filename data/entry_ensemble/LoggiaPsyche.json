@@ -35,7 +35,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Villa_farnesina%2C_loggia_di_psiche_02.JPG",
       "storage": "online",
-      "copyright": "CC BY-SA 3.0, par Combusken, https://commons.wikimedia.org/wiki/File:Villa_farnesina,_loggia_di_psiche_02.JPG",
+      "copyright": "Wikimédia Commons, CC BY-SA 3.0, par Combusken, https://commons.wikimedia.org/wiki/File:Villa_farnesina,_loggia_di_psiche_02.JPG",
       "caption": ""
     }
   ],
@@ -51,9 +51,14 @@
       "date": "2026-02-04T15:52:14.662931",
       "type": "modified",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-07-01T14:21:20.184681",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "ensemble décoratif",
   "contains_works": [],
-  "status_entry": 0
+  "status_entry": 1
 }
