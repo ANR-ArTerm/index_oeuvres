@@ -5,7 +5,7 @@
   "title": "Hôtel de ville de Bâle",
   "creator": [
     {
-      "xml_id": "Hans Bock",
+      "xml_id": null,
       "role": "architecte"
     },
     {
@@ -47,9 +47,14 @@
       "date": "2026-06-27T13:53:10.298110",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-07-01T15:02:54.048914",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "Hôtel de ville",
   "contained_by_ensemble": {}
 }
