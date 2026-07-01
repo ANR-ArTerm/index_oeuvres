@@ -1,0 +1,54 @@
+{
+  "id": "ResurrectionLazzaroBoccaccino",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Résurrection de Lazzaro",
+  "creator": [
+    {
+      "xml_id": "CamilloBoccaccino",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1540,
+    "endYear": 1540,
+    "text": "1540"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "EgliseDeSanSigismondo",
+      "place": "Cremona",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": null,
+      "location": "pp. 55, 57"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Camillo_Boccaccino_001.jpg",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-01T15:10:21.554403",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {}
+}
