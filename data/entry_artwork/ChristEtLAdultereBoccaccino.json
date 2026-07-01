@@ -1,0 +1,59 @@
+{
+  "id": "ChristEtLAdultereBoccaccino",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Christ et l'Adultère",
+  "creator": [
+    {
+      "xml_id": "CamilloBoccaccino",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1540,
+    "endYear": 1540,
+    "text": "1540"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "EgliseDeSanSigismondo",
+      "place": "Cremona",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "EgliseSanSigismondoCremona"
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "ferrariboschettoTempioDiSan1974",
+      "location": "pp. 55, 57"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "",
+      "storage": "online",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-01T15:05:42.640816",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 2,
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {}
+}
