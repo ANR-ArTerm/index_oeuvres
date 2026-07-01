@@ -40,9 +40,14 @@
       "date": "2026-06-24T12:15:24.566094",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-07-01T15:38:58.034255",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "materialsAndTechniques": "gravure",
   "contained_by_ensemble": {}
 }
