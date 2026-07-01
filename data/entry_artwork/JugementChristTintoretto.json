@@ -1,0 +1,59 @@
+{
+  "id": "JugementChristTintoretto",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Jugement de Christ",
+  "creator": [
+    {
+      "xml_id": "JacopoTintoretto",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1560,
+    "endYear": 1562,
+    "text": "1560-1562"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "EglideDeSantaMariaDell'Orto",
+      "place": "Venise",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "EgliseMadonnaDellOrtoVenise"
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "pallucchiniJacopoTintoretto211982",
+      "location": "pp. 182-183"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Madonna_dell%27Orto_%28Venice%29_-_Choir_-_The_Last_Judgment_by_Jacopo_Tintoretto.jpg/960px-Madonna_dell%27Orto_%28Venice%29_-_Choir_-_The_Last_Judgment_by_Jacopo_Tintoretto.jpg",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-01T17:53:42.371830",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {}
+}
