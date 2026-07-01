@@ -44,7 +44,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/130924_Cremona_San_Sigismondo_%28132%29.JPG/1920px-130924_Cremona_San_Sigismondo_%28132%29.JPG",
       "storage": "online",
-      "copyright": "CC BY-SA 3.0, Mattis, https://commons.wikimedia.org/wiki/File:130924_Cremona_San_Sigismondo_(132).JPG",
+      "copyright": "Wikimédia Commons, CC BY-SA 3.0, Mattis, https://commons.wikimedia.org/wiki/File:130924_Cremona_San_Sigismondo_(132).JPG",
       "caption": ""
     }
   ],
@@ -60,9 +60,14 @@
       "date": "2026-07-01T15:06:25.604484",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-01T15:09:53.979510",
+      "type": "modified",
+      "author": "Nicolo"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "materialsAndTechniques": "fresque",
   "contained_by_ensemble": {}
 }
