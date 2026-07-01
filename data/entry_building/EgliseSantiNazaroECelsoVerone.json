@@ -1,0 +1,51 @@
+{
+  "id": "EgliseSantiNazaroECelsoVerone",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3668316",
+  "entry_type": "building",
+  "title": "Église des Santi Nazaro e Celso",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1464,
+    "endYear": 1575,
+    "text": "1464-1575 ca."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Verone",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "dalfornoChiesaSantiNazaro1982",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/ChiesaSantiNazaroCelosVR.jpg",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-01T16:49:39.999767",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "église",
+  "contained_by_ensemble": {}
+}
