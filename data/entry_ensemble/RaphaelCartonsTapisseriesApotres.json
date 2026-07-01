@@ -67,8 +67,13 @@
       "date": "2026-02-04T14:49:59.668880",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-07-01T14:24:33.937964",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "contains_works": [],
-  "status_entry": 0
+  "status_entry": 1
 }
