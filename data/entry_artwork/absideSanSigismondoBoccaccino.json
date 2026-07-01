@@ -21,14 +21,6 @@
       "place": "Cremona",
       "inventory_number": "",
       "url": ""
-    },
-    "place": {
-      "city": "Cremona",
-      "country": "Italie",
-      "coordinates": {
-        "latitude": "",
-        "longitude": ""
-      }
     }
   },
   "related_works": [
@@ -43,7 +35,7 @@
       "location": ""
     },
     {
-      "zotero_key": "voltiniChiesaDiSan1985",
+      "zotero_key": "ferrariboschettoTempioDiSan1974",
       "location": "pp. 49-55"
     }
   ],
@@ -62,6 +54,11 @@
     {
       "date": "2026-07-01T14:55:23.033735",
       "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-07-01T15:06:25.604484",
+      "type": "modified",
       "author": "Elisa"
     }
   ],
