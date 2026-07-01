@@ -37,14 +37,14 @@
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Arcimboldo_Summer_1563.jpg/960px-Arcimboldo_Summer_1563.jpg",
       "storage": "online",
       "copyright": "Wikimédia Commons, Public domain",
-      "caption": ""
+      "caption": "Été"
     },
     {
       "id": 2,
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Arcimboldo_-_Les_saisons_-_L%27automne.jpg/1280px-Arcimboldo_-_Les_saisons_-_L%27automne.jpg",
       "storage": "online",
       "copyright": "Wikimédia Commons, Public domain",
-      "caption": "Autumn"
+      "caption": ""
     },
     {
       "id": 3,
@@ -71,9 +71,14 @@
       "date": "2026-06-23T16:09:06.335293",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-01T13:27:20.466608",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "materialsAndTechniques": "huile sur toile",
   "contained_by_ensemble": {}
 }
