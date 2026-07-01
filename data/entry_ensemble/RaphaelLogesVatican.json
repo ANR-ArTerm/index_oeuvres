@@ -35,7 +35,7 @@
     {
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Loge_du_2ème_étage_du_palais_apostolique_du_Vatican.jpg/960px-Loge_du_2ème_étage_du_palais_apostolique_du_Vatican.jpg",
-      "copyright": "CC BY-SA 3.0, Gaspard Miltiade, https://commons.wikimedia.org/wiki/File:Loge_du_2ème_étage_du_palais_apostolique_du_Vatican.jpg",
+      "copyright": "Wikimédia Commons, CC BY-SA 3.0, Gaspard Miltiade, https://commons.wikimedia.org/wiki/File:Loge_du_2ème_étage_du_palais_apostolique_du_Vatican.jpg",
       "caption": "",
       "storage": "online"
     }
@@ -72,8 +72,13 @@
       "date": "2026-06-11T17:07:37.571190",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-01T14:34:20.680515",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "contains_works": [],
-  "status_entry": 0
+  "status_entry": 1
 }
