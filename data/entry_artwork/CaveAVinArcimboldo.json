@@ -71,9 +71,14 @@
       "date": "2026-07-01T13:14:35.728562",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-01T13:14:41.183488",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "materialsAndTechniques": "huile sur toile",
   "contained_by_ensemble": {}
 }
