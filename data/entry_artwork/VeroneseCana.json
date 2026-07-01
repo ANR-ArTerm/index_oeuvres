@@ -12,7 +12,7 @@
   "dateCreated": {
     "startYear": 1563,
     "endYear": 1563,
-    "text": 1563
+    "text": "1563"
   },
   "materialsAndTechniques": "huile sur toile",
   "location": {
@@ -25,7 +25,16 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "pignattiVeronese1976",
+      "location": "cat. n. 131"
+    },
+    {
+      "zotero_key": "loirePeinturesItaliennesMusee2025",
+      "location": "cat. n. 164"
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -52,6 +61,11 @@
       "date": "2026-04-14T15:23:53.553136",
       "type": "modified",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-07-01T16:38:07.046405",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "contained_by_ensemble": {},
