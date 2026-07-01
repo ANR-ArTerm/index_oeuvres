@@ -24,16 +24,8 @@
       "location": "p. 172"
     }
   ],
-  "illustrations": [
-    {
-      "id": 0,
-      "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Giuseppe_Arcimboldo_-_The_Cook_-_WGA00840.jpg",
-      "copyright": "Wikimédia Commons, Domaine Public ,Giuseppe Arcimboldo /Web Gallery of Art (https://commons.wikimedia.org/wiki/File:Giuseppe_Arcimboldo_-_The_Cook_-_WGA00840.jpg)",
-      "caption": "",
-      "storage": "online"
-    }
-  ],
-  "description": "L'œuvre mentionnée dans le texte n'existe plus, mais l'artiste a réalisé plusieurs versions de ce même tableau.\n",
+  "illustrations": [],
+  "description": "Perdu\n",
   "commentary": "",
   "history": [
     {
@@ -60,9 +52,14 @@
       "date": "2026-06-29T09:26:09.923401",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-01T13:16:23.193351",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "materialsAndTechniques": "huile sur toile",
   "contained_by_ensemble": {}
 }
