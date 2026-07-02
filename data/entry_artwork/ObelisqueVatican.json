@@ -1,0 +1,61 @@
+{
+  "id": "ObelisqueVatican",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1444766",
+  "entry_type": "artwork",
+  "title": "Obélisque du Vatican",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "place",
+    "institution": {
+      "name": null,
+      "place": null,
+      "inventory_number": "",
+      "url": ""
+    },
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "fontanaTrasportationeDellobeliscoVaticano1978",
+      "location": ""
+    },
+    {
+      "zotero_key": "donofrioObelischiDiRoma1992",
+      "location": "pp. 17-158"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Obelisk_of_St._Peter.jpg/960px-Obelisk_of_St._Peter.jpg",
+      "storage": "online",
+      "copyright": "CC BY-SA 4.0, Livioandronico2013, https://commons.wikimedia.org/wiki/File:Obelisk_of_St._Peter.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-02T16:13:14.788717",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "granit",
+  "contained_by_ensemble": {}
+}
