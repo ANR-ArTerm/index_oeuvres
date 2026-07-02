@@ -1,0 +1,62 @@
+{
+  "id": "FontaineNeptuneGiambologna",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q994471",
+  "entry_type": "artwork",
+  "title": "Fontaine de Neptune",
+  "creator": [
+    {
+      "xml_id": "Giambologna",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1563,
+    "endYear": 1566,
+    "text": "1563-1566"
+  },
+  "location": {
+    "type": "place",
+    "institution": {
+      "name": null,
+      "place": null,
+      "inventory_number": "",
+      "url": ""
+    },
+    "place": {
+      "city": "Bologne",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "tuttleNeptuneFountainBologna2015",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Bologna_fontana_del_Nettuno_07feb08_01.jpg/1280px-Bologna_fontana_del_Nettuno_07feb08_01.jpg",
+      "storage": "online",
+      "copyright": "CC BY-SA 3.0, Marcok, https://commons.wikimedia.org/wiki/File:Bologna_fontana_del_Nettuno_07feb08_01.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-02T16:39:13.070194",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "sculpture en marbre et bronze",
+  "contained_by_ensemble": {}
+}
