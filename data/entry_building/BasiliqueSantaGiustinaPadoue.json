@@ -1,0 +1,72 @@
+{
+  "id": "BasiliqueSantaGiustinaPadoue",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q219502",
+  "entry_type": "building",
+  "title": "Basilique Sainte Justine",
+  "creator": [
+    {
+      "xml_id": "SebastianoDaLugano",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "AndreaBriosco",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "AndreaMoroni",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "AndreaDaValle",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": 1606,
+    "text": "VIe siècle-1606"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Padoue",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "zovattoBasilicaDiSanta1970",
+      "location": ""
+    },
+    {
+      "zotero_key": "guzzonSantaGiustinaGuida2021",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Padova_-_Basilica_di_Santa_Giustina_di_Padova_-_2023-09-25_09-29-18_001.jpg/1920px-Padova_-_Basilica_di_Santa_Giustina_di_Padova_-_2023-09-25_09-29-18_001.jpg",
+      "storage": "online",
+      "copyright": "CC BY-SA 4.0, Bramfab, https://commons.wikimedia.org/wiki/File:Padova_-_Basilica_di_Santa_Giustina_di_Padova_-_2023-09-25_09-29-18_001.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-02T15:38:18.309588",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "basilique",
+  "contained_by_ensemble": {}
+}
