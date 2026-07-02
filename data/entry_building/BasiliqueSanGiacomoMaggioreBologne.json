@@ -1,0 +1,55 @@
+{
+  "id": "BasiliqueSanGiacomoMaggioreBologne",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2446870",
+  "entry_type": "building",
+  "title": "Basilique de San Giacomo Maggiore",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1267,
+    "endYear": 1498,
+    "text": "1267-1498"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Bologne",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "volpeTempioDiSan1967",
+      "location": ""
+    },
+    {
+      "zotero_key": "fantiChiesaDiSan1998",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Piazza_Rossini_%28Bologna%29_01.jpg/3840px-Piazza_Rossini_%28Bologna%29_01.jpg",
+      "storage": "online",
+      "copyright": "CC BY-SA 4.0, Mongolo1984, https://commons.wikimedia.org/wiki/File:Piazza_Rossini_(Bologna)_01.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-02T13:42:19.939969",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "basilique",
+  "contained_by_ensemble": {}
+}
