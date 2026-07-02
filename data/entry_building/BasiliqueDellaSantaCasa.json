@@ -1,0 +1,78 @@
+{
+  "id": "BasiliqueDellaSantaCasa",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q654996",
+  "entry_type": "building",
+  "title": "Basilique de la Sainte Maison de Lorette",
+  "creator": [
+    {
+      "xml_id": "BaccioPontelli",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "GiulianoDaSangallo",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "Bramante",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "FrancescoDiGiorgioMartini",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "AntonioDaSangalloIlGiovane",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1468,
+    "endYear": 1587,
+    "text": "1468-1587"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Loreto",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    },
+    "institution": {
+      "name": null,
+      "place": null,
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "grimaldiLoretoBasilicaSanta1975",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Loreto_-_Basilica_della_Santa_Casa_di_Loreto_-_2024-09-26_13-00-21_007.JPG/960px-Loreto_-_Basilica_della_Santa_Casa_di_Loreto_-_2024-09-26_13-00-21_007.JPG",
+      "storage": "online",
+      "copyright": "CC BY-SA 4.0, Parsifall, https://commons.wikimedia.org/wiki/File:Loreto_-_Basilica_della_Santa_Casa_di_Loreto_-_2024-09-26_13-00-21_007.JPG",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-02T13:17:03.307864",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "basilique",
+  "contained_by_ensemble": {}
+}
