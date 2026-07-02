@@ -1,0 +1,56 @@
+{
+  "id": "CathedraleParme",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1287889",
+  "entry_type": "building",
+  "title": "Cathédrale de Parme",
+  "creator": [
+    {
+      "xml_id": "BenedettoAntelami",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": 1290,
+    "text": "ante 1074-1290"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Parme",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "quintavalleCattedraleDiParma1974",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Parme_-_Dôme_et_Baptistère.jpg/1920px-Parme_-_Dôme_et_Baptistère.jpg",
+      "storage": "online",
+      "copyright": "CC BY 4.0, Jean-Christophe BENOIST, https://commons.wikimedia.org/wiki/File:Parme_-_Dôme_et_Baptistère.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-02T14:02:27.623855",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "cathédrale",
+  "contained_by_ensemble": {}
+}
