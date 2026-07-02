@@ -1,0 +1,64 @@
+{
+  "id": "BasiliqueSantaMariaNovellaFlorence",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q51175",
+  "entry_type": "building",
+  "title": "Basilique de Santa Maria Novella",
+  "creator": [
+    {
+      "xml_id": "LeonBattistaAlberti",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "FraSistoDaFirenze",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "FraRistoroDaCampi",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1279,
+    "endYear": 1470,
+    "text": "1279-1470"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "demarchiSantaMariaNovella2015",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Santa_Maria_Novella_%28Florence%29.jpg/1920px-Santa_Maria_Novella_%28Florence%29.jpg",
+      "storage": "online",
+      "copyright": "CC BY-SA 4.0, Commonists, https://commons.wikimedia.org/wiki/File:Santa_Maria_Novella_(Florence).jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-02T13:35:04.005808",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "basilique",
+  "contained_by_ensemble": {}
+}
