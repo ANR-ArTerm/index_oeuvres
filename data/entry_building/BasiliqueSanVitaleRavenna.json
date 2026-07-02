@@ -1,0 +1,56 @@
+{
+  "id": "BasiliqueSanVitaleRavenna",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q721817",
+  "entry_type": "building",
+  "title": "Basilique Saint Vital",
+  "creator": [
+    {
+      "xml_id": null,
+      "role": null
+    }
+  ],
+  "dateCreated": {
+    "startYear": 532,
+    "endYear": 547,
+    "text": "532-537"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Ravenna",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "angiolinimartinelliBasilicaDiSan",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Basilica_of_San_Vitale.jpg/1920px-Basilica_of_San_Vitale.jpg",
+      "storage": "online",
+      "copyright": "CC BY-SA 4.0, MenkinAlRire, https://commons.wikimedia.org/wiki/File:Basilica_of_San_Vitale.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-02T13:23:05.454327",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "basilique",
+  "contained_by_ensemble": {}
+}
