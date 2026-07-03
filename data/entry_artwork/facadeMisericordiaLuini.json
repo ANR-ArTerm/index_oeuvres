@@ -12,7 +12,7 @@
   "dateCreated": {
     "startYear": null,
     "endYear": null,
-    "text": ""
+    "text": "2e moitié du XVI siècle (ante 1590)"
   },
   "location": {
     "type": "unlocated"
@@ -31,6 +31,11 @@
     {
       "date": "2026-07-03T16:30:59.432637",
       "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-07-03T16:33:21.477317",
+      "type": "modified",
       "author": "Elisa"
     }
   ],
