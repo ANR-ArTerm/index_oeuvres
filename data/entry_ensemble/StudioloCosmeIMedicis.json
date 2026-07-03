@@ -41,9 +41,14 @@
       "date": "2026-05-19T16:33:49.772314",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-07-03T16:33:31.216026",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "ensemble décoratif",
   "contains_works": []
 }
