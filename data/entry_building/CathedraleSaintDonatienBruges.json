@@ -30,9 +30,14 @@
       "date": "2026-06-25T18:27:38.762826",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-07-03T13:34:39.558100",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "cathédrale",
   "contained_by_ensemble": {}
 }
