@@ -27,7 +27,12 @@
       "url": ""
     }
   },
-  "related_works": [],
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "BasiliqueSantaGiustinaPadoue"
+    }
+  ],
   "bibliography": [
     {
       "zotero_key": "guzzonSantaGiustinaGuida2021",
@@ -41,6 +46,11 @@
     {
       "date": "2026-07-03T17:44:07.037376",
       "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-07-03T17:44:29.602708",
+      "type": "modified",
       "author": "Elisa"
     }
   ],
