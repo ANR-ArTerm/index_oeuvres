@@ -40,7 +40,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Tintoretto_-_Miracle_of_the_Slave.jpg/1920px-Tintoretto_-_Miracle_of_the_Slave.jpg",
       "storage": "online",
-      "copyright": "Public domain",
+      "copyright": "Wikimédia Commons, Public domain",
       "caption": ""
     }
   ],
@@ -56,9 +56,14 @@
       "date": "2026-07-01T18:00:13.560892",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-03T15:59:43.980750",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "materialsAndTechniques": "huile sur toile",
   "contained_by_ensemble": {}
 }
