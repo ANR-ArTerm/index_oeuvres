@@ -1,0 +1,54 @@
+{
+  "id": "RatSabinesBassano",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Rat des Sabines",
+  "creator": [
+    {
+      "xml_id": "FrancescoBassano",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1582,
+    "endYear": 1582,
+    "text": "1582 ca."
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Galérie Sabauda",
+      "place": "Turin",
+      "inventory_number": "s.n. - Galleria Sabauda",
+      "url": "https://museireali.beniculturali.it/catalogo-galleria-sabauda/#/dettaglio/59979_Ratto%20delle%20Sabine"
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "gabrielliGalleriaSabaudaMaestri1971",
+      "location": "p. 64"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Francesco_Bassano_Ratto_delle_Sabine.jpg/1920px-Francesco_Bassano_Ratto_delle_Sabine.jpg?_=20161023203418",
+      "storage": "online",
+      "copyright": "CC 4.0, Manuelarosi, https://commons.wikimedia.org/wiki/File:Francesco_Bassano_Ratto_delle_Sabine.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-03T19:10:06.273675",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {}
+}
