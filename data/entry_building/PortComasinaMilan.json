@@ -20,16 +20,21 @@
     }
   ],
   "illustrations": [],
-  "description": "Détruite en XVIe siècle",
+  "description": "Détruite au XVIe siècle",
   "commentary": "",
   "history": [
     {
       "date": "2026-07-02T15:21:37.650789",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-03T14:41:15.085006",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "Porte",
   "contained_by_ensemble": {}
 }
