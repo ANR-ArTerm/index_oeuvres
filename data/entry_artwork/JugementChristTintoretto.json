@@ -40,7 +40,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Madonna_dell%27Orto_%28Venice%29_-_Choir_-_The_Last_Judgment_by_Jacopo_Tintoretto.jpg/960px-Madonna_dell%27Orto_%28Venice%29_-_Choir_-_The_Last_Judgment_by_Jacopo_Tintoretto.jpg",
       "storage": "online",
-      "copyright": "Public domain",
+      "copyright": "Wikimédia Commons, Public domain",
       "caption": ""
     }
   ],
@@ -51,9 +51,14 @@
       "date": "2026-07-01T17:53:42.371830",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-03T15:47:15.430771",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "materialsAndTechniques": "huile sur toile",
   "contained_by_ensemble": {}
 }
