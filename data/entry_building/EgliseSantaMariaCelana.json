@@ -43,9 +43,14 @@
       "date": "2026-07-01T16:18:10.548246",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-03T13:52:31.255908",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "église",
   "contained_by_ensemble": {}
 }
