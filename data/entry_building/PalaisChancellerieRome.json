@@ -1,0 +1,51 @@
+{
+  "id": "PalaisChancellerieRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2031943",
+  "entry_type": "building",
+  "title": "Palais de la Chancellerie à Rome",
+  "creator": [
+    {
+      "xml_id": "BaccioPontelli",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1486,
+    "endYear": 1496,
+    "text": "Fin du XVe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Parione_-_palazzo_Riario_o_Cancelleria_nuova_1628.JPG",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, public domain,  Lalupa (https://commons.wikimedia.org/wiki/File:Parione_-_palazzo_Riario_o_Cancelleria_nuova_1628.JPG)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-03T11:46:00.880721",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Palais",
+  "contained_by_ensemble": {}
+}
