@@ -45,9 +45,14 @@
       "date": "2026-06-27T12:08:02.262380",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-07-03T16:21:16.051659",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "Tenture",
   "contains_works": []
 }
