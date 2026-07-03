@@ -46,9 +46,14 @@
       "date": "2026-06-27T14:12:46.712067",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-07-03T15:41:50.815232",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "materialsAndTechniques": "Tempera et huile sur bois",
   "contained_by_ensemble": {}
 }
