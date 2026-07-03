@@ -1,0 +1,49 @@
+{
+  "id": "ChapelleSaintJosephNovara",
+  "QID_wikidata": "",
+  "entry_type": "building",
+  "title": "Chapelle de Saint Joseph",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": "ante 1504"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Novare",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    },
+    "institution": {
+      "name": null,
+      "place": null,
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "dellomoCattedraleDiNovara1993",
+      "location": "pp. 107-138"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-03T16:51:10.206626",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 1,
+  "typology": "Chapelle",
+  "contained_by_ensemble": {}
+}
