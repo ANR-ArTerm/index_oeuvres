@@ -30,6 +30,10 @@
     {
       "zotero_key": "mezzanotteMilanoNellarteNella1948",
       "location": "pp. 353-354"
+    },
+    {
+      "zotero_key": "fiorioChieseDiMilano1985",
+      "location": "pp. 131-132"
     }
   ],
   "illustrations": [
@@ -47,6 +51,11 @@
     {
       "date": "2026-07-03T15:41:44.282185",
       "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-07-03T15:52:53.268105",
+      "type": "modified",
       "author": "Elisa"
     }
   ],
