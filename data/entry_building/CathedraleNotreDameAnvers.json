@@ -45,7 +45,11 @@
       "author": "Carla"
     },
     {
+<<<<<<< HEAD
       "date": "2026-07-01T14:57:43.049036",
+=======
+      "date": "2026-07-03T11:08:07.725087",
+>>>>>>> d2960ada (modification notice CathedraleNotreDameAnvers par Jules 2026-07-03T11:08:07.726844)
       "type": "modified",
       "author": "Jules"
     }
