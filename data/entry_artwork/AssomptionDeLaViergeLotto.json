@@ -40,7 +40,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Lorenzo_lotto%2C_assunta_di_celana%2C_1527%2C_00.jpg/1280px-Lorenzo_lotto%2C_assunta_di_celana%2C_1527%2C_00.jpg",
       "storage": "online",
-      "copyright": "CC BY 3.0, Sailko, https://commons.wikimedia.org/wiki/File:Lorenzo_lotto,_assunta_di_celana,_1527,_00.jpg",
+      "copyright": "Wikimédia Commons, CC BY 3.0, Sailko, https://commons.wikimedia.org/wiki/File:Lorenzo_lotto,_assunta_di_celana,_1527,_00.jpg",
       "caption": ""
     }
   ],
@@ -61,9 +61,14 @@
       "date": "2026-07-01T16:24:06.402264",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-03T14:52:54.370414",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "materialsAndTechniques": "huile sur toile",
   "contained_by_ensemble": {}
 }
