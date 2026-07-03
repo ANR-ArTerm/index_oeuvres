@@ -1,0 +1,59 @@
+{
+  "id": "VillaFarneseCaprarola",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q597957",
+  "entry_type": "building",
+  "title": "Villa Farnese à Caprarola",
+  "creator": [
+    {
+      "xml_id": "JacopoBarozziDaVignola",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "AntonioDaSangalloIlGiovane",
+      "role": "créateur du projet"
+    },
+    {
+      "xml_id": "BaldassarrePeruzzi",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1559,
+    "endYear": 1575,
+    "text": "Deuxième moitié du XVIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Caprarola",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Palazzo_Farnese_%28Caprarola%29.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Livioandronico2013 (https://commons.wikimedia.org/wiki/File:Palazzo_Farnese_(Caprarola).jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-03T11:40:15.023177",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Palais",
+  "contained_by_ensemble": {}
+}

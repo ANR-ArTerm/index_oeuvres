@@ -1,0 +1,65 @@
+{
+  "id": "EgliseSanTomasoMilan",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3672110",
+  "entry_type": "building",
+  "title": "Eglise de San Tomaso à Terra Mala",
+  "creator": [
+    {
+      "xml_id": null,
+      "role": null
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": 1576,
+    "text": "XIe siècle-1576"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Milan",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "mezzanotteMilanoNellarteNella1948",
+      "location": "pp. 353-354"
+    },
+    {
+      "zotero_key": "fiorioChieseDiMilano1985",
+      "location": "pp. 131-132"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/8276_-_Milano_-_San_Tomaso_-_Foto_Giovanni_Dall%27Orto_1-Mar-2007.jpg/1280px-8276_-_Milano_-_San_Tomaso_-_Foto_Giovanni_Dall%27Orto_1-Mar-2007.jpg",
+      "storage": "online",
+      "copyright": "G.dallorto, https://commons.wikimedia.org/wiki/File:8276_-_Milano_-_San_Tomaso_-_Foto_Giovanni_Dall%27Orto_1-Mar-2007.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-03T15:41:44.282185",
+      "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-07-03T15:52:53.268105",
+      "type": "modified",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "église",
+  "contained_by_ensemble": {}
+}
