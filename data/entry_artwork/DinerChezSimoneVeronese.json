@@ -2,7 +2,7 @@
   "id": "DinerChezSimoneVeronese",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q63871952",
   "entry_type": "artwork",
-  "title": "Diner chez Simone",
+  "title": "Repas chez Simon",
   "creator": [
     {
       "xml_id": "PaoloVeronese",
@@ -35,7 +35,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Paolo_Veronese_-_The_Feast_in_the_House_of_Simon_%281555-56_Turin%29.jpg/1920px-Paolo_Veronese_-_The_Feast_in_the_House_of_Simon_%281555-56_Turin%29.jpg",
       "storage": "online",
-      "copyright": "",
+      "copyright": "Wikimédia Commons, Public Domain",
       "caption": ""
     }
   ],
@@ -46,9 +46,14 @@
       "date": "2026-07-01T17:02:36.028234",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-03T15:17:27.502416",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "materialsAndTechniques": "huile sur toile",
   "contained_by_ensemble": {}
 }
