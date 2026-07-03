@@ -40,9 +40,14 @@
       "date": "2026-06-25T18:21:26.158889",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-07-03T15:34:48.390729",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "materialsAndTechniques": "gravure sur cuivre",
   "contained_by_ensemble": {}
 }
