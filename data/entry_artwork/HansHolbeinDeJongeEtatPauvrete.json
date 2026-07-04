@@ -22,18 +22,23 @@
   "illustrations": [
     {
       "id": 0,
-      "url": "",
+      "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/4_22/1e2ca21f_1e28_4ce2_96be_a3ba017a465c/mid_00270923_001.jpg",
       "storage": "online",
-      "copyright": "",
-      "caption": ""
+      "copyright": "© The Trustees of the British Museum. Shared under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) licence.",
+      "caption": "The british Museum, inv. 1894,0721.2, Asset number 270923001, (https://www.britishmuseum.org/collection/image/270923001)"
     }
   ],
-  "description": "",
+  "description": "Ce dessin est une copie attribuée à Lucas Vorsterman l'Ainé. L'artiste aurait copié la grande composition d'Holbein lors de son séjour en Angleterre. L'original est perdu, ",
   "commentary": "",
   "history": [
     {
       "date": "2026-07-04T13:40:42.417526",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-04T13:48:52.047666",
+      "type": "modified",
       "author": "Carla"
     }
   ],
