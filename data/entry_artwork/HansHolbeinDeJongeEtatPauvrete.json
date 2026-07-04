@@ -28,7 +28,7 @@
       "caption": "The british Museum, inv. 1894,0721.2, Asset number 270923001, (https://www.britishmuseum.org/collection/image/270923001)"
     }
   ],
-  "description": "Ce dessin est une copie attribuée à Lucas Vorsterman l'Ainé. L'artiste aurait copié la grande composition d'Holbein lors de son séjour en Angleterre. L'original est perdu, ",
+  "description": "Ce dessin est une copie attribuée à Lucas Vorsterman l'Ainé. L'artiste aurait copié la grande composition d'Holbein lors de son séjour en Angleterre. La composition originale a été peinte pour la salle des Fêtes des marchands de la Hanse vers 1532, dans la maison du Steelyard de Thames Street. Les oeuvres disparurent en 1752 lors d'un incendie du château de Kremsier.",
   "commentary": "",
   "history": [
     {
@@ -38,6 +38,11 @@
     },
     {
       "date": "2026-07-04T13:48:52.047666",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-04T13:50:44.728928",
       "type": "modified",
       "author": "Carla"
     }
