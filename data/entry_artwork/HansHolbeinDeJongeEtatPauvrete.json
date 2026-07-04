@@ -1,0 +1,43 @@
+{
+  "id": "HansHolbeinDeJongeEtatPauvrete",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "L'État de Pauvreté ou Le Triomphe de la Pauvreté ",
+  "creator": [
+    {
+      "xml_id": "HansHolbeinDeJonge",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1532,
+    "endYear": 1532,
+    "text": "Vers 1532"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "",
+      "storage": "online",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-04T13:40:42.417526",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "Peinture en grisaille rehaussée d'or et d'aquarelle",
+  "contained_by_ensemble": {}
+}
