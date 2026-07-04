@@ -28,12 +28,17 @@
       "caption": "Dessin préparatoire à la peinture. "
     }
   ],
-  "description": "Ce dessin à la plume, encre brune, lavis brun, et rehauts de blanc est une étude pour une grande composition allégoriques le 'Triomphe de la Richesse' peinte pour la salle des Fêtes des marchands de la Hanse, dans la maison du Steelyard de Thames Street. Les oeuvres disparurent en 1752 lors d'un incendie du château de Kremsier.",
+  "description": "Ce dessin à la plume, encre brune, lavis brun, et rehauts de blanc est une étude pour une grande composition allégoriques le Triomphe de la Richesse, peinte pour la salle des Fêtes des marchands de la Hanse, dans la maison du Steelyard de Thames Street. Les oeuvres disparurent en 1752 lors d'un incendie du château de Kremsier.",
   "commentary": "",
   "history": [
     {
       "date": "2026-07-04T12:36:42.379130",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-04T13:49:23.173669",
+      "type": "modified",
       "author": "Carla"
     }
   ],
