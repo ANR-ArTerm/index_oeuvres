@@ -23,7 +23,12 @@
       "xml_id_work": "HansHolbeinDeJongeTriompheRichesses"
     }
   ],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "staintonDrawingEnglandHilliard1987",
+      "location": "p. 80"
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -58,6 +63,11 @@
     },
     {
       "date": "2026-07-04T13:52:01.118661",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-04T13:56:16.717552",
       "type": "modified",
       "author": "Carla"
     }
