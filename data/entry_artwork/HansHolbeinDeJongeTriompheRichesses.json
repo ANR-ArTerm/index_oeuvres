@@ -17,7 +17,12 @@
   "location": {
     "type": "unlocated"
   },
-  "related_works": [],
+  "related_works": [
+    {
+      "link_type": "appartient au même ensemble",
+      "xml_id_work": "HansHolbeinDeJongeEtatPauvrete"
+    }
+  ],
   "bibliography": [],
   "illustrations": [
     {
@@ -38,6 +43,11 @@
     },
     {
       "date": "2026-07-04T13:49:23.173669",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-04T13:53:16.114374",
       "type": "modified",
       "author": "Carla"
     }
