@@ -23,7 +23,12 @@
       "url": "https://www.khm.at/kunstwerke/kriegszug-kaiser-karls-v-gegen-tunis-1535-die-eroberung-und-pluenderung-von-tunis-2080"
     }
   },
-  "related_works": [],
+  "related_works": [
+    {
+      "link_type": "œuvre associée",
+      "xml_id_work": "JanCorneliszVermeyenConqueteTunisTapisserie"
+    }
+  ],
   "bibliography": [],
   "illustrations": [
     {
@@ -46,10 +51,14 @@
       "date": "2026-07-05T16:39:21.764952",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-07-05T17:58:45.888835",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
   "status_entry": 0,
   "materialsAndTechniques": "Fusain, aquarelle sur papier, marouflé sur toile",
-  "contained_by_ensemble": {},
-  "typology": "Dessin"
+  "contained_by_ensemble": {}
 }
