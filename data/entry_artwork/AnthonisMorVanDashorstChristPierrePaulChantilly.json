@@ -1,0 +1,42 @@
+{
+  "id": "AnthonisMorVanDashorstChristPierrePaulChantilly",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q64900288",
+  "entry_type": "artwork",
+  "title": "Jésus Christ ressuscité entouré de saint Pierre, saint Paul et deux anges",
+  "creator": [
+    {
+      "xml_id": "AnthonisMorVanDashorst",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": null,
+      "place": null,
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-05T18:11:07.939577",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": null,
+  "contained_by_ensemble": {},
+  "typology": null
+}
