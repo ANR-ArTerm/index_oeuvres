@@ -58,5 +58,6 @@
   ],
   "status_entry": 0,
   "materialsAndTechniques": "Tapisserie",
-  "contained_by_ensemble": {}
+  "contained_by_ensemble": {},
+  "typology": "Tapisserie"
 }
