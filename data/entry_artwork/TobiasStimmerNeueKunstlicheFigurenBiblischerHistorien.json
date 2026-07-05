@@ -1,0 +1,48 @@
+{
+  "id": "TobiasStimmerNeueKunstlicheFigurenBiblischerHistorien",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Neue Künstliche Figuren Biblischer Historien ou Nouvelle figures de la Bible",
+  "creator": [
+    {
+      "xml_id": "TobiasStimmer",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1576,
+    "endYear": 1586,
+    "text": "Vers 1576"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "andresenandreasDeutschePeintreGraveurOder1872",
+      "location": "vol III, 105.148."
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/346040/767056/main-image",
+      "storage": "online",
+      "copyright": "New York, Metropolitan Museum of Arts, inv. 45.42.2, (https://www.metmuseum.org/art/collection/search/346040)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-05T15:28:24.675418",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "gravure sur bois",
+  "contained_by_ensemble": {}
+}
