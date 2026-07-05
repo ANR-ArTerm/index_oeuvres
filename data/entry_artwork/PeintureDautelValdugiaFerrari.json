@@ -47,5 +47,6 @@
   ],
   "status_entry": 2,
   "materialsAndTechniques": "fresque",
-  "contained_by_ensemble": {}
+  "contained_by_ensemble": {},
+  "typology": "Peinture"
 }

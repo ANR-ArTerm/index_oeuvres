@@ -50,5 +50,6 @@
   ],
   "status_entry": 1,
   "materialsAndTechniques": null,
-  "contained_by_ensemble": {}
+  "contained_by_ensemble": {},
+  "typology": ""
 }

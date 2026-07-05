@@ -45,5 +45,6 @@
   ],
   "status_entry": 0,
   "materialsAndTechniques": "sculpture en bronze",
-  "contained_by_ensemble": {}
+  "contained_by_ensemble": {},
+  "typology": "Sculpture"
 }

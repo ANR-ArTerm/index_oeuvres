@@ -56,5 +56,6 @@
   ],
   "materialsAndTechniques": "sculpture en pierre",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 1,
+  "typology": "Sculpture"
 }

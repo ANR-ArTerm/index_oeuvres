@@ -56,5 +56,6 @@
   ],
   "status_entry": 2,
   "materialsAndTechniques": "sculpture en bois",
-  "contained_by_ensemble": {}
+  "contained_by_ensemble": {},
+  "typology": "Sculpture"
 }
