@@ -2,7 +2,7 @@
   "id": "ProcessionTriomphaleMaximilienDurer",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q1797620",
   "entry_type": "artwork",
-  "title": "Procession Triomphale de l'empereur Maximilien ",
+  "title": "Procession Triomphale de l'empereur Maximilien",
   "creator": [
     {
       "xml_id": "AlbrechtDurer",
@@ -57,6 +57,6 @@
     }
   ],
   "status_entry": 1,
-  "materialsAndTechniques": "xylographie",
+  "materialsAndTechniques": "gravure sur bois",
   "contained_by_ensemble": {}
 }
