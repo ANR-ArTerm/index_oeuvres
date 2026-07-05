@@ -422,39 +422,45 @@ def add_notice():
 
     if entry_type == "artwork":
 
-        # typologie
-        st.header("🎲 Typologie d'œuvre")
+        col_typology, col_materials = st.columns([1,1])
 
-        notice["typology"] = st.selectbox(
-                    "Typologie d'œuvre",
-                    load_list_form("typologies_artwork"),
-                    index=None,
-                    accept_new_options=True
-                    )
-        if notice["typology"] is not None and notice["typology"] not in load_list_form("typologies_artwork"):
-            st.write("Sauvegarde de la nouvelle typologie")
-            success, message = save_to_list_form_git("typologies_artwork", notice["typology"])
-            if success:
-                st.success(message)
-            else:
-                st.error(message)
+        # typologie
+        with col_typology:
+
+            st.header("🎲 Typologie d'œuvre")
+
+            notice["typology"] = st.selectbox(
+                        "Typologie d'œuvre",
+                        load_list_form("typologies_artwork"),
+                        index=None,
+                        accept_new_options=True
+                        )
+            if notice["typology"] is not None and notice["typology"] not in load_list_form("typologies_artwork"):
+                st.write("Sauvegarde de la nouvelle typologie")
+                success, message = save_to_list_form_git("typologies_artwork", notice["typology"])
+                if success:
+                    st.success(message)
+                else:
+                    st.error(message)
         
         # Matériaux et techniques
-        st.header("🎨 Matériaux & Techniques")
+        with col_materials:
 
-        notice["materialsAndTechniques"] = st.selectbox(
-                    "Matériaux et techniques",
-                    load_list_form("techniques"),
-                    index=None,
-                    accept_new_options=True
-                    )
-        if notice["materialsAndTechniques"] is not None and notice["materialsAndTechniques"] not in load_list_form("techniques"):
-            st.write("Sauvegarde de la technique")
-            success, message = save_to_list_form_git("techniques", notice["materialsAndTechniques"])
-            if success:
-                st.success(message)
-            else:
-                st.error(message)
+            st.header("🎨 Matériaux & Techniques")
+
+            notice["materialsAndTechniques"] = st.selectbox(
+                        "Matériaux et techniques",
+                        load_list_form("techniques"),
+                        index=None,
+                        accept_new_options=True
+                        )
+            if notice["materialsAndTechniques"] is not None and notice["materialsAndTechniques"] not in load_list_form("techniques"):
+                st.write("Sauvegarde de la technique")
+                success, message = save_to_list_form_git("techniques", notice["materialsAndTechniques"])
+                if success:
+                    st.success(message)
+                else:
+                    st.error(message)
 
     # =========================
     # Partie spécifique aux notices "building" : typologie et matériaux et techniques
@@ -939,8 +945,8 @@ def add_notice():
 
     if st.button("💾 Créer la notice", type="primary"):
 
-        if not notice["id"] or not notice["title"]:
-            st.error("XML:ID et Titre sont obligatoires.")
+        if not notice["id"] or not notice["title"] or not notice["typology"]:
+            st.error("XML:ID, Titre et la typologie sont obligatoires.")
             return
 
         notice["history"].append({
