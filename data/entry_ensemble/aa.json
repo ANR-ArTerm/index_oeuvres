@@ -1,0 +1,36 @@
+{
+  "id": "aa",
+  "QID_wikidata": "",
+  "entry_type": "ensemble",
+  "title": "aa",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": null,
+      "place": null,
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-05T18:21:42.161684",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "chapelle",
+  "contains_works": []
+}
