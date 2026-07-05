@@ -1,0 +1,44 @@
+{
+  "id": "JanCorneliszVermeyenConqueteTunisPeinture",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "La Conquête de Tunis par l'empereur Charles Quint",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": null,
+      "place": null,
+      "inventory_number": "",
+      "url": "https://www.khm.at/kunstwerke/kriegszug-kaiser-karls-v-gegen-tunis-1535-die-eroberung-und-pluenderung-von-tunis-2080"
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "",
+      "storage": "online",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-05T15:33:00.385971",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": null,
+  "contained_by_ensemble": {}
+}
