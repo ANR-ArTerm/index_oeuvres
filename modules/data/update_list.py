@@ -31,6 +31,7 @@ LISTS_EDITABLE = {
     "👨‍🎨 Rôles des artistes (artwork)": "artists_roles.json",
     "🔨 Rôles des architectes (building)":"architects_roles.json",
     "⛪️ Typologies d'architecture": "typologies_architecture.json",
+    "🎲 Typologies d'œuvres": "typologies_artwork.json",
     "🌿 Typologies d'ensemble":"typologies_ensemble.json",
     "🏛️ Institutions de conservation": "institutions.json",
     "🎨 Techniques et matériaux": "techniques.json",

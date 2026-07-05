@@ -416,7 +416,30 @@ def add_notice():
         notice["creator"].append({"xml_id": "", "role": ""})
         st.rerun()
 
+    # =========================
+    # Partie spécifique aux notices "artwork" : typologie et matériaux et techniques
+    # =========================
+
     if entry_type == "artwork":
+
+        # typologie
+        st.header("🎲 Typologie d'œuvre")
+
+        notice["typology"] = st.selectbox(
+                    "Typologie d'œuvre",
+                    load_list_form("typologies_artwork"),
+                    index=None,
+                    accept_new_options=True
+                    )
+        if notice["typology"] is not None and notice["typology"] not in load_list_form("typologies_artwork"):
+            st.write("Sauvegarde de la nouvelle typologie")
+            success, message = save_to_list_form_git("typologies_artwork", notice["typology"])
+            if success:
+                st.success(message)
+            else:
+                st.error(message)
+        
+        # Matériaux et techniques
         st.header("🎨 Matériaux & Techniques")
 
         notice["materialsAndTechniques"] = st.selectbox(
@@ -432,12 +455,16 @@ def add_notice():
                 st.success(message)
             else:
                 st.error(message)
-    
+
+    # =========================
+    # Partie spécifique aux notices "building" : typologie et matériaux et techniques
+    # =========================
+
     if entry_type == "building":
         st.header("Typologie de monument")
 
         notice["typology"] = st.selectbox(
-                    "Typologie",
+                    "Typologie d'architecture",
                     load_list_form("typologies_architecture"),
                     index=None,
                     accept_new_options=True
@@ -455,7 +482,7 @@ def add_notice():
         st.header("Typologie d'ensemble")
 
         notice["typology"] = st.selectbox(
-                    "Typologie",
+                    "Typologie d'ensemble",
                     load_list_form("typologies_ensemble"),
                     index=None,
                     accept_new_options=True
