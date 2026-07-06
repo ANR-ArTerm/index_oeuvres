@@ -27,9 +27,14 @@
       "date": "2026-05-29T19:03:02.581058",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-06T10:50:27.153210",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "materialsAndTechniques": "fresque",
   "contained_by_ensemble": {},
   "typology": "Peinture"
