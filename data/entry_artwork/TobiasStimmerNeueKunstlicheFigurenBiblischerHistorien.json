@@ -40,9 +40,14 @@
       "date": "2026-07-05T15:28:24.675418",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-07-06T11:55:18.330400",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "materialsAndTechniques": "gravure sur bois",
   "contained_by_ensemble": {},
   "typology": "Estampe"
