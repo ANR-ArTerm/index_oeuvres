@@ -37,9 +37,14 @@
       "date": "2026-06-24T11:04:46.905823",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-07-06T11:15:10.295687",
+      "type": "modified",
+      "author": "Nicolo"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "ensemble décoratif",
   "contains_works": []
 }
