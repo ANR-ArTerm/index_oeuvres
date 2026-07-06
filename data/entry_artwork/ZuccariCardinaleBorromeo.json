@@ -42,8 +42,14 @@
       "date": "2025-12-09 15:33:37",
       "type": "created",
       "author": "Julia"
+    },
+    {
+      "date": "2026-07-06T10:53:07.246655",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
-  "typology": "Peinture"
+  "status_entry": 1,
+  "typology": "Peinture",
+  "contained_by_ensemble": {}
 }
