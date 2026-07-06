@@ -33,14 +33,20 @@
       "date": "2026-06-23T14:26:30.776763",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-07-06T10:22:50.283728",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 2,
   "typology": "ensemble décoratif",
   "contains_works": [
     {
       "link_type": null,
-      "xml_id_work": null
+      "xml_id_work": null,
+      "link_types_contained": null
     }
   ]
 }
