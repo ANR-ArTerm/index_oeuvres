@@ -32,9 +32,14 @@
       "date": "2026-06-10T16:48:33.341232",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-07-06T10:09:17.312099",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "suite d'estampes",
   "contains_works": []
 }
