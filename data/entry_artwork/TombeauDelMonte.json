@@ -26,7 +26,7 @@
   "related_works": [
     {
       "link_type": "fait partie de",
-      "xml_id_work": "ChapelleDelMonte"
+      "xml_id_work": null
     },
     {
       "link_type": "fait partie de",
@@ -72,10 +72,15 @@
       "date": "2026-04-30T19:03:10.765524",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-06T11:56:37.571476",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "Sculpture en marbre",
   "contained_by_ensemble": {},
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "Sculpture"
 }
