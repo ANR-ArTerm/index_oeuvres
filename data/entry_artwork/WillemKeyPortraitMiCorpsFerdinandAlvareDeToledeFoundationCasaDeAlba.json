@@ -30,7 +30,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Willem_Key_-_Don_Fernando_%C3%81lvarez_de_Toledo%2C_III_duque_de_Alba%2C_Fundaci%C3%B3n_Casa_de_Alba.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
       "storage": "online",
-      "copyright": "",
+      "copyright": "Wikimédia Commons, Public Domain, https://commons.wikimedia.org/wiki/File:Willem_Key_-_Don_Fernando_%C3%81lvarez_de_Toledo,_III_duque_de_Alba,_Fundaci%C3%B3n_Casa_de_Alba.jpg",
       "caption": ""
     }
   ],
@@ -41,9 +41,14 @@
       "date": "2026-07-05T22:17:56.978306",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-07-06T11:52:55.294472",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "Peinture",
   "materialsAndTechniques": "huile sur toile",
   "contained_by_ensemble": {}
