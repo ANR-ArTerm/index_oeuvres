@@ -40,11 +40,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Lorenzo_lotto%2C_assunta_di_celana%2C_1527%2C_00.jpg/1280px-Lorenzo_lotto%2C_assunta_di_celana%2C_1527%2C_00.jpg",
       "storage": "online",
-<<<<<<< HEAD
       "copyright": "Wikimédia Commons, CC BY 3.0, Sailko, https://commons.wikimedia.org/wiki/File:Lorenzo_lotto,_assunta_di_celana,_1527,_00.jpg",
-=======
-      "copyright": "Wikimédia Commons, CC BY 3.0, Sailko, https://commons.wikimedia.org/wiki/File:Lorenzo_lotto,_assunta_di_celana,_1527,_00.jpg*",
->>>>>>> bb91c364 (modification notice EgliseSantaMariaCelana par Jules 2026-07-01T16:22:43.291580)
       "caption": ""
     }
   ],
@@ -57,11 +53,10 @@
       "author": "Elisa"
     },
     {
-<<<<<<< HEAD
+
       "date": "2026-07-01T16:18:37.360697",
       "type": "modified",
       "author": "Elisa"
-<<<<<<< HEAD
     },
     {
       "date": "2026-07-01T16:24:06.402264",
@@ -72,13 +67,11 @@
       "date": "2026-07-03T14:52:54.370414",
       "type": "modified",
       "author": "Jules"
-=======
-=======
+    },
+    {
       "date": "2026-07-01T16:18:53.645852",
       "type": "modified",
       "author": "Jules"
->>>>>>> 0137eedb (modification notice AssomptionDeLaViergeLotto par Jules 2026-07-01T16:18:53.650987)
->>>>>>> bb91c364 (modification notice EgliseSantaMariaCelana par Jules 2026-07-01T16:22:43.291580)
     }
   ],
   "status_entry": 1,
