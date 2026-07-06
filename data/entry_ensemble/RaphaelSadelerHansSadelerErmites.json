@@ -25,7 +25,7 @@
   "bibliography": [],
   "illustrations": [],
   "description": "Cette série est une suite de 29 pièces.\n",
-  "commentary": "",
+  "commentary": "https://www.parismuseescollections.paris.fr/fr/petit-palais/oeuvres/egidius-d-apres-martin-de-vos#infos-principales pour images ?\n",
   "history": [
     {
       "date": "2026-06-26T11:42:11.801727",
@@ -41,9 +41,14 @@
       "date": "2026-06-26T11:55:18.608342",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-07-06T10:27:21.759492",
+      "type": "modified",
+      "author": "Nicolo"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 2,
   "typology": "suite d'estampes",
   "contains_works": [
     {
