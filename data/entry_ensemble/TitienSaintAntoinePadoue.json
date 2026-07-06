@@ -29,7 +29,7 @@
     {
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Tizian_025.1.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
-      "copyright": "Wikimédia Commons, Domain Public (https://commons.wikimedia.org/wiki/File:Tizian_025.1.jpg)",
+      "copyright": "Wikimédia Commons, Domaine Public (https://commons.wikimedia.org/wiki/File:Tizian_025.1.jpg)",
       "caption": "",
       "storage": "online"
     }
@@ -44,6 +44,11 @@
     },
     {
       "date": "2026-07-06T10:49:10.580519",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-07-06T10:49:23.872240",
       "type": "modified",
       "author": "Jules"
     }
