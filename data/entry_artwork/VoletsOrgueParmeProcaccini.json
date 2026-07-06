@@ -40,14 +40,14 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ercole_e_giulio_cesare_procaccini%2C_portelle_dell%27organo_del_duomo_di_parma%2C_1560_ca.%2C_santa_cecilia.jpg/960px-Ercole_e_giulio_cesare_procaccini%2C_portelle_dell%27organo_del_duomo_di_parma%2C_1560_ca.%2C_santa_cecilia.jpg?_=20190504171341",
       "storage": "online",
-      "copyright": "CC Attribution 3.0,Sailko, https://commons.wikimedia.org/wiki/File:Ercole_e_giulio_cesare_procaccini,_portelle_dell%27organo_del_duomo_di_parma,_1560_ca.,_santa_cecilia.jpg",
+      "copyright": "Wikimédia Commons, CC Attribution 3.0,Sailko, https://commons.wikimedia.org/wiki/File:Ercole_e_giulio_cesare_procaccini,_portelle_dell%27organo_del_duomo_di_parma,_1560_ca.,_santa_cecilia.jpg",
       "caption": ""
     },
     {
       "id": 1,
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Ercole_e_giulio_cesare_procaccini%2C_portelle_dell%27organo_del_duomo_di_parma%2C_1560_ca.%2C_guerriero.jpg/960px-Ercole_e_giulio_cesare_procaccini%2C_portelle_dell%27organo_del_duomo_di_parma%2C_1560_ca.%2C_guerriero.jpg?_=20190504171340",
       "storage": "online",
-      "copyright": "CC Attribution 3.0,Sailko, https://commons.wikimedia.org/wiki/File:Ercole_e_giulio_cesare_procaccini,_portelle_dell%27organo_del_duomo_di_parma,_1560_ca.,_guerriero.jpg",
+      "copyright": "Wikimédia Commons, CC Attribution 3.0,Sailko, https://commons.wikimedia.org/wiki/File:Ercole_e_giulio_cesare_procaccini,_portelle_dell%27organo_del_duomo_di_parma,_1560_ca.,_guerriero.jpg",
       "caption": ""
     }
   ],
@@ -58,9 +58,14 @@
       "date": "2026-07-03T17:29:06.418101",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-06T11:51:42.289852",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "materialsAndTechniques": "huile sur bois",
   "contained_by_ensemble": {},
   "typology": "Peinture"
