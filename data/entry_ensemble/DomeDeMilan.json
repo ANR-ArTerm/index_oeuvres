@@ -11,12 +11,6 @@
   },
   "location": {
     "type": "place",
-    "institution": {
-      "name": null,
-      "place": null,
-      "inventory_number": "",
-      "url": ""
-    },
     "place": {
       "city": "Milan",
       "country": "Italie",
@@ -44,9 +38,19 @@
       "date": "2026-06-24T15:22:01.536209",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-07-06T09:51:22.984418",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-07-06T09:52:02.347657",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "dôme",
   "contains_works": []
 }

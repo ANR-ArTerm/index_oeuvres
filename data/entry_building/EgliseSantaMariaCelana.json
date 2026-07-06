@@ -32,7 +32,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Facciata_Chiesa_di_Celana.jpg/960px-Facciata_Chiesa_di_Celana.jpg",
       "storage": "online",
-      "copyright": "CC0, Vennor, https://commons.wikimedia.org/wiki/File:Facciata_Chiesa_di_Celana.jpg",
+      "copyright": "Wikimédia Commons, CC0, Vennor, https://commons.wikimedia.org/wiki/File:Facciata_Chiesa_di_Celana.jpg",
       "caption": ""
     }
   ],
@@ -45,7 +45,11 @@
       "author": "Elisa"
     },
     {
+<<<<<<< HEAD
       "date": "2026-07-03T13:52:31.255908",
+=======
+      "date": "2026-07-01T16:22:43.285495",
+>>>>>>> bb91c364 (modification notice EgliseSantaMariaCelana par Jules 2026-07-01T16:22:43.291580)
       "type": "modified",
       "author": "Jules"
     }
