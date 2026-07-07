@@ -1,0 +1,45 @@
+{
+  "id": "WillemKeyPortraitFerdinandAlvareDeToledeCollectionPrivee",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q121675626",
+  "entry_type": "artwork",
+  "title": "Portrait de Ferdinand Alvare de Tolède",
+  "creator": [
+    {
+      "xml_id": "WillemKey",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1575,
+    "endYear": 1599,
+    "text": "1575-1599"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [
+    {
+      "link_type": "Autre version",
+      "xml_id_work": "WillemKeyPortraitFerdinandAlvareDeToledeFoundationCasaDeAlba"
+    },
+    {
+      "link_type": "Autre version",
+      "xml_id_work": "WillemKeyPortraitMiCorpsFerdinandAlvareDeToledeFoundationCasaDeAlba"
+    }
+  ],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "Cette œuvre est conservée dans une collection privée.  La seule image disponible est celle proposée par la base de données du RKD Nederlands Instituut Voor Kunstgeschiedenis à l'adresse suivante (https://research.rkd.nl/nl/detail/https%3A%2F%2Fdata.rkd.nl%2Fimages%2F126793?image=0&imageId=https%253A%252F%252Fdata.rkd.nl%252Fdigital-objects%252F10725439&itemUri=https%253A%252F%252Fdata.rkd.nl%252Fdigital-objects%252F10725439)",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-07T11:51:41.661347",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Peinture",
+  "materialsAndTechniques": "huile sur bois",
+  "contained_by_ensemble": {}
+}
