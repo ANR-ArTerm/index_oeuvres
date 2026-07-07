@@ -23,7 +23,16 @@
       "url": ""
     }
   },
-  "related_works": [],
+  "related_works": [
+    {
+      "link_type": "Autre version",
+      "xml_id_work": "WillemKeyPortraitFerdinandAlvareDeToledeCollectionPrivee"
+    },
+    {
+      "link_type": "Autre version",
+      "xml_id_work": "WillemKeyPortraitFerdinandAlvareDeToledeFoundationCasaDeAlba"
+    }
+  ],
   "bibliography": [
     {
       "zotero_key": "jonckheerekoenraadWillemKey151615682011",
@@ -56,9 +65,14 @@
       "date": "2026-07-07T11:34:11.209903",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-07-07T12:29:09.637747",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 8,
   "typology": "Peinture",
   "materialsAndTechniques": "huile sur toile",
   "contained_by_ensemble": {}
