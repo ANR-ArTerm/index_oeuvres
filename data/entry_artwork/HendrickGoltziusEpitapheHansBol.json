@@ -1,0 +1,49 @@
+{
+  "id": "HendrickGoltziusEpitapheHansBol",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q65073017",
+  "entry_type": "artwork",
+  "title": "Portrait et épitaphe de Hans Bol",
+  "creator": [
+    {
+      "xml_id": "JeanGoltzius",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1593,
+    "endYear": 1593,
+    "text": "1593"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "veldmaniljamariaNewHollsteinDutch1993",
+      "location": "n°209.I"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP821046.jpg",
+      "storage": "online",
+      "copyright": "New York, Metropolitan Museum of Arts, inv. 40.52.100, (https://www.metmuseum.org/art/collection/search/343589)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-07T12:28:01.728408",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Estampe",
+  "materialsAndTechniques": "gravure",
+  "contained_by_ensemble": {}
+}
