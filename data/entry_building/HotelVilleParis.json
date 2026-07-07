@@ -1,0 +1,67 @@
+{
+  "id": "HotelVilleParis",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q640968",
+  "entry_type": "building",
+  "title": "Hôtel de Ville de Paris",
+  "creator": [
+    {
+      "xml_id": "TheodoreBallu",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "EdouardDeperthes",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "Boccador",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "EtienneHippolyteGodde",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "JeanBaptisteLesueur",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1533,
+    "endYear": 1882,
+    "text": "1533-1882"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Paris",
+      "country": "France",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/H%C3%B4tel_ville_fa%C3%A7ade_principale_Paris_11.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Chabe01, (https://commons.wikimedia.org/wiki/File:H%C3%B4tel_ville_fa%C3%A7ade_principale_Paris_11.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "L'édifice fut maintes fois remanié, notamment après son incendie durant la Fronde, en 1652, et durant la Commune en 1871.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-07T12:05:35.774366",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Hôtel de ville",
+  "contained_by_ensemble": {}
+}
