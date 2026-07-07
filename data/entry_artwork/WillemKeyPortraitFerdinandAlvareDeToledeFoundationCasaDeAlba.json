@@ -27,6 +27,10 @@
     {
       "link_type": "Autre version",
       "xml_id_work": "WillemKeyPortraitMiCorpsFerdinandAlvareDeToledeFoundationCasaDeAlba"
+    },
+    {
+      "link_type": "Autre version",
+      "xml_id_work": "WillemKeyPortraitFerdinandAlvareDeToledeCollectionPrivee"
     }
   ],
   "bibliography": [
@@ -54,6 +58,11 @@
     {
       "date": "2026-07-07T11:43:43.999981",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-07T12:29:55.765865",
+      "type": "modified",
       "author": "Carla"
     }
   ],
