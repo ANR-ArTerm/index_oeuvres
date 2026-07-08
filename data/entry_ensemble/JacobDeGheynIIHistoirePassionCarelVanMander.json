@@ -41,7 +41,7 @@
       "caption": "L'arrestation du Christ, Musée Boijmans Van Beuningen, Rotterdam."
     }
   ],
-  "description": "Le musée Boijmans Van Beuningen possède une série unique et pratiquement complète (il manque notamment le Lavement des pieds dans la série gravée) de dessins préparatoires pour la série de gravures illustrant la Passion du Christ. Les gravures sont inventoriés sous les numéros suivants ;  Le Christ dans le pressoir BdH 22406 (PK), la flagellation BdH 22412 (PK),, le Christ emmené par Pilate BdH 22411, le Christ devant Caïphe BdH 22410, la Crucifixion BdH 22416, le Couronnement d'épines BdH 22413, la Cène Bdh 22407,  l'arrestation BdH 22409 (PK)",
+  "description": "Le musée Boijmans Van Beuningen possède une série unique et pratiquement complète (il manque notamment le Lavement des pieds dans la série gravée) de dessins préparatoires pour la série de gravures illustrant la Passion du Christ. Les gravures sont inventoriés sous les numéros suivants ;  Le Christ dans le pressoir BdH 22406 (PK), la flagellation BdH 22412 (PK), le Christ emmené par Pilate BdH 22411, le Christ devant Caïphe BdH 22410, la Crucifixion BdH 22416, le Couronnement d'épines BdH 22413, la Cène Bdh 22407,  l'arrestation BdH 22409 (PK)",
   "commentary": "",
   "history": [
     {
@@ -136,6 +136,11 @@
     },
     {
       "date": "2026-07-08T13:10:49.481358",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-08T13:11:41.360759",
       "type": "modified",
       "author": "Carla"
     }
