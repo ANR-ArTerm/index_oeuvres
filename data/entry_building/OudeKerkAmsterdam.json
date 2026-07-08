@@ -1,0 +1,46 @@
+{
+  "id": "OudeKerkAmsterdam",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q623558",
+  "entry_type": "building",
+  "title": "Oude Kerk ou Vieille Église",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1300,
+    "endYear": 1600,
+    "text": "1300-courant du XVIème siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Amsterdam",
+      "country": "Pays-Bas",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Okerk2.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, Eriksw, (https://commons.wikimedia.org/wiki/File:Okerk2.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-08T14:42:13.377294",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "église",
+  "contained_by_ensemble": {}
+}
