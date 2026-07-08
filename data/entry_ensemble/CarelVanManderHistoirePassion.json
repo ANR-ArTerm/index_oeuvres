@@ -1,0 +1,46 @@
+{
+  "id": "CarelVanManderHistoirePassion",
+  "QID_wikidata": "",
+  "entry_type": "ensemble",
+  "title": "Histoire de la Passion du Christ",
+  "creator": [
+    {
+      "xml_id": "CarelVanMander",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1596,
+    "endYear": 1596,
+    "text": "1596"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Museum Boijmans Van Beuningen",
+      "place": "Rotterdam",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "michelHistorienLartFlamand1886",
+      "location": "p. 13"
+    }
+  ],
+  "illustrations": [],
+  "description": "Il semblerait que \"l'Histoire de la Passion\" que décrit De Piles puisse être la suite des douze compositions  que lui commanda un amateur : Jacques Rauwaert. En effet, Rauwaert \"lui [aurait] command[é] plusieurs grisailles : un Déluge, douze épisodes de la Passion et une Kermesse villageoise\" selon Émile Michel dans la Revue des Deux Mondes en 1886. Or, le musée Boijmans Van Beuningen de Rotterdam conserve douze dessins à la plume et encre brune, lavis gris-bleuâtre, rehaussé de blanc, figurant cette thématique. De même, De Piles indique que ces compositions aurait été gravées par Jacob de Gheyn II et une estampe du musée de Strasbourg reprend exactement la même composition pour la Crucifixion que celle du dessin de Rotterdam.  ",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-08T10:59:28.616133",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "carnet de dessins",
+  "contains_works": []
+}
