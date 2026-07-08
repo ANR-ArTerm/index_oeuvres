@@ -30,13 +30,26 @@
       "location": "New Hollstein 1999a, appendix 2, n° 19 et 67"
     }
   ],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://storage.boijmans.nl/collection/tmsfotopkmb-1728-pk/large-63f93f3255f4a7f25fe039cf4fc091a661481c17.jpg",
+      "copyright": "Collection Musée Boijmans Van Beuningen, Rotterdam, inv. MB 1728 (PK), (https://www.boijmans.nl/collectie/kunstwerken/73292/de-kruisafname)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
     {
       "date": "2026-07-08T11:42:28.876073",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-08T11:59:25.590882",
+      "type": "modified",
       "author": "Carla"
     }
   ],
