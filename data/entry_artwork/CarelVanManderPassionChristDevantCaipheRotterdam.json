@@ -1,0 +1,58 @@
+{
+  "id": "CarelVanManderPassionChristDevantCaipheRotterdam",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Le Christ devant Caïphe",
+  "creator": [
+    {
+      "xml_id": "CarelVanMander",
+      "role": "dessinateur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1596,
+    "endYear": 1596,
+    "text": "1596"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Museum Boijmans Van Beuningen",
+      "place": "Rotterdam",
+      "inventory_number": "MB 1718 (PK)",
+      "url": "https://www.boijmans.nl/collectie/kunstwerken/73282/christus-voor-kaiafas"
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "HollsteinsDutchFlemish1999",
+      "location": "New Hollstein 1999a, annexe 2, n° 12, et au n° 60"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://storage.boijmans.nl/collection/tmsfotopkmb-1718-pk/large-81e9a433fd50ef0524cd78c73c692745f2a88a13.jpg",
+      "storage": "online",
+      "copyright": "Collection Musée Boijmans Van Beuningen, Rotterdam, inv. MB 1718 (PK), (https://www.boijmans.nl/collectie/kunstwerken/73282/christus-voor-kaiafas)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-08T11:46:36.710244",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Dessin",
+  "materialsAndTechniques": "Encre brune, lavis bleu, rehauts blancs, traits de cadre à la plume à l'encre brune",
+  "contained_by_ensemble": {
+    "link_type": "appartient à l'ensemble",
+    "xml_id_work": "CarelVanManderHistoirePassion"
+  }
+}
