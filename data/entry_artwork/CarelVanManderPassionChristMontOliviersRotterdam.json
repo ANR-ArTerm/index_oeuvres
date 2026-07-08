@@ -1,0 +1,58 @@
+{
+  "id": "CarelVanManderPassionChristMontOliviersRotterdam",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Le Christ au Mont des Oliviers",
+  "creator": [
+    {
+      "xml_id": "CarelVanMander",
+      "role": "dessinateur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1596,
+    "endYear": 1596,
+    "text": "1596"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Museum Boijmans Van Beuningen",
+      "place": "Rotterdam",
+      "inventory_number": "MB 1723 (PK)",
+      "url": "https://www.boijmans.nl/collectie/kunstwerken/73287/christus-op-de-olijfberg"
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "HollsteinsDutchFlemish1999",
+      "location": "New Hollstein 1999a, appendix 2, n° 10, 58. "
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://storage.boijmans.nl/collection/tmsfotopkmb-1723-pk/large-7afcdd32dcb5dd953fb854038d527d75cb8945ac.jpg",
+      "storage": "online",
+      "copyright": "Collection Musée Boijmans Van Beuningen, Rotterdam, MB 1723 (PK), (https://www.boijmans.nl/collectie/kunstwerken/73287/christus-op-de-olijfberg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-08T12:19:38.710335",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Dessin",
+  "materialsAndTechniques": "Encre brune, lavis bleu, rehauts blancs, traits de cadre à la plume à l'encre brune",
+  "contained_by_ensemble": {
+    "link_type": "appartient à l'ensemble",
+    "xml_id_work": "CarelVanManderHistoirePassion"
+  }
+}
