@@ -1,0 +1,58 @@
+{
+  "id": "CarelVanManderPassionPortementCroixRotterdam",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Le Portement de croix",
+  "creator": [
+    {
+      "xml_id": "CarelVanMander",
+      "role": "dessinateur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1596,
+    "endYear": 1596,
+    "text": "1596"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Museum Boijmans Van Beuningen",
+      "place": "Rotterdam",
+      "inventory_number": "MB 1726 (PK)",
+      "url": "https://www.boijmans.nl/collectie/kunstwerken/73290/de-kruisdraging"
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "HollsteinsDutchFlemish1999",
+      "location": "New Hollstein 1999a, appendix 2, n°17, 65."
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://storage.boijmans.nl/collection/tmsfotopkmb-1726-pk/large-c8c59bf8455b4449bf73b46a82f53e8b1dd1c207.jpg",
+      "storage": "online",
+      "copyright": "Collection Musée Boijmans Van Beuningen, Rotterdam, inv. MB 1726 (PK), (https://www.boijmans.nl/collectie/kunstwerken/73290/de-kruisdraging)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-08T11:57:30.766066",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Dessin",
+  "materialsAndTechniques": "Encre brune, lavis bleu, rehauts blancs, traits de cadre à la plume à l'encre brune",
+  "contained_by_ensemble": {
+    "link_type": "appartient à l'ensemble",
+    "xml_id_work": "CarelVanManderHistoirePassion"
+  }
+}
