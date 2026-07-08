@@ -1,0 +1,56 @@
+{
+  "id": "JacobDeGheynIIHistoirePassionCarelVanMander",
+  "QID_wikidata": "",
+  "entry_type": "ensemble",
+  "title": "Histoire de la Passion du Christ",
+  "creator": [
+    {
+      "xml_id": "JacobDeGheynII",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "CarelVanMander",
+      "role": "auteur du modèle"
+    },
+    {
+      "xml_id": "ZachariasDolendo",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1596,
+    "endYear": 1598,
+    "text": "1596-1598"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "HollsteinsDutchFlemish1999",
+      "location": "New Hollstein 1999a, n° 56-69"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://storage.boijmans.nl/collection/tmsfotopkbdh-22409-pk/large-e2f30e12bd1fef13c206d8248e3212860ca4b65e.jpg",
+      "storage": "online",
+      "copyright": "Collection Musée Boijmans Van Beuningen, Rotterdam, inv. BdH 22408, (https://www.boijmans.nl/collectie/kunstwerken/36238/de-gevangenneming-van-christus)",
+      "caption": "L'arrestation du Christ, Musée Boijmans Van Beuningen, Rotterdam."
+    }
+  ],
+  "description": "Le musée Boijmans Van Beuningen possède une série unique et pratiquement complète (il manque notamment le Lavement des pieds dans la série gravée) de dessins préparatoires pour la série de gravures illustrant la Passion du Christ. Les gravures sont inventoriés sous les numéros suivants ; BdH 22406 (PK), 22408, ",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-08T12:49:10.171862",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "suite d'estampes",
+  "contains_works": []
+}
