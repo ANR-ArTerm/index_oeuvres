@@ -13,7 +13,7 @@
     "type": "place",
     "place": {
       "city": "Amsterdam",
-      "country": "Pays-Bas",
+      "country": "PaysBas",
       "coordinates": {
         "latitude": "",
         "longitude": ""
@@ -37,6 +37,11 @@
     {
       "date": "2026-07-08T14:42:13.377294",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-09T18:10:01.542932",
+      "type": "modified",
       "author": "Carla"
     }
   ],
