@@ -2,7 +2,7 @@
   "id": "BasiliqueSaintPierreRome",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q12512",
   "entry_type": "building",
-  "title": "Basilique Saint-Pierre de Rome",
+  "title": "Basilique Saint-Pierre",
   "creator": [
     {
       "xml_id": "MichelAnge",
@@ -48,7 +48,7 @@
   "dateCreated": {
     "startYear": 1506,
     "endYear": 1626,
-    "text": "Entre le XVIe et le XVIIe"
+    "text": "1506-1626"
   },
   "typology": "basilique",
   "location": {
@@ -63,7 +63,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "pietrangeliBasilicaDiSan1989",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -115,8 +120,13 @@
       "date": "2026-06-23T16:01:20.788108",
       "type": "modified",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-07-10T18:02:46.853889",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
