@@ -1,0 +1,56 @@
+{
+  "id": "PalazzoStrozziFlorence",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q521619",
+  "entry_type": "building",
+  "title": "Palais Strozzi",
+  "creator": [
+    {
+      "xml_id": "BenedettoDaMaiano",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1489,
+    "endYear": 1538,
+    "text": "1489-1538"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "bonsantiPalazzoStrozziCinque2005",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Florence%2C_Palazzo_Strozzi%2C_North_and_West_facade%2C_Benedetto_da_Maiano%2C_1489-1538.jpg/1920px-Florence%2C_Palazzo_Strozzi%2C_North_and_West_facade%2C_Benedetto_da_Maiano%2C_1489-1538.jpg",
+      "storage": "online",
+      "copyright": "CC BY-SA 4.0, MenkinAlRire, https://commons.wikimedia.org/wiki/File:Florence,_Palazzo_Strozzi,_North_and_West_facade,_Benedetto_da_Maiano,_1489-1538.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-10T18:43:47.346843",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Palais",
+  "contained_by_ensemble": {}
+}
