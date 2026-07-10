@@ -46,7 +46,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Grab_Michelangelo_Buonarroti_Santa_Croce_Florenz-2.jpg",
       "storage": "online",
-      "copyright": "CC BY-SA 3.0, Rufus46, https://commons.wikimedia.org/wiki/File:Grab_Michelangelo_Buonarroti_Santa_Croce_Florenz-2.jpg",
+      "copyright": "Wikimédia Commons, CC BY-SA 3.0, Rufus46, https://commons.wikimedia.org/wiki/File:Grab_Michelangelo_Buonarroti_Santa_Croce_Florenz-2.jpg",
       "caption": ""
     }
   ],
@@ -57,10 +57,15 @@
       "date": "2026-02-04T12:45:32.920540",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-07-10T11:39:42.240290",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "Sculpture en marbre",
   "contained_by_ensemble": {},
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "Sculpture"
 }
