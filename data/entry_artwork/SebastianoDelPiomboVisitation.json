@@ -30,7 +30,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Piombo%2C_Sebastiano_del_-_The_Visitation_-_1518-19.jpg",
       "storage": "online",
-      "copyright": "Domaine public, Mattes, https://commons.wikimedia.org/wiki/File:Piombo,_Sebastiano_del_-_The_Visitation_-_1518-19.jpg",
+      "copyright": "Wikimédia Commons, Domaine public, Mattes, https://commons.wikimedia.org/wiki/File:Piombo,_Sebastiano_del_-_The_Visitation_-_1518-19.jpg",
       "caption": ""
     }
   ],
@@ -41,10 +41,15 @@
       "date": "2026-02-09T11:54:26.206588",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-07-10T16:05:46.963556",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "huile sur bois transposée sur toile",
   "contained_by_ensemble": {},
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "Peinture"
 }
