@@ -1,13 +1,13 @@
 {
-  "id": "StatueEquestreMarcAureleRome",
+  "id": "StatueEquestreMarcAurele",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q907387",
   "entry_type": "artwork",
-  "title": "Statue Equestre de Marc Aurèle à Rome",
+  "title": "Statue Equestre de Marc Aurèle",
   "creator": [],
   "dateCreated": {
-    "startYear": 173,
-    "endYear": 176,
-    "text": "IIe siècle"
+    "startYear": 176,
+    "endYear": 180,
+    "text": "176-180"
   },
   "location": {
     "type": "holding_institution",
@@ -19,7 +19,16 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "torelliStatuaEquestrisInaurata1989",
+      "location": ""
+    },
+    {
+      "zotero_key": "giulianoStatuaEquestreDi2020",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -46,9 +55,14 @@
       "date": "2026-07-10T16:24:00.651215",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-10T17:21:13.530387",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "materialsAndTechniques": "sculpture en bronze",
   "contained_by_ensemble": {},
   "typology": "Sculpture"
