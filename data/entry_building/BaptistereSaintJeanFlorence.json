@@ -1,0 +1,51 @@
+{
+  "id": "BaptistereSaintJeanFlorence",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q732511",
+  "entry_type": "building",
+  "title": "Baptistère de Saint-Jean",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": "XIe-XIIe siècles"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "coliBattisteroDiSan2025",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Battistero_Firenze_2019.jpg/1920px-Battistero_Firenze_2019.jpg?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "storage": "online",
+      "copyright": "CC BY 4.0, Photo2023, https://commons.wikimedia.org/wiki/File:Battistero_Firenze_2019.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-10T19:08:24.816154",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "baptistère",
+  "contained_by_ensemble": {}
+}
