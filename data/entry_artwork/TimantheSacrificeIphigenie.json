@@ -29,13 +29,13 @@
     {
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Sacrifice_of_Iphigenia%2C_from_Pompeii_VI.8.3_peristyle._Naples%2C_Archaeological_Museum_9112_-_01.jpg/1280px-Sacrifice_of_Iphigenia%2C_from_Pompeii_VI.8.3_peristyle._Naples%2C_Archaeological_Museum_9112_-_01.jpg",
-      "copyright": "CC BY-SA 4.0, BeakheadIntrados, https://commons.wikimedia.org/wiki/File:Sacrifice_of_Iphigenia,_from_Pompeii_VI.8.3_peristyle._Naples,_Archaeological_Museum_9112_-_01.jpg",
+      "copyright": "Wikimédia Commons, CC BY-SA 4.0, BeakheadIntrados, https://commons.wikimedia.org/wiki/File:Sacrifice_of_Iphigenia,_from_Pompeii_VI.8.3_peristyle._Naples,_Archaeological_Museum_9112_-_01.jpg",
       "caption": "Inconnu, Sacrifice de Iphigenie, 45-79, Pompei, Maison du Poète.",
       "storage": "online"
     }
   ],
   "description": "",
-  "commentary": "Œuvre perdue, à laquelle de nombreux auteurs font référence comme concept, par exemple le fresco de Pompei.",
+  "commentary": "Œuvre perdue, à laquelle de nombreux auteurs font référence comme concept, par exemple la fresque de Pompei.",
   "history": [
     {
       "date": "2026-01-13T10:36:49.345763",
@@ -51,9 +51,14 @@
       "date": "2026-05-06T17:15:55.292219",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-10T15:44:23.767668",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "contained_by_ensemble": {},
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "Peinture"
 }
