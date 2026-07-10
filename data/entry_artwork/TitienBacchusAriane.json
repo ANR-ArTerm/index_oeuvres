@@ -19,7 +19,7 @@
     "type": "holding_institution",
     "institution": {
       "name": "National Gallery",
-      "place": "",
+      "place": null,
       "inventory_number": "NG35",
       "url": "https://www.nationalgallery.org.uk/paintings/titian-bacchus-and-ariadne"
     }
@@ -30,7 +30,7 @@
     {
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Titian_Bacchus_and_Ariadne.jpg",
-      "copyright": "",
+      "copyright": "Wikimédia Commons, Domaine Public (https://commons.wikimedia.org/wiki/File:Titian_Bacchus_and_Ariadne.jpg)",
       "caption": "",
       "storage": "online"
     }
@@ -47,8 +47,14 @@
       "date": "2026-01-27T15:19:12.412448",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-07-10T11:42:24.337241",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
-  "typology": "Peinture"
+  "status_entry": 1,
+  "typology": "Peinture",
+  "contained_by_ensemble": {}
 }
