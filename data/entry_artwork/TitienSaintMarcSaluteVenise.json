@@ -41,10 +41,15 @@
       "date": "2026-04-27T15:08:37.131274",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-07-10T11:00:28.558073",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "huile sur bois",
   "contained_by_ensemble": {},
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "Peinture"
 }
