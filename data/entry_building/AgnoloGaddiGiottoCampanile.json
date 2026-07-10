@@ -2,7 +2,7 @@
   "id": "AgnoloGaddiGiottoCampanile",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q1140023",
   "entry_type": "building",
-  "title": "Campanile de Santa Maria del Fiore",
+  "title": "Clocher de Santa Maria del Fiore",
   "creator": [
     {
       "xml_id": "Giotto",
@@ -15,10 +15,10 @@
   ],
   "dateCreated": {
     "startYear": 1298,
-    "endYear": 1298,
-    "text": "À partir de 1298 "
+    "endYear": 1359,
+    "text": "1298-1359"
   },
-  "typology": "Tour",
+  "typology": "Clocher",
   "location": {
     "type": "place",
     "place": {
@@ -31,7 +31,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "gurrieriCampanileDiGiotto2017",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -73,8 +78,13 @@
       "date": "2026-05-28T16:38:55.988652",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-10T17:13:25.127291",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "contained_by_ensemble": {}
 }
