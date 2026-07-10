@@ -30,7 +30,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Sebastiano_del_Piombo%2C_The_Raising_of_Lazarus.jpg",
       "storage": "online",
-      "copyright": "Domaine public, Olpl, https://commons.wikimedia.org/wiki/File:Sebastiano_del_Piombo,_The_Raising_of_Lazarus.jpg",
+      "copyright": "Wikimédia Commons, Domaine public, Olpl, https://commons.wikimedia.org/wiki/File:Sebastiano_del_Piombo,_The_Raising_of_Lazarus.jpg",
       "caption": ""
     }
   ],
@@ -46,10 +46,15 @@
       "date": "2026-02-09T11:58:36.645661",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-07-10T16:05:04.774967",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "huile sur toile",
   "contained_by_ensemble": {},
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "Peinture"
 }
