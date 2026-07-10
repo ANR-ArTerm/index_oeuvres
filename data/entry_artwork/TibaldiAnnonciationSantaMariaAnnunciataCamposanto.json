@@ -50,9 +50,14 @@
       "date": "2026-06-30T16:56:46.672198",
       "type": "created",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-07-10T15:41:24.096317",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "materialsAndTechniques": "Bas-relief",
   "contained_by_ensemble": {},
   "typology": "Sculpture"
