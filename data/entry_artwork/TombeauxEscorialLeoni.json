@@ -35,7 +35,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Monastery_of_El_Escorial_12.jpg/1920px-Monastery_of_El_Escorial_12.jpg?_=20100328005755",
       "storage": "online",
-      "copyright": "CC Attribution-Share Alike 3.0, Bgag, https://commons.wikimedia.org/wiki/File:Monastery_of_El_Escorial_12.jpg",
+      "copyright": "Wikimédia Commons, CC Attribution-Share Alike 3.0, Bgag, https://commons.wikimedia.org/wiki/File:Monastery_of_El_Escorial_12.jpg",
       "caption": ""
     }
   ],
@@ -46,9 +46,14 @@
       "date": "2026-06-22T16:26:57.772549",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-10T11:37:30.447347",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "materialsAndTechniques": "sculpture en bronze",
   "contained_by_ensemble": {},
   "typology": "Sculpture"
