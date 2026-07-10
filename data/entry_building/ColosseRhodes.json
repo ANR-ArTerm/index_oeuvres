@@ -5,9 +5,9 @@
   "title": "Colosse de Rhodes",
   "creator": [],
   "dateCreated": {
-    "startYear": -292,
-    "endYear": -280,
-    "text": "Vers -292 av. J.-C., "
+    "startYear": 304,
+    "endYear": 292,
+    "text": "304-292  av. J.-C., "
   },
   "location": {
     "type": "place",
@@ -21,7 +21,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "badoudColossusRhodesArchaeology2024",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -43,9 +48,14 @@
       "date": "2026-06-01T11:11:54.111794",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-10T17:33:03.155989",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "Colosse",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
