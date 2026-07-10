@@ -30,7 +30,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Bacanal_de_los_andrios.jpg",
       "storage": "online",
-      "copyright": "",
+      "copyright": "Wikimédia Commons, Domaine Public, https://www.wikidata.org/wiki/Q3632485#/media/File:Bacanal_de_los_andrios.jpg",
       "caption": ""
     }
   ],
@@ -41,9 +41,15 @@
       "date": "2026-01-27T15:25:25.193129",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-07-10T15:54:51.657857",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "huile sur toile",
-  "status_entry": 0,
-  "typology": "Peinture"
+  "status_entry": 1,
+  "typology": "Peinture",
+  "contained_by_ensemble": {}
 }
