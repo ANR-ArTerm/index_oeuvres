@@ -43,14 +43,14 @@
       "id": 0,
       "url": "http://www.sigecweb.beniculturali.it/images/fullsize/ICCD1057075/ICCD13835358_020033.jpg",
       "storage": "online",
-      "copyright": "CC BY 4.0, https://catalogo.beniculturali.it/detail/HistoricOrArtisticProperty/0900286631-2#lg=1&slide=0",
+      "copyright": "Wikimédia Commons, CC BY 4.0, https://catalogo.beniculturali.it/detail/HistoricOrArtisticProperty/0900286631-2#lg=1&slide=0",
       "caption": ""
     },
     {
       "id": 1,
       "url": "http://www.sigecweb.beniculturali.it/images/fullsize/ICCD1038920/ICCD13106717_020032.jpg",
       "storage": "online",
-      "copyright": "CC BY 4.0, https://catalogo.beniculturali.it/detail/HistoricOrArtisticProperty/0900286631-0#lg=1&slide=0",
+      "copyright": "Wikimédia Commons, CC BY 4.0, https://catalogo.beniculturali.it/detail/HistoricOrArtisticProperty/0900286631-0#lg=1&slide=0",
       "caption": ""
     }
   ],
@@ -61,10 +61,15 @@
       "date": "2026-04-30T18:06:44.271346",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-10T11:33:17.054849",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "Sculpture en marbre",
   "contained_by_ensemble": {},
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "Sculpture"
 }
