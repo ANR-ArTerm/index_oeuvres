@@ -1,0 +1,65 @@
+{
+  "id": "TourArnolfo",
+  "QID_wikidata": "",
+  "entry_type": "building",
+  "title": "Tour",
+  "creator": [
+    {
+      "xml_id": "ArnolfoDiCambio",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1310,
+    "endYear": 1310,
+    "text": "1310 ca."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "PalazzoVecchioFlorence"
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "franciniPalazzoVecchioOfficina2006",
+      "location": "vol. 25 (2002), pp. 8–19"
+    },
+    {
+      "zotero_key": "franciniPalazzoVecchioOfficina2006",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/The_Palazzo_Vecchio%2C_Florence_%285771115329%29.jpg/960px-The_Palazzo_Vecchio%2C_Florence_%285771115329%29.jpg?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "storage": "online",
+      "copyright": "CC BY-SA 2.0, Magnus Manske, https://commons.wikimedia.org/wiki/File:The_Palazzo_Vecchio,_Florence_(5771115329).jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-10T20:00:15.454828",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Tour",
+  "contained_by_ensemble": {}
+}
