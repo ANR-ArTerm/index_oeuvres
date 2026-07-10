@@ -41,10 +41,15 @@
       "date": "2026-03-12T12:31:41.805240",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-07-10T15:40:39.694992",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "Tapisserie",
   "contained_by_ensemble": {},
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "Tapisserie"
 }
