@@ -18,8 +18,8 @@
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": "",
-      "place": "",
+      "name": null,
+      "place": null,
       "inventory_number": "",
       "url": ""
     }
@@ -27,7 +27,7 @@
   "related_works": [
     {
       "link_type": "copié d'après",
-      "xml_id_work": "LeonardAnghiari"
+      "xml_id_work": null
     }
   ],
   "bibliography": [],
@@ -35,7 +35,7 @@
     {
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Peter_Paul_Ruben%27s_copy_of_the_lost_Battle_of_Anghiari.jpg",
-      "copyright": "",
+      "copyright": "Wikimédia Commons ",
       "caption": "",
       "storage": "online"
     }
@@ -52,8 +52,14 @@
       "date": "2026-01-21T10:36:48.582429",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-07-10T17:49:20.851528",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
-  "typology": "Dessin"
+  "status_entry": 1,
+  "typology": "Dessin",
+  "contained_by_ensemble": {}
 }
