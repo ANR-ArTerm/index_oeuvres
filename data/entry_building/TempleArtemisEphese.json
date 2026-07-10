@@ -34,7 +34,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "ArtemisionEphesosWeltwunder",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -76,9 +81,14 @@
       "date": "2026-06-08T16:42:21.995459",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-10T17:25:51.501389",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "monument imaginaire ou disparu",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
