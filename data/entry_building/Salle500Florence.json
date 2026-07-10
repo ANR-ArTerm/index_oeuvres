@@ -25,7 +25,7 @@
       "role": "peintre"
     },
     {
-      "xml_id": " GiulianoDiBaccioD'Agnolo",
+      "xml_id": null,
       "role": "architecte"
     },
     {
@@ -54,6 +54,10 @@
   "bibliography": [
     {
       "zotero_key": "mucciniSaloneCinquecentoPalazzo1990a",
+      "location": ""
+    },
+    {
+      "zotero_key": "barsantiSalaGrandeDi2019a",
       "location": ""
     }
   ],
@@ -86,6 +90,11 @@
     },
     {
       "date": "2026-07-10T18:21:37.394388",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-07-10T19:46:37.356779",
       "type": "modified",
       "author": "Elisa"
     }
