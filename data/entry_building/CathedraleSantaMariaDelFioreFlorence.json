@@ -2,7 +2,7 @@
   "id": "CathedraleSantaMariaDelFioreFlorence",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q191739",
   "entry_type": "building",
-  "title": "Cathédrale Santa Maria del Fiore",
+  "title": "Cathédrale de Santa Maria del Fiore",
   "creator": [
     {
       "xml_id": "ArnolfoDiCambio",
@@ -17,7 +17,7 @@
       "role": "architecte"
     },
     {
-      "xml_id": null,
+      "xml_id": "FrancescoTalenti",
       "role": "architecte"
     },
     {
@@ -42,7 +42,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "CattedraleDiSanta1994",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -84,9 +89,14 @@
       "date": "2026-06-02T14:35:18.169940",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-07-10T18:09:16.292635",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "cathédrale",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
