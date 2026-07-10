@@ -41,10 +41,15 @@
       "date": "2026-06-08T15:21:13.103122",
       "type": "modified",
       "author": "Julia"
+    },
+    {
+      "date": "2026-07-10T16:48:10.529647",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": null,
   "contained_by_ensemble": {},
-  "status_entry": 0,
-  "typology": ""
+  "status_entry": 1,
+  "typology": null
 }
