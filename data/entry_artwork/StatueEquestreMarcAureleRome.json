@@ -41,9 +41,14 @@
       "date": "2026-05-19T12:02:02.637376",
       "type": "modified",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-07-10T16:24:00.651215",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "materialsAndTechniques": "sculpture en bronze",
   "contained_by_ensemble": {},
   "typology": "Sculpture"
