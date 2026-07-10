@@ -30,7 +30,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Titian_madonna_of_frari_vatican.jpg",
       "storage": "online",
-      "copyright": "Domaine public, Never covered, https://commons.wikimedia.org/wiki/File:Titian_madonna_of_frari_vatican.jpg",
+      "copyright": "Wikimédia Commons, Domaine public, Never covered, https://commons.wikimedia.org/wiki/File:Titian_madonna_of_frari_vatican.jpg",
       "caption": ""
     }
   ],
@@ -46,10 +46,15 @@
       "date": "2026-02-11T18:11:00.367014",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-07-10T15:38:36.737584",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "huile sur bois transposée sur toile",
   "contained_by_ensemble": {},
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "Peinture"
 }
