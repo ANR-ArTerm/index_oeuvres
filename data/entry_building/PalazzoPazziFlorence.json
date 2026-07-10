@@ -1,0 +1,64 @@
+{
+  "id": "PalazzoPazziFlorence",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3890636",
+  "entry_type": "building",
+  "title": "Palais Pazzi",
+  "creator": [
+    {
+      "xml_id": "GiulianoDaMaiano",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1458,
+    "endYear": 1469,
+    "text": "1458-1469 "
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "moscatoPalazzoPazziFirenze1963",
+      "location": ""
+    },
+    {
+      "zotero_key": "preyerNonSoloFacciate2008",
+      "location": ""
+    },
+    {
+      "zotero_key": "paoliniArchitettureFiorentineCase2009",
+      "location": "pp.  252-254"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Palazzo_pazzi_della_congiura_02.JPG/1280px-Palazzo_pazzi_della_congiura_02.JPG?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "storage": "online",
+      "copyright": "CC BY-SA 3.0, Sailko, https://commons.wikimedia.org/wiki/File:Palazzo_pazzi_della_congiura_02.JPG",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-10T19:23:28.179763",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Palais",
+  "contained_by_ensemble": {}
+}
