@@ -7,7 +7,7 @@
   "dateCreated": {
     "startYear": 70,
     "endYear": 80,
-    "text": "Ier siècle"
+    "text": "70-80"
   },
   "location": {
     "type": "place",
@@ -61,6 +61,11 @@
     },
     {
       "date": "2026-06-11T13:08:45.743321",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-07-10T17:22:01.981091",
       "type": "modified",
       "author": "Elisa"
     }

@@ -1,0 +1,191 @@
+{
+  "id": "JacobDeGheynIIHistoirePassionCarelVanMander",
+  "QID_wikidata": "",
+  "entry_type": "ensemble",
+  "title": "Histoire de la Passion du Christ",
+  "creator": [
+    {
+      "xml_id": "JacobDeGheynII",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "CarelVanMander",
+      "role": "auteur du modèle"
+    },
+    {
+      "xml_id": "ZachariasDolendo",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1596,
+    "endYear": 1598,
+    "text": "1596-1598"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "HollsteinsDutchFlemish1999",
+      "location": "New Hollstein 1999a, n° 56-69"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://storage.boijmans.nl/collection/tmsfotopkbdh-22409-pk/large-e2f30e12bd1fef13c206d8248e3212860ca4b65e.jpg",
+      "storage": "online",
+      "copyright": "Collection Musée Boijmans Van Beuningen, Rotterdam, inv. BdH 22409, (https://www.boijmans.nl/collectie/kunstwerken/36238/de-gevangenneming-van-christus)",
+      "caption": "L'arrestation du Christ, Musée Boijmans Van Beuningen, Rotterdam."
+    }
+  ],
+  "description": "Le musée Boijmans Van Beuningen possède une série unique et pratiquement complète (il manque notamment le Lavement des pieds dans la série gravée) de dessins préparatoires pour la série de gravures illustrant la Passion du Christ. Les gravures sont inventoriés sous les numéros suivants ;  Le Christ dans le pressoir BdH 22406 (PK), la flagellation BdH 22412 (PK), le Christ emmené par Pilate BdH 22411, la descente de croix BdH 22417, le Christ devant Caïphe BdH 22410, la Crucifixion BdH 22416, le Couronnement d'épines BdH 22413, le portement de croix BdH 22415, la Cène Bdh 22407, Ecce Homo BdH 22414, l'arrestation BdH 22409 (PK), le Christ au mont des oliviers BdH 22408. ",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-08T12:49:10.171862",
+      "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-08T12:51:28.463875",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-08T12:52:26.770954",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-08T12:53:08.908640",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-08T13:01:52.325098",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-08T13:02:44.605668",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-08T13:03:26.812033",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-08T13:04:14.100206",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-08T13:05:45.893113",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-08T13:06:38.411740",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-08T13:07:14.292001",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-08T13:07:42.047549",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-08T13:08:30.986711",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-08T13:08:41.330982",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-08T13:09:00.380838",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-08T13:09:58.407065",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-08T13:10:28.707367",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-08T13:10:44.211656",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-08T13:10:49.481358",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-08T13:11:41.360759",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-08T13:12:18.913421",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-08T13:12:36.124865",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-08T13:13:20.196193",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-08T13:13:52.668098",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-08T13:14:34.582342",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-08T13:15:02.960361",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-08T13:15:23.395338",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-10T10:17:42.896100",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "status_entry": 1,
+  "typology": "suite d'estampes",
+  "contains_works": []
+}

@@ -5,7 +5,7 @@
   "title": "Salle des Cinq-Cents, Palazzo Vecchio",
   "creator": [
     {
-      "xml_id": "SimoneDelPollaiolo",
+      "xml_id": "ArnolfoDiCambio",
       "role": "architecte"
     },
     {
@@ -25,18 +25,18 @@
       "role": "peintre"
     },
     {
-      "xml_id": "JacopoZucchi",
-      "role": "peintre"
+      "xml_id": null,
+      "role": "architecte"
     },
     {
-      "xml_id": "GiovanniBattistaNaldini",
-      "role": "peintre"
+      "xml_id": "BaccioBandinelli",
+      "role": "architecte"
     }
   ],
   "dateCreated": {
     "startYear": 1495,
-    "endYear": 1565,
-    "text": "1495-1565"
+    "endYear": 1543,
+    "text": "1495-1543"
   },
   "typology": "salle",
   "location": {
@@ -51,7 +51,16 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "mucciniSaloneCinquecentoPalazzo1990a",
+      "location": ""
+    },
+    {
+      "zotero_key": "barsantiSalaGrandeDi2019a",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -78,8 +87,18 @@
       "date": "2026-06-08T11:19:17.903297",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-10T18:21:37.394388",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-07-10T19:46:37.356779",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "contained_by_ensemble": {}
 }

@@ -2,7 +2,7 @@
   "id": "CathedraleMilan",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q18068",
   "entry_type": "building",
-  "title": "Dôme de Milan",
+  "title": "Cathédrale de Milan",
   "creator": [
     {
       "xml_id": "SimoneDaOrsenigo",
@@ -49,7 +49,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Milan_Cathedral_from_Piazza_del_Duomo.jpg/1920px-Milan_Cathedral_from_Piazza_del_Duomo.jpg",
       "storage": "online",
-      "copyright": "CC BY-SA 3.0, Чаховіч Уладзіслаў, https://commons.wikimedia.org/wiki/File:Milan_Cathedral_from_Piazza_del_Duomo.jpg ",
+      "copyright": "Wikimédia Commons, CC BY-SA 3.0, Чаховіч Уладзіслаў, https://commons.wikimedia.org/wiki/File:Milan_Cathedral_from_Piazza_del_Duomo.jpg ",
       "caption": ""
     }
   ],
@@ -60,9 +60,14 @@
       "date": "2026-07-02T15:53:19.779946",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-03T13:33:01.053787",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "cathédrale",
   "contained_by_ensemble": {}
 }

@@ -9,7 +9,7 @@
     }
   ],
   "entry_type": "artwork",
-  "materialsAndTechniques": "",
+  "materialsAndTechniques": null,
   "dateCreated": {
     "startYear": null,
     "endYear": null,
@@ -27,13 +27,20 @@
   ],
   "illustrations": [],
   "description": "",
-  "commentary": "",
+  "commentary": "https://collections.louvre.fr/ark:/53355/cl020001127",
   "history": [
     {
       "date": "2026-03-06T14:48:18.470629",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-07-10T10:46:18.699419",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 0,
+  "typology": null,
+  "contained_by_ensemble": {}
 }

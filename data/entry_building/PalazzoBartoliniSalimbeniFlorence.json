@@ -1,0 +1,56 @@
+{
+  "id": "PalazzoBartoliniSalimbeniFlorence",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q896608",
+  "entry_type": "building",
+  "title": "Palais Bartolini-Salimbeni",
+  "creator": [
+    {
+      "xml_id": "BaccioDAgnolo",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1520,
+    "endYear": 1523,
+    "text": "1520-1523"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "marinoTornabuoniPalazzi2014",
+      "location": "pp. 37-42"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Piazza_di_Santa_Trinita_1_angolo_via_porta_rossa_e_via_delle_terme%2C_palazzo_bartolini_salimbeni%2C_facciata_01.jpg/1280px-Piazza_di_Santa_Trinita_1_angolo_via_porta_rossa_e_via_delle_terme%2C_palazzo_bartolini_salimbeni%2C_facciata_01.jpg?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "storage": "online",
+      "copyright": "CC BY 3.0, Sailko, https://commons.wikimedia.org/wiki/File:Piazza_di_Santa_Trinita_1_angolo_via_porta_rossa_e_via_delle_terme,_palazzo_bartolini_salimbeni,_facciata_01.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-10T19:28:24.485864",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Palais",
+  "contained_by_ensemble": {}
+}

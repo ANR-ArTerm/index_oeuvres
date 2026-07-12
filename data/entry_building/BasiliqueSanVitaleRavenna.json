@@ -37,7 +37,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Basilica_of_San_Vitale.jpg/1920px-Basilica_of_San_Vitale.jpg",
       "storage": "online",
-      "copyright": "CC BY-SA 4.0, MenkinAlRire, https://commons.wikimedia.org/wiki/File:Basilica_of_San_Vitale.jpg",
+      "copyright": "Wikimédia Commons, CC BY-SA 4.0, MenkinAlRire, https://commons.wikimedia.org/wiki/File:Basilica_of_San_Vitale.jpg",
       "caption": ""
     }
   ],
@@ -48,9 +48,14 @@
       "date": "2026-07-02T13:23:05.454327",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-03T13:31:53.915831",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "basilique",
   "contained_by_ensemble": {}
 }

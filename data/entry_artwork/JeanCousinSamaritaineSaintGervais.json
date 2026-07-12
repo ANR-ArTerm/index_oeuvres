@@ -41,5 +41,6 @@
   ],
   "status_entry": 1,
   "materialsAndTechniques": "Vitrail",
-  "contained_by_ensemble": {}
+  "contained_by_ensemble": {},
+  "typology": "Vitrail"
 }

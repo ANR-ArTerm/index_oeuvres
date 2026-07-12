@@ -52,7 +52,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/San_Pietro_in_Montorio%3B_Cappella_del_Monte.jpg",
       "storage": "online",
-      "copyright": "Peter1936F, https://commons.wikimedia.org/wiki/Image:San_Pietro_in_Montorio;_Cappella_del_Monte.jpg?uselang=it",
+      "copyright": "Wikimédia Commons, Public Domain, Peter1936F, https://commons.wikimedia.org/wiki/Image:San_Pietro_in_Montorio;_Cappella_del_Monte.jpg?uselang=it",
       "caption": ""
     }
   ],
@@ -78,9 +78,14 @@
       "date": "2026-06-03T12:01:25.001597",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-07-06T11:11:14.342626",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "chapelle",
   "contains_works": [],
-  "status_entry": 0
+  "status_entry": 1
 }

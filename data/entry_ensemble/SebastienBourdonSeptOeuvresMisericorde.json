@@ -21,15 +21,20 @@
   "bibliography": [],
   "illustrations": [],
   "description": "",
-  "commentary": "",
+  "commentary": "https://www.mahmah.ch/collection/oeuvres/les-sept-oeuvres-de-misericorde-pl-5-soigner-les-malades/e-2012-0305-003",
   "history": [
     {
       "date": "2026-06-22T21:24:37.142531",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-07-06T10:46:59.206395",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 2,
   "typology": "suite d'estampes",
   "contains_works": []
 }

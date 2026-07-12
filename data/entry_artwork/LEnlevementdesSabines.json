@@ -57,5 +57,6 @@
   ],
   "status_entry": 1,
   "materialsAndTechniques": "Sculpture en marbre",
-  "contained_by_ensemble": {}
+  "contained_by_ensemble": {},
+  "typology": "Sculpture"
 }

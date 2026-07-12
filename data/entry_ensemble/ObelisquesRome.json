@@ -43,9 +43,14 @@
       "date": "2026-04-28T10:59:45.359454",
       "type": "modified",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-07-03T16:45:15.783267",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "ensemble de monuments",
   "contains_works": [],
-  "status_entry": 0
+  "status_entry": 1
 }

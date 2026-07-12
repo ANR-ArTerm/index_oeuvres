@@ -1,0 +1,60 @@
+{
+  "id": "ViergeSurTroneProcaccini",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "La Vierge trônant avec l'Enfant, adorée par saint Nicolas de Bari et trois jeunes filles",
+  "creator": [
+    {
+      "xml_id": "ErcoleProcaccini",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1583,
+    "endYear": 1583,
+    "text": "1583"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Basilique de San Giacomo Maggiore",
+      "place": "Bologne",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "BasiliqueSanGiacomoMaggioreBologne"
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "fantiChiesaDiSan1998",
+      "location": "p. 46"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "",
+      "storage": "online",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "description": "Comme suggère Ciardi, il est possible que Lomazzo se soit trompé sur le sujet de l'œuvre de l'artiste exposée dans San Giacomo Maggiore.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-03T19:43:31.150802",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 2,
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {},
+  "typology": "Peinture"
+}

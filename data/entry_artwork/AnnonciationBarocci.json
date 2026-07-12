@@ -1,0 +1,47 @@
+{
+  "id": "AnnonciationBarocci",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Annonciation",
+  "creator": [
+    {
+      "xml_id": "FedericoBarocci",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1582,
+    "endYear": 1584,
+    "text": "1582-1584"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Pinacothèque vaticane",
+      "place": "Vatican",
+      "inventory_number": "40376",
+      "url": "https://www.museivaticani.va/content/museivaticani/it/collezioni/musei/la-pinacoteca/sala-xi---secolo-xvi/barocci--annunciazione.html"
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "emilianiFedericoBarocciUrbino1985",
+      "location": "vol. I, pp. 197-207"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-03T18:47:42.348206",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 2,
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {},
+  "typology": "Peinture"
+}

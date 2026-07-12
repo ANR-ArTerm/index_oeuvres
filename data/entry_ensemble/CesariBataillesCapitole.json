@@ -11,7 +11,7 @@
   ],
   "dateCreated": {
     "startYear": 1612,
-    "endYear": 1612,
+    "endYear": 1613,
     "text": "1612 - 1613"
   },
   "location": {
@@ -30,7 +30,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Cavalier_d%27Arpino_-_Combat_of_the_Horatii_and_the_Curiatii_-_Google_Art_Project.jpg",
       "storage": "online",
-      "copyright": "DcoetzeeBot",
+      "copyright": "Wikimédia Commons, Public Domain, DcoetzeeBot",
       "caption": ""
     }
   ],
@@ -41,9 +41,14 @@
       "date": "2026-04-08T16:38:02.325678",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-07-06T11:09:42.965881",
+      "type": "modified",
+      "author": "Nicolo"
     }
   ],
   "typology": "ensemble décoratif",
   "contains_works": [],
-  "status_entry": 0
+  "status_entry": 1
 }

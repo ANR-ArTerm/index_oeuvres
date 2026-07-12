@@ -37,7 +37,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Santa_Maria_dei_Carmini_%28facade%29.jpg/960px-Santa_Maria_dei_Carmini_%28facade%29.jpg",
       "storage": "online",
-      "copyright": "CC BY-SA 4.0, Archaeodontosaurus, https://commons.wikimedia.org/wiki/File:Santa_Maria_dei_Carmini_(facade).jpg",
+      "copyright": "Wikimédia Commons, CC BY-SA 4.0, Archaeodontosaurus, https://commons.wikimedia.org/wiki/File:Santa_Maria_dei_Carmini_(facade).jpg",
       "caption": ""
     }
   ],
@@ -48,9 +48,14 @@
       "date": "2026-07-01T15:59:13.793096",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-03T13:37:21.903265",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "église",
   "contained_by_ensemble": {}
 }

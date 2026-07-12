@@ -40,7 +40,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/SestoAdor.jpg?_=20090502130633",
       "storage": "online",
-      "copyright": "Public domain",
+      "copyright": "Wikimédia Commons, Public domain",
       "caption": ""
     }
   ],
@@ -51,9 +51,15 @@
       "date": "2026-07-01T15:44:56.774211",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-03T15:56:15.428344",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "materialsAndTechniques": "huile sur toile",
-  "contained_by_ensemble": {}
+  "contained_by_ensemble": {},
+  "typology": "Peinture"
 }

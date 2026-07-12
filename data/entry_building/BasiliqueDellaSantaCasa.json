@@ -39,12 +39,6 @@
         "latitude": "",
         "longitude": ""
       }
-    },
-    "institution": {
-      "name": null,
-      "place": null,
-      "inventory_number": "",
-      "url": ""
     }
   },
   "related_works": [],
@@ -59,7 +53,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Loreto_-_Basilica_della_Santa_Casa_di_Loreto_-_2024-09-26_13-00-21_007.JPG/960px-Loreto_-_Basilica_della_Santa_Casa_di_Loreto_-_2024-09-26_13-00-21_007.JPG",
       "storage": "online",
-      "copyright": "CC BY-SA 4.0, Parsifall, https://commons.wikimedia.org/wiki/File:Loreto_-_Basilica_della_Santa_Casa_di_Loreto_-_2024-09-26_13-00-21_007.JPG",
+      "copyright": "Wikimédia Commons, CC BY-SA 4.0, Parsifall, https://commons.wikimedia.org/wiki/File:Loreto_-_Basilica_della_Santa_Casa_di_Loreto_-_2024-09-26_13-00-21_007.JPG",
       "caption": ""
     }
   ],
@@ -70,9 +64,14 @@
       "date": "2026-07-02T13:17:03.307864",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-03T13:21:16.862304",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "basilique",
   "contained_by_ensemble": {}
 }

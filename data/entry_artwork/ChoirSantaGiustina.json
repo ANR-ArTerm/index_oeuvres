@@ -1,0 +1,61 @@
+{
+  "id": "ChoirSantaGiustina",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Choir",
+  "creator": [
+    {
+      "xml_id": "RiccardoTaurigny",
+      "role": "sculpteur"
+    },
+    {
+      "xml_id": "BattistaDaVicenza",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1558,
+    "endYear": 1566,
+    "text": "1558-1566"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Basilique Santa Giustina",
+      "place": "Padoue",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "BasiliqueSantaGiustinaPadoue"
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "guzzonSantaGiustinaGuida2021",
+      "location": "pp. 148-153"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-03T17:44:07.037376",
+      "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-07-03T17:44:29.602708",
+      "type": "modified",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 2,
+  "materialsAndTechniques": "sculpture en bois",
+  "contained_by_ensemble": {},
+  "typology": "Sculpture"
+}

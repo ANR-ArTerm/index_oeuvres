@@ -5,8 +5,8 @@
   "title": "Emblèmes des Amours divins et profanes",
   "creator": [],
   "dateCreated": {
-    "startYear": "?",
-    "endYear": "?",
+    "startYear": null,
+    "endYear": null,
     "text": "?"
   },
   "location": {
@@ -22,8 +22,19 @@
       "date": "2026-01-26T17:31:57.392614",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-07-06T10:15:34.793461",
+      "type": "modified",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-07-06T10:15:44.113299",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "suite d'estampes",
-  "status_entry": 0
+  "status_entry": 3,
+  "contains_works": []
 }

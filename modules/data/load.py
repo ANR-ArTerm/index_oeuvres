@@ -28,6 +28,7 @@ LIST_FORM = {
     "artists_roles": "artists_roles.json",
     "architects_roles":"architects_roles.json",
     "typologies_architecture": "typologies_architecture.json",
+    "typologies_artwork": "typologies_artwork.json",
     "institutions": "institutions.json",
     "techniques": "techniques.json",
     "zotero_keys": "zotero_keys.json",

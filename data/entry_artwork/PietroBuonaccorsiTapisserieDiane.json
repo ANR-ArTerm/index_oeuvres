@@ -36,5 +36,6 @@
   ],
   "materialsAndTechniques": null,
   "status_entry": 1,
-  "contained_by_ensemble": {}
+  "contained_by_ensemble": {},
+  "typology": ""
 }

@@ -18,15 +18,23 @@
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": "",
-      "place": "",
+      "name": null,
+      "place": null,
       "inventory_number": "",
       "url": ""
     }
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Bartolomeo_Colleoni_by_Andrea_del_Verrocchio.jpg",
+      "copyright": "Wikimédia Commons, CC BY-SA  4.0, Didier Descouens (https://commons.wikimedia.org/wiki/File:Bartolomeo_Colleoni_by_Andrea_del_Verrocchio.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -34,7 +42,14 @@
       "date": "2026-01-14T11:44:39.685875",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-07-06T11:24:01.203932",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "typology": "Sculpture",
+  "contained_by_ensemble": {}
 }

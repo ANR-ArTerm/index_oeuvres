@@ -41,7 +41,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Pianta_del_buonsignori%2C_dettaglio_032_ceppo_monastero_%28ospedale_bonifacio%29_2.jpg",
       "storage": "online",
-      "copyright": "CC BY-SA 3.0, Sailko, https://commons.wikimedia.org/wiki/File:Pianta_del_buonsignori,_dettaglio_032_ceppo_monastero_(ospedale_bonifacio)_2.jpg",
+      "copyright": "Wikimédia  Commons, CC BY-SA 3.0, Sailko, https://commons.wikimedia.org/wiki/File:Pianta_del_buonsignori,_dettaglio_032_ceppo_monastero_(ospedale_bonifacio)_2.jpg",
       "caption": ""
     }
   ],
@@ -57,9 +57,14 @@
       "date": "2026-06-02T17:27:46.813782",
       "type": "modified",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-07-03T16:40:47.893878",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "jardin",
   "contains_works": [],
-  "status_entry": 0
+  "status_entry": 1
 }

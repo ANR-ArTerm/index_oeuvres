@@ -1,0 +1,63 @@
+{
+  "id": "JanCorneliszVermeyenConqueteTunisTapisserie",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Tapisserie de la Conquête de Tunis",
+  "creator": [
+    {
+      "xml_id": "WillemDePannemaker",
+      "role": "Tisserand"
+    },
+    {
+      "xml_id": "JanCorneliszVermeyen",
+      "role": "auteur du modèle"
+    },
+    {
+      "xml_id": "PieterCoeckeVanAelst",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1565,
+    "endYear": 1566,
+    "text": "1565-1566"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Museum Hof van Busleyden",
+      "place": "Malines",
+      "inventory_number": "Tx0024",
+      "url": "https://www.hofvanbusleyden.be/collections/pieces-maitresses/la-bataille-de-tunis"
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "copié d'après",
+      "xml_id_work": "JanCorneliszVermeyenConqueteTunisPeinture"
+    }
+  ],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Slag_om_Tunis_-_Willem_de_Pannemaker_-_Museum_Hof_van_Busleyden_-_1.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, Molleboll, (https://commons.wikimedia.org/wiki/File:Slag_om_Tunis_-_Willem_de_Pannemaker_-_Museum_Hof_van_Busleyden_-_1.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "Il s'agit d'une suite de douze tapisseries commandées par Marie de Hongrie.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-05T17:56:57.237890",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "Tapisserie",
+  "contained_by_ensemble": {},
+  "typology": "Tapisserie"
+}

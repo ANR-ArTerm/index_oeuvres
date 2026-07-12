@@ -56,8 +56,14 @@
       "date": "2026-04-15T10:57:24.499418",
       "type": "modified",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-07-10T09:55:33.731430",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1,
+  "typology": "Estampe"
 }

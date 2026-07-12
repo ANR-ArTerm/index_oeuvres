@@ -1,0 +1,79 @@
+{
+  "id": "HansHolbeinDeJongeEtatPauvrete",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "L'État de Pauvreté ou Le Triomphe de la Pauvreté ",
+  "creator": [
+    {
+      "xml_id": "HansHolbeinDeJonge",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1532,
+    "endYear": 1532,
+    "text": "Vers 1532"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [
+    {
+      "link_type": "appartient au même ensemble",
+      "xml_id_work": "HansHolbeinDeJongeTriompheRichesses"
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "staintonDrawingEnglandHilliard1987",
+      "location": "p. 80"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/4_22/1e2ca21f_1e28_4ce2_96be_a3ba017a465c/mid_00270923_001.jpg",
+      "storage": "online",
+      "copyright": "© The Trustees of the British Museum. Shared under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) licence.",
+      "caption": "The british Museum, inv. 1894,0721.2, Asset number 270923001, (https://www.britishmuseum.org/collection/image/270923001)"
+    }
+  ],
+  "description": "Ce dessin est une copie attribuée à Lucas Vorsterman l'Ainé. L'artiste aurait copié la grande composition d'Holbein lors de son séjour en Angleterre. La composition originale a été peinte pour la salle des Fêtes des marchands de la Hanse vers 1532, dans la maison du Steelyard de Thames Street. Elle fut conçue comme un pendant au Triomphe des Richesses. Les oeuvres disparurent en 1752 lors d'un incendie du château de Kremsier.\n",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-04T13:40:42.417526",
+      "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-04T13:48:52.047666",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-04T13:50:44.728928",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-04T13:51:14.367370",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-04T13:52:01.118661",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-04T13:56:16.717552",
+      "type": "modified",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "Peinture en grisaille rehaussée d'or et d'aquarelle",
+  "contained_by_ensemble": {},
+  "typology": "Peinture"
+}

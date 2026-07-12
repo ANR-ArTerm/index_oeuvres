@@ -1,0 +1,59 @@
+{
+  "id": "HansHolbeinDeJongeTriompheRichesses",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Le Triomphe de la Richesse",
+  "creator": [
+    {
+      "xml_id": "HansHolbeinDeJonge",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1532,
+    "endYear": 1532,
+    "text": "Vers 1532"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [
+    {
+      "link_type": "appartient au même ensemble",
+      "xml_id_work": "HansHolbeinDeJongeEtatPauvrete"
+    }
+  ],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://collections.louvre.fr/media/cache/original/10/86/75/00/AGO108675-000_PE.jpg",
+      "storage": "online",
+      "copyright": "GrandPalaisRmn, Musée du Louvre, Michel Urtado, inv. 18694, (https://collections.louvre.fr/ark:/53355/cl020108675)",
+      "caption": "Dessin préparatoire à la peinture. "
+    }
+  ],
+  "description": "Ce dessin à la plume, encre brune, lavis brun, et rehauts de blanc est une étude pour une grande composition allégoriques le Triomphe de la Richesse, peinte pour la salle des Fêtes des marchands de la Hanse, dans la maison du Steelyard de Thames Street. Les oeuvres disparurent en 1752 lors d'un incendie du château de Kremsier.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-04T12:36:42.379130",
+      "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-04T13:49:23.173669",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-04T13:53:16.114374",
+      "type": "modified",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "Peinture en grisaille rehaussée d'or et d'aquarelle",
+  "contained_by_ensemble": {},
+  "typology": "Peinture"
+}

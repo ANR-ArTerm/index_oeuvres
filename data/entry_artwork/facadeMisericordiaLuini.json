@@ -1,0 +1,46 @@
+{
+  "id": "facadeMisericordiaLuini",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Fresques de la facade de la Misericordia",
+  "creator": [
+    {
+      "xml_id": "AurelioLuini",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": "2e moitié du XVI siècle (ante 1590)"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "bascapeTesoroPoveriPatrimonio2001",
+      "location": "p. 82"
+    }
+  ],
+  "illustrations": [],
+  "description": "Perdu",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-03T16:30:59.432637",
+      "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-07-03T16:33:21.477317",
+      "type": "modified",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {},
+  "typology": "Peinture"
+}

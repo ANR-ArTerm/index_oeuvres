@@ -46,9 +46,14 @@
       "date": "2026-02-04T12:40:45.216820",
       "type": "modified",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-07-03T16:38:35.027275",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "ensemble décoratif",
   "contains_works": [],
-  "status_entry": 0
+  "status_entry": 1
 }

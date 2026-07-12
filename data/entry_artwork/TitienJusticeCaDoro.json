@@ -46,6 +46,11 @@
       "date": "2026-04-23T14:55:28.168144",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-07-10T15:17:22.346729",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "fresque",
@@ -53,5 +58,6 @@
     "link_type": "appartient à l'ensemble",
     "xml_id_work": null
   },
-  "status_entry": 0
+  "status_entry": 1,
+  "typology": "Peinture"
 }

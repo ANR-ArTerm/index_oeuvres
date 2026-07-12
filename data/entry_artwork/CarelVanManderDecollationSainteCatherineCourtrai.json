@@ -1,0 +1,55 @@
+{
+  "id": "CarelVanManderDecollationSainteCatherineCourtrai",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q121549166",
+  "entry_type": "artwork",
+  "title": "La Décollation de Sainte Catherine",
+  "creator": [
+    {
+      "xml_id": "CarelVanMander",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1582,
+    "endYear": 1582,
+    "text": "1582"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Église Saint-Martin",
+      "place": "Courtrai",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "paatzelisabethKarelVanMander1930",
+      "location": "n° G.7"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/PM_137593_B_Kortrijk.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, PMRMaeyaert, (https://commons.wikimedia.org/wiki/File:PM_137593_B_Kortrijk.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-07T14:02:38.901063",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Peinture",
+  "materialsAndTechniques": "huile sur bois",
+  "contained_by_ensemble": {}
+}

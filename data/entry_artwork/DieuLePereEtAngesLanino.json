@@ -1,0 +1,52 @@
+{
+  "id": "DieuLePereEtAngesLanino",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Dieu Le Père et Anges",
+  "creator": [
+    {
+      "xml_id": "BernardinoLanino",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1546,
+    "endYear": 1553,
+    "text": "1546-1553"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "CathédraleDeNovare",
+      "place": "Novare",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "ChapelleSaintJosephNovara"
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "dellomoCattedraleDiNovara1993",
+      "location": "pp. 113-118"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-03T17:12:17.690202",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 2,
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {},
+  "typology": "Peinture"
+}

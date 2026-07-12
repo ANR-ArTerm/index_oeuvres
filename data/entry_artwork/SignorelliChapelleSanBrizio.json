@@ -13,7 +13,7 @@
       "role": "peintre"
     },
     {
-      "xml_id": "BenozzoGozzoli",
+      "xml_id": null,
       "role": "peintre"
     }
   ],
@@ -50,7 +50,14 @@
       "date": "2026-01-19T16:44:10.584194",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-07-10T16:22:14.024654",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "typology": "Peinture",
+  "contained_by_ensemble": {}
 }

@@ -1,0 +1,60 @@
+{
+  "id": "MartyreSaintVitalBarocci",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Martyre de Saint Vital",
+  "creator": [
+    {
+      "xml_id": "FedericoBarocci",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1580,
+    "endYear": 1583,
+    "text": "1580-1583"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "PinacothèqueDeBrera",
+      "place": "Milan",
+      "inventory_number": "401",
+      "url": "https://pinacotecabrera.org/collezioni/collezione-on-line/il-martirio-di-san-vitale/"
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "œuvre associée",
+      "xml_id_work": "BasiliqueSanVitaleRavenna"
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "emilianiFedericoBarocciUrbino1985",
+      "location": "vol. I, pp. 168-187"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Barocci_-_Il_martirio_di_San_Vitale%2C_1580_-_1583%2C_401.jpg/960px-Barocci_-_Il_martirio_di_San_Vitale%2C_1580_-_1583%2C_401.jpg",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-03T18:51:44.319418",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {},
+  "typology": "Peinture"
+}

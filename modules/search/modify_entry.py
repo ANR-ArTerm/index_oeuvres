@@ -379,8 +379,21 @@ def edit_json_notice(json_path=None, data=None):
 
     # — PEINTURE —
     if entry_type == "artwork":
-        st.header("🎨 Matériaux & Techniques")
+        
+        st.header("🎲 Typologie d'œuvre")
+        notice["typology"] = st.selectbox(
+                    "Typologie d'œuvre",
+                    load_list_form("typologies_artwork"),
+                    accept_new_options=True,
+                    index=index_list_form(notice.get("typology", ""), "typologies_artwork")
+                    )
+        
+        if notice["typology"] and notice["typology"] not in load_list_form("typologies_artwork"):
+            with st.spinner("Sauvegarde de la typologie"):
+                success, message = save_to_list_form_git("typologies_artwork", notice["typology"])
+                st.success(message) if success else st.error(message)
 
+        st.header("🎨 Matériaux & Techniques")
         notice["materialsAndTechniques"] = st.selectbox(
                     "Matériaux et techniques",
                     load_list_form("techniques"),

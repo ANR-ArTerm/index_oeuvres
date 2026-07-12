@@ -46,9 +46,15 @@
       "date": "2026-07-01T17:44:22.475090",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-10T17:37:22.895031",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "materialsAndTechniques": "huile sur toile",
-  "contained_by_ensemble": {}
+  "contained_by_ensemble": {},
+  "typology": "Peinture"
 }

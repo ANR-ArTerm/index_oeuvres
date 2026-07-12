@@ -1,0 +1,52 @@
+{
+  "id": "ChoirCathedraleMilan",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Choir",
+  "creator": [
+    {
+      "xml_id": "RichardTaurigny",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1567,
+    "endYear": 1614,
+    "text": "1567-1614"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Dome de Milan",
+      "place": "Milan",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "CathedraleMilan"
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "brivioVitaDiSantAmbrogio1996",
+      "location": ""
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-03T18:05:49.049910",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 2,
+  "materialsAndTechniques": "bois",
+  "contained_by_ensemble": {},
+  "typology": "Sculpture"
+}

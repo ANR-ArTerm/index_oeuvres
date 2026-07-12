@@ -5,8 +5,8 @@
   "title": "Les Noces Aldobrandines",
   "creator": [],
   "dateCreated": {
-    "startYear": "-50",
-    "endYear": "-50",
+    "startYear": -50,
+    "endYear": -50,
     "text": "50 av J.-C."
   },
   "materialsAndTechniques": "fresque",
@@ -25,7 +25,7 @@
     {
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Aldobrandini_wedding.JPG",
-      "copyright": "",
+      "copyright": "Wikimédia Commons, Public Domain (https://commons.wikimedia.org/wiki/File:Aldobrandini_wedding.JPG)",
       "caption": "",
       "storage": "online"
     }
@@ -52,7 +52,14 @@
       "date": "2026-01-13T11:44:01.341484",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-07-06T11:50:41.169215",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "typology": "Peinture",
+  "contained_by_ensemble": {}
 }

@@ -1,0 +1,62 @@
+{
+  "id": "SculptureCosmeIGiambologna",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3968679",
+  "entry_type": "artwork",
+  "title": "Statue équestre de Cosme Ier de Médicis",
+  "creator": [
+    {
+      "xml_id": "Giambologna",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1587,
+    "endYear": 1599,
+    "text": "1587-1599"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "gasparottoGiambologna2005",
+      "location": "pp. 184-193"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Giambologna%2C_monumento_equestre_a_cosimo_I%2C_1587-1594%2C_01.jpg/1280px-Giambologna%2C_monumento_equestre_a_cosimo_I%2C_1587-1594%2C_01.jpg",
+      "storage": "online",
+      "copyright": "Wikimédia Commons, CC BY-SA 4.0, Sailko, https://commons.wikimedia.org/wiki/File:Giambologna,_monumento_equestre_a_cosimo_I,_1587-1594,_01.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-03T18:24:19.742567",
+      "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-07-10T16:04:29.648169",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "status_entry": 1,
+  "materialsAndTechniques": "sculpture en bronze",
+  "contained_by_ensemble": {},
+  "typology": "Sculpture"
+}

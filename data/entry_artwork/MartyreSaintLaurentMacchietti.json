@@ -1,0 +1,60 @@
+{
+  "id": "MartyreSaintLaurentMacchietti",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Martyre de Saint Laurent",
+  "creator": [
+    {
+      "xml_id": "GirolamoMacchietti",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1573,
+    "endYear": 1573,
+    "text": "1573"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Basilique de Santa Maria Novella",
+      "place": "Florence",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "BasiliqueSantaMariaNovellaFlorence"
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "priviteraGirolamoMacchiettiPittore1996",
+      "location": "pp. 139-141"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Smn%2C_navata_dx%2C_girolamo_macchietti%2C_martirio_di_san_lorenzo%2C_1573.JPG/960px-Smn%2C_navata_dx%2C_girolamo_macchietti%2C_martirio_di_san_lorenzo%2C_1573.JPG?_=20130407090808",
+      "storage": "online",
+      "copyright": "CC 3.0, Sailko, https://commons.wikimedia.org/wiki/File:Smn,_navata_dx,_girolamo_macchietti,_martirio_di_san_lorenzo,_1573.JPG",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-03T18:14:23.956306",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "huile sur bois",
+  "contained_by_ensemble": {},
+  "typology": "Peinture"
+}

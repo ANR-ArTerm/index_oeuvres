@@ -1,0 +1,41 @@
+{
+  "id": "NativiteNovaraTitien",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Nativité ",
+  "creator": [
+    {
+      "xml_id": "Titien",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1540,
+    "endYear": 1542,
+    "text": "1540-1542"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "dellomoCattedraleDiNovara1993",
+      "location": "pp. 108-109"
+    }
+  ],
+  "illustrations": [],
+  "description": "Perdu",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-03T16:54:40.134493",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": null,
+  "contained_by_ensemble": {},
+  "typology": ""
+}

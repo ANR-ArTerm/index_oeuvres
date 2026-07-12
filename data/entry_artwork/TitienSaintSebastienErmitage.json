@@ -18,7 +18,7 @@
     "type": "holding_institution",
     "institution": {
       "name": "Musée de l'Ermitage",
-      "place": "Saint-Pétersbourg",
+      "place": null,
       "inventory_number": "inv.191",
       "url": ""
     }
@@ -30,7 +30,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Titian_sebastian.jpg",
       "storage": "online",
-      "copyright": "Domaine public, Dencey, https://commons.wikimedia.org/wiki/File:Titian_sebastian.jpg",
+      "copyright": "Wikimédia Commons, Domaine public, Dencey, https://commons.wikimedia.org/wiki/File:Titian_sebastian.jpg",
       "caption": ""
     }
   ],
@@ -41,9 +41,15 @@
       "date": "2026-02-11T18:09:01.575494",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-07-10T11:02:57.266320",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "huile sur toile",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1,
+  "typology": "Peinture"
 }

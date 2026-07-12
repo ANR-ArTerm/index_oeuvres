@@ -1,0 +1,60 @@
+{
+  "id": "BasiliqueSantoSpiritoFlorence",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1519975",
+  "entry_type": "building",
+  "title": "Basilique de Santo Spirito",
+  "creator": [
+    {
+      "xml_id": "Brunelleschi",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "AntonioManetti",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1444,
+    "endYear": 1487,
+    "text": "1444-1487"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "acidiniluchinatChiesaConventoDi1996",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Chiesa_Santo_Spirito%2C_Firenze.jpg/1920px-Chiesa_Santo_Spirito%2C_Firenze.jpg?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "storage": "online",
+      "copyright": "CC BY-SA 3.0, Lucarelli, https://commons.wikimedia.org/wiki/File:Chiesa_Santo_Spirito,_Firenze.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-10T18:26:29.432267",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "basilique",
+  "contained_by_ensemble": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "ArachneCantoni",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Arachne",
+  "creator": [
+    {
+      "xml_id": "CaterinaCantoni",
+      "role": "Tapissier"
+    },
+    {
+      "xml_id": "CamilloProcaccini",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1590,
+    "endYear": 1590,
+    "text": "1590"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "LomazzosAestheticPrinciples",
+      "location": "pp. 109-125"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-03T20:01:33.430629",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 2,
+  "materialsAndTechniques": "satin, soie et lin",
+  "contained_by_ensemble": {},
+  "typology": "Tapisserie"
+}

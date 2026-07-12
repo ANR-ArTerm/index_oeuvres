@@ -25,7 +25,15 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Les_peintures_de_la_galerie_des_Glaces_du_ch%C3%A2teau_de_Versailles.jpg",
+      "copyright": "Wikimédia Commons, Domaine Public, Tipoune (https://commons.wikimedia.org/wiki/File:Les_peintures_de_la_galerie_des_Glaces_du_ch%C3%A2teau_de_Versailles.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -33,9 +41,14 @@
       "date": "2026-06-24T10:52:53.063217",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-07-06T11:18:10.210075",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "ensemble décoratif",
   "contains_works": []
 }

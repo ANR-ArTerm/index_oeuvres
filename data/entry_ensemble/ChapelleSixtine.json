@@ -39,7 +39,7 @@
     {
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Chapelle_sixtine2.jpg/1920px-Chapelle_sixtine2.jpg",
-      "copyright": "CC BY-SA 3.0, Antoinetav, https://commons.wikimedia.org/wiki/File:Chapelle_sixtine2.jpg",
+      "copyright": "Wikimédia Commons, CC BY-SA 3.0, Antoinetav, https://commons.wikimedia.org/wiki/File:Chapelle_sixtine2.jpg",
       "caption": "",
       "storage": "online"
     }
@@ -71,6 +71,11 @@
       "date": "2026-05-06T12:02:49.944845",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-06T11:13:36.247799",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "ensemble décoratif",
@@ -81,5 +86,5 @@
       "link_types_contained": null
     }
   ],
-  "status_entry": 0
+  "status_entry": 1
 }

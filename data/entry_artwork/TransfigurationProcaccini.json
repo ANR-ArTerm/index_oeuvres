@@ -1,0 +1,59 @@
+{
+  "id": "TransfigurationProcaccini",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Transfiguration",
+  "creator": [
+    {
+      "xml_id": "CamilloProcaccini",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1587,
+    "endYear": 1590,
+    "text": "1587-1590"
+  },
+  "location": {
+    "type": "holding_institution",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    },
+    "institution": {
+      "name": "Galérie Borromeo",
+      "place": "Isola Bella",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "neilsonCamilloProcacciniPaintings1979",
+      "location": "pp. 18-19"
+    },
+    {
+      "zotero_key": "cassinelliCamilloProcaccini15612007",
+      "location": "pp. 162-163"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-03T18:38:51.912636",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 2,
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {},
+  "typology": "Peinture"
+}

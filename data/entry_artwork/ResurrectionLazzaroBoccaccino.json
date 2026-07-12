@@ -35,7 +35,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Camillo_Boccaccino_001.jpg",
       "storage": "online",
-      "copyright": "Public domain",
+      "copyright": "Wikimédia Commons, Public domain",
       "caption": ""
     }
   ],
@@ -46,9 +46,15 @@
       "date": "2026-07-01T15:10:21.554403",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-10T17:45:28.587989",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "materialsAndTechniques": "fresque",
-  "contained_by_ensemble": {}
+  "contained_by_ensemble": {},
+  "typology": "Peinture"
 }

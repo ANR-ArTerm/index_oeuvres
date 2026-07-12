@@ -1,0 +1,35 @@
+{
+  "id": "PioLuogoDellaMisericordiaMilan",
+  "QID_wikidata": "",
+  "entry_type": "building",
+  "title": "Pio Luogo della Misericordia",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": 1443,
+    "text": "ante 1377-1443"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "bascapeTesoroPoveriPatrimonio2001",
+      "location": "pp. 78-83"
+    }
+  ],
+  "illustrations": [],
+  "description": "Détruit dans le XIXe siècle.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-03T16:11:12.538261",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Palais",
+  "contained_by_ensemble": {}
+}
