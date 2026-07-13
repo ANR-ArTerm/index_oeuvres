@@ -23,11 +23,20 @@
       "url": ""
     }
   },
-  "related_works": [],
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "TombeauJulesII"
+    }
+  ],
   "bibliography": [
     {
       "zotero_key": "guidoniMoseDiMichelangelo1982",
       "location": ""
+    },
+    {
+      "zotero_key": "zoellnerMichelangeloVollstaendigeWerk2014",
+      "location": "p. 421"
     }
   ],
   "illustrations": [
@@ -45,6 +54,11 @@
     {
       "date": "2026-07-10T17:54:38.383193",
       "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-07-13T19:05:13.499798",
+      "type": "modified",
       "author": "Elisa"
     }
   ],
