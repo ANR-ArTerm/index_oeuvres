@@ -1,0 +1,55 @@
+{
+  "id": "TondoDoni",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1473546",
+  "entry_type": "artwork",
+  "title": "Tondo Doni",
+  "creator": [
+    {
+      "xml_id": "MichelAnge",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1505,
+    "endYear": 1507,
+    "text": "1505-1507"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Gallerie degli Uffizi",
+      "place": "Florence",
+      "inventory_number": "1890 n. 1456",
+      "url": "https://www.uffizi.it/opere/sacra-famiglia-detta-tondo-doni"
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": null,
+      "location": "p. 442"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Tondo_Doni_2021.jpg/1920px-Tondo_Doni_2021.jpg?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-13T18:57:11.543980",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Peinture",
+  "materialsAndTechniques": "huile sur bois",
+  "contained_by_ensemble": {}
+}
