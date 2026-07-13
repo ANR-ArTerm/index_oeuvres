@@ -1,5 +1,5 @@
 {
-  "id": "LaocoonAntique",
+  "id": "Laocoon",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q465762",
   "entry_type": "artwork",
   "title": "Le groupe du Laocoon",
@@ -18,21 +18,26 @@
     }
   ],
   "dateCreated": {
-    "startYear": 150,
-    "endYear": -40,
-    "text": ""
+    "startYear": 40,
+    "endYear": 30,
+    "text": "40-30 av. J.-C."
   },
   "location": {
     "type": "holding_institution",
     "institution": {
       "name": "Vatican, Musée Pio-Clementino",
       "place": "Rome",
-      "inventory_number": "",
-      "url": ""
+      "inventory_number": "1059",
+      "url": "https://www.museivaticani.va/content/museivaticani/it/collezioni/musei/museo-pio-clementino/Cortile-Ottagono/laocoonte.html"
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "settisLaocoonteFamaStile1999",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -74,10 +79,15 @@
       "date": "2026-07-13T13:40:40.820984",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-13T13:43:43.028161",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "materialsAndTechniques": "Sculpture en marbre",
   "contained_by_ensemble": {},
-  "status_entry": 1,
+  "status_entry": 0,
   "typology": "Sculpture"
 }
