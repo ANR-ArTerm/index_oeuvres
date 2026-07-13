@@ -28,6 +28,10 @@
     {
       "zotero_key": "ircanimenichiniLinfinitoAmoreAlle2013",
       "location": "p. 224"
+    },
+    {
+      "zotero_key": "ircanimenichiniLinfinitoAmoreAlle2013",
+      "location": ""
     }
   ],
   "illustrations": [
@@ -45,6 +49,11 @@
     {
       "date": "2026-07-13T16:33:50.848642",
       "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-07-13T16:34:58.810338",
+      "type": "modified",
       "author": "Elisa"
     }
   ],
