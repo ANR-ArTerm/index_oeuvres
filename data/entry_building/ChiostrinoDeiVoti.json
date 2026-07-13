@@ -1,0 +1,61 @@
+{
+  "id": "ChiostrinoDeiVoti",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3675066",
+  "entry_type": "building",
+  "title": "Chiostrino dei Voti",
+  "creator": [
+    {
+      "xml_id": "Michelozzo",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1447,
+    "endYear": 1460,
+    "text": "1447-ante 1460"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "BasiliqueSantissimaAnnunziataFlorence"
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "alessandriniBasilicaSantissimaAnnunziata2013",
+      "location": "pp. 177-196"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Florence_%28Italy%2C_October_2019%29_-_56_%2850575484906%29.jpg/1920px-Florence_%28Italy%2C_October_2019%29_-_56_%2850575484906%29.jpg?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "storage": "online",
+      "copyright": "CC BY-SA 2.0, Matlin, https://commons.wikimedia.org/wiki/File:Florence_(Italy,_October_2019)_-_56_(50575484906).jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-13T16:12:23.266761",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "cloître",
+  "contained_by_ensemble": {}
+}
