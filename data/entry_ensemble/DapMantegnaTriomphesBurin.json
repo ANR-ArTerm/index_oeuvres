@@ -57,9 +57,14 @@
       "date": "2026-03-09T11:42:26.301979",
       "type": "modified",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-07-06T11:19:31.842760",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "suite d'estampes",
   "contains_works": [],
-  "status_entry": 0
+  "status_entry": 1
 }

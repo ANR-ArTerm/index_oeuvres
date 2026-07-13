@@ -12,7 +12,7 @@
   "dateCreated": {
     "startYear": 1621,
     "endYear": 1624,
-    "text": "Années 1620"
+    "text": "Vers 1620"
   },
   "materialsAndTechniques": "",
   "location": {
@@ -39,8 +39,14 @@
       "date": "2026-01-26T11:08:25.254364",
       "type": "modified",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-07-06T10:29:44.284024",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "cycle de peintures",
-  "status_entry": 0
+  "status_entry": 2,
+  "contains_works": []
 }

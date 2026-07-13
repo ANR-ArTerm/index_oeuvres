@@ -1,0 +1,51 @@
+{
+  "id": "EgliseSaintGeryBruxelles",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q42328277",
+  "entry_type": "building",
+  "title": "Église Saint-Géry de Bruxelles",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 580,
+    "endYear": 1564,
+    "text": "580-1564"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Bruxelles",
+      "country": "Belgique",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/SintGoriksBrussel.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, Karmakolle, (https://commons.wikimedia.org/wiki/File:SintGoriksBrussel.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "L'église fut démolie entre 1798-1802.\n",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-05T18:05:44.838037",
+      "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-05T18:21:29.287179",
+      "type": "modified",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "église",
+  "contained_by_ensemble": {}
+}

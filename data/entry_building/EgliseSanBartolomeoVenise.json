@@ -1,0 +1,51 @@
+{
+  "id": "EgliseSanBartolomeoVenise",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1648609",
+  "entry_type": "building",
+  "title": "Église de San Bartolomeo",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 840,
+    "endYear": null,
+    "text": "840-XIIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Venise",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "ChiesaDiSan",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Chiesa_di_San_Bartolomeo_%28Venezia%29.jpg/960px-Chiesa_di_San_Bartolomeo_%28Venezia%29.jpg?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "storage": "online",
+      "copyright": "CC BY-SA 4.0, Archaeodontosaurus, https://commons.wikimedia.org/wiki/File:Chiesa_di_San_Bartolomeo_(Venezia).jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-10T18:33:06.527727",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "église",
+  "contained_by_ensemble": {}
+}

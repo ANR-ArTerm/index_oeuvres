@@ -24,11 +24,16 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "biettiSagrestiaDiMichelangelo2023a",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Fotografi_di_San_Lorenzo_-_Hallwylska_museet_-_107390.tif/lossy-page1-948px-Fotografi_di_San_Lorenzo_-_Hallwylska_museet_-_107390.tif.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Fotografi_di_San_Lorenzo_-_Hallwylska_museet_-_107390.tif/lossy-page1-1920px-Fotografi_di_San_Lorenzo_-_Hallwylska_museet_-_107390.tif.jpg",
       "storage": "online",
       "copyright": "Public Domain, Giacomo Brogi, https://commons.wikimedia.org/wiki/File:Fotografi_di_San_Lorenzo_-_Hallwylska_museet_-_107390.tif?page=1",
       "caption": ""
@@ -51,18 +56,28 @@
       "date": "2026-02-04T15:29:54.245550",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-07-06T10:42:02.715767",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-07-10T17:09:13.144736",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "ensemble décoratif",
   "contains_works": [
     {
       "link_type": "appartient à l'ensemble",
-      "xml_id_work": "MichelAngeTombeauLaurentIIMédicis",
+      "xml_id_work": "MichelAngeTombeauJulienMedicis",
       "link_types_contained": null
     },
     {
       "link_type": "appartient à l'ensemble",
-      "xml_id_work": "MichelAngeTombeauJulienMédicis",
+      "xml_id_work": "MichelAngeTombeauLaurentIIMedicis",
       "link_types_contained": null
     }
   ],

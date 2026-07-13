@@ -35,12 +35,18 @@
       "date": "2026-06-22T21:31:43.593983",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-07-10T16:15:56.326079",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "materialsAndTechniques": "eau-forte et burin",
   "contained_by_ensemble": {
     "link_type": "appartient à l'ensemble",
     "xml_id_work": "SebastienBourdonSeptOeuvresMisericorde"
-  }
+  },
+  "typology": "Estampe"
 }

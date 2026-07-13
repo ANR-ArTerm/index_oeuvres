@@ -10,23 +10,40 @@
     }
   ],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": "Avant 1304 = mort de Benoit IX"
+    "startYear": 1305,
+    "endYear": 1313,
+    "text": "1305-1313"
   },
   "materialsAndTechniques": "mosaïque",
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": "Basilique Saint Pierre, Vatican",
-      "place": "Rome",
+      "name": "Basilique Saint Pierre",
+      "place": "Vatican",
       "inventory_number": "",
       "url": ""
     }
   },
   "related_works": [],
-  "bibliography": [],
-  "illustrations": [],
+  "bibliography": [
+    {
+      "zotero_key": "tabarriniNavicellaInquietaProgetti2025",
+      "location": ""
+    },
+    {
+      "zotero_key": "koehren-jansenGiottosNavicellaBildtradition1993",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Giotto_di_Bondone_-_Navicella_-_WGA09363.jpg",
+      "copyright": "Public domain",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -59,8 +76,14 @@
       "date": "2026-06-17T17:11:51.310171",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-10T18:54:16.199987",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
-  "contained_by_ensemble": {}
+  "status_entry": 0,
+  "contained_by_ensemble": {},
+  "typology": "Mosaïque"
 }

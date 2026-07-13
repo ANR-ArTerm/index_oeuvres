@@ -14,7 +14,15 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "data\\images\\Galleria_giustiniana_del_marchese_Vincenzo_[...]_btv1b73003561_165.jpeg",
+      "copyright": "Gallica BNF, Consultable en ligne (https://gallica.bnf.fr/ark:/12148/btv1b73003561/f165.item.zoom#)",
+      "caption": "Galleria giustiniana del marchese Vincenzo Giustiniani",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -37,6 +45,11 @@
       "date": "2026-06-10T16:27:11.811338",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-07-06T10:03:59.589102",
+      "type": "modified",
+      "author": "Nicolo"
     }
   ],
   "typology": "collection d'œuvres",
@@ -47,5 +60,5 @@
       "link_types_contained": null
     }
   ],
-  "status_entry": 0
+  "status_entry": 1
 }

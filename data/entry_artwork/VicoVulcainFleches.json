@@ -27,13 +27,20 @@
   ],
   "illustrations": [],
   "description": "",
-  "commentary": "",
+  "commentary": "https://collections.musees.strasbourg.eu/en/document/vulcain-et-les-cyclopes-forgeant-des-fleches-pour-l-amour/64a283600596de5a2692fb3e?motcls%5B0%5D=Enclume&v=mosaic&pos=8",
   "history": [
     {
       "date": "2026-03-06T14:48:18.474577",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-07-06T11:43:35.582169",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "typology": "Estampe",
+  "contained_by_ensemble": {}
 }

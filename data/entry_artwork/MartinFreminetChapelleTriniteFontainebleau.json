@@ -50,5 +50,6 @@
   ],
   "status_entry": 1,
   "materialsAndTechniques": "Huile sur plâtre",
-  "contained_by_ensemble": {}
+  "contained_by_ensemble": {},
+  "typology": "Peinture"
 }

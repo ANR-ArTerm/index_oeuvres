@@ -73,5 +73,6 @@
     "link_type": "appartient à l'ensemble",
     "xml_id_work": "ChapelleSixtine"
   },
-  "status_entry": 1
+  "status_entry": 1,
+  "typology": "Peinture"
 }

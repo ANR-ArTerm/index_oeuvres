@@ -16,12 +16,6 @@
   },
   "location": {
     "type": "place",
-    "institution": {
-      "name": null,
-      "place": null,
-      "inventory_number": "",
-      "url": ""
-    },
     "place": {
       "city": "Florence",
       "country": "Italie",
@@ -43,7 +37,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Giambologna%2C_monumento_equestre_a_cosimo_I%2C_1587-1594%2C_01.jpg/1280px-Giambologna%2C_monumento_equestre_a_cosimo_I%2C_1587-1594%2C_01.jpg",
       "storage": "online",
-      "copyright": "CC BY-SA 4.0, Sailko, https://commons.wikimedia.org/wiki/File:Giambologna,_monumento_equestre_a_cosimo_I,_1587-1594,_01.jpg",
+      "copyright": "Wikimédia Commons, CC BY-SA 4.0, Sailko, https://commons.wikimedia.org/wiki/File:Giambologna,_monumento_equestre_a_cosimo_I,_1587-1594,_01.jpg",
       "caption": ""
     }
   ],
@@ -54,9 +48,15 @@
       "date": "2026-07-03T18:24:19.742567",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-10T16:04:29.648169",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "materialsAndTechniques": "sculpture en bronze",
-  "contained_by_ensemble": {}
+  "contained_by_ensemble": {},
+  "typology": "Sculpture"
 }

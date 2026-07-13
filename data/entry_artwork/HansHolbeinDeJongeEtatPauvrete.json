@@ -74,5 +74,6 @@
   ],
   "status_entry": 0,
   "materialsAndTechniques": "Peinture en grisaille rehaussée d'or et d'aquarelle",
-  "contained_by_ensemble": {}
+  "contained_by_ensemble": {},
+  "typology": "Peinture"
 }

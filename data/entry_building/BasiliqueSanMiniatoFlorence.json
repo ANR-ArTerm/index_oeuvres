@@ -2,12 +2,12 @@
   "id": "BasiliqueSanMiniatoFlorence",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q844337",
   "entry_type": "building",
-  "title": "Basilique San Miniato al Monte",
+  "title": "Basilique de San Miniato al Monte",
   "creator": [],
   "dateCreated": {
-    "startYear": null,
+    "startYear": 1018,
     "endYear": null,
-    "text": ""
+    "text": "1018-XIIe siècle"
   },
   "location": {
     "type": "place",
@@ -21,7 +21,16 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "salvestriniBasilicaDiSan2021",
+      "location": ""
+    },
+    {
+      "zotero_key": "gurrieriBasilicaDiSan1988",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -43,9 +52,14 @@
       "date": "2026-05-28T16:05:45.951633",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-10T18:46:41.661753",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "basilique",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }

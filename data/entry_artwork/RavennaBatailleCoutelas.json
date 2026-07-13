@@ -44,9 +44,15 @@
       "date": "2026-03-06T17:34:47.649936",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-07-10T17:31:46.185965",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "materialsAndTechniques": "burin",
   "contained_by_ensemble": {},
-  "status_entry": 0
+  "status_entry": 1,
+  "typology": "Estampe"
 }

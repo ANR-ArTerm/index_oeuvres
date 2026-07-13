@@ -5,7 +5,7 @@
   "title": "Vie de la Vierge",
   "creator": [
     {
-      "xml_id": null,
+      "xml_id": "AlbrechtDurer",
       "role": "graveur"
     }
   ],
@@ -29,7 +29,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Durer%2C_vita_della_vergine_00_fontespizio.jpg",
       "storage": "online",
-      "copyright": "Public domain",
+      "copyright": "Wikimédia Commons, Public domain",
       "caption": ""
     }
   ],
@@ -50,6 +50,15 @@
       "date": "2026-05-29T12:32:04.344048",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+<<<<<<< HEAD
+      "date": "2026-07-06T09:54:13.940922",
+=======
+      "date": "2026-07-10T09:48:20.499059",
+>>>>>>> 1eabb404 (modification notice DurerViedelaVierge par Jules 2026-07-10T09:48:20.501256)
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "suite d'estampes",
@@ -60,5 +69,5 @@
       "link_types_contained": null
     }
   ],
-  "status_entry": 0
+  "status_entry": 1
 }

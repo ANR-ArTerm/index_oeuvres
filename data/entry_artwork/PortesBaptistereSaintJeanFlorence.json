@@ -1,0 +1,85 @@
+{
+  "id": "PortesBaptistereSaintJeanFlorence",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Portes du baptistère de Florence",
+  "creator": [
+    {
+      "xml_id": "AndreaPisano",
+      "role": "sculpteur"
+    },
+    {
+      "xml_id": "LorenzoGhiberti",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1329,
+    "endYear": 1452,
+    "text": "1329-1452"
+  },
+  "location": {
+    "type": "place",
+    "institution": {
+      "name": null,
+      "place": null,
+      "inventory_number": "",
+      "url": ""
+    },
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "paolucciPorteBattisteroDi1996",
+      "location": ""
+    },
+    {
+      "zotero_key": "verdonPorteBattisteroFiorentino2014",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/South_Doors_of_the_Florence_Baptistry.JPG/1280px-South_Doors_of_the_Florence_Baptistry.JPG?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "storage": "online",
+      "copyright": "CC BY-SA 3.0, Kandi, https://commons.wikimedia.org/wiki/File:South_Doors_of_the_Florence_Baptistry.JPG",
+      "caption": "Andrea Pisano, Porte sud, 1329-1336"
+    },
+    {
+      "id": 1,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lorenzo_ghiberti_e_aiuti%2C_porta_nord_del_battistero_di_firenze%2C_01.JPG/960px-Lorenzo_ghiberti_e_aiuti%2C_porta_nord_del_battistero_di_firenze%2C_01.JPG?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "storage": "online",
+      "copyright": "CC BY 3.0, Sailko, https://commons.wikimedia.org/wiki/File:Lorenzo_ghiberti_e_aiuti,_porta_nord_del_battistero_di_firenze,_01.JPG",
+      "caption": "Lorenzo Ghiberti, Porte Nord, 1401-1424"
+    },
+    {
+      "id": 2,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Lorenzo_ghiberti%2C_porta_del_paradiso%2C_1425-52%2C_00.JPG/960px-Lorenzo_ghiberti%2C_porta_del_paradiso%2C_1425-52%2C_00.JPG?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "storage": "online",
+      "copyright": "CC BY 3.0, Sailko, https://commons.wikimedia.org/wiki/File:Lorenzo_ghiberti,_porta_del_paradiso,_1425-52,_00.JPG",
+      "caption": "Lorenzo Ghiberti, Porte du Paradis, 1425-1452"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-10T19:15:43.940767",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Portes",
+  "materialsAndTechniques": "sculpture en bronze",
+  "contained_by_ensemble": {}
+}

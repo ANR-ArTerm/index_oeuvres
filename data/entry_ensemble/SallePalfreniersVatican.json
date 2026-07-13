@@ -13,8 +13,8 @@
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": "",
-      "place": "",
+      "name": "Vatican",
+      "place": "Rome",
       "inventory_number": "",
       "url": ""
     }
@@ -29,7 +29,14 @@
       "date": "2026-01-15T16:40:40.329206",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-07-06T10:44:28.939577",
+      "type": "modified",
+      "author": "Nicolo"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "typology": null,
+  "contains_works": []
 }

@@ -35,7 +35,7 @@
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Francesco_Bassano_Ratto_delle_Sabine.jpg/1920px-Francesco_Bassano_Ratto_delle_Sabine.jpg?_=20161023203418",
       "storage": "online",
-      "copyright": "CC 4.0, Manuelarosi, https://commons.wikimedia.org/wiki/File:Francesco_Bassano_Ratto_delle_Sabine.jpg",
+      "copyright": "Wikimédia Commons, CC 4.0, Manuelarosi, https://commons.wikimedia.org/wiki/File:Francesco_Bassano_Ratto_delle_Sabine.jpg",
       "caption": ""
     }
   ],
@@ -46,9 +46,15 @@
       "date": "2026-07-03T19:10:06.273675",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-10T17:31:25.722536",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
+  "status_entry": 1,
   "materialsAndTechniques": "huile sur toile",
-  "contained_by_ensemble": {}
+  "contained_by_ensemble": {},
+  "typology": "Peinture"
 }

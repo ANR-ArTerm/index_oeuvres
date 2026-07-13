@@ -82,7 +82,14 @@
       "date": "2026-01-26T11:11:06.192614",
       "type": "modified",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-07-10T17:46:13.447103",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0
+  "status_entry": 1,
+  "typology": "Peinture",
+  "contained_by_ensemble": {}
 }

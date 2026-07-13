@@ -39,7 +39,7 @@
     {
       "id": 0,
       "url": "",
-      "storage": "",
+      "storage": "online",
       "copyright": "",
       "caption": ""
     }
@@ -51,9 +51,14 @@
       "date": "2026-04-21T14:54:50.456842",
       "type": "created",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-07-06T09:57:05.194686",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
   "typology": "ensemble décoratif",
   "contains_works": [],
-  "status_entry": 0
+  "status_entry": 1
 }

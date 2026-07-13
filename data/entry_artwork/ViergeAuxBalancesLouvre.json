@@ -21,7 +21,15 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/16th-century_unknown_painters_-_Virgin_and_Child_with_Sts_Elizabeth%2C_John_and_Michael_-_WGA23946.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
+      "copyright": "Wikimédia Commons, Domain Public (https://commons.wikimedia.org/wiki/File:16th-century_unknown_painters_-_Virgin_and_Child_with_Sts_Elizabeth,_John_and_Michael_-_WGA23946.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -34,8 +42,14 @@
       "date": "2026-05-21T11:58:59.609261",
       "type": "modified",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-07-06T11:49:18.570207",
+      "type": "modified",
+      "author": "Jules"
     }
   ],
-  "status_entry": 0,
-  "contained_by_ensemble": {}
+  "status_entry": 1,
+  "contained_by_ensemble": {},
+  "typology": "Peinture"
 }

@@ -48,6 +48,7 @@
     }
   ],
   "status_entry": 1,
-  "materialsAndTechniques": "gravure sur cuivre",
-  "contained_by_ensemble": {}
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {},
+  "typology": "Estampe"
 }

@@ -1,0 +1,58 @@
+{
+  "id": "CarelVanManderPassionChristEmmeneParPilateRotterdam",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Le Christ emmené par Pilate",
+  "creator": [
+    {
+      "xml_id": "CarelVanMander",
+      "role": "dessinateur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1596,
+    "endYear": 1596,
+    "text": "1596"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Museum Boijmans Van Beuningen",
+      "place": "Rotterdam",
+      "inventory_number": "MB 1717 (PK)",
+      "url": "https://www.boijmans.nl/collectie/kunstwerken/73281/christus-weggevoerd-van-pilatus"
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "HollsteinsDutchFlemish1999",
+      "location": "1999a, appendix 2, n° 13 et n° 61"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://storage.boijmans.nl/collection/tmsfotopkmb-1717-pk/large-39a87608bd77419e6819c5972dae704a11850ebf.jpg",
+      "storage": "online",
+      "copyright": "Collection Musée Boijmans Van Beuningen, Rotterdam, inv. MB 1717 (PK), (https://www.boijmans.nl/collectie/kunstwerken/73281/christus-weggevoerd-van-pilatus)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-08T11:39:38.493353",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Dessin",
+  "materialsAndTechniques": "Encre brune, lavis bleu, rehauts blancs, traits de cadre à la plume à l'encre brune",
+  "contained_by_ensemble": {
+    "link_type": "appartient à l'ensemble",
+    "xml_id_work": "CarelVanManderHistoirePassion"
+  }
+}

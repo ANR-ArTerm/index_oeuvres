@@ -3,7 +3,12 @@
   "QID_wikidata": "https://www.wikidata.org/wiki/Q271928",
   "entry_type": "building",
   "title": "Palazzo Vecchio",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "ArnolfoDiCambio",
+      "role": "architecte"
+    }
+  ],
   "dateCreated": {
     "startYear": 1299,
     "endYear": 1314,
@@ -22,8 +27,21 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
-  "illustrations": [],
+  "bibliography": [
+    {
+      "zotero_key": "cecchiPalazzoVecchioFirenze1995",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Piazza_della_signoria%2C_palazzo_vecchio%2C_veduta_01.jpg/1280px-Piazza_della_signoria%2C_palazzo_vecchio%2C_veduta_01.jpg?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "copyright": "CC BY-SA 4.0, Sailko, https://commons.wikimedia.org/wiki/File:Piazza_della_signoria,_palazzo_vecchio,_veduta_01.jpg",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -36,8 +54,13 @@
       "date": "2026-06-03T12:15:40.584787",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-10T18:17:35.728703",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "contained_by_ensemble": {}
 }

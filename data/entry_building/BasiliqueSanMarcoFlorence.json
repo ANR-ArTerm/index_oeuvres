@@ -1,0 +1,56 @@
+{
+  "id": "BasiliqueSanMarcoFlorence",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1152774",
+  "entry_type": "building",
+  "title": "Basilique de San Marco",
+  "creator": [
+    {
+      "xml_id": "Michelozzo",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": "XIIe-XVIIIe siècles"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "nicolettiBasilicaDiSan1991",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Firenze%2C_san_marco%2C_facciata_02.jpg/1280px-Firenze%2C_san_marco%2C_facciata_02.jpg?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "storage": "online",
+      "copyright": "CC BY 3.0, Sailko, https://commons.wikimedia.org/wiki/File:Firenze,_san_marco,_facciata_02.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-10T19:05:28.702259",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "basilique",
+  "contained_by_ensemble": {}
+}

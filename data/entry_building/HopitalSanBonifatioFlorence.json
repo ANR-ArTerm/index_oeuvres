@@ -1,0 +1,55 @@
+{
+  "id": "HopitalSanBonifatioFlorence",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3886594",
+  "entry_type": "building",
+  "title": "Hôpital de Saint Bonifazio",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1377,
+    "endYear": 1386,
+    "text": "1377-1386"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "zandriSpedaleDiMesser1989",
+      "location": ""
+    },
+    {
+      "zotero_key": "zandriBonifazioSanGallo1988",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ospedale_bonifacio%2C_veduta_01.jpg/1920px-Ospedale_bonifacio%2C_veduta_01.jpg?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "storage": "online",
+      "copyright": "CC BY 3.0, Sailko, https://commons.wikimedia.org/wiki/File:Ospedale_bonifacio,_veduta_01.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-10T19:33:20.005360",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Hopital",
+  "contained_by_ensemble": {}
+}

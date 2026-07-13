@@ -53,5 +53,6 @@
     "link_type": "appartient à l'ensemble",
     "xml_id_work": "RaphaelLogesVatican"
   },
-  "status_entry": 1
+  "status_entry": 1,
+  "typology": "Peinture"
 }
