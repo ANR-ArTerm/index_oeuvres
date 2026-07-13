@@ -1,0 +1,68 @@
+{
+  "id": "PlaceSantissimaAnnunziata",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q866192",
+  "entry_type": "building",
+  "title": "Place de la Santissima Annunziata",
+  "creator": [
+    {
+      "xml_id": "Brunelleschi",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "AntonioManetti",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "AntonioDaSangalloIl Vecchio",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "BaccioDAgnolo",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1419,
+    "endYear": 1643,
+    "text": "1419-1643"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "fanelliPiazzaSantissimaAnnunziata2005",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Piazza_SS_Annunziata_Firenze_Apr_2008.jpg",
+      "storage": "online",
+      "copyright": "CC BY-SA 3.0, MenkinAlRire, https://commons.wikimedia.org/wiki/File:Piazza_SS_Annunziata_Firenze_Apr_2008.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-13T16:43:52.292665",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Place",
+  "contained_by_ensemble": {}
+}
