@@ -1,0 +1,68 @@
+{
+  "id": "PeinturesFraBartolomeoSantissimaAnnunziata",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3945921 ; https://www.wikidata.org/wiki/Q3802365 ; https://www.wikidata.org/wiki/Q3764872",
+  "entry_type": "artwork",
+  "title": "Salvator Mundi; Isaïe; Job",
+  "creator": [
+    {
+      "xml_id": "FraBartolomeo",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1514,
+    "endYear": 1516,
+    "text": "1514-1516"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "ChapelleBilliSantissimaAnnunziata"
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "padovaniEtaDiSavonarola1996",
+      "location": "pp. 114-122"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Fra_bartolomeo_03_Christ_with_the_Four_Evangelists.jpg/960px-Fra_bartolomeo_03_Christ_with_the_Four_Evangelists.jpg?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": ""
+    },
+    {
+      "id": 1,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Fra_bartolommeo%2C_isaia.jpg",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": "Isaïe"
+    },
+    {
+      "id": 2,
+      "url": "",
+      "storage": "",
+      "copyright": "",
+      "caption": "Job"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-13T18:12:31.450886",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Peinture",
+  "materialsAndTechniques": "tempera sur bois",
+  "contained_by_ensemble": {}
+}
