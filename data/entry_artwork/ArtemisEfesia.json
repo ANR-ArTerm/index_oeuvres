@@ -1,0 +1,44 @@
+{
+  "id": "ArtemisEfesia",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q50307591",
+  "entry_type": "artwork",
+  "title": "Artémis d'Éphèse",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": "VIIIe-VIIe siècles av. J.-C."
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "thierschArtemisEphesiaArchaeologische1972",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Artemis_of_Ephesus_MAN_Napoli_Inv6278.jpg/960px-Artemis_of_Ephesus_MAN_Napoli_Inv6278.jpg?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "storage": "online",
+      "copyright": "CC BY 2.5, Jastrow, https://chatgpt.com/c/6a54c044-3d10-83eb-8ed6-e7631965ba23",
+      "caption": "Copie romaine, IIe siècle, Naples, Musée de Capodimonte"
+    }
+  ],
+  "description": "Perdu. ",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-13T12:51:42.578500",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Sculpture",
+  "materialsAndTechniques": "albâtre",
+  "contained_by_ensemble": {}
+}
