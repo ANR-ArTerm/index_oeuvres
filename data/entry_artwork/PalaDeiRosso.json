@@ -1,0 +1,55 @@
+{
+  "id": "PalaDeiRosso",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3889199",
+  "entry_type": "artwork",
+  "title": "Pala Dei",
+  "creator": [
+    {
+      "xml_id": "RossoFiorentino",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1522,
+    "endYear": 1522,
+    "text": "1522"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "GalleriaPalatina",
+      "place": "Florence",
+      "inventory_number": "Inventario Palatina n. 237.",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "nataliAndreaSartoCatalogo1989",
+      "location": "pp. 90-91"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Rosso%2C_pala_dei.jpg?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-13T18:36:26.156211",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Peinture",
+  "materialsAndTechniques": "huile sur bois",
+  "contained_by_ensemble": {}
+}
