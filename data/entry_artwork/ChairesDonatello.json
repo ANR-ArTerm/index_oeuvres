@@ -1,0 +1,62 @@
+{
+  "id": "ChairesDonatello",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3825329 ; https://www.wikidata.org/wiki/Q15141480",
+  "entry_type": "artwork",
+  "title": "Chaires de la Passion et de la Résurrection",
+  "creator": [
+    {
+      "xml_id": "Donatello",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1460,
+    "endYear": 1460,
+    "text": "post 1460"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Basilique San Lorenzo",
+      "place": "Florence",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "mazzoniLultimoDonatelloPulpiti2022",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Donatello_e_bottega%2C_pulpito_della_passione%2C_post_1460%2C_assemblato_dopo_il_1515%2C_07.jpg/960px-Donatello_e_bottega%2C_pulpito_della_passione%2C_post_1460%2C_assemblato_dopo_il_1515%2C_07.jpg?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "storage": "online",
+      "copyright": "CC BY-SA 4.0, Saliko, https://commons.wikimedia.org/wiki/File:Donatello_e_bottega,_pulpito_della_passione,_post_1460,_assemblato_dopo_il_1515,_07.jpg",
+      "caption": "Chaire de la Passion"
+    },
+    {
+      "id": 1,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Donatello_e_bottega%2C_pulpito_della_resurrezione%2C_post_1460%2C_assemblato_dopo_il_1515%2C_02.jpg/960px-Donatello_e_bottega%2C_pulpito_della_resurrezione%2C_post_1460%2C_assemblato_dopo_il_1515%2C_02.jpg?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "storage": "online",
+      "copyright": "CC BY-SA 4.0, Saliko, https://commons.wikimedia.org/wiki/File:Donatello_e_bottega,_pulpito_della_resurrezione,_post_1460,_assemblato_dopo_il_1515,_02.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-13T15:43:03.287986",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Sculpture",
+  "materialsAndTechniques": "sculpture en bronze",
+  "contained_by_ensemble": {}
+}
