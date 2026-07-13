@@ -50,10 +50,15 @@
       "date": "2026-07-13T16:23:11.293397",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-13T16:34:12.401125",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "status_entry": 0,
   "typology": "Sculpture",
-  "materialsAndTechniques": "Sculpture en marbre",
+  "materialsAndTechniques": "terre cuite",
   "contained_by_ensemble": {}
 }
