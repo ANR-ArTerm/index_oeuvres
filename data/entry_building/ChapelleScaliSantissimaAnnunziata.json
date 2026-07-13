@@ -1,0 +1,53 @@
+{
+  "id": "ChapelleScaliSantissimaAnnunziata",
+  "QID_wikidata": "",
+  "entry_type": "building",
+  "title": "Chapelle Scali",
+  "creator": [
+    {
+      "xml_id": "Passignano",
+      "role": "architecte et peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": 1605,
+    "text": "XVe siècle-1605"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "BasiliqueSantissimaAnnunziataFlorence"
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "bertoncinisabatiniBasilicaSantissimaAnnunziata2014",
+      "location": "pp. 62-63"
+    }
+  ],
+  "illustrations": [],
+  "description": "En 1595, la chapelle Scali est passée sous le patronage de la famille Brunaccini et est aujourd'hui connue sous le nom de chapelle de l'aveugle de naissance.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-13T17:11:41.287248",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 2,
+  "typology": "Chapelle",
+  "contained_by_ensemble": {}
+}
