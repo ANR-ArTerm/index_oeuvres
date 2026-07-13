@@ -1,0 +1,55 @@
+{
+  "id": "DepositionPontormo",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3705703",
+  "entry_type": "artwork",
+  "title": "Déposition",
+  "creator": [
+    {
+      "xml_id": "Pontormo",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1526,
+    "endYear": 1528,
+    "text": "1526-1528"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "EgliseSantaFelicita",
+      "place": "Florence",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "bertiPontormoSuoTempo1993",
+      "location": "pp. 243-249"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Jacopo_Pontormo_-_Kreuzabnahme_Christi.jpg/960px-Jacopo_Pontormo_-_Kreuzabnahme_Christi.jpg",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-13T18:19:34.195579",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Peinture",
+  "materialsAndTechniques": "tempera sur bois",
+  "contained_by_ensemble": {}
+}
