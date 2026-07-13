@@ -1,0 +1,64 @@
+{
+  "id": "EgliseOrsanMicheleFlorence",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q860816",
+  "entry_type": "building",
+  "title": "Église d'Orsanmichele",
+  "creator": [
+    {
+      "xml_id": "SimoneTalenti",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "NeriDiFioravante",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "BenciDiCioneDami",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1337,
+    "endYear": 1406,
+    "text": "1337-1406"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "zervasOrsanmicheleFirenze11996",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/La_chiesa_di_Orsanmichele%2C_detta_anticamente_anche_chiesa_di_San_Michele_in_Orto.jpg/960px-La_chiesa_di_Orsanmichele%2C_detta_anticamente_anche_chiesa_di_San_Michele_in_Orto.jpg?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "storage": "online",
+      "copyright": "CC BY-SA 4.0, Guido Castelli66, https://commons.wikimedia.org/wiki/File:La_chiesa_di_Orsanmichele,_detta_anticamente_anche_chiesa_di_San_Michele_in_Orto.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-13T14:10:14.153592",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "église",
+  "contained_by_ensemble": {}
+}
