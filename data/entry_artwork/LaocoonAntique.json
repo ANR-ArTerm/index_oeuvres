@@ -18,9 +18,9 @@
     }
   ],
   "dateCreated": {
-    "startYear": -40,
+    "startYear": 150,
     "endYear": -40,
-    "text": "40 av. J.-C."
+    "text": ""
   },
   "location": {
     "type": "holding_institution",
@@ -42,7 +42,7 @@
       "caption": ""
     }
   ],
-  "description": "L'œuvre originale est perdue, aussi on ne la connaît que par sa copie romaine.",
+  "description": "",
   "commentary": "",
   "history": [
     {
@@ -69,6 +69,11 @@
       "date": "2026-06-18T09:30:31.735031",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-13T13:40:40.820984",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "materialsAndTechniques": "Sculpture en marbre",
