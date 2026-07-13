@@ -1,0 +1,61 @@
+{
+  "id": "ChapelleBilliSantissimaAnnunziata",
+  "QID_wikidata": "",
+  "entry_type": "building",
+  "title": "Chapelle Billi",
+  "creator": [
+    {
+      "xml_id": "PieroDiJacopoRosselli",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1486,
+    "endYear": 1516,
+    "text": "1486-1516 ca."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "BasiliqueSantissimaAnnunziataFlorence"
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "bertoncinisabatiniBasilicaSantissimaAnnunziata2014",
+      "location": "p. 76"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Cappella_del_salvatore%2C_03.jpg/1280px-Cappella_del_salvatore%2C_03.jpg?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "storage": "online",
+      "copyright": "CC BY 3.0, Sailko, https://commons.wikimedia.org/wiki/File:Cappella_del_salvatore,_03.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "La chapelle Billi est aujourd'hui connue sous le nom de chapelle du Sauveur.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-13T17:45:25.161139",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Chapelle",
+  "contained_by_ensemble": {}
+}
