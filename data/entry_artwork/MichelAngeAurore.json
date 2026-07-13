@@ -1,0 +1,64 @@
+{
+  "id": "MichelAngeAurore",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q596683",
+  "entry_type": "artwork",
+  "title": "Aurore",
+  "creator": [
+    {
+      "xml_id": "MichelAnge",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1524,
+    "endYear": 1527,
+    "text": "1524-1527"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Basilique San Lorenzo",
+      "place": "Florence",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "MichelAngeTombeauLaurentIIMedicis"
+    },
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "SagrestiaNuovaFlorence"
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "zoellnerMichelangeloVollstaendigeWerk2014",
+      "location": "p. 430"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Tomba_di_lorenzo_de%27_medici%2C_1531%2C_aurora_02.jpg/1920px-Tomba_di_lorenzo_de%27_medici%2C_1531%2C_aurora_02.jpg?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "storage": "online",
+      "copyright": "CC BY-SA 4.0, Sailko, https://commons.wikimedia.org/wiki/File:Tomba_di_lorenzo_de%27_medici,_1531,_aurora_02.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-13T15:58:16.480819",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Sculpture",
+  "materialsAndTechniques": "Sculpture en marbre",
+  "contained_by_ensemble": {}
+}
