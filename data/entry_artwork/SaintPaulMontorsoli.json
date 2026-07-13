@@ -1,0 +1,55 @@
+{
+  "id": "SaintPaulMontorsoli",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Saint Paul",
+  "creator": [
+    {
+      "xml_id": "GiovanniAngeloMontorsoli",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1535,
+    "endYear": 1536,
+    "text": "1535-1536"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "BasiliqueSantissimaAnnunziata",
+      "place": "Florence",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "ircanimenichiniLinfinitoAmoreAlle2013",
+      "location": "p. 224"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Giovanni_angelo_da_montorsoli%2C_san_paolo_%28vita_attiva%29%2C_1535-1536%2C_in_terracotta_dipinta_01.jpg/960px-Giovanni_angelo_da_montorsoli%2C_san_paolo_%28vita_attiva%29%2C_1535-1536%2C_in_terracotta_dipinta_01.jpg?utm_source=it.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+      "storage": "online",
+      "copyright": "Creative Commons 4.0, Saliko, https://it.wikipedia.org/wiki/File:Giovanni_angelo_da_montorsoli,_san_paolo_%28vita_attiva%29,_1535-1536,_in_terracotta_dipinta_01.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-13T16:33:50.848642",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Sculpture",
+  "materialsAndTechniques": null,
+  "contained_by_ensemble": {}
+}
