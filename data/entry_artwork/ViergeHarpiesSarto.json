@@ -28,6 +28,10 @@
     {
       "zotero_key": "nataliAndreaSartoCatalogo1989",
       "location": "pp. 74-75"
+    },
+    {
+      "zotero_key": "falcianiPontormoRossoFiorentino2014",
+      "location": "pp. 76-77"
     }
   ],
   "illustrations": [
@@ -45,6 +49,11 @@
     {
       "date": "2026-07-13T18:23:18.465722",
       "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-07-13T18:37:45.510546",
+      "type": "modified",
       "author": "Elisa"
     }
   ],
