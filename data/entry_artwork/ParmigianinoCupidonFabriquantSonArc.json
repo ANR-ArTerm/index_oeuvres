@@ -1,0 +1,55 @@
+{
+  "id": "ParmigianinoCupidonFabriquantSonArc",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q892604",
+  "entry_type": "artwork",
+  "title": "Cupidon fabriquant son arc",
+  "creator": [
+    {
+      "xml_id": "Parmigianino",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1534,
+    "endYear": 1539,
+    "text": "1534-1539"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "KunstHistorischesMuseum",
+      "place": "Vienne",
+      "inventory_number": "275",
+      "url": "https://www.khm.at/en/artworks/bow-carving-amor-1411"
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "fornarischianchiParmigianinoManierismoEuropeo2003",
+      "location": "pp. 234-235"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Francesco_Mazzola_gen._Parmigianino%2C_Kunsthistorisches_Museum_Wien%2C_Gemäldegalerie_-_Bogenschnitzender_Amor_-_GG_275_-_Kunsthistorisches_Museum.jpg/960px-Francesco_Mazzola_gen._Parmigianino%2C_Kunsthistorisches_Museum_Wien%2C_Gemäldegalerie_-_Bogenschnitzender_Amor_-_GG_275_-_Kunsthistorisches_Museum.jpg?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-13T17:59:43.965383",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Peinture",
+  "materialsAndTechniques": "huile sur bois",
+  "contained_by_ensemble": {}
+}
