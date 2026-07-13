@@ -26,8 +26,12 @@
   "related_works": [],
   "bibliography": [
     {
-      "zotero_key": "nataliAndreaSartoCatalogo1989",
+      "zotero_key": "ciardiRossoFiorentinoCatalogo1991",
       "location": "pp. 90-91"
+    },
+    {
+      "zotero_key": "ciattiPalaRossoFiorentino2005",
+      "location": ""
     }
   ],
   "illustrations": [
@@ -45,6 +49,11 @@
     {
       "date": "2026-07-13T18:36:26.156211",
       "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-07-13T18:40:25.340843",
+      "type": "modified",
       "author": "Elisa"
     }
   ],
