@@ -1,0 +1,60 @@
+{
+  "id": "VillaMediceaPoggioCaiano",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q733389",
+  "entry_type": "building",
+  "title": "Villa  Médicéenne de Poggio a Caiano",
+  "creator": [
+    {
+      "xml_id": "GiulianoDaSangallo",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1470,
+    "endYear": 1520,
+    "text": "1470-1520"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "PoggioACaiano",
+      "country": "Florence",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "vaccaroVillaMediceaDi2000",
+      "location": ""
+    },
+    {
+      "zotero_key": "belluzziVillaDiPoggio2017",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Villa_di_Poggio_a_Caiano%2C1.JPG/1920px-Villa_di_Poggio_a_Caiano%2C1.JPG?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "storage": "online",
+      "copyright": "CC BY-SA 3.0, Mongolo1984, https://commons.wikimedia.org/wiki/File:Villa_di_Poggio_a_Caiano,1.JPG",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-17T15:49:49.106266",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Villa",
+  "contained_by_ensemble": {}
+}
