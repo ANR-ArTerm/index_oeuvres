@@ -1,0 +1,63 @@
+{
+  "id": "BandinelliHerculeEtCacus",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3731230",
+  "entry_type": "artwork",
+  "title": "Hercule et Cacus",
+  "creator": [
+    {
+      "xml_id": "BaccioBandinelli",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1530,
+    "endYear": 1534,
+    "text": "1530-1534"
+  },
+  "location": {
+    "type": "place",
+    "institution": {
+      "name": null,
+      "place": null,
+      "inventory_number": "",
+      "url": ""
+    },
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "franciniErcoleCacoDi1999",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Baccio_bandinelli%2C_ercole_e_caco_01.JPG/960px-Baccio_bandinelli%2C_ercole_e_caco_01.JPG?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "storage": "online",
+      "copyright": "CC BY-SA 3.0, Sailko, https://commons.wikimedia.org/wiki/File:Baccio_bandinelli,_ercole_e_caco_01.JPG",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-17T18:37:39.903644",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Sculpture",
+  "materialsAndTechniques": "Sculpture en marbre",
+  "contained_by_ensemble": {}
+}
