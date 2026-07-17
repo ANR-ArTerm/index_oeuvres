@@ -1,0 +1,55 @@
+{
+  "id": "BacchusSansovino",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3632505",
+  "entry_type": "artwork",
+  "title": "Bacchus",
+  "creator": [
+    {
+      "xml_id": "JacopoSansovino",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1515,
+    "endYear": 1515,
+    "text": "1515"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Musée national du Bargello",
+      "place": "Florence",
+      "inventory_number": "Inv. Bargello Sculture 120",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "galloIacopoSansovinoBacco1986",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bacchus_by_Jacopo_Sansovino.jpg/960px-Bacchus_by_Jacopo_Sansovino.jpg?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "storage": "online",
+      "copyright": "CC BY-SA 4.0, Yair-haklai, https://commons.wikimedia.org/wiki/File:Bacchus_by_Jacopo_Sansovino.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-17T18:23:43.518728",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Sculpture",
+  "materialsAndTechniques": "Sculpture en marbre",
+  "contained_by_ensemble": {}
+}
