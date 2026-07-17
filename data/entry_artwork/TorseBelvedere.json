@@ -1,0 +1,55 @@
+{
+  "id": "TorseBelvedere",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2551806",
+  "entry_type": "artwork",
+  "title": "Torse du Belvédère",
+  "creator": [
+    {
+      "xml_id": "ApollonioDeAtene",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": "Ie siècle av. J.-C."
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Vatican, Musées du Vatican",
+      "place": "Vatican",
+      "inventory_number": "1192",
+      "url": "https://www.museivaticani.va/content/museivaticani/it/collezioni/musei/museo-pio-clementino/sala-delle-muse/torso-del-belvedere.html"
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "wunscheTorsoBelvedereAiace1998",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Torso_Belvedere_01.jpg",
+      "storage": "online",
+      "copyright": "CC BY-SA 3.0, Fb78, https://commons.wikimedia.org/wiki/File:Torso_Belvedere_01.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-17T17:28:37.256311",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Sculpture",
+  "materialsAndTechniques": "Sculpture en marbre",
+  "contained_by_ensemble": {}
+}
