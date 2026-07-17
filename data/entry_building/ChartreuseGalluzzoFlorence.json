@@ -1,0 +1,51 @@
+{
+  "id": "ChartreuseGalluzzoFlorence",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1056344",
+  "entry_type": "building",
+  "title": "Chartreuse de Galluzzo",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1341,
+    "endYear": null,
+    "text": "1341-XVIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Galluzzo",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "chiarelliCertosaGalluzzoFirenze1982",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Certosa_del_Galluzzo_-_Overview_from_Le_Gore.jpg",
+      "storage": "online",
+      "copyright": "CC BY-SA 3.0, Cyberuly, https://commons.wikimedia.org/wiki/File:Certosa_del_Galluzzo_-_Overview_from_Le_Gore.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-17T16:31:12.980314",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "chartreuse",
+  "contained_by_ensemble": {}
+}
