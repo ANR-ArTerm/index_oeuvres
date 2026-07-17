@@ -1,0 +1,59 @@
+{
+  "id": "MeleagreVatican",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q16933120",
+  "entry_type": "artwork",
+  "title": "Méléagre",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": "IIe siècle"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Vatican, Musée Pio-Clementino",
+      "place": "Vatican",
+      "inventory_number": "490",
+      "url": "https://www.museivaticani.va/content/museivaticani/it/collezioni/musei/museo-pio-clementino/sala-degli-animali/meleagro.html"
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "amelungSculpturenVaticanischenMuseums",
+      "location": "pp. 33-36"
+    },
+    {
+      "zotero_key": "spinolaMuseoPioClementino1996",
+      "location": "p. 137"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Meleagro%2C_II_sec.%2C_da_modello_attribuito_a_Skopas_del_IV_sec._a.C._Musei_Vaticani_-FG.jpg/960px-Meleagro%2C_II_sec.%2C_da_modello_attribuito_a_Skopas_del_IV_sec._a.C._Musei_Vaticani_-FG.jpg?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "storage": "online",
+      "copyright": "CC0, Fabrizio Garrisi, https://commons.wikimedia.org/wiki/File:Meleagro,_II_sec.,_da_modello_attribuito_a_Skopas_del_IV_sec._a.C._Musei_Vaticani_-FG.jpg",
+      "caption": "Copie romaine d'après Skopas"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-06T16:47:57.869796",
+      "type": "created",
+      "author": "Julia"
+    },
+    {
+      "date": "2026-07-17T17:09:11.625026",
+      "type": "modified",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Sculpture",
+  "materialsAndTechniques": "Sculpture en marbre",
+  "contained_by_ensemble": {}
+}
