@@ -1,0 +1,56 @@
+{
+  "id": "BasiliqueSantaMariaSopraMinerva",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q823685",
+  "entry_type": "building",
+  "title": "Basilique de la Minerve",
+  "creator": [
+    {
+      "xml_id": "CarloMaderno",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1280,
+    "endYear": 1725,
+    "text": "1280-1725"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "borsiSantaMariaSopra1990",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Santa_Maria_sopra_Minerva.jpg/1920px-Santa_Maria_sopra_Minerva.jpg?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "storage": "online",
+      "copyright": "CC BY-SA 4.0, Merulana, https://commons.wikimedia.org/wiki/File:Santa_Maria_sopra_Minerva.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-17T16:38:45.824828",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "basilique",
+  "contained_by_ensemble": {}
+}
