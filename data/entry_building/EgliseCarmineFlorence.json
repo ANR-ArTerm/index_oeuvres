@@ -1,0 +1,51 @@
+{
+  "id": "EgliseCarmineFlorence",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1042634",
+  "entry_type": "building",
+  "title": "Basilique de Santa Maria del Carmine",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1268,
+    "endYear": 1782,
+    "text": "1268-1782"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "bertiChiesaDiSanta1992",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Piazza_del_Carmine%2C_veduta_sulla_chiesa_del_carmine.jpg/1920px-Piazza_del_Carmine%2C_veduta_sulla_chiesa_del_carmine.jpg?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "storage": "online",
+      "copyright": "CC BY-SA 4.0, Sailko, https://commons.wikimedia.org/wiki/File:Piazza_del_Carmine,_veduta_sulla_chiesa_del_carmine.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-17T15:39:48.210805",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "basilique",
+  "contained_by_ensemble": {}
+}
