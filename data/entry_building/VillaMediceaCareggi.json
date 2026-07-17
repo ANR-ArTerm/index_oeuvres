@@ -1,0 +1,56 @@
+{
+  "id": "VillaMediceaCareggi",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q368346",
+  "entry_type": "building",
+  "title": "Villa Medicea de Careggi",
+  "creator": [
+    {
+      "xml_id": "Michelozzo",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1417,
+    "endYear": 1459,
+    "text": "1417-1459"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Careggi",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "zangheriVillaMediceaDi2006",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Villa_di_careggi_11.JPG/1920px-Villa_di_careggi_11.JPG?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "storage": "online",
+      "copyright": "CC BY-SA 3.0, Sailko, https://commons.wikimedia.org/wiki/File:Villa_di_careggi_11.JPG",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-17T16:22:05.687511",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Villa",
+  "contained_by_ensemble": {}
+}
