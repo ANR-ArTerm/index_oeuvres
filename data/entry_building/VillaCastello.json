@@ -1,0 +1,60 @@
+{
+  "id": "VillaCastello",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2094778",
+  "entry_type": "building",
+  "title": "Villa Medicea de Castello",
+  "creator": [
+    {
+      "xml_id": "NiccoloTribolo",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "GiorgioVasari",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": 1595,
+    "text": "XIVe siècle-1595"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Castello",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "belluzziVillaDiPoggio2017",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Villa_Castello_Florence_3.jpg",
+      "storage": "online",
+      "copyright": "CC BY-SA 3.0, Gothika, https://commons.wikimedia.org/wiki/File:Villa_Castello_Florence_3.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-17T16:10:29.960694",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Villa",
+  "contained_by_ensemble": {}
+}
