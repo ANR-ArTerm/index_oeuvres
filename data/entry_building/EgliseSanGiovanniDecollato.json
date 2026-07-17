@@ -1,0 +1,60 @@
+{
+  "id": "EgliseSanGiovanniDecollato",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1255741",
+  "entry_type": "building",
+  "title": "Église de San Giovanni Decollato",
+  "creator": [
+    {
+      "xml_id": "GiovanniBattistaDaSangallo",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1490,
+    "endYear": 1588,
+    "text": "1490-1588"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "antoniGiovanniBattistaSangallo2018",
+      "location": ""
+    },
+    {
+      "zotero_key": "SanGiovanniDecollato",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/San_Giovanni_Decollato_-_esterno.jpg/1280px-San_Giovanni_Decollato_-_esterno.jpg",
+      "storage": "online",
+      "copyright": "CC BY 4.0, DellaGherardesca, https://commons.wikimedia.org/wiki/File:San_Giovanni_Decollato_-_esterno.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-17T16:49:36.708952",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "église",
+  "contained_by_ensemble": {}
+}
