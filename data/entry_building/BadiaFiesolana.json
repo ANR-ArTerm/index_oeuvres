@@ -1,0 +1,51 @@
+{
+  "id": "BadiaFiesolana",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3632776",
+  "entry_type": "building",
+  "title": "Abbaye des chanoines reguliers de Fiesole",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1025,
+    "endYear": 1467,
+    "text": "1025-1467"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Fiesole",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "borsiBadiaFiesolana1976",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Badia_fiesolana%2C_facciata_01.JPG/960px-Badia_fiesolana%2C_facciata_01.JPG?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "storage": "online",
+      "copyright": "CC BY 2.5, Sailko, https://commons.wikimedia.org/wiki/File:Badia_fiesolana,_facciata_01.JPG",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-17T16:26:22.636020",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Badia",
+  "contained_by_ensemble": {}
+}
