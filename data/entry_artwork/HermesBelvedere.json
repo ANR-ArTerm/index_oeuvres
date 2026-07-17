@@ -1,0 +1,54 @@
+{
+  "id": "HermesBelvedere",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2070542",
+  "entry_type": "artwork",
+  "title": "Antinoüs du Belvédère",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": "Ie siècle"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Vatican, Musées du Vatican",
+      "place": "Vatican",
+      "inventory_number": "907",
+      "url": "https://www.museivaticani.va/content/museivaticani/it/collezioni/musei/museo-pio-clementino/Cortile-Ottagono/hermes-del-belvedere.html"
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "amelungSculpturenVaticanischenMuseums",
+      "location": "vol. II, p. 85"
+    },
+    {
+      "zotero_key": "spinolaMuseoPioClementino21999",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hermes_Pio-Clementino_Inv907_n5.jpg/960px-Hermes_Pio-Clementino_Inv907_n5.jpg?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "storage": "online",
+      "copyright": "CC BY 3.0, Jastrow, https://commons.wikimedia.org/wiki/File:Hermes_Pio-Clementino_Inv907_n5.jpg",
+      "caption": "Copie romaine d'après l'école de Prassitele"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-17T17:39:32.931747",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Sculpture",
+  "materialsAndTechniques": "Sculpture en marbre",
+  "contained_by_ensemble": {}
+}
