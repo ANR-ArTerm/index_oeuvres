@@ -1,13 +1,18 @@
 {
   "id": "VilladelPrincipeGenes",
-  "QID_wikidata": "",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3558847",
   "entry_type": "building",
   "title": "Villa del Principe ou palazzo di Andrea Doria",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "PerinDelVaga ",
+      "role": "architecte"
+    }
+  ],
   "dateCreated": {
-    "startYear": 1530,
-    "endYear": 1530,
-    "text": "Vers 1530"
+    "startYear": 1529,
+    "endYear": 1533,
+    "text": "1529-1533"
   },
   "location": {
     "type": "place",
@@ -21,7 +26,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "stagnoPalazzoPrincipeVilla2005",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -53,9 +63,14 @@
       "date": "2026-06-09T16:12:17.348157",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-17T15:45:33.936562",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "Palais",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
