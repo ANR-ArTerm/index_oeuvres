@@ -1,0 +1,54 @@
+{
+  "id": "ChevauxSaintMarcVenise",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1994701",
+  "entry_type": "artwork",
+  "title": "Chevaux de Saint-Marc",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": "II-III siècles"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "BasiliqueSanMarco",
+      "place": "Venise",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "peroccoCavalliDiMarco1982",
+      "location": ""
+    },
+    {
+      "zotero_key": "jacoffHorsesSanMarco1993",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Horses_of_Basilica_San_Marco_bright.jpg/1920px-Horses_of_Basilica_San_Marco_bright.jpg?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-17T16:56:35.017688",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Sculpture",
+  "materialsAndTechniques": "sculpture en bronze",
+  "contained_by_ensemble": {}
+}
