@@ -1,0 +1,51 @@
+{
+  "id": "CouventSanFrancescoMacciFlorence",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3001634",
+  "entry_type": "building",
+  "title": "Couvent de San Francesco de' Macci",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1335,
+    "endYear": null,
+    "text": "1335-XVIIIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "artusiAntichiOspedaliDi2000",
+      "location": "pp. 81-86"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Via_de%27_macci_11%2C_portale_dell%27oratorio_di_san_francesco_de%27_macci%2C_01.jpg/500px-Via_de%27_macci_11%2C_portale_dell%27oratorio_di_san_francesco_de%27_macci%2C_01.jpg?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "storage": "online",
+      "copyright": "CC BY 3.0, Sailko, https://commons.wikimedia.org/wiki/File:Via_de%27_macci_11,_portale_dell%27oratorio_di_san_francesco_de%27_macci,_01.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-17T15:32:32.028450",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "couvent",
+  "contained_by_ensemble": {}
+}
