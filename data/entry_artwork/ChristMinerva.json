@@ -23,7 +23,12 @@
       "url": ""
     }
   },
-  "related_works": [],
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "BasiliqueSantaMariaSopraMinerva"
+    }
+  ],
   "bibliography": [
     {
       "zotero_key": "zoellnerMichelangeloVollstaendigeWerk2014",
@@ -45,6 +50,11 @@
     {
       "date": "2026-07-13T19:00:58.279765",
       "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-07-17T16:39:12.892712",
+      "type": "modified",
       "author": "Elisa"
     }
   ],
