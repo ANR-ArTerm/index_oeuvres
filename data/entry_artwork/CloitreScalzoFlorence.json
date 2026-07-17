@@ -1,0 +1,63 @@
+{
+  "id": "CloitreScalzoFlorence",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2979780",
+  "entry_type": "artwork",
+  "title": "Cloître du Scalzo",
+  "creator": [
+    {
+      "xml_id": "AndreaDelSarto",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1509,
+    "endYear": 1526,
+    "text": "1509-1526"
+  },
+  "location": {
+    "type": "place",
+    "institution": {
+      "name": null,
+      "place": null,
+      "inventory_number": "",
+      "url": ""
+    },
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "protopisaniChiostroScalzo1995",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Chiostro_dello_scalzo%2C_aa%2C_veduta_01.JPG/1920px-Chiostro_dello_scalzo%2C_aa%2C_veduta_01.JPG?utm_source=it.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+      "storage": "online",
+      "copyright": " CC 3.0, Sailko, https://it.wikipedia.org/wiki/File:Chiostro_dello_scalzo,_aa,_veduta_01.JPG",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-17T15:15:06.590561",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Peinture",
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {}
+}
