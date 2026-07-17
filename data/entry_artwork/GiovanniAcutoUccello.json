@@ -1,0 +1,60 @@
+{
+  "id": "GiovanniAcutoUccello",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2604153",
+  "entry_type": "artwork",
+  "title": "Monument équestre de Jean Haccoude",
+  "creator": [
+    {
+      "xml_id": "PaoloUccello",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1436,
+    "endYear": 1436,
+    "text": "1436"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Cathédrale Santa Maria del Fiore",
+      "place": "Florence",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "CathedraleSantaMariaDelFioreFlorence"
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "fabbriSpadaMemoriaGiovanni2024",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/John_Hawkwood_fresco_by_Paolo_Uccello.jpg",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-17T18:17:05.109464",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Peinture",
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {}
+}
