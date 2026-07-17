@@ -1,0 +1,51 @@
+{
+  "id": "OratoireSanSebastianoBini",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3884762",
+  "entry_type": "building",
+  "title": "Oratoire de San Sebastiano de' Bini",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1490,
+    "endYear": 1525,
+    "text": "1490-1525"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "pedoneOratorioDiSan2002",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Oratorio_dei_bini%2C_esterno_01.JPG/960px-Oratorio_dei_bini%2C_esterno_01.JPG?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "storage": "online",
+      "copyright": "CC BY 2.5, Sailko, https://commons.wikimedia.org/wiki/File:Oratorio_dei_bini,_esterno_01.JPG",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-17T15:36:41.089752",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Oratoire",
+  "contained_by_ensemble": {}
+}
