@@ -1,0 +1,56 @@
+{
+  "id": "EgliseSanBartolomeoMonteOlivetoFlorence",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3669552",
+  "entry_type": "building",
+  "title": "Église San Bartolomeo à Monte Oliveto",
+  "creator": [
+    {
+      "xml_id": "Michelozzo",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1334,
+    "endYear": 1472,
+    "text": "1334-1472"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "DiMonteolivetoChiese",
+      "location": "pp. 13-97"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/San_bartolomeo_a_monteoliveto%2C_esterno%2C_05.jpg/1280px-San_bartolomeo_a_monteoliveto%2C_esterno%2C_05.jpg?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "storage": "online",
+      "copyright": "CC BY-SA 4.0, Sailko, https://commons.wikimedia.org/wiki/File:San_bartolomeo_a_monteoliveto,_esterno,_05.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-17T15:27:34.745976",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "église",
+  "contained_by_ensemble": {}
+}
