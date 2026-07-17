@@ -1,0 +1,67 @@
+{
+  "id": "DecollageBattistaDanti",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Décollage de Saint Jean-Baptiste",
+  "creator": [
+    {
+      "xml_id": "VincenzoDanti",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1569,
+    "endYear": 1571,
+    "text": "1569-1571"
+  },
+  "location": {
+    "type": "holding_institution",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    },
+    "institution": {
+      "name": "Museo dell'Opera del Duomo",
+      "place": "Florence",
+      "inventory_number": "Inventario 2005 dell'Opera 922-924",
+      "url": "https://duomo.firenze.it/it/scopri/museo-dell-opera-del-duomo/le-sale/sala-del-paradiso/9003/vincenzo-danti-decollazione-del-battista"
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "campigliAnimaForzaNella2008",
+      "location": ""
+    },
+    {
+      "zotero_key": "davisGrandiBronziBattistero2008",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Vincenzo_danti%2C_gruppo_della_decollazione_del_battista%2C_1569-71%2C_dal_battistero_01.JPG/1920px-Vincenzo_danti%2C_gruppo_della_decollazione_del_battista%2C_1569-71%2C_dal_battistero_01.JPG?_=20160412151053",
+      "storage": "online",
+      "copyright": "Creative Commons Attribution 3.0 Unported, Sailko, https://commons.wikimedia.org/wiki/File:Vincenzo_danti,_gruppo_della_decollazione_del_battista,_1569-71,_dal_battistero_01.JPG",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-17T18:44:15.837410",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Sculpture",
+  "materialsAndTechniques": "sculpture en bronze",
+  "contained_by_ensemble": {}
+}
