@@ -1,0 +1,67 @@
+{
+  "id": "Salle100Giorni",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q7403335",
+  "entry_type": "artwork",
+  "title": "Sala dei Cento Giorni",
+  "creator": [
+    {
+      "xml_id": "GiorgioVasari",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1547,
+    "endYear": 1547,
+    "text": "1547"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Palazzo della Cancelleria",
+      "place": "Rome",
+      "inventory_number": "",
+      "url": ""
+    },
+    "place": {
+      "city": null,
+      "country": null,
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "degirolamicheneyGiorgioVasarisSala1995",
+      "location": ""
+    },
+    {
+      "zotero_key": "FresquesGiorgioVasari",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Sala_dei_Cento_Giorni_-_Giorgio_Vasari_-_1547_-_Palazzo_della_Cancelleria_2.jpg/960px-Sala_dei_Cento_Giorni_-_Giorgio_Vasari_-_1547_-_Palazzo_della_Cancelleria_2.jpg",
+      "storage": "online",
+      "copyright": "Creative Commons Attribution-Share Alike 3.0, Gradiva, https://commons.wikimedia.org/wiki/File:Sala_dei_Cento_Giorni_-_Giorgio_Vasari_-_1547_-_Palazzo_della_Cancelleria_2.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-17T18:58:55.966559",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Peinture",
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {}
+}
