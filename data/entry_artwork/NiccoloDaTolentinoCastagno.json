@@ -1,0 +1,60 @@
+{
+  "id": "NiccoloDaTolentinoCastagno",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3862683",
+  "entry_type": "artwork",
+  "title": "Monument équestre à Niccolò da Tolentino",
+  "creator": [
+    {
+      "xml_id": "AndreaDelCastagno",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1456,
+    "endYear": 1456,
+    "text": "1456"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Cathédrale Santa Maria del Fiore",
+      "place": "Florence",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "CathedraleSantaMariaDelFioreFlorence"
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "fabbriSpadaMemoriaGiovanni2024",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Andrea_del_castagno%2C_Monumento_equestre_di_Niccolò_da_Tolentino%2C_1456%2C_01.JPG/960px-Andrea_del_castagno%2C_Monumento_equestre_di_Niccolò_da_Tolentino%2C_1456%2C_01.JPG?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "storage": "online",
+      "copyright": "CC BY 3.0, Sailko, https://commons.wikimedia.org/wiki/File:Andrea_del_castagno,_Monumento_equestre_di_Niccolò_da_Tolentino,_1456,_01.JPG",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-17T18:19:55.952784",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Peinture",
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {}
+}
