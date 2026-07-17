@@ -1,0 +1,54 @@
+{
+  "id": "ApollonBelvedere",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q619135",
+  "entry_type": "artwork",
+  "title": "Apollon du Belvédère",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 120,
+    "endYear": 140,
+    "text": "120-140"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Vatican, Musées du Vatican",
+      "place": "Vatican",
+      "inventory_number": "1015",
+      "url": "https://www.museivaticani.va/content/museivaticani/it/collezioni/musei/museo-pio-clementino/Cortile-Ottagono/apollo-del-belvedere.html"
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "amelungSculpturenVaticanischenMuseums",
+      "location": "pp. 256–263"
+    },
+    {
+      "zotero_key": "bibliothequenationaleInventaireFondsFrancais17V1968",
+      "location": "pp. 69–71"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Apollo_of_the_Belvedere.jpg/960px-Apollo_of_the_Belvedere.jpg?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "storage": "online",
+      "copyright": "CC BY-SA 4.0, Livioandronico2013, https://commons.wikimedia.org/wiki/File:Apollo_of_the_Belvedere.jpg",
+      "caption": "Copie romaine de Leocare"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-17T17:21:26.219741",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Sculpture",
+  "materialsAndTechniques": "Sculpture en marbre",
+  "contained_by_ensemble": {}
+}
