@@ -1,0 +1,60 @@
+{
+  "id": "FlagellationPiombo",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Flagellation",
+  "creator": [
+    {
+      "xml_id": "SebastianoDelPiombo",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1516,
+    "endYear": 1524,
+    "text": "1516–1524"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Église San Pietro in Montorio",
+      "place": "Rome",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "EgliseSanPietroinMontorio"
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "arroyoestebanSebastianoPiomboCappella2010",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/San_Pietro_in_Montorio%3B_Geisselung_%28Sebastiano_del_Piombo%29.jpg/960px-San_Pietro_in_Montorio%3B_Geisselung_%28Sebastiano_del_Piombo%29.jpg",
+      "storage": "online",
+      "copyright": "Creative Commons Attribution-Share Alike 4.0, Peter1936F, https://commons.wikimedia.org/wiki/File:San_Pietro_in_Montorio;_Geisselung_(Sebastiano_del_Piombo).jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-17T18:32:36.009367",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Peinture",
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {}
+}
