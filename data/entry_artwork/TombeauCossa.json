@@ -27,7 +27,12 @@
       "url": ""
     }
   },
-  "related_works": [],
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "BaptistereSaintJeanFlorence"
+    }
+  ],
   "bibliography": [
     {
       "zotero_key": "cagliotiDonatelloRinascimento2022",
@@ -49,6 +54,11 @@
     {
       "date": "2026-07-18T18:27:59.667810",
       "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-07-18T18:30:00.011479",
+      "type": "modified",
       "author": "Elisa"
     }
   ],
