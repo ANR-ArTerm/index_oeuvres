@@ -1,0 +1,44 @@
+{
+  "id": "DurerSaintJeromeEtude",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1198912",
+  "entry_type": "artwork",
+  "title": "Saint Jérôme dans sa cellule",
+  "creator": [
+    {
+      "xml_id": "AlbrechtDurer",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1514,
+    "endYear": 1514,
+    "text": "1514"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Dürer-Hieronymus-im-Gehäus.jpg/1280px-Dürer-Hieronymus-im-Gehäus.jpg?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-18T17:12:18.977465",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 1,
+  "typology": "Estampe",
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {}
+}
