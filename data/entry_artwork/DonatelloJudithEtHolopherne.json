@@ -1,0 +1,50 @@
+{
+  "id": "DonatelloJudithEtHolopherne",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1246440",
+  "entry_type": "artwork",
+  "title": "Judith et Holopherne",
+  "creator": [
+    {
+      "xml_id": "Donatello",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1453,
+    "endYear": 1457,
+    "text": "1453-1457"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Palazzo Vecchio",
+      "place": "Florence",
+      "inventory_number": "Catalogo delle cose d'arte, n. 980",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sala_dei_gigli%2C_giuditta_e_oloferne_01.JPG/960px-Sala_dei_gigli%2C_giuditta_e_oloferne_01.JPG?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "storage": "online",
+      "copyright": "CC BY 2.5, MenkinAlRire, https://commons.wikimedia.org/wiki/File:Sala_dei_gigli,_giuditta_e_oloferne_01.JPG",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-18T16:41:20.874426",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 1,
+  "typology": "Sculpture",
+  "materialsAndTechniques": "sculpture en bronze",
+  "contained_by_ensemble": {}
+}
