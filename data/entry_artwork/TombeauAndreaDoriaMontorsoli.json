@@ -1,0 +1,42 @@
+{
+  "id": "TombeauAndreaDoriaMontorsoli",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Tombeau de Andrea Doria",
+  "creator": [
+    {
+      "xml_id": "GiovanniAngeloMontorsoli",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1543,
+    "endYear": 1547,
+    "text": "1543-1547"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "EgliseSanMatteo",
+      "place": "Genes",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-18T18:43:01.742268",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 2,
+  "typology": "tombeau",
+  "materialsAndTechniques": "Sculpture en marbre",
+  "contained_by_ensemble": {}
+}
