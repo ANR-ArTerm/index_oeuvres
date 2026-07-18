@@ -1,0 +1,50 @@
+{
+  "id": "OrpheeBandinelli",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Orphée",
+  "creator": [
+    {
+      "xml_id": "BaccioBandinelli",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1516,
+    "endYear": 1517,
+    "text": "vers 1516-1517"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Palazzo Medici Riccardi",
+      "place": "Florence",
+      "inventory_number": "CODICE DI CATALOGO NAZIONALE 0900290709",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bandinelli_Orfeo.JPG/960px-Bandinelli_Orfeo.JPG",
+      "storage": "online",
+      "copyright": "Creative Commons Attribution-Share Alike 4.0, Miguel Hermoso Cuesta, https://commons.wikimedia.org/wiki/File:Bandinelli_Orfeo.JPG ",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-18T17:34:44.807971",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 1,
+  "typology": "Sculpture",
+  "materialsAndTechniques": "Sculpture en marbre",
+  "contained_by_ensemble": {}
+}
