@@ -1,0 +1,48 @@
+{
+  "id": "MartyreSaintLaurentBandinelli",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Martyre de Saint Laurent",
+  "creator": [
+    {
+      "xml_id": "BaccioBandinelli",
+      "role": "auteur du modèle"
+    },
+    {
+      "xml_id": "MarcantonioRaimondi",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1525,
+    "endYear": 1525,
+    "text": "vers 1525"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Martirio_di_San_Lorenzo._Marcantonio_Raimondi-Bartolomeo_Bandinelli_detto_Baccio._XVI_secolo.jpg/960px-Martirio_di_San_Lorenzo._Marcantonio_Raimondi-Bartolomeo_Bandinelli_detto_Baccio._XVI_secolo.jpg",
+      "storage": "online",
+      "copyright": "Creative Commons Attribution-Share Alike 4.0, Argonitros, https://commons.wikimedia.org/wiki/File:Martirio_di_San_Lorenzo._Marcantonio_Raimondi-Bartolomeo_Bandinelli_detto_Baccio._XVI_secolo.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-18T17:24:24.027238",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 1,
+  "typology": "Estampe",
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {}
+}
