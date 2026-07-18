@@ -19,7 +19,7 @@
     "institution": {
       "name": "Palazzo Medici Riccardi",
       "place": "Florence",
-      "inventory_number": "CODICE DI CATALOGO NAZIONALE 0900290709",
+      "inventory_number": "Code de Catalogue Nationale  0900290709",
       "url": ""
     }
   },
@@ -40,6 +40,11 @@
     {
       "date": "2026-07-18T17:34:44.807971",
       "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-07-18T17:35:32.364661",
+      "type": "modified",
       "author": "Elisa"
     }
   ],
