@@ -1,0 +1,48 @@
+{
+  "id": "MassacreInnocentsBandinelli",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Massacre des Innocents",
+  "creator": [
+    {
+      "xml_id": "MarcoDaRavenna",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "BaccioBandinelli",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1520,
+    "endYear": 1527,
+    "text": "1520 - 1527"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Marco_dente_da_ravenna_da_baccio_bandinelli%2C_strage_degli_innocenti%2C_1519-20_ca._%28GDSU%29.jpg/960px-Marco_dente_da_ravenna_da_baccio_bandinelli%2C_strage_degli_innocenti%2C_1519-20_ca._%28GDSU%29.jpg",
+      "storage": "online",
+      "copyright": "Creative Commons Attribution-Share Alike 4.0, Francesco Bini, https://commons.wikimedia.org/wiki/File:Marco_dente_da_ravenna_da_baccio_bandinelli,_strage_degli_innocenti,_1519-20_ca._(GDSU).jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-18T17:27:51.556720",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 1,
+  "typology": "Estampe",
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {}
+}
