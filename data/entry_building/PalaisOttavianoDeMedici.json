@@ -1,0 +1,56 @@
+{
+  "id": "PalaisOttavianoDeMedici",
+  "QID_wikidata": "https://it.wikipedia.org/wiki/Palazzo_di_Bernardetto_de%27_Medici",
+  "entry_type": "building",
+  "title": "Palais de Bernardetto de' Medici",
+  "creator": [
+    {
+      "xml_id": null,
+      "role": null
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": "XIV secolo- ?"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "paoliniCavourStradaFirenze2011",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Palazzo_di_bernardetto_de_medici.jpg/960px-Palazzo_di_bernardetto_de_medici.jpg?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "storage": "online",
+      "copyright": "CC BY-SA 4.0, Sailko, https://commons.wikimedia.org/wiki/File:Palazzo_di_bernardetto_de_medici.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-18T18:48:58.163455",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 1,
+  "typology": "Palais",
+  "contained_by_ensemble": {}
+}
