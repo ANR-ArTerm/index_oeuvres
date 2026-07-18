@@ -1,0 +1,55 @@
+{
+  "id": "FresquesSanGiovanniDecollatoSalviati",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Épisodes de la vie de Saint Jean-Baptiste",
+  "creator": [
+    {
+      "xml_id": "FrancescoSalviati",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1538,
+    "endYear": 1553,
+    "text": "1538-1553"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "EgliseSanGiovanniDecollato",
+      "place": "Rome",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "EgliseSanGiovanniDecollato"
+    }
+  ],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Francesco_salviati%2C_visitazione.jpg?utm_source=it.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": "Épisode de la Visitation"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-18T18:33:48.097643",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 1,
+  "typology": "Peinture",
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {}
+}
