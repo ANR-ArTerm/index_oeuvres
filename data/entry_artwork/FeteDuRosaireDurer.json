@@ -1,0 +1,50 @@
+{
+  "id": "FeteDuRosaireDurer",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1170194",
+  "entry_type": "artwork",
+  "title": "La Vièrge de la fête du Rosaire",
+  "creator": [
+    {
+      "xml_id": "AlbrechtDurer",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1506,
+    "endYear": 1506,
+    "text": "1506"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Národní Galerie",
+      "place": "Prague",
+      "inventory_number": "O 1552",
+      "url": "https://www.ngprague.cz/udalost/3252/umelecke-dilo-a-jeho-pamet-kratke-komentovane-prohlidky-v-expozici-stari-mistri-albrecht-durer-ruzencova-slavnost-1506"
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Albrecht_Dürer_099.jpg/1920px-Albrecht_Dürer_099.jpg?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-18T17:06:36.185157",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 1,
+  "typology": "Peinture",
+  "materialsAndTechniques": "huile sur bois",
+  "contained_by_ensemble": {}
+}
