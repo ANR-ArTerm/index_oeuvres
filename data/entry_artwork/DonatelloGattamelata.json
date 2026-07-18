@@ -1,0 +1,58 @@
+{
+  "id": "DonatelloGattamelata",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q771017",
+  "entry_type": "artwork",
+  "title": "Monument équestre à Gattamelata",
+  "creator": [
+    {
+      "xml_id": "Donatello",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1445,
+    "endYear": 1453,
+    "text": "1445 - 1453"
+  },
+  "location": {
+    "type": "place",
+    "institution": {
+      "name": null,
+      "place": null,
+      "inventory_number": "",
+      "url": ""
+    },
+    "place": {
+      "city": "Padoue",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Gattamelata.jpg?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-18T16:45:42.899187",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 1,
+  "typology": "Sculpture",
+  "materialsAndTechniques": "sculpture en bronze",
+  "contained_by_ensemble": {}
+}
