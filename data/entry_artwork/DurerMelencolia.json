@@ -1,5 +1,5 @@
 {
-  "id": "DurerMelancolia",
+  "id": "DurerMelencolia",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q1362177",
   "entry_type": "artwork",
   "title": "Melencolia I",
@@ -22,9 +22,9 @@
   "illustrations": [
     {
       "id": 0,
-      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/336228/770914/main-image",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Dürer_Melancholia_I.jpg/1280px-Dürer_Melancholia_I.jpg?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "storage": "online",
-      "copyright": "MET Museum, inv. 43.106.1, https://www.metmuseum.org/fr/art/collection/search/336228",
+      "copyright": "Public domain",
       "caption": ""
     }
   ],
@@ -45,9 +45,14 @@
       "date": "2026-06-17T11:28:56.041875",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-18T17:15:58.113967",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "materialsAndTechniques": "burin",
+  "materialsAndTechniques": "gravure",
   "contained_by_ensemble": {},
   "status_entry": 1,
   "typology": "Estampe"
