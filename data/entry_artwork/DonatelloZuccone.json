@@ -1,8 +1,8 @@
 {
   "id": "DonatelloZuccone",
-  "QID_wikidata": "",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1636061",
   "entry_type": "artwork",
-  "title": "Prophète dit \"Zuccone\"",
+  "title": "Abacuc, dit \"Zuccone\"",
   "creator": [
     {
       "xml_id": "Donatello",
@@ -10,9 +10,9 @@
     }
   ],
   "dateCreated": {
-    "startYear": 1434,
-    "endYear": 1436,
-    "text": "1434-1436"
+    "startYear": 1423,
+    "endYear": 1435,
+    "text": "1423-1435"
   },
   "location": {
     "type": "holding_institution",
@@ -51,6 +51,11 @@
       "date": "2026-07-01T15:45:29.125049",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-18T16:38:15.684872",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "status_entry": 1,
