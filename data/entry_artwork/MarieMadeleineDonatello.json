@@ -1,0 +1,50 @@
+{
+  "id": "MarieMadeleineDonatello",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3275776",
+  "entry_type": "artwork",
+  "title": "Madeleine",
+  "creator": [
+    {
+      "xml_id": "Donatello",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1453,
+    "endYear": 1455,
+    "text": "1453-1455"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Museo dell'Opera del Duomo",
+      "place": "Florence",
+      "inventory_number": "Inventario 2005 dell'Opera 360",
+      "url": "https://duomo.firenze.it/it/scopri/museo-dell-opera-del-duomo/le-sale/sala-della-maddalena/8620/donatello-maddalena"
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Firenze_-_Museo_Opera_del_Duomo%2C_Maddalena.jpg/960px-Firenze_-_Museo_Opera_del_Duomo%2C_Maddalena.jpg?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "storage": "online",
+      "copyright": "CC BY-SA 4.0, Luca Aless, https://commons.wikimedia.org/wiki/File:Firenze_-_Museo_Opera_del_Duomo,_Maddalena.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-18T16:49:55.141188",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 1,
+  "typology": "Sculpture",
+  "materialsAndTechniques": "bois",
+  "contained_by_ensemble": {}
+}
