@@ -1,0 +1,48 @@
+{
+  "id": "SaintPaulVico",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Conversion de saint Paul",
+  "creator": [
+    {
+      "xml_id": "EneaVico",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "FrancescoSalviati",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1545,
+    "endYear": 1545,
+    "text": "post 1545"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "",
+      "storage": "online",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-18T18:19:55.367484",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 1,
+  "typology": "Estampe",
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {}
+}
