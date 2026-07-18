@@ -1,0 +1,59 @@
+{
+  "id": "TombeauCossa",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2280593",
+  "entry_type": "artwork",
+  "title": "Tombeau de l'antipape Jean XXIII",
+  "creator": [
+    {
+      "xml_id": "Donatello",
+      "role": "sculpteur"
+    },
+    {
+      "xml_id": "Michelozzo",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1426,
+    "endYear": 1426,
+    "text": "vers 1426"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Baptistère Saint-Jean-Baptiste",
+      "place": "Florence",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "cagliotiDonatelloRinascimento2022",
+      "location": "pp. 46–49"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Grabmaljohannes13.jpg/960px-Grabmaljohannes13.jpg",
+      "storage": "online",
+      "copyright": "CC BY-SA 3.0, MenkinAlRire, https://commons.wikimedia.org/wiki/File:Grabmaljohannes13.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-18T18:27:59.667810",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "tombeau",
+  "materialsAndTechniques": "sculpture en marbre et bronze",
+  "contained_by_ensemble": {}
+}
