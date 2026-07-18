@@ -1,0 +1,104 @@
+{
+  "id": "EvangelistesPorteNord",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3908938",
+  "entry_type": "artwork",
+  "title": "Evangelistes de la porte nord du baptistère de Florence",
+  "creator": [
+    {
+      "xml_id": "LorenzoGhiberti",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1401,
+    "endYear": 1424,
+    "text": "1401-1424"
+  },
+  "location": {
+    "type": "place",
+    "institution": {
+      "name": null,
+      "place": null,
+      "inventory_number": "",
+      "url": ""
+    },
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "PortesBaptistereSaintJeanFlorence"
+    },
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "BaptistereSaintJeanFlorence"
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "paolucciPorteBattisteroDi1996",
+      "location": ""
+    },
+    {
+      "zotero_key": "verdonPorteBattisteroFiorentino2014",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lorenzo_ghiberti_e_aiuti%2C_porta_nord_del_battistero_di_firenze%2C_01.JPG/960px-Lorenzo_ghiberti_e_aiuti%2C_porta_nord_del_battistero_di_firenze%2C_01.JPG?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "storage": "online",
+      "copyright": "CC BY 3.0, Sailko, https://commons.wikimedia.org/wiki/File:Lorenzo_ghiberti_e_aiuti,_porta_nord_del_battistero_di_firenze,_01.JPG",
+      "caption": ""
+    },
+    {
+      "id": 1,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/21_San_Giovanni_Evangelista2.JPG",
+      "storage": "online",
+      "copyright": "CC BY 2.5, Sailko, https://commons.wikimedia.org/wiki/File:21_San_Giovanni_Evangelista2.JPG",
+      "caption": "Détail avec Saint Jean"
+    },
+    {
+      "id": 2,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/22_san_matteo2.JPG",
+      "storage": "online",
+      "copyright": "CC BY 2.5, Sailko, https://commons.wikimedia.org/wiki/File:22_san_matteo2.JPG",
+      "caption": "Détail avec Saint Mathieu"
+    },
+    {
+      "id": 3,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/23_san_luca3.JPG",
+      "storage": "online",
+      "copyright": "CC BY 2.5, Sailko, https://commons.wikimedia.org/wiki/File:23_san_luca3.JPG",
+      "caption": "Détail avec Saint Luc"
+    },
+    {
+      "id": 4,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/24_san_marco4.JPG",
+      "storage": "online",
+      "copyright": "CC BY 2.5, Sailko, https://commons.wikimedia.org/wiki/File:24_san_marco4.JPG",
+      "caption": "Détail avec Saint Marc"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-18T19:02:06.665588",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Sculpture",
+  "materialsAndTechniques": "sculpture en bronze",
+  "contained_by_ensemble": {}
+}
