@@ -28,7 +28,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": null,
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -44,6 +49,11 @@
     {
       "date": "2026-07-18T18:06:41.535092",
       "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-07-20T19:19:29.767978",
+      "type": "modified",
       "author": "Elisa"
     }
   ],
