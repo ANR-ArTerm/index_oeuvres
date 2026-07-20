@@ -24,7 +24,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "verdonCatalogoMuseoDellOpera2026",
+      "location": "pp. 244-251"
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -41,9 +46,14 @@
       "date": "2026-07-18T16:49:55.141188",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-20T17:04:34.297113",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "typology": "Sculpture",
   "materialsAndTechniques": "bois",
   "contained_by_ensemble": {}
