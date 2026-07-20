@@ -24,7 +24,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "heikampBaccioBandinelliScultore2014",
+      "location": "p. 568"
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -46,9 +51,14 @@
       "date": "2026-07-18T17:35:32.364661",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-20T17:12:35.784806",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "typology": "Sculpture",
   "materialsAndTechniques": "Sculpture en marbre",
   "contained_by_ensemble": {}
