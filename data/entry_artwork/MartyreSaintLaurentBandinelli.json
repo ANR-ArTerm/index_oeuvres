@@ -22,7 +22,12 @@
     "type": "multiple_locations"
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "heikampBaccioBandinelliScultore2014",
+      "location": "pp. 538-539"
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -39,9 +44,14 @@
       "date": "2026-07-18T17:24:24.027238",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-20T17:11:42.249581",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "typology": "Estampe",
   "materialsAndTechniques": "burin",
   "contained_by_ensemble": {}
