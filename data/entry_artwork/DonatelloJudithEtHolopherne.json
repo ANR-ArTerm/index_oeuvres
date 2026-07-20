@@ -24,7 +24,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "cagliotiDonatelloMediciStoria2000",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -41,9 +46,14 @@
       "date": "2026-07-18T16:41:20.874426",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-20T16:39:04.910511",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "typology": "Sculpture",
   "materialsAndTechniques": "sculpture en bronze",
   "contained_by_ensemble": {}
