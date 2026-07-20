@@ -18,7 +18,12 @@
     "type": "multiple_locations"
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "faraInventarioGeneraleStampe2007",
+      "location": "pp. 127-129"
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -50,10 +55,15 @@
       "date": "2026-07-18T17:15:58.113967",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-20T15:52:04.539045",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "materialsAndTechniques": "gravure",
   "contained_by_ensemble": {},
-  "status_entry": 1,
+  "status_entry": 0,
   "typology": "Estampe"
 }
