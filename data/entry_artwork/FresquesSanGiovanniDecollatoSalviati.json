@@ -29,7 +29,12 @@
       "xml_id_work": "EgliseSanGiovanniDecollato"
     }
   ],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "colivaFrancescoSalviatiAffreschi1998",
+      "location": "pp. 41-55"
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -46,9 +51,14 @@
       "date": "2026-07-18T18:33:48.097643",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-20T17:45:29.906732",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "typology": "Peinture",
   "materialsAndTechniques": "fresque",
   "contained_by_ensemble": {}
