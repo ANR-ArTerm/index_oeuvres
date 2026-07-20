@@ -1,0 +1,61 @@
+{
+  "id": "AmourDieuxCaraglio",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Les amours des Dieux",
+  "creator": [
+    {
+      "xml_id": "GiovanniJacopoCaraglio",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "PerinDelVaga",
+      "role": "auteur du modèle"
+    },
+    {
+      "xml_id": "RossoFiorentino",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1526,
+    "endYear": 1526,
+    "text": "vers 1526"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "dunandAmoursDieux21989",
+      "location": ""
+    },
+    {
+      "zotero_key": "dunandAmoursDieux21989a",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "",
+      "storage": "online",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "description": "\"Les amours des dieux\" de Caraglio est une série de 15 gravures à la pointe réalisée vers 1526, d'après des dessins de Rosso Fiorentino et de Perin del Vaga.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-20T18:37:36.613914",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 2,
+  "typology": "Estampe",
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {}
+}
