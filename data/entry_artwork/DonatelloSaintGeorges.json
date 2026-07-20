@@ -24,7 +24,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "cagliotiDonatelloRinascimento2022",
+      "location": "pp. 348-351"
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -51,10 +56,15 @@
       "date": "2026-07-18T16:46:43.426303",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-20T16:30:02.445151",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "materialsAndTechniques": "Sculpture en marbre",
   "contained_by_ensemble": {},
-  "status_entry": 1,
+  "status_entry": 0,
   "typology": "Sculpture"
 }
