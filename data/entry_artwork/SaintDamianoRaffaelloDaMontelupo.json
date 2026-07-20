@@ -30,7 +30,7 @@
   "related_works": [],
   "bibliography": [
     {
-      "zotero_key": null,
+      "zotero_key": "hicksDrawingMichelangeloRaffaello2022",
       "location": ""
     }
   ],
@@ -55,9 +55,14 @@
       "date": "2026-07-20T19:19:29.767978",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-20T19:36:19.158012",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "typology": "Sculpture",
   "materialsAndTechniques": "Sculpture en marbre",
   "contained_by_ensemble": {}
