@@ -1,0 +1,49 @@
+{
+  "id": "DurerPassion",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3377374",
+  "entry_type": "artwork",
+  "title": "Petite Passion",
+  "creator": [
+    {
+      "xml_id": "AlbrechtDurer",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1508,
+    "endYear": 1510,
+    "text": "1508-1510"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "faraInventarioGeneraleStampe2007",
+      "location": "pp. 201-249"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Dürer_-_Small_Passion_title_page.jpg?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": " Frontispice avec l'Homme de douleur"
+    }
+  ],
+  "description": "La Petite Passion est une série de trente-six xylographies plus un frontispice",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-20T15:59:38.656160",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Estampe",
+  "materialsAndTechniques": "xylographie",
+  "contained_by_ensemble": {}
+}
