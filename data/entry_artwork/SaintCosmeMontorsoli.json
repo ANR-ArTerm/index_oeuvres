@@ -28,7 +28,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "laschke-hubertFraGiovanAngelo1993",
+      "location": "pp. 31-33"
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -45,9 +50,14 @@
       "date": "2026-07-18T18:14:25.855810",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-20T19:34:39.379219",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 2,
   "typology": "Sculpture",
   "materialsAndTechniques": "Sculpture en marbre",
   "contained_by_ensemble": {}
