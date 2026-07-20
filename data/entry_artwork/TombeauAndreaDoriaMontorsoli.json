@@ -24,7 +24,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "laschke-hubertFraGiovanAngelo1993",
+      "location": "pp. 76-77"
+    }
+  ],
   "illustrations": [],
   "description": "",
   "commentary": "",
@@ -32,6 +37,11 @@
     {
       "date": "2026-07-18T18:43:01.742268",
       "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-07-20T19:33:22.097805",
+      "type": "modified",
       "author": "Elisa"
     }
   ],
