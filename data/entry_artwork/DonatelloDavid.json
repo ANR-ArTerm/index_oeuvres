@@ -28,6 +28,10 @@
     {
       "zotero_key": "cagliotiDonatelloRinascimento2022",
       "location": "pp. 354-355"
+    },
+    {
+      "zotero_key": "cagliotiDonatelloMediciStoria2000",
+      "location": ""
     }
   ],
   "illustrations": [
@@ -49,6 +53,11 @@
     },
     {
       "date": "2026-07-20T16:30:45.482595",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-07-20T16:39:26.804108",
       "type": "modified",
       "author": "Elisa"
     }
