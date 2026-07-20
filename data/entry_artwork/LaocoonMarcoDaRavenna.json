@@ -25,7 +25,7 @@
   "bibliography": [
     {
       "zotero_key": "imolesipozziMarcoDenteIncisore2008",
-      "location": ""
+      "location": "p. 69"
     }
   ],
   "illustrations": [],
@@ -35,6 +35,11 @@
     {
       "date": "2026-07-17T17:54:59.259353",
       "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-07-20T16:34:30.306842",
+      "type": "modified",
       "author": "Elisa"
     }
   ],
