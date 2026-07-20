@@ -25,8 +25,8 @@
       "location": "vol. II, p. 85"
     },
     {
-      "zotero_key": "spinolaMuseoPioClementino21999",
-      "location": ""
+      "zotero_key": "spinolaMuseoPioClementino11996",
+      "location": "pp.86-87"
     }
   ],
   "illustrations": [
@@ -44,6 +44,11 @@
     {
       "date": "2026-07-17T17:39:32.931747",
       "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-07-20T17:42:51.929757",
+      "type": "modified",
       "author": "Elisa"
     }
   ],
