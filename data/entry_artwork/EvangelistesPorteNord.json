@@ -16,12 +16,6 @@
   },
   "location": {
     "type": "place",
-    "institution": {
-      "name": null,
-      "place": null,
-      "inventory_number": "",
-      "url": ""
-    },
     "place": {
       "city": "Florence",
       "country": "Italie",
@@ -44,7 +38,7 @@
   "bibliography": [
     {
       "zotero_key": "paolucciPorteBattisteroDi1996",
-      "location": ""
+      "location": "pp. 75-120"
     },
     {
       "zotero_key": "verdonPorteBattisteroFiorentino2014",
@@ -94,6 +88,11 @@
     {
       "date": "2026-07-18T19:02:06.665588",
       "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-07-20T18:47:37.037707",
+      "type": "modified",
       "author": "Elisa"
     }
   ],
