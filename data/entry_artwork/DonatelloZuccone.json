@@ -28,6 +28,10 @@
     {
       "zotero_key": "campigliDonatelloPrimoRinascimento2008",
       "location": "pp. 234-239"
+    },
+    {
+      "zotero_key": "verdonCatalogoMuseoDellOpera2026",
+      "location": "pp. 216-219"
     }
   ],
   "illustrations": [
@@ -64,6 +68,11 @@
     },
     {
       "date": "2026-07-20T16:43:15.041392",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-07-20T17:03:50.913810",
       "type": "modified",
       "author": "Elisa"
     }
