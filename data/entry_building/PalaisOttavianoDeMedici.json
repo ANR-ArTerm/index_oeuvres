@@ -29,7 +29,7 @@
   "bibliography": [
     {
       "zotero_key": "paoliniCavourStradaFirenze2011",
-      "location": ""
+      "location": "pp. 72-73"
     }
   ],
   "illustrations": [
@@ -48,9 +48,14 @@
       "date": "2026-07-18T18:48:58.163455",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-20T18:41:52.614309",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "typology": "Palais",
   "contained_by_ensemble": {}
 }
