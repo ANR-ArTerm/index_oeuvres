@@ -24,7 +24,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "luberAlbrechtDurerVenetian2005",
+      "location": "ch. 3"
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -41,9 +46,14 @@
       "date": "2026-07-18T17:06:36.185157",
       "type": "created",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-20T17:06:52.482493",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "typology": "Peinture",
   "materialsAndTechniques": "huile sur bois",
   "contained_by_ensemble": {}
