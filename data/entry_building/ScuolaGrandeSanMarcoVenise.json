@@ -69,9 +69,14 @@
       "date": "2026-07-03T14:48:59.420707",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-21T15:31:25.054393",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "typology": "École",
   "contained_by_ensemble": {}
 }
