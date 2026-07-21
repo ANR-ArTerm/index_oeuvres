@@ -32,9 +32,14 @@
       "date": "2026-07-03T14:41:15.085006",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-21T15:41:58.539526",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "typology": "Porte",
   "contained_by_ensemble": {}
 }
