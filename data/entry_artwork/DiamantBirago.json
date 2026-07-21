@@ -37,9 +37,14 @@
       "date": "2026-06-22T16:09:45.157733",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-21T17:30:33.746609",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "materialsAndTechniques": "gravure au diamant",
   "contained_by_ensemble": {},
   "typology": "Orfèvrerie"
