@@ -62,9 +62,14 @@
       "date": "2026-07-03T16:40:47.893878",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-21T18:40:40.608017",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "jardin",
   "contains_works": [],
-  "status_entry": 1
+  "status_entry": 0
 }
