@@ -50,10 +50,15 @@
       "date": "2026-06-23T17:26:28.434690",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-21T16:57:29.692071",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "materialsAndTechniques": "sculpture chryséléphantine",
   "contained_by_ensemble": {},
-  "status_entry": 1,
+  "status_entry": 0,
   "typology": "Sculpture"
 }
