@@ -5,7 +5,7 @@
   "title": "Mont Sacré de Varallo",
   "creator": [
     {
-      "xml_id": "BernardinoCaim",
+      "xml_id": null,
       "role": "architecte"
     }
   ],
@@ -58,9 +58,14 @@
       "date": "2026-06-15T10:48:23.767167",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-21T15:33:07.556346",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "typology": "église",
   "contained_by_ensemble": {}
 }
