@@ -26,7 +26,7 @@
   "related_works": [],
   "bibliography": [
     {
-      "zotero_key": null,
+      "zotero_key": "peroniDuomoDiPisa1995",
       "location": "vol. I, p. 451; vol. II, p. 364"
     }
   ],
@@ -51,9 +51,14 @@
       "date": "2026-06-23T11:03:22.004425",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-21T16:46:53.259356",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "materialsAndTechniques": "Sculpture en marbre",
   "contained_by_ensemble": {},
   "typology": "Sculpture"
