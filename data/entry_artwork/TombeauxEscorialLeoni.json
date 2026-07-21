@@ -51,9 +51,14 @@
       "date": "2026-07-10T11:37:30.447347",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-21T16:54:32.213584",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "materialsAndTechniques": "sculpture en bronze",
   "contained_by_ensemble": {},
   "typology": "Sculpture"
