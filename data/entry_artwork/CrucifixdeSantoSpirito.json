@@ -55,9 +55,14 @@
       "date": "2026-06-10T16:23:35.207150",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-21T17:27:28.359102",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "materialsAndTechniques": "sculpture en bois",
   "contained_by_ensemble": {},
   "typology": "Sculpture"
