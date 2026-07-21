@@ -26,7 +26,7 @@
   "related_works": [
     {
       "link_type": "appartient au même ensemble",
-      "xml_id_work": null
+      "xml_id_work": "SagrestiaNuovaFlorence"
     }
   ],
   "bibliography": [
@@ -65,13 +65,15 @@
       "date": "2026-06-22T17:29:03.040164",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-21T16:52:45.807672",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "materialsAndTechniques": "Sculpture en marbre",
-  "contained_by_ensemble": {
-    "link_type": "appartient à l'ensemble",
-    "xml_id_work": "SagrestiaNuovaFlorence"
-  },
-  "status_entry": 1,
+  "contained_by_ensemble": {},
+  "status_entry": 0,
   "typology": "Sculpture"
 }
