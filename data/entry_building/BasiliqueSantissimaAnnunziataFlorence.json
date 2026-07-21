@@ -83,9 +83,14 @@
       "date": "2026-06-01T10:46:27.028641",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-07-21T16:28:14.817462",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "basilique",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
