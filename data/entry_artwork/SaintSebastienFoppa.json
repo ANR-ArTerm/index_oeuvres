@@ -26,7 +26,7 @@
   "related_works": [],
   "bibliography": [
     {
-      "zotero_key": null,
+      "zotero_key": "lauberMilanoPinacotecaDi2012",
       "location": "pp. 204-205"
     }
   ],
@@ -51,9 +51,14 @@
       "date": "2026-07-10T17:54:03.253816",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-21T17:13:31.821247",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "materialsAndTechniques": "fresque",
   "contained_by_ensemble": {},
   "typology": "Peinture"
