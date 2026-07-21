@@ -58,9 +58,14 @@
       "date": "2026-06-17T16:20:49.856001",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-21T18:24:01.098768",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "materialsAndTechniques": "cristal de roche, jaspe et pierres précieuses",
   "contained_by_ensemble": {},
   "typology": "Orfèvrerie"
