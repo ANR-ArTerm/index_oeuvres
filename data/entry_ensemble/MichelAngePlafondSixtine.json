@@ -76,6 +76,11 @@
       "date": "2026-07-03T16:42:17.223175",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-21T18:40:16.494027",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "ensemble décoratif",
@@ -86,5 +91,5 @@
       "link_types_contained": null
     }
   ],
-  "status_entry": 1
+  "status_entry": 0
 }
