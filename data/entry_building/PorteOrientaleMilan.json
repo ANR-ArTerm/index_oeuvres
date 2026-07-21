@@ -53,9 +53,14 @@
       "date": "2026-06-22T15:59:01.827962",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-21T15:34:02.132609",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "typology": "Porte",
   "contained_by_ensemble": {}
 }
