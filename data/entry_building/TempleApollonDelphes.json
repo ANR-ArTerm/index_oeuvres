@@ -52,14 +52,20 @@
     {
       "date": "2026-06-09T09:45:05.475264",
       "type": "modified",
-      "author": "Jules"},
+      "author": "Jules"
+    },
     {
       "date": "2026-06-09T11:33:16.142701",
       "type": "modified",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-07-21T15:40:59.748359",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "monument imaginaire ou disparu",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
