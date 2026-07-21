@@ -60,9 +60,14 @@
       "date": "2026-06-09T11:40:55.540391",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-21T15:40:38.359074",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "Temple",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
