@@ -56,9 +56,14 @@
       "date": "2026-07-03T15:41:50.815232",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-21T17:00:39.346517",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "materialsAndTechniques": "Tempera et huile sur bois",
   "contained_by_ensemble": {},
   "typology": "Peinture"
