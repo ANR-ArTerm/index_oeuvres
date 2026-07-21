@@ -61,6 +61,11 @@
       "date": "2026-06-30T10:59:27.149069",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-21T17:15:04.755050",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "materialsAndTechniques": "fresque",
@@ -68,6 +73,6 @@
     "link_type": "appartient à l'ensemble",
     "xml_id_work": "LoggiaPsyche"
   },
-  "status_entry": 1,
+  "status_entry": 0,
   "typology": "Peinture"
 }
