@@ -80,9 +80,14 @@
       "date": "2026-06-23T16:02:23.234046",
       "type": "modified",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-07-21T15:32:47.431524",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "Palais",
-  "status_entry": 1,
+  "status_entry": 0,
   "contained_by_ensemble": {}
 }
