@@ -5,7 +5,7 @@
   "title": "Église Santa Maria delle Grazie (Milan)",
   "creator": [
     {
-      "xml_id": "GuiniforteSolari",
+      "xml_id": null,
       "role": "architecte"
     },
     {
@@ -67,8 +67,13 @@
       "date": "2026-06-11T16:19:20.086875",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-21T15:36:17.731827",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "contained_by_ensemble": {}
 }
