@@ -88,8 +88,13 @@
       "date": "2026-06-30T17:50:00.743455",
       "type": "modified",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-07-21T15:49:34.589546",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "contained_by_ensemble": {}
 }
