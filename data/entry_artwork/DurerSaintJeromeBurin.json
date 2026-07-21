@@ -51,10 +51,15 @@
       "date": "2026-07-21T18:33:57.363637",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-21T18:34:17.291913",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "materialsAndTechniques": "burin",
   "contained_by_ensemble": {},
-  "status_entry": 0,
+  "status_entry": 1,
   "typology": "Estampe"
 }
