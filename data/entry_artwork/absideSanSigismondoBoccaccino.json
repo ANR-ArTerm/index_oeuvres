@@ -65,9 +65,14 @@
       "date": "2026-07-01T15:09:53.979510",
       "type": "modified",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-07-21T17:25:31.113047",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "materialsAndTechniques": "fresque",
   "contained_by_ensemble": {},
   "typology": "Peinture"
