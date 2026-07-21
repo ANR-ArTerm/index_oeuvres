@@ -53,9 +53,14 @@
       "date": "2026-07-03T15:38:43.788802",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-21T16:56:54.115682",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "materialsAndTechniques": "sculpture en marbre et bronze",
   "contained_by_ensemble": {},
   "typology": "Sculpture"
