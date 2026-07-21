@@ -27,7 +27,7 @@
   "related_works": [
     {
       "link_type": "fait partie de",
-      "xml_id_work": "SainteMariePaixRome"
+      "xml_id_work": "EgliseSainteMariePaixRome"
     }
   ],
   "bibliography": [
@@ -67,9 +67,14 @@
       "date": "2026-06-30T11:56:19.981043",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-21T16:30:48.409663",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "contained_by_ensemble": {},
-  "status_entry": 1,
+  "status_entry": 0,
   "typology": "Peinture"
 }
