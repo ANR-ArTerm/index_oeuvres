@@ -52,10 +52,15 @@
       "date": "2026-06-24T14:11:24.842140",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-21T17:11:19.220456",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "materialsAndTechniques": "fresque",
-  "status_entry": 1,
+  "status_entry": 0,
   "contained_by_ensemble": {},
   "typology": "Peinture"
 }
