@@ -70,9 +70,14 @@
       "date": "2026-06-02T17:38:55.075724",
       "type": "modified",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-07-21T16:29:32.812342",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "monastère",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
