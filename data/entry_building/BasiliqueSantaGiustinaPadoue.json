@@ -69,9 +69,14 @@
       "date": "2026-07-03T13:27:01.238657",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-21T15:29:36.418125",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "typology": "basilique",
   "contained_by_ensemble": {}
 }
