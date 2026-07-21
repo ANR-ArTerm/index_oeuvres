@@ -45,9 +45,14 @@
       "date": "2026-06-15T16:54:13.697544",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-21T18:37:39.251330",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "materialsAndTechniques": "burin",
   "contained_by_ensemble": {},
   "typology": "Estampe"
