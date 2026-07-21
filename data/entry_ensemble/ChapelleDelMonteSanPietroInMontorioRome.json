@@ -83,9 +83,14 @@
       "date": "2026-07-06T11:11:14.342626",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-21T18:42:40.693701",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "chapelle",
   "contains_works": [],
-  "status_entry": 1
+  "status_entry": 0
 }
