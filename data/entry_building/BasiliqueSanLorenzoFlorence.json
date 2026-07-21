@@ -95,9 +95,14 @@
       "date": "2026-06-02T14:56:36.365336",
       "type": "modified",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-07-21T15:43:32.292808",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "basilique",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
