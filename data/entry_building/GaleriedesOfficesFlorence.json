@@ -57,9 +57,14 @@
       "date": "2026-06-01T16:00:48.204887",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-21T15:49:01.660624",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "typology": "galerie",
   "contained_by_ensemble": {}
 }
