@@ -65,9 +65,14 @@
       "date": "2026-07-03T13:33:01.053787",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-21T15:47:43.905763",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "typology": "cathédrale",
   "contained_by_ensemble": {}
 }
