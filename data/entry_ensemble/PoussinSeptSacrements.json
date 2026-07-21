@@ -113,6 +113,11 @@
       "date": "2026-07-03T16:31:46.245673",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-21T18:43:01.908542",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "cycle de peintures",
@@ -123,5 +128,5 @@
       "link_types_contained": null
     }
   ],
-  "status_entry": 1
+  "status_entry": 0
 }
