@@ -54,9 +54,14 @@
       "date": "2026-06-24T15:31:51.252244",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-21T17:01:34.403102",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "materialsAndTechniques": "gravure sur bois",
   "contained_by_ensemble": {},
   "typology": "Estampe"
