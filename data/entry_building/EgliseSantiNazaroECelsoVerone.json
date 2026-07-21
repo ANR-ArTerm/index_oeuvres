@@ -48,9 +48,14 @@
       "date": "2026-07-03T14:27:04.610868",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-21T16:26:59.317506",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "typology": "église",
   "contained_by_ensemble": {}
 }
