@@ -77,10 +77,15 @@
       "date": "2026-07-06T11:56:37.571476",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-21T17:28:10.694348",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "materialsAndTechniques": "Sculpture en marbre",
   "contained_by_ensemble": {},
-  "status_entry": 1,
+  "status_entry": 0,
   "typology": "Sculpture"
 }
