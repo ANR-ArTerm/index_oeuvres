@@ -63,9 +63,14 @@
       "date": "2026-06-02T17:46:38.411148",
       "type": "modified",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-07-21T15:37:36.315011",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "Hopital",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
