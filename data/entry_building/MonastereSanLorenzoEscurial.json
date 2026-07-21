@@ -5,7 +5,7 @@
   "title": "Monastère royal de San Lorenzo de El Escorial",
   "creator": [
     {
-      "xml_id": "JuanBautistaDeToledo",
+      "xml_id": null,
       "role": "architecte"
     },
     {
@@ -72,9 +72,14 @@
       "date": "2026-06-10T19:18:53.913181",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-21T15:48:38.691147",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": null,
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
