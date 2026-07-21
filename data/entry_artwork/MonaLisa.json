@@ -12,7 +12,7 @@
   "dateCreated": {
     "startYear": 1503,
     "endYear": 1517,
-    "text": "1503-15à6 ou 1513-1516 jusqu'à 1517"
+    "text": "1503-1516 ou 1513-1516 jusqu'à 1517"
   },
   "location": {
     "type": "holding_institution",
@@ -56,9 +56,14 @@
       "date": "2026-06-23T10:38:18.697689",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-21T17:23:33.574234",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "materialsAndTechniques": "huile sur bois",
   "contained_by_ensemble": {},
   "typology": "Peinture"
