@@ -69,9 +69,14 @@
       "date": "2026-06-29T15:57:15.410849",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-21T17:11:00.729874",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "contained_by_ensemble": {},
-  "status_entry": 1,
+  "status_entry": 0,
   "typology": "Estampe"
 }
