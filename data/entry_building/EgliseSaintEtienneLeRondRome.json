@@ -21,7 +21,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "steinerSantoStefanoRotondo1996",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -43,9 +48,14 @@
       "date": "2026-06-01T11:29:11.729455",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-22T15:09:55.944206",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "église",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
