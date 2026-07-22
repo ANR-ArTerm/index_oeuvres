@@ -22,7 +22,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "balfourSolomonsTempleMyth2012",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -76,8 +81,13 @@
       "date": "2026-06-10T16:50:35.174401",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-22T16:02:54.006674",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
