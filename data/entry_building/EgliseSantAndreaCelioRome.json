@@ -3,16 +3,11 @@
   "QID_wikidata": "https://www.wikidata.org/wiki/Q3884778",
   "entry_type": "building",
   "title": "Oratoire Sant'Andrea al Celio",
-  "creator": [
-    {
-      "xml_id": "FlaminioPonzio",
-      "role": "architecte"
-    }
-  ],
+  "creator": [],
   "dateCreated": {
     "startYear": 1602,
-    "endYear": 1602,
-    "text": "XVIIème (???-1602)"
+    "endYear": 1608,
+    "text": "1602-1608"
   },
   "location": {
     "type": "place",
@@ -25,13 +20,17 @@
       }
     }
   },
-  "related_works": [
+  "related_works": [],
+  "bibliography": [
     {
-      "link_type": "fait partie de",
-      "xml_id_work": "EgliseSanGregorioCelioRome"
+      "zotero_key": "moschiniGregorioCelio1926",
+      "location": ""
+    },
+    {
+      "zotero_key": "cardillialloisiMontiCelio2000",
+      "location": "pp. 1131-1132"
     }
   ],
-  "bibliography": [],
   "illustrations": [
     {
       "id": 0,
@@ -41,7 +40,7 @@
       "caption": ""
     }
   ],
-  "description": "",
+  "description": "L'oratoire remonte aux XIIe/XIIIe siècles",
   "commentary": "",
   "history": [
     {
@@ -58,9 +57,14 @@
       "date": "2026-06-01T14:39:23.042314",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-22T16:32:30.854673",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "typology": "église",
+  "typology": "Oratoire",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
