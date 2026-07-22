@@ -3,11 +3,16 @@
   "QID_wikidata": "https://www.wikidata.org/wiki/Q3836439",
   "entry_type": "building",
   "title": "Loggia et Odeo Cornaro",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "GiovanniMariaFalconetto",
+      "role": "architecte"
+    }
+  ],
   "dateCreated": {
     "startYear": 1524,
-    "endYear": 1524,
-    "text": "XVIe siècle"
+    "endYear": 1530,
+    "text": "1524-1530"
   },
   "location": {
     "type": "place",
@@ -21,7 +26,16 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "zaggiaLoggiaOdeoCornaro2022",
+      "location": ""
+    },
+    {
+      "zotero_key": "puppiAlviseCornaroSuo1980",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -43,9 +57,14 @@
       "date": "2026-06-01T17:26:38.947395",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-22T15:27:42.223456",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "logia",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
