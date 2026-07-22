@@ -6,8 +6,8 @@
   "creator": [],
   "dateCreated": {
     "startYear": 858,
-    "endYear": 1600,
-    "text": "entre IXe et XVIIe siècle"
+    "endYear": 1620,
+    "text": "858-1620"
   },
   "location": {
     "type": "place",
@@ -21,7 +21,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "pallottinoRomaTorreConti2012",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -43,9 +48,14 @@
       "date": "2026-06-09T14:18:18.108745",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-22T15:34:26.404558",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "Tour",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
