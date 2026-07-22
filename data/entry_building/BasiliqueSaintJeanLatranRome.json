@@ -3,11 +3,24 @@
   "QID_wikidata": "https://www.wikidata.org/wiki/Q84090",
   "entry_type": "building",
   "title": "Basilique Saint Jean De Latran",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "DomenicoFontana",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "GiacomoDellaPorta",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "FrancescoBorromini",
+      "role": "architecte"
+    }
+  ],
   "dateCreated": {
-    "startYear": 300,
+    "startYear": 320,
     "endYear": 1735,
-    "text": "entre IVe siècle et XVIIIe siècle"
+    "text": "320-1735"
   },
   "location": {
     "type": "place",
@@ -26,7 +39,12 @@
       "xml_id_work": "BaptistereDuLatranRome"
     }
   ],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "pietrangeliSanGiovanniLaterano1990",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -53,9 +71,14 @@
       "date": "2026-05-28T15:39:23.935134",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-22T15:57:52.959149",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "église",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
