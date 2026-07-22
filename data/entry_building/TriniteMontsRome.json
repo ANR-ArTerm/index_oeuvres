@@ -20,7 +20,7 @@
   "dateCreated": {
     "startYear": 1502,
     "endYear": 1585,
-    "text": "XVIème siècle"
+    "text": "1502-1585"
   },
   "typology": "église",
   "location": {
@@ -35,7 +35,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "dimatteoChiesaConventoTrinita2016",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -62,8 +67,13 @@
       "date": "2026-06-09T14:42:46.120573",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-22T15:54:18.567258",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "contained_by_ensemble": {}
 }
