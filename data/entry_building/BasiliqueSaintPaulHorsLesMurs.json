@@ -3,14 +3,9 @@
   "QID_wikidata": "https://www.wikidata.org/wiki/Q231699",
   "entry_type": "building",
   "title": "Basilique Saint-Paul-Hors-Les-Murs",
-  "creator": [
-    {
-      "xml_id": "LuigiPoletti",
-      "role": "architecte"
-    }
-  ],
+  "creator": [],
   "dateCreated": {
-    "startYear": 300,
+    "startYear": 324,
     "endYear": 1900,
     "text": "entre IVe et XIXe siècle"
   },
@@ -26,7 +21,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "camerlenghiStPaulsOutside2018",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -48,9 +48,14 @@
       "date": "2026-06-15T09:46:08.642698",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-22T15:21:19.472115",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "typology": "basilique",
   "contained_by_ensemble": {}
 }
