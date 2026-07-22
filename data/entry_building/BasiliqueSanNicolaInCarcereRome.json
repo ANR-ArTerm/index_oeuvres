@@ -7,7 +7,7 @@
   "dateCreated": {
     "startYear": 1599,
     "endYear": 1865,
-    "text": "entre XVIe et XIXe siècle"
+    "text": "1599-1865"
   },
   "location": {
     "type": "place",
@@ -21,7 +21,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "palombiBasilicaDiSan2006",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -31,7 +36,7 @@
       "caption": ""
     }
   ],
-  "description": "Une église avait été construite au XIIe siècle, puis démolie et reconstruite en 1599",
+  "description": "Une église avait été construite au VIe siècle, et puis réconstruite en 1599",
   "commentary": "",
   "history": [
     {
@@ -43,9 +48,14 @@
       "date": "2026-07-01T14:43:39.363433",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-22T15:45:39.490497",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "typology": "église",
   "contained_by_ensemble": {}
 }
