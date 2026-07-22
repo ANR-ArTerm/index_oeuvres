@@ -10,11 +10,11 @@
     }
   ],
   "dateCreated": {
-    "startYear": 1510,
-    "endYear": 1517,
-    "text": "vers 1510"
+    "startYear": 1501,
+    "endYear": 1510,
+    "text": "1501-1510"
   },
-  "typology": "monument imaginaire ou disparu",
+  "typology": "Palais",
   "location": {
     "type": "place",
     "place": {
@@ -27,8 +27,21 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
-  "illustrations": [],
+  "bibliography": [
+    {
+      "zotero_key": null,
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Speculum_Romanae_Magnificentiae-_House_of_Raphael_MET_DP870359.jpg/1920px-Speculum_Romanae_Magnificentiae-_House_of_Raphael_MET_DP870359.jpg?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "copyright": "CC0, Pharos, https://commons.wikimedia.org/wiki/File:Speculum_Romanae_Magnificentiae-_House_of_Raphael_MET_DP870359.jpg",
+      "caption": "Antoine Lafréry, \"Speculum Romanae Magnificentiae: House of Raphael\", 1549 ",
+      "storage": "online"
+    }
+  ],
   "description": "Le Palais a été détruit en 1938",
   "commentary": "",
   "history": [
@@ -41,8 +54,13 @@
       "date": "2026-06-02T10:28:07.599706",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-22T15:39:56.439116",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "contained_by_ensemble": {}
 }
