@@ -7,7 +7,7 @@
   "dateCreated": {
     "startYear": 1294,
     "endYear": 1499,
-    "text": "1294-1499 (XVe)"
+    "text": "1294-1499"
   },
   "location": {
     "type": "place",
@@ -21,7 +21,16 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "nieroChiesaDiSanto1978",
+      "location": ""
+    },
+    {
+      "zotero_key": "foscariLarchitetturaChiesaDi2015",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -48,9 +57,14 @@
       "date": "2026-06-01T15:07:49.057905",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-22T15:49:10.001932",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "église",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
