@@ -6,13 +6,13 @@
   "creator": [
     {
       "xml_id": "MichelAnge",
-      "role": "architecte"
+      "role": "auteur du modèle"
     }
   ],
   "dateCreated": {
-    "startYear": 1546,
-    "endYear": 1553,
-    "text": "1546-1553"
+    "startYear": 1612,
+    "endYear": 1640,
+    "text": "1610-1640"
   },
   "location": {
     "type": "place",
@@ -26,7 +26,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "ragionieriCasaBuonarroti1987",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -53,9 +58,14 @@
       "date": "2026-06-01T09:30:00.943635",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-23T18:52:24.287963",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "Maison",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
