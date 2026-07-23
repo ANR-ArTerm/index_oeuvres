@@ -9,22 +9,18 @@
       "role": "architecte"
     },
     {
-      "xml_id": "GiovanniGiacomoDellaPorta",
+      "xml_id": "GiacomoDellaPorta",
       "role": "architecte"
     },
     {
       "xml_id": "CarloMaderno",
       "role": "architecte"
-    },
-    {
-      "xml_id": "CarloRainaldi",
-      "role": "architecte"
     }
   ],
   "dateCreated": {
-    "startYear": 1591,
-    "endYear": 1663,
-    "text": "1591-1663"
+    "startYear": 1590,
+    "endYear": 1650,
+    "text": "1590-1650"
   },
   "location": {
     "type": "place",
@@ -38,7 +34,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "costamagnaSantAndreaValle2003",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -65,9 +66,14 @@
       "date": "2026-06-01T14:42:08.710138",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-23T19:49:21.708950",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "église",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
