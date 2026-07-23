@@ -7,7 +7,7 @@
   "dateCreated": {
     "startYear": 800,
     "endYear": 1783,
-    "text": "IXe siècle"
+    "text": "IXe siècle-1783"
   },
   "location": {
     "type": "place",
@@ -21,7 +21,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "trucoloVeneziaChiesaDi1990",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -43,9 +48,14 @@
       "date": "2026-06-01T11:50:35.870394",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-23T18:13:35.150132",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "église",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
