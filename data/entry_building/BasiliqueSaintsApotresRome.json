@@ -5,14 +5,26 @@
   "title": "Basilique des Saints-Apôtres",
   "creator": [
     {
-      "xml_id": "BaccioPontelli",
+      "xml_id": "CarloFontana",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "FrancescoFontana",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "LudovicoRusconiSassi",
+      "role": "architecte"
+    },
+    {
+      "xml_id": " NicolaMichetti",
       "role": "architecte"
     }
   ],
   "dateCreated": {
     "startYear": 1348,
     "endYear": 1702,
-    "text": "entre XIVe et XVIIIe siècle"
+    "text": "1348-1702"
   },
   "location": {
     "type": "place",
@@ -26,7 +38,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "gattiBasilicaSantiXII1988",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -48,9 +65,14 @@
       "date": "2026-05-28T15:55:30.140777",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-23T19:05:55.070517",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "basilique",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
