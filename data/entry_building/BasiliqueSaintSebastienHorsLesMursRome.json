@@ -11,8 +11,8 @@
   ],
   "dateCreated": {
     "startYear": 300,
-    "endYear": 1700,
-    "text": "entre IIIe et XVIIe siècle"
+    "endYear": 1727,
+    "text": "IIIe siècle-vers 1727"
   },
   "location": {
     "type": "place",
@@ -26,7 +26,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "lucianiBasilicaDiSan2000",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -48,9 +53,14 @@
       "date": "2026-05-28T16:00:07.038173",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-23T18:04:18.156098",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "basilique",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
