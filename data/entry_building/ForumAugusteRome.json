@@ -48,9 +48,14 @@
       "date": "2026-05-13T13:01:03.225112",
       "type": "modified",
       "author": "Pierre"
+    },
+    {
+      "date": "2026-07-23T17:42:04.534933",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "monument imaginaire ou disparu",
   "contained_by_ensemble": {},
-  "status_entry": 8
+  "status_entry": 1
 }
