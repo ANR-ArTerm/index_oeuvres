@@ -5,14 +5,26 @@
   "title": "Eglise San Salvador",
   "creator": [
     {
-      "xml_id": "BaldassarreLonghena",
+      "xml_id": "PietroLombardo",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "TullioLombardo",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "JacopoSansovino",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "VincenzoScamozzi",
       "role": "architecte"
     }
   ],
   "dateCreated": {
     "startYear": 1507,
-    "endYear": 1534,
-    "text": "1507-1534"
+    "endYear": 1530,
+    "text": "1507-1530"
   },
   "location": {
     "type": "place",
@@ -26,7 +38,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "guidarelliChiesaDiSan2009",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -48,9 +65,14 @@
       "date": "2026-06-01T12:32:46.512050",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-23T17:35:11.110658",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "église",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
