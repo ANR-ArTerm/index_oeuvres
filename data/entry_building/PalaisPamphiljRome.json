@@ -26,7 +26,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "PalazzoPamphiljAmbasciata2016",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -48,9 +53,14 @@
       "date": "2026-06-02T15:22:54.737870",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-23T17:44:22.340570",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "Palais",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
