@@ -5,20 +5,20 @@
   "title": "Bibliothèque Ambrosienne",
   "creator": [
     {
-      "xml_id": "FabioMangone",
-      "role": "architecte"
-    },
-    {
-      "xml_id": "LelioBuzzi",
-      "role": "architecte"
-    },
-    {
       "xml_id": "FrancescoMariaRichini",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "FabioMangone ",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "GiacomoMoraglia",
       "role": "architecte"
     }
   ],
   "dateCreated": {
-    "startYear": 1609,
+    "startYear": 1603,
     "endYear": 1923,
     "text": "XVIIe "
   },
@@ -35,7 +35,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "BibliotecaAmbrosiana2024",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -69,8 +74,13 @@
       "date": "2026-05-28T17:12:11.968785",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-23T18:47:16.249995",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "contained_by_ensemble": {}
 }
