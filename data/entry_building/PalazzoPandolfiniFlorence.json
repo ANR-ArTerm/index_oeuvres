@@ -5,14 +5,26 @@
   "title": "Palazzo Pandolfini",
   "creator": [
     {
-      "xml_id": "RaffaelloSanzio",
+      "xml_id": "Raphael",
+      "role": "auteur du modèle"
+    },
+    {
+      "xml_id": "GiovanFrancescoDaSangallo",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "GiovanniDaSettignano",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "Aristotile",
       "role": "architecte"
     }
   ],
   "dateCreated": {
-    "startYear": 1516,
-    "endYear": 1530,
-    "text": "1516-1530"
+    "startYear": 1513,
+    "endYear": 1532,
+    "text": "1516-post 1532"
   },
   "typology": "Palais",
   "location": {
@@ -27,8 +39,21 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
-  "illustrations": [],
+  "bibliography": [
+    {
+      "zotero_key": "belluzziPalazzoPandolfiniFirenze2019",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Via_san_gallo_74%2C_palazzo_pandolfini%2C_01.jpg?utm_source=it.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "copyright": "CC BY 3.0, Sailko, https://commons.wikimedia.org/wiki/File:Via_san_gallo_74,_palazzo_pandolfini,_01.jpg",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -41,8 +66,13 @@
       "date": "2026-06-03T10:32:47.999598",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-23T19:47:05.829287",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "contained_by_ensemble": {}
 }
