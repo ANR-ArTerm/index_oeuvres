@@ -2,7 +2,7 @@
   "id": "BasiliqueDeMaxenxeConstantinRome",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q1438",
   "entry_type": "building",
-  "title": "Basilique de Maxence et Constantin à Rome",
+  "title": "Basilique de Maxence ou de Constantin à Rome",
   "creator": [],
   "dateCreated": {
     "startYear": 308,
@@ -21,7 +21,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "giavariniBasilicaDiMassenzio2005",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -43,9 +48,14 @@
       "date": "2026-05-28T15:19:14.037985",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-23T17:53:24.362644",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "typology": "BasiliqueCivile",
   "contained_by_ensemble": {}
 }
