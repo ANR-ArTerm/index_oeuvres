@@ -11,8 +11,8 @@
   ],
   "dateCreated": {
     "startYear": 700,
-    "endYear": 1699,
-    "text": "VIIIe-XVIIe siècle"
+    "endYear": 1633,
+    "text": "VIIIe siècle-1633"
   },
   "location": {
     "type": "place",
@@ -26,7 +26,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "pedrocchiSanGregorioCelio1993",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -48,9 +53,14 @@
       "date": "2026-06-01T11:47:05.207279",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-23T18:41:19.696490",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "église",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
