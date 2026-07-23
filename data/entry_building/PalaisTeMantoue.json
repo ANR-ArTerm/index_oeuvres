@@ -10,9 +10,9 @@
     }
   ],
   "dateCreated": {
-    "startYear": 1536,
-    "endYear": 1536,
-    "text": "1536"
+    "startYear": 1524,
+    "endYear": 1534,
+    "text": "1524-1534"
   },
   "location": {
     "type": "place",
@@ -26,7 +26,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "suitnernicoliniPalazzoTeMantova1990",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -58,9 +63,14 @@
       "date": "2026-06-02T14:36:26.766727",
       "type": "modified",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-07-23T18:56:59.331962",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "Palais",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
