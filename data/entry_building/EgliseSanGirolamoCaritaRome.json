@@ -3,7 +3,16 @@
   "QID_wikidata": "https://www.wikidata.org/wiki/Q888055",
   "entry_type": "building",
   "title": "Église San Girolamo della Carità",
-  "creator": [],
+  "creator": [
+    {
+      "xml_id": "DomenicoCastelli",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "CarloRainaldi",
+      "role": "architecte"
+    }
+  ],
   "dateCreated": {
     "startYear": 1518,
     "endYear": 1660,
@@ -21,7 +30,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "ardizzonSanGirolamoCarita1987",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -43,9 +57,14 @@
       "date": "2026-06-01T11:45:57.907911",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-23T18:33:30.328894",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "église",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
