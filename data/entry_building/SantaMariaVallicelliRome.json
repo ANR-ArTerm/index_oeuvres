@@ -5,14 +5,26 @@
   "title": "Église nouvelle, Santa Maria in Vallice",
   "creator": [
     {
-      "xml_id": "MatteoBartolini",
+      "xml_id": "DomenicoFontana",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "GiovanniAntonioDosio",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "MartinoLonghiIlVecchio",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "GiacomoDellaPorta",
       "role": "architecte"
     }
   ],
   "dateCreated": {
-    "startYear": 1577,
-    "endYear": 1700,
-    "text": "1577"
+    "startYear": 1575,
+    "endYear": 1614,
+    "text": "1575-1614"
   },
   "location": {
     "type": "place",
@@ -26,7 +38,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "barbieriSantaMariaVallicella1995",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -48,9 +65,14 @@
       "date": "2026-06-08T15:27:33.321165",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-23T17:41:02.425796",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "église",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
