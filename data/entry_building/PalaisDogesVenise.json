@@ -9,14 +9,30 @@
       "role": "architecte"
     },
     {
-      "xml_id": "NicoloBarattieri",
+      "xml_id": "PietroLombardo",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "Scarpagnino",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "JacopoSansovino",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "AndreaPalladio",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "AntonioDaPonte",
       "role": "architecte"
     }
   ],
   "dateCreated": {
     "startYear": 1340,
-    "endYear": 1340,
-    "text": "1340"
+    "endYear": 1602,
+    "text": "1340-1602"
   },
   "location": {
     "type": "place",
@@ -30,7 +46,16 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "franzoiPalazzoDucaleDi1990",
+      "location": ""
+    },
+    {
+      "zotero_key": "pignattiPalazzoDucaleVenezia1964",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -52,9 +77,14 @@
       "date": "2026-06-02T12:13:52.139914",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-23T19:19:23.502300",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "Palais",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
