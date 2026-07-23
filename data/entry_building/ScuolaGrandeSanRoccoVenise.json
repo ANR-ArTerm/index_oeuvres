@@ -34,7 +34,16 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "vicenziScuolaGrandeDi2009",
+      "location": ""
+    },
+    {
+      "zotero_key": "posoccoScuolaGrandeDi",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -61,9 +70,14 @@
       "date": "2026-06-08T15:42:31.922837",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-23T18:59:46.417000",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "typology": "Palais",
   "contained_by_ensemble": {}
 }
