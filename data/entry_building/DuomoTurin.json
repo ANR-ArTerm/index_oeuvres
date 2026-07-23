@@ -5,13 +5,13 @@
   "title": "Cathédrale Saint-Jean-Baptiste de Turin",
   "creator": [
     {
-      "xml_id": "AmedeoDiFrancescoDaSettignano",
+      "xml_id": "MeodelCaprino",
       "role": "architecte"
     }
   ],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
+    "startYear": 1491,
+    "endYear": 1498,
     "text": ""
   },
   "location": {
@@ -26,8 +26,25 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
-  "illustrations": [],
+  "bibliography": [
+    {
+      "zotero_key": "momoDuomoDiTorino1997",
+      "location": ""
+    },
+    {
+      "zotero_key": "borelloDuomoDiTorino1997",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/DuomoTorino.jpg?utm_source=it.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "copyright": "CC BY-SA 4.0, Eccekevin, https://commons.wikimedia.org/wiki/File:DuomoTorino.jpg",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -45,9 +62,14 @@
       "date": "2026-06-01T11:24:57.743143",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-23T19:09:28.951744",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "cathédrale",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
