@@ -7,7 +7,7 @@
   "dateCreated": {
     "startYear": 1063,
     "endYear": 1617,
-    "text": "entre XIe et XVIIe siècle"
+    "text": "1063-1617"
   },
   "location": {
     "type": "place",
@@ -21,7 +21,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "vioBasilicaDiSan1999",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -43,9 +48,14 @@
       "date": "2026-05-28T15:40:19.067317",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-23T18:36:23.930421",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "typology": "basilique",
   "contained_by_ensemble": {}
 }
