@@ -2,12 +2,12 @@
   "id": "CastelvecchioVerone",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q1049016",
   "entry_type": "building",
-  "title": "Castelvecchio à Verone",
+  "title": "Castelvecchio",
   "creator": [],
   "dateCreated": {
     "startYear": 1354,
     "endYear": 1356,
-    "text": "XIVe siècle"
+    "text": "1354-1356"
   },
   "location": {
     "type": "place",
@@ -21,7 +21,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "chiarelliCastelvecchioArcheScaligere1969",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -43,9 +48,14 @@
       "date": "2026-06-01T09:48:31.963645",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-24T19:11:21.334614",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "Chateau",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
