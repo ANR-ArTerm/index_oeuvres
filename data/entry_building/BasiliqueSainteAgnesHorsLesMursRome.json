@@ -5,9 +5,9 @@
   "title": "Basilique Sainte Agnès hors les Murs de Rome",
   "creator": [],
   "dateCreated": {
-    "startYear": 300,
-    "endYear": 1800,
-    "text": "entre IIIe siècle et XIXe siècle"
+    "startYear": 337,
+    "endYear": 638,
+    "text": "337-638"
   },
   "location": {
     "type": "place",
@@ -21,7 +21,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "frutazComplessoMonumentaleDi1969",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -43,9 +48,14 @@
       "date": "2026-05-28T15:37:56.843579",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-24T20:07:34.445674",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "basilique",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
