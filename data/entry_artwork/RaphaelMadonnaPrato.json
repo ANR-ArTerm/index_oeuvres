@@ -10,18 +10,18 @@
     }
   ],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1505,
+    "endYear": 1506,
+    "text": "1505-1506"
   },
-  "materialsAndTechniques": null,
+  "materialsAndTechniques": "huile sur bois",
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": null,
-      "place": null,
-      "inventory_number": "",
-      "url": ""
+      "name": "Kunsthistorisches Museum, Gemäldegalerie",
+      "place": "Vienne",
+      "inventory_number": "175",
+      "url": "https://www.khm.at/en/artworks/the-madonna-of-the-meadow-1502"
     }
   },
   "related_works": [],
@@ -52,9 +52,14 @@
       "date": "2026-06-30T10:50:51.607172",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-24T15:36:03.126854",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "contained_by_ensemble": {},
-  "typology": ""
+  "typology": "Peinture"
 }
