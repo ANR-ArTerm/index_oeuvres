@@ -7,7 +7,7 @@
   "dateCreated": {
     "startYear": 340,
     "endYear": 345,
-    "text": "IVe siècle"
+    "text": "340-345"
   },
   "location": {
     "type": "place",
@@ -20,13 +20,17 @@
       }
     }
   },
-  "related_works": [
+  "related_works": [],
+  "bibliography": [
     {
-      "link_type": "fait partie de",
-      "xml_id_work": "BasiliqueSainteAgnesHorsLesMursRome"
+      "zotero_key": "digiovanniSantAgneseFuoriMura2024",
+      "location": ""
+    },
+    {
+      "zotero_key": "polaccoMausoleoDiCostanza",
+      "location": ""
     }
   ],
-  "bibliography": [],
   "illustrations": [
     {
       "id": 0,
@@ -48,9 +52,14 @@
       "date": "2026-06-02T09:45:51.005274",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-24T20:12:05.128268",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "typology": "mausolée",
   "contained_by_ensemble": {}
 }
