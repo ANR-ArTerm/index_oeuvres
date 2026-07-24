@@ -10,9 +10,9 @@
     }
   ],
   "dateCreated": {
-    "startYear": 1100,
-    "endYear": 1560,
-    "text": "XIIe-1560"
+    "startYear": 1009,
+    "endYear": 1563,
+    "text": "1009-1563"
   },
   "location": {
     "type": "place",
@@ -26,7 +26,16 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "tafiPieveDiMaria1994",
+      "location": ""
+    },
+    {
+      "zotero_key": "cortoniVoltoPieveRestauri2025",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -48,9 +57,14 @@
       "date": "2026-06-01T14:22:21.715779",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-24T18:10:01.283220",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "église",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
