@@ -9,14 +9,14 @@
       "role": "architecte"
     },
     {
-      "xml_id": "Rainaldo",
+      "xml_id": " Rainaldo",
       "role": "architecte"
     }
   ],
   "dateCreated": {
-    "startYear": 1063,
-    "endYear": 1118,
-    "text": "Entre le XIème et XIIème"
+    "startYear": 1064,
+    "endYear": 1180,
+    "text": "1064- 1180"
   },
   "location": {
     "type": "place",
@@ -30,7 +30,16 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "peroniDuomoDiPisa",
+      "location": ""
+    },
+    {
+      "zotero_key": "rediPisaDuomoPiazza1996",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -62,9 +71,14 @@
       "date": "2026-06-01T10:06:38.957857",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-24T17:46:16.414296",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "cathédrale",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
