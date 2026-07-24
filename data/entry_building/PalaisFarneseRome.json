@@ -18,9 +18,9 @@
     }
   ],
   "dateCreated": {
-    "startYear": 1514,
-    "endYear": 1549,
-    "text": "1514-1549"
+    "startYear": 1541,
+    "endYear": 1580,
+    "text": "1541-1580"
   },
   "typology": "Palais",
   "location": {
@@ -35,7 +35,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "frommelPalazzoFarneseRoma2020",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -67,8 +72,13 @@
       "date": "2026-06-02T13:56:46.821341",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-24T20:01:01.095400",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
