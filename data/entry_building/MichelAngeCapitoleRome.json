@@ -7,12 +7,16 @@
     {
       "xml_id": "MichelAnge",
       "role": "architecte"
+    },
+    {
+      "xml_id": "GiacomoDellaPorta",
+      "role": "architecte"
     }
   ],
   "dateCreated": {
-    "startYear": 1534,
-    "endYear": 1534,
-    "text": "Vers 1534 (XVIe siècle)"
+    "startYear": 1540,
+    "endYear": 1654,
+    "text": "1540-1654"
   },
   "location": {
     "type": "place",
@@ -26,7 +30,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "bedonCampidoglioStoriaDi2008",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -53,9 +62,14 @@
       "date": "2026-06-02T09:52:46.906204",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-24T19:15:16.916660",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "Place",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
