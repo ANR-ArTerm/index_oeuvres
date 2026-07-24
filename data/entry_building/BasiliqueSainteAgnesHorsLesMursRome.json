@@ -25,6 +25,10 @@
     {
       "zotero_key": "frutazComplessoMonumentaleDi1969",
       "location": ""
+    },
+    {
+      "zotero_key": "ferrauSantAgneseFuoriMura2020",
+      "location": ""
     }
   ],
   "illustrations": [
@@ -51,6 +55,11 @@
     },
     {
       "date": "2026-07-24T20:07:34.445674",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-07-24T20:13:19.078152",
       "type": "modified",
       "author": "Elisa"
     }
