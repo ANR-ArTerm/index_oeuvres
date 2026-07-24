@@ -5,18 +5,18 @@
   "title": "Basilique Santa Maria del Popolo",
   "creator": [
     {
-      "xml_id": "BaccioPontelli",
+      "xml_id": "AndreaBregno",
       "role": "architecte"
     },
     {
-      "xml_id": "Bregno",
+      "xml_id": "GiovanninoDe'Dolci",
       "role": "architecte"
     }
   ],
   "dateCreated": {
-    "startYear": 1472,
+    "startYear": 1099,
     "endYear": 1477,
-    "text": " 1472-1477"
+    "text": " 1099-1477"
   },
   "typology": "basilique",
   "location": {
@@ -31,7 +31,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "cipolloneSantaMariaPopolo2023",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -83,8 +88,13 @@
       "date": "2026-05-28T16:25:23.765256",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-24T18:02:36.839533",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "contained_by_ensemble": {}
 }
