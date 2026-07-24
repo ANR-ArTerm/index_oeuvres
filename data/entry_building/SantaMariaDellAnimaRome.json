@@ -18,9 +18,9 @@
     }
   ],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": "XVème siècle"
+    "startYear": 1431,
+    "endYear": 1542,
+    "text": "1431-1542"
   },
   "location": {
     "type": "place",
@@ -34,7 +34,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "kubersky-pireddaSantaMariaDellAnima2023",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -56,9 +61,14 @@
       "date": "2026-06-08T14:20:35.392983",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-24T20:17:26.044822",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "église",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
