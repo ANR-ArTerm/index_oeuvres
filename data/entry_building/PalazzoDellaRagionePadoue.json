@@ -5,14 +5,18 @@
   "title": "Palazzo della Ragione à Padoue",
   "creator": [
     {
-      "xml_id": "GiovanniDegliEremitani",
+      "xml_id": "FraGiovanniDegliEremitani",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "BartolomeoRizzo",
       "role": "architecte"
     }
   ],
   "dateCreated": {
     "startYear": 1218,
-    "endYear": 1420,
-    "text": "entre XIIe et XVe siècle"
+    "endYear": 1440,
+    "text": "1218-1440"
   },
   "location": {
     "type": "place",
@@ -26,7 +30,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "vioPalazzoRagioneDi2008",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -53,9 +62,14 @@
       "date": "2026-06-03T09:53:15.114112",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-24T18:59:17.795992",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "BasiliqueCivile",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
