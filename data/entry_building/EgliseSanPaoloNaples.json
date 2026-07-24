@@ -1,18 +1,26 @@
 {
-  "id": "EgliseSanPoloNaples",
+  "id": "EgliseSanPaoloNaples",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q693174",
   "entry_type": "building",
-  "title": "Eglise de Saint Polo à Naples",
+  "title": "Église de Saint Paolo Maggiore",
   "creator": [
     {
       "xml_id": "FrancescoGrimaldi",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "GiovanBattistaCavagna",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "GiovanGiacomoDiConforto",
       "role": "architecte"
     }
   ],
   "dateCreated": {
     "startYear": 700,
     "endYear": 1700,
-    "text": "entre VIIIe et XVIIIe siècle"
+    "text": "VIIIe-XVIIIe siècle"
   },
   "location": {
     "type": "place",
@@ -26,7 +34,16 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "lenzoArchitetturaAntichitaNapoli2011",
+      "location": ""
+    },
+    {
+      "zotero_key": "savareseFrancescoGrimaldiLarchitettura1986",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -48,9 +65,14 @@
       "date": "2026-06-01T12:28:58.827366",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-24T19:56:48.895435",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "typology": "église",
   "contained_by_ensemble": {}
 }
