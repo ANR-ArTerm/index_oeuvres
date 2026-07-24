@@ -5,18 +5,18 @@
   "title": "Basilique Santi Cosma e Damiano",
   "creator": [
     {
-      "xml_id": "TorrianiOrazio",
+      "xml_id": "OrazioTorriani ",
       "role": "créateur du projet"
     },
     {
-      "xml_id": "ArrigucciLuigi",
+      "xml_id": "LuigiArrigucci",
       "role": "architecte"
     }
   ],
   "dateCreated": {
-    "startYear": 500,
-    "endYear": 1700,
-    "text": "entre Ve siècle et XVIIIe siècle"
+    "startYear": 527,
+    "endYear": 1632,
+    "text": "527-post 1632"
   },
   "location": {
     "type": "place",
@@ -30,7 +30,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "chioccioniBasilicaConventoSanti1963",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -67,9 +72,14 @@
       "date": "2026-05-28T16:49:49.353298",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-24T17:42:06.634884",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "basilique",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
