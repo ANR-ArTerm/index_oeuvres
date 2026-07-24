@@ -25,8 +25,18 @@
       }
     }
   },
-  "related_works": [],
-  "bibliography": [],
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "BasiliqueSanLorenzoFlorence"
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "baldiniComplessoMonumentaleDi1984",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -53,6 +63,11 @@
       "date": "2026-05-28T17:13:26.792468",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-24T19:18:18.713014",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "Bibliothèque",
