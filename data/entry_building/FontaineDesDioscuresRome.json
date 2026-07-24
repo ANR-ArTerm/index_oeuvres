@@ -21,7 +21,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "morenoDallAcropoliColleFidia2006a",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -43,9 +48,14 @@
       "date": "2026-06-01T15:13:23.594299",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-24T19:01:06.742325",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "fontaine",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
