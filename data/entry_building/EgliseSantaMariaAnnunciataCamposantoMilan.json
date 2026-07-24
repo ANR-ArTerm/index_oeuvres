@@ -12,7 +12,7 @@
   "dateCreated": {
     "startYear": 1616,
     "endYear": 1740,
-    "text": ""
+    "text": "1616-1740"
   },
   "location": {
     "type": "place",
@@ -26,7 +26,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "SpiritiSantaMaria1997",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -48,9 +53,14 @@
       "date": "2026-07-01T15:01:52.243740",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-24T17:55:44.585930",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "typology": "église",
   "contained_by_ensemble": {}
 }
