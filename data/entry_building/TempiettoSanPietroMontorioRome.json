@@ -2,7 +2,7 @@
   "id": "TempiettoSanPietroMontorioRome",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q12960184",
   "entry_type": "building",
-  "title": "Tempietto de San Pietro in Montorio à Rome",
+  "title": "Tempietto de San Pietro in Montorio",
   "creator": [
     {
       "xml_id": "Bramante",
@@ -31,7 +31,12 @@
       "xml_id_work": "EgliseSanPietroinMontorio"
     }
   ],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "cantatoreTempiettoDiBramante2017",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -58,9 +63,14 @@
       "date": "2026-06-08T16:22:36.641402",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-24T18:12:37.314745",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "église",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
