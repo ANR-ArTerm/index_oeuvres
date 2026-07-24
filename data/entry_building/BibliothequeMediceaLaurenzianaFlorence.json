@@ -33,8 +33,8 @@
   ],
   "bibliography": [
     {
-      "zotero_key": "baldiniComplessoMonumentaleDi1984",
-      "location": ""
+      "zotero_key": "wallaceMichelangeloSanLorenzo1994",
+      "location": "pp. 143-218"
     }
   ],
   "illustrations": [
@@ -68,9 +68,14 @@
       "date": "2026-07-24T19:18:18.713014",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-24T19:22:19.517347",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "Bibliothèque",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
