@@ -34,7 +34,7 @@
   "bibliography": [
     {
       "zotero_key": "wallaceMichelangeloSanLorenzo1994",
-      "location": ""
+      "location": "pp. 143-218"
     }
   ],
   "illustrations": [
@@ -91,6 +91,11 @@
     },
     {
       "date": "2026-07-24T19:19:29.394015",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-07-24T19:21:50.873926",
       "type": "modified",
       "author": "Elisa"
     }
