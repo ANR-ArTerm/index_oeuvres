@@ -6,13 +6,13 @@
   "creator": [],
   "dateCreated": {
     "startYear": 0,
-    "endYear": 1000,
-    "text": "entre Ier siècle et XIe siècle"
+    "endYear": 1060,
+    "text": "Ie siècle-1060"
   },
   "location": {
     "type": "place",
     "place": {
-      "city": "Rome",
+      "city": "Albano Laziale",
       "country": "Italie",
       "coordinates": {
         "latitude": "",
@@ -21,7 +21,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "apaSantaMariaRotonda1985",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -43,9 +48,14 @@
       "date": "2026-06-08T15:38:27.070061",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-24T19:05:41.253840",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": null,
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
