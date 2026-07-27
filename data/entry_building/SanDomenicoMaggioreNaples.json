@@ -9,18 +9,14 @@
       "role": "architecte"
     },
     {
-      "xml_id": "PierreDAngicourt",
+      "xml_id": " PierreD'Angicourt",
       "role": "architecte"
-    },
-    {
-      "xml_id": "DomenicoAntonioVaccaro",
-      "role": "sculpteur"
     }
   ],
   "dateCreated": {
     "startYear": 1283,
-    "endYear": 1536,
-    "text": "1283-1536"
+    "endYear": 1324,
+    "text": "1283-1324"
   },
   "typology": "église",
   "location": {
@@ -35,7 +31,16 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "darbitrioSanDomenicoMaggiore2001",
+      "location": ""
+    },
+    {
+      "zotero_key": "romanoChieseDiSan2005",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -45,7 +50,7 @@
       "storage": "online"
     }
   ],
-  "description": "",
+  "description": "Rénovations entre le XVIe et XVIIe siècle",
   "commentary": "",
   "history": [
     {
@@ -57,8 +62,13 @@
       "date": "2026-06-08T11:29:20.820767",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-27T16:41:37.679284",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "contained_by_ensemble": {}
 }
