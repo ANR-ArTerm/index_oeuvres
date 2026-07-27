@@ -19,12 +19,17 @@
     "institution": {
       "name": "Musée du Louvre",
       "place": "Paris",
-      "inventory_number": "",
-      "url": ""
+      "inventory_number": "357",
+      "url": "https://collections.louvre.fr/en/ark:/53355/cl010061082"
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "loirePeinturesItaliennesMusee2025a",
+      "location": " pp. 327-328, n. 550"
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -46,10 +51,15 @@
       "date": "2026-07-10T16:05:46.963556",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-27T18:41:21.985820",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "materialsAndTechniques": "huile sur bois transposée sur toile",
   "contained_by_ensemble": {},
-  "status_entry": 1,
+  "status_entry": 0,
   "typology": "Peinture"
 }
