@@ -86,9 +86,14 @@
       "date": "2026-07-27T16:30:15.195727",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-27T16:30:20.813849",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "église",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
