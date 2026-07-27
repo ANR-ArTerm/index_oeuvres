@@ -10,9 +10,9 @@
     }
   ],
   "dateCreated": {
-    "startYear": 1567,
-    "endYear": 1567,
-    "text": "1567"
+    "startYear": 1564,
+    "endYear": 1588,
+    "text": "1564-1588"
   },
   "location": {
     "type": "place",
@@ -26,14 +26,19 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "lolliAlmoCollegioBorromeo2020",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Collegio_Borromeo_%28Pavia%29.jpg",
       "storage": "online",
       "copyright": "CC BY-SA 3.0, Giorgio Gonnella (https://commons.wikimedia.org/wiki/File:Collegio_Borromeo_(Pavia).jpg)",
-      "caption": "Collegio Borromeo (Pavia)"
+      "caption": ""
     }
   ],
   "description": "",
@@ -53,9 +58,14 @@
       "date": "2026-05-28T14:38:44.690327",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-27T15:11:18.110347",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "Palais",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
