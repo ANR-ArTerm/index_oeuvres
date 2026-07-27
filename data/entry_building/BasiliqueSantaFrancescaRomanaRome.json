@@ -2,17 +2,17 @@
   "id": "BasiliqueSantaFrancescaRomanaRome",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q1091640",
   "entry_type": "building",
-  "title": "Basilique Santa Francesca Romana ",
+  "title": "Basilique de Santa Francesca Romana ",
   "creator": [
     {
-      "xml_id": "Carlo Lambardi",
+      "xml_id": "CarloLambardi",
       "role": "architecte"
     }
   ],
   "dateCreated": {
     "startYear": 800,
-    "endYear": 1000,
-    "text": "entre IXe et XIIIe siècle"
+    "endYear": 1615,
+    "text": "IXe siècle-1615"
   },
   "location": {
     "type": "place",
@@ -26,7 +26,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "russoSantaFrancescaRomana2021",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -48,9 +53,14 @@
       "date": "2026-05-28T16:16:15.657950",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-27T13:25:18.770502",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "basilique",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
