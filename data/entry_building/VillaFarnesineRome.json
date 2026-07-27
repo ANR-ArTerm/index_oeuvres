@@ -10,9 +10,9 @@
     }
   ],
   "dateCreated": {
-    "startYear": 1508,
-    "endYear": 1511,
-    "text": "1508-1511"
+    "startYear": 1506,
+    "endYear": 1512,
+    "text": "1506-1512"
   },
   "location": {
     "type": "place",
@@ -26,7 +26,16 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "gerliniVillaFarnesinaAlla1988",
+      "location": ""
+    },
+    {
+      "zotero_key": "frommelVillaFarnesinaRoma2014",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -53,9 +62,14 @@
       "date": "2026-06-09T16:20:14.216616",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-27T16:50:41.535728",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "Palais",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
