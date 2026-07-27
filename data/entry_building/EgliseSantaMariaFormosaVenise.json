@@ -10,9 +10,9 @@
     }
   ],
   "dateCreated": {
-    "startYear": 864,
-    "endYear": 1542,
-    "text": "IXème (864)-1542"
+    "startYear": 1492,
+    "endYear": 1604,
+    "text": "1492-1604"
   },
   "location": {
     "type": "place",
@@ -26,7 +26,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "ChiesaDiSanta1991",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -36,7 +41,7 @@
       "caption": ""
     }
   ],
-  "description": "",
+  "description": "Première construction en 639.",
   "commentary": "",
   "history": [
     {
@@ -48,9 +53,14 @@
       "date": "2026-06-01T14:25:38.124464",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-27T15:03:27.221628",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "église",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
