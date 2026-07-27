@@ -10,9 +10,9 @@
     }
   ],
   "dateCreated": {
-    "startYear": 1625,
-    "endYear": 1627,
-    "text": "1625-1627"
+    "startYear": 1621,
+    "endYear": 1625,
+    "text": "1621-1625"
   },
   "location": {
     "type": "holding_institution",
@@ -24,7 +24,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "costamagnaSantAndreaValle2003a",
+      "location": "pp. 195-248"
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -56,10 +61,15 @@
       "date": "2026-06-22T11:13:02.066457",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-27T17:35:28.074380",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "materialsAndTechniques": "fresque",
   "contained_by_ensemble": {},
-  "status_entry": 1,
+  "status_entry": 0,
   "typology": "Peinture"
 }
