@@ -19,12 +19,14 @@
     "text": "1508"
   },
   "location": {
-    "type": "holding_institution",
-    "institution": {
-      "name": null,
-      "place": "Venise",
-      "inventory_number": "",
-      "url": ""
+    "type": "place",
+    "place": {
+      "city": "Venise",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
     }
   },
   "related_works": [],
@@ -48,7 +50,7 @@
     }
   ],
   "description": "",
-  "commentary": "Fresques existent toujours mais détachées. Maintenant à la Ca' d'Oro (A vérifier)\n",
+  "commentary": "Fresques détachées. La Nue de Giorgione est conservée aux Gallerie dell'Accademia et la Justice de Titian à la Ca' D'Oro.\n",
   "history": [
     {
       "date": "2026-04-10T19:04:02.402025",
@@ -89,9 +91,14 @@
       "date": "2026-06-29T14:52:10.516668",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-27T17:48:58.009866",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "cycle de peintures",
   "contains_works": [],
-  "status_entry": 1
+  "status_entry": 0
 }
