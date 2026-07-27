@@ -12,7 +12,7 @@
   "dateCreated": {
     "startYear": 1492,
     "endYear": 1574,
-    "text": "entre XVe et XVIe siècle"
+    "text": "1492-1574"
   },
   "location": {
     "type": "place",
@@ -26,7 +26,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "begniredonaPalazzoLoggiaDi1986",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -48,9 +53,14 @@
       "date": "2026-06-02T12:03:40.527676",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-27T16:22:52.405788",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "BasiliqueCivile",
   "contained_by_ensemble": {},
-  "status_entry": 1
+  "status_entry": 0
 }
