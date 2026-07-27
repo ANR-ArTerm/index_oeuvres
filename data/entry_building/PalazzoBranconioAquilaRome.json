@@ -5,16 +5,16 @@
   "title": "Palazzo Branconio dell'Aquila",
   "creator": [
     {
-      "xml_id": "RaffaelloSanzio",
+      "xml_id": "Raphael",
       "role": "architecte"
     }
   ],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": "construit à la première moitié du XVI"
+    "startYear": 1518,
+    "endYear": 1522,
+    "text": "1518-1522"
   },
-  "typology": "monument imaginaire ou disparu",
+  "typology": "Palais",
   "location": {
     "type": "place",
     "place": {
@@ -27,17 +27,26 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "pagliaraPalazzoBranconio1984",
+      "location": ""
+    },
+    {
+      "zotero_key": "ciroldiNuoviDocumentiStoria2002",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Palazzo_Branconio_dell_Aquila_17th_century_%28middle_size%29_%2816927488%29.jpg",
       "copyright": "Wikimédia Commons, domaine publique, Pietro Ferrerio (https://commons.wikimedia.org/wiki/File:Palazzo_Branconio_dell_Aquila_17th_century_(middle_size)_(16927488).jpg)",
-      "caption": "Palazzo Branconio dell Aquila 17th century (middle size)",
+      "caption": "Pietro Ferrerio, gravure du Palais, 1655",
       "storage": "online"
     }
   ],
-  "description": "A été détruit en 1660",
+  "description": "Détruit en 1660",
   "commentary": "",
   "history": [
     {
@@ -49,6 +58,11 @@
       "date": "2026-06-03T09:44:02.040671",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-27T13:41:16.874462",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "status_entry": 1,
