@@ -2,7 +2,7 @@
   "id": "EgliseSantoSpiritoInSassiaRome",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q1428488",
   "entry_type": "building",
-  "title": "Eglise Santo Spirito in Sassia a Roma",
+  "title": "Église Santo Spirito in Sassia a Roma",
   "creator": [
     {
       "xml_id": "AntonioDaSangalloIlGiovane",
@@ -11,12 +11,16 @@
     {
       "xml_id": "GuidettoGuidetti",
       "role": "architecte"
+    },
+    {
+      "xml_id": "BaccioPontelli",
+      "role": "architecte"
     }
   ],
   "dateCreated": {
     "startYear": 1538,
     "endYear": 1590,
-    "text": "XVIe siècle"
+    "text": "1538-1590"
   },
   "location": {
     "type": "place",
@@ -30,7 +34,12 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "lavagninoChiesaDiSanto1962",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -72,6 +81,11 @@
       "date": "2026-06-01T15:02:16.756855",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-27T16:30:15.195727",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "église",
