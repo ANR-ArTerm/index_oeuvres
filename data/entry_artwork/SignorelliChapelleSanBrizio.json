@@ -11,16 +11,12 @@
     {
       "xml_id": "FraAngelico",
       "role": "peintre"
-    },
-    {
-      "xml_id": null,
-      "role": "peintre"
     }
   ],
   "dateCreated": {
-    "startYear": 1396,
-    "endYear": 1502,
-    "text": "1396-1502"
+    "startYear": 1447,
+    "endYear": 1500,
+    "text": "1447-1500"
   },
   "materialsAndTechniques": "fresque",
   "location": {
@@ -33,12 +29,17 @@
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "riessRenaissanceAntichristLuca1995",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Luca_signorelli%2C_cappella_di_san_brizio_00.jpg",
-      "copyright": "",
+      "copyright": "Public domain",
       "caption": "",
       "storage": "online"
     }
@@ -55,9 +56,14 @@
       "date": "2026-07-10T16:22:14.024654",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-27T18:21:11.348634",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "typology": "Peinture",
   "contained_by_ensemble": {}
 }
