@@ -63,8 +63,13 @@
       "date": "2026-07-27T13:41:16.874462",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-07-27T13:41:21.722184",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "contained_by_ensemble": {}
 }
