@@ -20,8 +20,8 @@
     "institution": {
       "name": "Pinacothèque Nationale",
       "place": "Bologne",
-      "inventory_number": "",
-      "url": ""
+      "inventory_number": "577",
+      "url": "https://pinacotecabologna.cultura.gov.it/opere-darte/estasi-di-santa-cecilia-fra-i-santi-paolo-giovanni-evangelista-agostino-e-maria-maddalena-361"
     }
   },
   "related_works": [],
@@ -67,9 +67,14 @@
       "date": "2026-06-30T11:37:49.413308",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-30T14:57:36.913951",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "contained_by_ensemble": {},
   "typology": "Peinture"
 }
