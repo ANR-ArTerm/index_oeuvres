@@ -10,19 +10,13 @@
     }
   ],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1500,
+    "endYear": 1501,
+    "text": "1500-1501"
   },
-  "materialsAndTechniques": null,
+  "materialsAndTechniques": "huile sur bois",
   "location": {
-    "type": "holding_institution",
-    "institution": {
-      "name": null,
-      "place": null,
-      "inventory_number": "",
-      "url": ""
-    }
+    "type": "multiple_locations"
   },
   "related_works": [],
   "bibliography": [
@@ -31,8 +25,51 @@
       "location": "n° 1"
     }
   ],
-  "illustrations": [],
-  "description": "",
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Raffaello%2C_God_the_Father_and_the_Virgin_Mary.jpg?utm_source=it.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "copyright": "Public domain",
+      "caption": "Dieu le Père et la Vierge Marie",
+      "storage": "online"
+    },
+    {
+      "id": 1,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Raffaello_Angelo_1_%28frammento_pala_Baronci%29.jpg?utm_source=it.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "copyright": "Public domain",
+      "caption": "Ange",
+      "storage": "online"
+    },
+    {
+      "id": 2,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Raffaello%2C_Nicola_da_Tolentino_resuscita_due_colombe%2C_29%2C2x54_cm%2C_Detroit%2C_Detroit_Institute_of_Arts.jpg?utm_source=it.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "copyright": "Public domain",
+      "caption": "Nicolas de Tolentino ressuscite deux colombes",
+      "storage": "online"
+    },
+    {
+      "id": 3,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Raffaello%2C_Nicola_da_Tolentino_soccorre_un_fanciullo_che_annega%2C_26%2C7x51%2C8_cm%2C_Detroit%2C_Detroit_Institute_of_Arts.jpg?utm_source=it.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "copyright": "Public domain",
+      "caption": "Nicolas de Tolentino sauve un enfant qui se noie",
+      "storage": "online"
+    },
+    {
+      "id": 4,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Raffaello_Angelo_2_%28frammento_pala_Baronci%29.jpg?utm_source=it.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "copyright": "Public domain",
+      "caption": "Ange",
+      "storage": "online"
+    },
+    {
+      "id": 5,
+      "url": "https://cdn.finestresullarte.info/rivista/immagini/2020/fn/raffaello-miracolo-degli-impiccati.jpg",
+      "copyright": "Public domain",
+      "caption": "Nicolas de Tolentino et les pendus",
+      "storage": "online"
+    }
+  ],
+  "description": "En 1789, l'oeuvre fut endommagée par un tremblement de terre. On décida alors de la découper afin d'en extraire les parties les mieux conservées, qui sont désormais réparties entre différents musées.",
   "commentary": "",
   "history": [
     {
@@ -44,9 +81,14 @@
       "date": "2026-06-30T11:07:05.474224",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-30T12:41:46.606079",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "contained_by_ensemble": {},
-  "typology": ""
+  "typology": "Peinture"
 }
