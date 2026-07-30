@@ -10,9 +10,9 @@
     }
   ],
   "dateCreated": {
-    "startYear": 1516,
+    "startYear": 1518,
     "endYear": 1520,
-    "text": "1516-1520"
+    "text": "1518-1520"
   },
   "materialsAndTechniques": "huile sur bois",
   "location": {
@@ -41,7 +41,7 @@
     }
   ],
   "description": "",
-  "commentary": "Potentiellement demander les droits au Vatican.",
+  "commentary": "",
   "history": [
     {
       "date": "2026-01-06T14:07:13.270955",
@@ -67,9 +67,14 @@
       "date": "2026-06-30T12:07:16.102481",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-30T14:59:33.629049",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "contained_by_ensemble": {},
   "typology": "Peinture"
 }
