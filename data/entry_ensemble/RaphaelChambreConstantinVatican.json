@@ -90,6 +90,11 @@
       "date": "2026-07-01T14:28:31.702617",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-31T15:14:09.336896",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "typology": "ensemble décoratif",
@@ -97,6 +102,6 @@
     "link_type": "appartient à l'ensemble",
     "xml_id_work": "StanzeVatican"
   },
-  "status_entry": 1,
+  "status_entry": 0,
   "contains_works": []
 }
