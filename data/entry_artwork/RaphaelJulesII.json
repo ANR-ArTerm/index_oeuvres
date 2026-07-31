@@ -57,9 +57,14 @@
       "date": "2026-06-30T10:09:39.414347",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-31T11:36:35.181730",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "contained_by_ensemble": {},
   "typology": "Peinture"
 }
