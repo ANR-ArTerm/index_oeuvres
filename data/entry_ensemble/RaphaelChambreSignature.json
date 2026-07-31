@@ -26,8 +26,8 @@
   },
   "related_works": [
     {
-      "link_type": null,
-      "xml_id_work": null
+      "link_type": "fait partie de",
+      "xml_id_work": "StanzeVatican"
     }
   ],
   "bibliography": [
@@ -67,6 +67,11 @@
       "date": "2026-07-01T14:32:54.570025",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-31T15:19:38.389418",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "materialsAndTechniques": "fresque",
@@ -74,6 +79,6 @@
     "link_type": "appartient à l'ensemble",
     "xml_id_work": "StanzeVatican"
   },
-  "status_entry": 1,
+  "status_entry": 0,
   "contains_works": []
 }
