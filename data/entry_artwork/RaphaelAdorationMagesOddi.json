@@ -11,8 +11,8 @@
   ],
   "dateCreated": {
     "startYear": 1502,
-    "endYear": 1504,
-    "text": "1502-1504"
+    "endYear": 1503,
+    "text": "1502-1503"
   },
   "materialsAndTechniques": "peinture grasse à tempera sur bois",
   "location": {
@@ -80,9 +80,14 @@
       "date": "2026-06-29T17:00:02.296125",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-31T14:50:17.890806",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "contained_by_ensemble": {},
-  "status_entry": 1,
+  "status_entry": 0,
   "typology": "Peinture"
 }
