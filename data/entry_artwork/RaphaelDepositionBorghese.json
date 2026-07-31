@@ -41,7 +41,7 @@
       "storage": "online"
     }
   ],
-  "description": "",
+  "description": "Démembrée en 1608",
   "commentary": "",
   "history": [
     {
@@ -56,6 +56,11 @@
     },
     {
       "date": "2026-07-31T15:06:50.802055",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-07-31T15:09:39.785765",
       "type": "modified",
       "author": "Elisa"
     }
