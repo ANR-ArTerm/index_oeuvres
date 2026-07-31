@@ -26,8 +26,8 @@
   },
   "related_works": [
     {
-      "link_type": "appartient au même ensemble",
-      "xml_id_work": null
+      "link_type": "fait partie de",
+      "xml_id_work": "StanzeVatican"
     },
     {
       "link_type": "appartient au même ensemble",
@@ -39,7 +39,11 @@
     },
     {
       "link_type": "appartient au même ensemble",
-      "xml_id_work": "RaphaelHeliodore"
+      "xml_id_work": "RaphaelChambreHeliodore"
+    },
+    {
+      "link_type": "appartient au même ensemble",
+      "xml_id_work": "RaphaelChambreConstantinVatican"
     }
   ],
   "bibliography": [
@@ -95,6 +99,11 @@
       "date": "2026-06-24T15:42:45.123023",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-31T15:18:43.819325",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "contains_works": [
@@ -104,5 +113,5 @@
       "link_types_contained": null
     }
   ],
-  "status_entry": 1
+  "status_entry": 0
 }
