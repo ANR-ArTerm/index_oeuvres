@@ -6,21 +6,17 @@
   "creator": [
     {
       "xml_id": "VincenzoBorghini",
-      "role": "peintre"
-    },
-    {
-      "xml_id": "JanVanDerStraet",
-      "role": "peintre"
+      "role": "auteur du modèle"
     },
     {
       "xml_id": "GiorgioVasari",
-      "role": "créateur du projet"
+      "role": "peintre"
     }
   ],
   "dateCreated": {
     "startYear": 1570,
     "endYear": 1572,
-    "text": "Entre 1570 et 1572"
+    "text": "1570-1572"
   },
   "location": {
     "type": "holding_institution",
@@ -31,8 +27,18 @@
       "url": ""
     }
   },
-  "related_works": [],
-  "bibliography": [],
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "PalazzoVecchioFlorence"
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "conticelliStudioloDiFrancesco2024",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -54,9 +60,14 @@
       "date": "2026-07-03T16:35:01.165552",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-31T16:09:35.884678",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "typology": "ensemble décoratif",
   "contains_works": []
 }
