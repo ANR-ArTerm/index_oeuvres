@@ -10,18 +10,18 @@
     }
   ],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1504,
+    "endYear": 1507,
+    "text": "1504-1507"
   },
-  "materialsAndTechniques": null,
+  "materialsAndTechniques": "huile sur bois",
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": null,
-      "place": null,
-      "inventory_number": "",
-      "url": ""
+      "name": "GalleriaPalatina",
+      "place": "Florence",
+      "inventory_number": "1912 n. 59",
+      "url": "https://www.uffizi.it/opere/ritratti-doni-raffaello"
     }
   },
   "related_works": [],
@@ -52,9 +52,14 @@
       "date": "2026-06-30T10:30:22.425771",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-31T12:59:30.923527",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "contained_by_ensemble": {},
-  "typology": ""
+  "typology": "Peinture"
 }
