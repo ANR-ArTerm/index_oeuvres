@@ -10,19 +10,13 @@
     }
   ],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1516,
+    "endYear": 1519,
+    "text": "1516-1519"
   },
-  "materialsAndTechniques": null,
+  "materialsAndTechniques": "huile sur toile",
   "location": {
-    "type": "holding_institution",
-    "institution": {
-      "name": null,
-      "place": null,
-      "inventory_number": "",
-      "url": ""
-    }
+    "type": "unlocated"
   },
   "related_works": [],
   "bibliography": [
@@ -40,7 +34,7 @@
       "storage": "online"
     }
   ],
-  "description": "",
+  "description": "Adjugé à Londres en 2007 lors d'une vente aux enchères chez Christie's, emplacement actuel inconnu.",
   "commentary": "",
   "history": [
     {
@@ -52,9 +46,14 @@
       "date": "2026-06-30T10:18:30.958927",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-31T12:25:27.452839",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "contained_by_ensemble": {},
-  "typology": ""
+  "typology": "Peinture"
 }
