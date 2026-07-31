@@ -11,6 +11,10 @@
     {
       "xml_id": "AgostinoCarracci",
       "role": "peintre"
+    },
+    {
+      "xml_id": "Domenichino",
+      "role": "peintre"
     }
   ],
   "dateCreated": {
@@ -22,14 +26,19 @@
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": null,
+      "name": "PalaisFarnese",
       "place": "Rome",
       "inventory_number": "",
       "url": ""
     }
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "ginzburgcarignaniGalleriaFarneseAffreschi2008",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -56,9 +65,14 @@
       "date": "2026-06-10T15:45:01.161828",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-31T15:53:28.282334",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "contained_by_ensemble": {},
-  "status_entry": 1,
+  "status_entry": 0,
   "typology": "Peinture"
 }
