@@ -2,7 +2,7 @@
   "id": "RaphaelDepositionBorghese",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q2500226",
   "entry_type": "artwork",
-  "title": "Déposition Borghèse",
+  "title": "Retable Baglioni",
   "creator": [
     {
       "xml_id": "Raphael",
@@ -10,19 +10,13 @@
     }
   ],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1507,
+    "endYear": 1507,
+    "text": "1507"
   },
-  "materialsAndTechniques": null,
+  "materialsAndTechniques": "huile sur bois",
   "location": {
-    "type": "holding_institution",
-    "institution": {
-      "name": null,
-      "place": null,
-      "inventory_number": "",
-      "url": ""
-    }
+    "type": "multiple_locations"
   },
   "related_works": [],
   "bibliography": [
@@ -34,14 +28,21 @@
   "illustrations": [
     {
       "id": 0,
-      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Raffaello%2C_pala_baglioni%2C_deposizione.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
-      "copyright": "Wikimédia Commons, Domaine Public (https://commons.wikimedia.org/wiki/File:Raffaello,_pala_baglioni,_deposizione.jpg)",
-      "caption": "",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Rekonstruktion_%27Pala_Baglioni%27.jpg/1920px-Rekonstruktion_%27Pala_Baglioni%27.jpg",
+      "copyright": "CC BY-SA 4.0, Westerdam, https://commons.wikimedia.org/wiki/File:Rekonstruktion_%27Pala_Baglioni%27.jpg",
+      "caption": "Reconstruction de la Pala Baglioni",
+      "storage": "online"
+    },
+    {
+      "id": 1,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Raffaello%2C_pala_baglioni%2C_deposizione.jpg/1280px-Raffaello%2C_pala_baglioni%2C_deposizione.jpg?utm_source=it.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "copyright": "Public domain",
+      "caption": "Panneau central représentant la Déposition",
       "storage": "online"
     }
   ],
   "description": "",
-  "commentary": "Problème p16 un carton disparu",
+  "commentary": "",
   "history": [
     {
       "date": "2026-01-15T16:40:40.206983",
@@ -52,9 +53,14 @@
       "date": "2026-06-30T09:18:16.274343",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-31T15:06:50.802055",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "contained_by_ensemble": {},
-  "typology": ""
+  "typology": "Peinture"
 }
