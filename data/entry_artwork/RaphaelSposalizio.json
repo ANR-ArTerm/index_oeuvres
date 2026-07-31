@@ -1,5 +1,5 @@
 {
-  "id": "RaphaelSpozalio",
+  "id": "RaphaelSposalizio",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q2030685",
   "entry_type": "artwork",
   "title": "Mariage de la Vierge",
@@ -10,18 +10,18 @@
     }
   ],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1504,
+    "endYear": 1504,
+    "text": "1504"
   },
   "materialsAndTechniques": "huile sur bois",
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": null,
+      "name": "PinacothèqueDeBrera",
       "place": null,
-      "inventory_number": "",
-      "url": ""
+      "inventory_number": "336",
+      "url": "https://pinacotecabrera.org/collezioni/collezione-on-line/sposalizio-della-vergine/"
     }
   },
   "related_works": [],
@@ -57,9 +57,14 @@
       "date": "2026-06-30T12:02:51.373788",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-31T11:47:24.694045",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "contained_by_ensemble": {},
   "typology": "Peinture"
 }
