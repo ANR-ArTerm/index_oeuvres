@@ -20,8 +20,8 @@
     "institution": {
       "name": "Musée du Louvre",
       "place": "Paris",
-      "inventory_number": "INV 602 ",
-      "url": ""
+      "inventory_number": "602",
+      "url": "https://collections.louvre.fr/en/ark:/53355/cl010060754"
     }
   },
   "related_works": [],
@@ -41,7 +41,7 @@
     }
   ],
   "description": "",
-  "commentary": "voir si la deuxième est aussi au louvre. Erreur chez Daret : bien destinée à l'église santo Spirito, il mélange avec la belle jardinière (peut-être destinée à Sienne mais on n'est pas sûr) qui fut terminée par Ghirlandaio",
+  "commentary": "",
   "history": [
     {
       "date": "2026-01-09T17:12:03.281341",
@@ -97,9 +97,14 @@
       "date": "2026-06-29T17:06:57.633976",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-31T12:37:38.559247",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "contained_by_ensemble": {},
   "typology": "Peinture"
 }
