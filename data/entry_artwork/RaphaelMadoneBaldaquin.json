@@ -10,18 +10,18 @@
     }
   ],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1508,
+    "endYear": 1508,
+    "text": "1508"
   },
-  "materialsAndTechniques": null,
+  "materialsAndTechniques": "huile sur bois",
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": null,
-      "place": null,
-      "inventory_number": "",
-      "url": ""
+      "name": "Gallerie degli Uffizi",
+      "place": "Florence",
+      "inventory_number": "Palatina (1912) n.165",
+      "url": "https://www.uffizi.it/opere/madonna-con-bambino-in-trono-e-i-santi-pietro-bernardo-agostino-e-ranieri-detta-m"
     }
   },
   "related_works": [],
@@ -52,9 +52,14 @@
       "date": "2026-06-30T10:43:03.839548",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-31T11:30:29.262223",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "contained_by_ensemble": {},
-  "typology": ""
+  "typology": "Peinture"
 }
