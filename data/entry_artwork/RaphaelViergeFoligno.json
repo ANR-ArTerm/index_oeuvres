@@ -10,18 +10,18 @@
     }
   ],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1511,
+    "endYear": 1512,
+    "text": "1511-1512"
   },
   "materialsAndTechniques": "peinture grasse à tempera sur bois transférée sur toile",
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": null,
-      "place": null,
-      "inventory_number": "",
-      "url": ""
+      "name": "Pinacothèque vaticane",
+      "place": "Vatican",
+      "inventory_number": "40329",
+      "url": "https://www.museivaticani.va/content/museivaticani/it/collezioni/musei/la-pinacoteca/sala-viii---secolo-xvi/raffaello-sanzio--madonna-di-foligno.html"
     }
   },
   "related_works": [],
@@ -57,9 +57,14 @@
       "date": "2026-07-01T14:13:28.078053",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-31T12:55:22.213183",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "contained_by_ensemble": {},
   "typology": "Peinture"
 }
