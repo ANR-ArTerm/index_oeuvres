@@ -10,18 +10,18 @@
     }
   ],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1507,
+    "endYear": 1507,
+    "text": "1507"
   },
-  "materialsAndTechniques": null,
+  "materialsAndTechniques": "huile sur bois",
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": null,
-      "place": null,
-      "inventory_number": "",
-      "url": ""
+      "name": "Alte Pinakothek",
+      "place": "Monaco",
+      "inventory_number": "476",
+      "url": "https://www.sammlung.pinakothek.de/en/artwork/wE4KqoKLZ5"
     }
   },
   "related_works": [],
@@ -52,9 +52,14 @@
       "date": "2026-06-30T11:40:47.332373",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-31T13:15:43.573577",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "contained_by_ensemble": {},
-  "typology": ""
+  "typology": "Peinture"
 }
