@@ -1,0 +1,84 @@
+{
+  "id": "RaphaelPalaColonna",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q27033728",
+  "entry_type": "artwork",
+  "title": "Retable Colonna",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1503,
+    "endYear": 1505,
+    "text": "1503-1505"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "meyerzurcapellenRaphaelCriticalCatalogue2001",
+      "location": "n. 17"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Madonna_and_Child_Enthroned_with_Saints.jpg/1280px-Madonna_and_Child_Enthroned_with_Saints.jpg?utm_source=it.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": ""
+    },
+    {
+      "id": 1,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Raffaello_Sanzio_-_St._Francis_of_Assissi.jpg",
+      "storage": "online",
+      "copyright": "Public domain ",
+      "caption": "Saint-François, prédelle "
+    },
+    {
+      "id": 2,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/The_Agony_in_the_Garden_MET_DP136373.jpg/1920px-The_Agony_in_the_Garden_MET_DP136373.jpg",
+      "storage": "online",
+      "copyright": "CC0, Pharos, https://commons.wikimedia.org/wiki/File:The_Agony_in_the_Garden_MET_DP136373.jpg",
+      "caption": "Agonie dans le jardin des oliviers, prédelle"
+    },
+    {
+      "id": 3,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Raffaello_Sanzio_-_The_Procession_to_Calvary.jpg/3840px-Raffaello_Sanzio_-_The_Procession_to_Calvary.jpg",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": "Portement de la Croix,  prédelle"
+    },
+    {
+      "id": 4,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rafaello_Sanzio_-_Pietà%2C_c._1503-5.jpg/1920px-Rafaello_Sanzio_-_Pietà%2C_c._1503-5.jpg",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": "Pietà, prédelle"
+    },
+    {
+      "id": 5,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Raffaello_Sanzio_-_St._Anthony_of_Padua.jpg",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": "Saint-Antoine, prédelle"
+    }
+  ],
+  "description": "Démembrée dès le XVIIe siècle. Les compartiments de la prédelle sont conservés dans différents musées à travers le monde.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-31T15:30:11.881644",
+      "type": "created",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Peinture",
+  "materialsAndTechniques": "huile sur bois",
+  "contained_by_ensemble": {}
+}
