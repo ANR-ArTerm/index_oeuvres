@@ -14,9 +14,9 @@
     }
   ],
   "dateCreated": {
-    "startYear": 1521,
-    "endYear": 1521,
-    "text": "1521"
+    "startYear": 1515,
+    "endYear": 1519,
+    "text": "1515-1519"
   },
   "location": {
     "type": "holding_institution",
@@ -24,7 +24,7 @@
       "name": "Vatican, Musées du Vatican",
       "place": "Rome",
       "inventory_number": "",
-      "url": ""
+      "url": "https://catalogo.museivaticani.va/index.php/MultiSearch/Index?search=arazzi+raffaello"
     }
   },
   "related_works": [
@@ -33,7 +33,12 @@
       "xml_id_work": "RaphaelCartonsTapisseriesApotres"
     }
   ],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "destrobelLeoneRaffaelloSistina2020",
+      "location": ""
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -65,10 +70,15 @@
       "date": "2026-06-30T12:05:10.434536",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-31T15:58:01.834914",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
   "materialsAndTechniques": "Tapisserie",
   "contained_by_ensemble": {},
-  "status_entry": 1,
+  "status_entry": 0,
   "typology": "Tapisserie"
 }
