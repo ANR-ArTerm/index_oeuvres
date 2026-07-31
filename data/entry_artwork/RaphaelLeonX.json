@@ -7,25 +7,21 @@
     {
       "xml_id": "Raphael",
       "role": "peintre"
-    },
-    {
-      "xml_id": "GiulioRomano",
-      "role": "peintre"
     }
   ],
   "dateCreated": {
     "startYear": 1518,
-    "endYear": 1520,
-    "text": "1518-1520"
+    "endYear": 1518,
+    "text": "1518"
   },
   "materialsAndTechniques": "huile sur bois",
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": "Musée des Offices",
+      "name": "Gallerie degli Uffizi",
       "place": "Florence",
-      "inventory_number": "",
-      "url": ""
+      "inventory_number": "Palatina n. 40",
+      "url": "https://catalogo.beniculturali.it/detail/HistoricOrArtisticProperty/0900287216"
     }
   },
   "related_works": [],
@@ -39,7 +35,7 @@
     {
       "id": 0,
       "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Portrait_of_Pope_Leo_X_and_his_cousins%2C_cardinals_Giulio_de%27_Medici_and_Luigi_de%27_Rossi_%28by_Raphael%29.jpg",
-      "copyright": "",
+      "copyright": "Public domain",
       "caption": "",
       "storage": "online"
     }
@@ -61,9 +57,14 @@
       "date": "2026-06-30T10:14:49.257141",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-07-31T11:44:02.443170",
+      "type": "modified",
+      "author": "Elisa"
     }
   ],
-  "status_entry": 1,
+  "status_entry": 0,
   "contained_by_ensemble": {},
   "typology": "Peinture"
 }
