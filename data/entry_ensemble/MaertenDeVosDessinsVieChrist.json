@@ -23,7 +23,7 @@
   },
   "related_works": [
     {
-      "link_type": null,
+      "link_type": "appartient au même ensemble",
       "xml_id_work": null
     }
   ],
@@ -31,18 +31,23 @@
   "illustrations": [
     {
       "id": 0,
-      "url": "",
+      "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/6_15/75368ce2_8dc3_4d75_914c_a3bc0102be8d/mid_00428682_001.jpg",
       "storage": "online",
-      "copyright": "Londres, British Museum, inv. 1929,0416.45, © The Trustees of the British Museum. Shared under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) licence, ",
-      "caption": "Frontispice du recueil. "
+      "copyright": "© The Trustees of the British Museum. Shared under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) licence, ",
+      "caption": "Frontispice du recueil, Londres, British Museum, inv. 1929,0416.45."
     }
   ],
-  "description": "",
+  "description": "Il s'agit du frontispice d'une série de cinquante et une planches. Un ensemble complet relié est conservé au British Museum sous la cote BM 157*a.27.",
   "commentary": "",
   "history": [
     {
       "date": "2026-09-01T15:37:03.752893",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-09-01T15:46:11.279193",
+      "type": "modified",
       "author": "Carla"
     }
   ],
