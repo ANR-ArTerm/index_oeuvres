@@ -32,8 +32,8 @@
     {
       "id": 0,
       "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_16/f7cabcf7_8e72_4a24_b40a_a3be0110757c/mid_00445763_001.jpg",
-      "copyright": "© The Trustees of the British Museum. Shared under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) licence.",
-      "caption": "British Museum Londres, inv. 1863,0509.712, (https://www.britishmuseum.org/collection/object/P_1863-0509-712?selectedImageId=445763001)",
+      "copyright": "Londres, British Museum, inv. 1863,0509.712, © The Trustees of the British Museum. Shared under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) licence, (https://www.britishmuseum.org/collection/object/P_1863-0509-712?selectedImageId=445763001)",
+      "caption": "",
       "storage": "online"
     }
   ],
@@ -52,6 +52,11 @@
     },
     {
       "date": "2026-06-26T17:13:54.061644",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-09-01T17:41:20.944029",
       "type": "modified",
       "author": "Carla"
     }
