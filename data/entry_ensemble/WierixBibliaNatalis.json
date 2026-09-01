@@ -15,6 +15,14 @@
     {
       "xml_id": "BernardinoPasseri",
       "role": "auteur du modèle"
+    },
+    {
+      "xml_id": "JohannesWierix",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "HieronymusWierix",
+      "role": "graveur"
     }
   ],
   "dateCreated": {
@@ -27,8 +35,16 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [],
-  "description": "",
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "",
+      "copyright": "",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "L'Evangelicae Historiae Imagines (aussi appelée Biblia Natalis du nom de son auteur, Jérôme Nadal), comprend 153 illustrations.\n",
   "commentary": "",
   "history": [
     {
@@ -38,6 +54,11 @@
     },
     {
       "date": "2026-09-01T16:55:18.609638",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-09-01T17:05:00.470898",
       "type": "modified",
       "author": "Carla"
     }
