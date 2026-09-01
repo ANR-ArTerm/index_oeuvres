@@ -38,9 +38,9 @@
   "illustrations": [
     {
       "id": 0,
-      "url": "",
-      "copyright": "",
-      "caption": "",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Christus_toont_zijn_wonden_Titelpagina_voor_J._Nadal%2C_Evangelicae_Historiae_Imagines%2C_1596%2C_RP-P-OB-67.128.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "copyright": "Amsterdam, Rijksmuseum, Domaine public, inv. RP-P-OB-67.128, (https://id.rijksmuseum.nl/200392335)",
+      "caption": "Frontispice",
       "storage": "online"
     }
   ],
@@ -59,6 +59,11 @@
     },
     {
       "date": "2026-09-01T17:05:00.470898",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-09-01T17:31:36.274756",
       "type": "modified",
       "author": "Carla"
     }
