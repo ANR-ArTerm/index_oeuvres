@@ -11,6 +11,10 @@
     {
       "xml_id": "JanSadeler",
       "role": "graveur"
+    },
+    {
+      "xml_id": "MaertenDeVos",
+      "role": "auteur du modèle"
     }
   ],
   "dateCreated": {
@@ -51,6 +55,11 @@
       "date": "2026-09-01T14:46:00.218952",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-09-01T15:00:02.911477",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
   "status_entry": 2,
@@ -58,7 +67,7 @@
   "contains_works": [
     {
       "link_type": "appartient à l'ensemble",
-      "xml_id_work": "RaphaelSadelerJanSadelerJacobSylvaeSacraeMET",
+      "xml_id_work": "JanSadelerJacobSylvaeSacraeMET",
       "link_types_contained": null
     }
   ]
