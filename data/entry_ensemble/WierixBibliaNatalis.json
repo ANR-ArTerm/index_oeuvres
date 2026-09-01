@@ -11,6 +11,10 @@
     {
       "xml_id": "AntonIIWierix",
       "role": "graveur"
+    },
+    {
+      "xml_id": "BernardinoPasseri",
+      "role": "auteur du modèle"
     }
   ],
   "dateCreated": {
@@ -30,6 +34,11 @@
     {
       "date": "2026-09-01T16:48:19.029885",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-09-01T16:55:18.609638",
+      "type": "modified",
       "author": "Carla"
     }
   ],
