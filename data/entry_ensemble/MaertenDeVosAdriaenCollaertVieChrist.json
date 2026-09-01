@@ -34,7 +34,7 @@
       "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/6_15/75368ce2_8dc3_4d75_914c_a3bc0102be8d/mid_00428682_001.jpg",
       "storage": "online",
       "copyright": "© The Trustees of the British Museum. Shared under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) licence, ",
-      "caption": "Frontispice du recueil, Londres, British Museum, inv. 1929,0416.45."
+      "caption": "Frontispice du recueil, Londres, British Museum, inv. 1930,1216.8.1, (https://www.britishmuseum.org/collection/object/P_1930-1216-8-1?selectedImageId=1613370482)"
     }
   ],
   "description": "Il s'agit du frontispice d'une série de cinquante et une planches. Un ensemble complet relié est conservé au British Museum sous la cote BM 157*a.27.",
@@ -54,9 +54,20 @@
       "date": "2026-09-01T15:48:01.176454",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-09-01T16:11:44.803949",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
   "status_entry": 0,
   "typology": "suite d'estampes",
-  "contains_works": []
+  "contains_works": [
+    {
+      "link_type": "appartient à l'ensemble",
+      "xml_id_work": "MaertenDeVosAdriaenCollaertMiracleChristMerGalilee",
+      "link_types_contained": null
+    }
+  ]
 }
