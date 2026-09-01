@@ -1,0 +1,51 @@
+{
+  "id": "MaertenDeVosAdriaenCollaertMiracleChristMerGalilee",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Le miracle du Christ sur la mer de Galilée",
+  "creator": [
+    {
+      "xml_id": "MaertenDeVos",
+      "role": "auteur du modèle"
+    },
+    {
+      "xml_id": "AdriaenCollaert",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1598,
+    "endYear": 1598,
+    "text": "Vers 1598"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/12_17/fb7f057b_9930_4add_8633_a3e101262e44/mid_00119576_001.jpg",
+      "storage": "online",
+      "copyright": "© The Trustees of the British Museum. Shared under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) licence.",
+      "caption": "Londres, British Museum, inv. 1989,U.890, (https://www.britishmuseum.org/collection/object/P_1989-U-890?selectedImageId=119576001)"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-09-01T16:06:18.375684",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Estampe",
+  "materialsAndTechniques": "gravure",
+  "contained_by_ensemble": {
+    "link_type": "appartient à l'ensemble",
+    "xml_id_work": "MaertenDeVosAdriaenCollaertVieChrist"
+  }
+}
