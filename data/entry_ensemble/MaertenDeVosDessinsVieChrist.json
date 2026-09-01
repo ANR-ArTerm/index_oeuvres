@@ -1,0 +1,52 @@
+{
+  "id": "MaertenDeVosDessinsVieChrist",
+  "QID_wikidata": "",
+  "entry_type": "ensemble",
+  "title": "Dessins de la vie du Christ ou Vita, Passio, et Resurrectio Jesu Christi.",
+  "creator": [
+    {
+      "xml_id": "MaertenDeVos",
+      "role": "auteur du texte"
+    },
+    {
+      "xml_id": "AdriaenCollaert",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1598,
+    "endYear": 1598,
+    "text": "Vers 1598"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [
+    {
+      "link_type": null,
+      "xml_id_work": null
+    }
+  ],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "",
+      "storage": "online",
+      "copyright": "Londres, British Museum, inv. 1929,0416.45, © The Trustees of the British Museum. Shared under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) licence, ",
+      "caption": "Frontispice du recueil. "
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-09-01T15:37:03.752893",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "suite d'estampes",
+  "contains_works": []
+}
