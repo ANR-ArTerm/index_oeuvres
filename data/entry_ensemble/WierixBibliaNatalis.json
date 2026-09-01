@@ -1,0 +1,39 @@
+{
+  "id": "WierixBibliaNatalis",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q20724571",
+  "entry_type": "ensemble",
+  "title": "Biblia Natalis ou Evangelicae Historiae Imagines",
+  "creator": [
+    {
+      "xml_id": "MaertenDeVos",
+      "role": "auteur du modèle"
+    },
+    {
+      "xml_id": "AntonIIWierix",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1593,
+    "endYear": 1593,
+    "text": "1593"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-09-01T16:48:19.029885",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Recueil",
+  "contains_works": []
+}
