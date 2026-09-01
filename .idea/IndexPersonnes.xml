@@ -40702,7 +40702,7 @@
         <idno type="viaf">138282921</idno>
         <idno type="wikidata">Q12050805</idno>
       </person>
-      <person xml:id="HansSadeler" role="graveur flamand (1550-1600)" source="http://www.wikidata.org/entity/Q3161745">
+      <person xml:id="JanSadeler" role="graveur flamand (1550-1600)" source="http://www.wikidata.org/entity/Q3161745">
         <persName ref="https://www.getty.edu/vow/ULANFullDisplay?find=Hans+Sadeler&amp;role=&amp;nation=&amp;prev_page=1&amp;subjectid=500020677">
           <forename>Hans</forename>
           <surname>Sadeler</surname>

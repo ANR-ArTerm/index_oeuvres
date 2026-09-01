@@ -1,5 +1,5 @@
 {
-  "id": "RaphaelSadelerHansSadelerErmites",
+  "id": "RaphaelSadelerJanSadelerErmites",
   "QID_wikidata": "",
   "entry_type": "ensemble",
   "title": "Les ermites ou Sylvae sacrae monumenta anachoretarum ",
@@ -9,7 +9,7 @@
       "role": "graveur"
     },
     {
-      "xml_id": "HansSadeler",
+      "xml_id": "JanSadeler",
       "role": "graveur"
     }
   ],
@@ -53,7 +53,7 @@
   "contains_works": [
     {
       "link_type": "appartient à l'ensemble",
-      "xml_id_work": "RaphaelSadelerHansSadelerJacobSylvaeSacraeMET",
+      "xml_id_work": "RaphaelSadelerJanSadelerJacobSylvaeSacraeMET",
       "link_types_contained": null
     }
   ]
