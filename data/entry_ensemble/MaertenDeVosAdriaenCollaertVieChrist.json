@@ -1,5 +1,5 @@
 {
-  "id": "MaertenDeVosDessinsVieChrist",
+  "id": "MaertenDeVosAdriaenCollaertVieChrist",
   "QID_wikidata": "",
   "entry_type": "ensemble",
   "title": "Dessins de la vie du Christ ou Vita, Passio, et Resurrectio Jesu Christi.",
@@ -47,6 +47,11 @@
     },
     {
       "date": "2026-09-01T15:46:11.279193",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-09-01T15:48:01.176454",
       "type": "modified",
       "author": "Carla"
     }
