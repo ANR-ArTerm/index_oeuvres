@@ -1,5 +1,5 @@
 {
-  "id": "RaphaelSadelerJanSadelerJacobSylvaeSacraeMET",
+  "id": "JanSadelerJacobSylvaeSacraeMET",
   "QID_wikidata": "",
   "entry_type": "artwork",
   "title": "Figure de Jacob issue de la série Sylvae Sacrae Monumenta Anachoretarum",
@@ -44,6 +44,11 @@
       "date": "2026-06-30T11:46:18.072267",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-09-01T14:57:45.943689",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
   "status_entry": 1,
