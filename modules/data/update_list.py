@@ -22,9 +22,6 @@ def update_list_institutions():
 
     save_list_to_list_form("institutions", list(institutions))
 
-DATA_DIR = "data"
-LIST_FORM_DIR = os.path.join(DATA_DIR, "list_form")
-
 LISTS_EDITABLE = {
     "📍 Villes et pays":"places.json",
     "👤 Artistes":"persons.json",

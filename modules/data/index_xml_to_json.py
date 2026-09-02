@@ -1,3 +1,5 @@
+"""Synchronisation des index TEI personnes et lieux avec les listes JSON."""
+
 from pathlib import Path
 import json
 import xml.etree.ElementTree as ET
@@ -25,7 +27,7 @@ def sync_person_ids():
     """
 
     XML_PATH = BASE_DIR / "corpus" / "IndexPersonnes.xml"
-    JSON_PATH = Path("data") / "list_form" / "persons.json"
+    JSON_PATH = BASE_DIR / "data" / "list_form" / "persons.json"
 
     # --- Vérification XML ---
     if not XML_PATH.exists():
@@ -77,7 +79,7 @@ def sync_place_ids():
     """
 
     XML_PATH = BASE_DIR / "corpus" / "IndexLieux.xml"
-    JSON_PATH = Path("data") / "list_form" / "places.json"
+    JSON_PATH = BASE_DIR / "data" / "list_form" / "places.json"
     
     # --- Vérification XML ---
     if not XML_PATH.exists():

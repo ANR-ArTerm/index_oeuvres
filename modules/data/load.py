@@ -1,3 +1,5 @@
+"""Chargement et sauvegarde des notices et des listes de formulaire."""
+
 import json
 import os
 from dotenv import load_dotenv
@@ -8,13 +10,14 @@ from modules.git_tools import git_commit_and_push, git_pull
 
 # Variables et csv
 
-DATA_DIR = "data"
-ARTWORK_DIR = os.path.join(DATA_DIR, "entry_artwork")
-BUILDING_DIR = os.path.join(DATA_DIR, "entry_building")
-ENSEMBLE_DIR = os.path.join(DATA_DIR, "entry_ensemble")
-IMAGES_DIR = os.path.join(DATA_DIR, "images")
-LIST_FORM_DIR = os.path.join(DATA_DIR, "list_form")
-WIKIDATA_DIR = os.path.join(DATA_DIR, "wikidata_list")
+BASE_DIR = Path(__file__).resolve().parents[2]
+DATA_DIR = BASE_DIR / "data"
+ARTWORK_DIR = DATA_DIR / "entry_artwork"
+BUILDING_DIR = DATA_DIR / "entry_building"
+ENSEMBLE_DIR = DATA_DIR / "entry_ensemble"
+IMAGES_DIR = DATA_DIR / "images"
+LIST_FORM_DIR = DATA_DIR / "list_form"
+WIKIDATA_DIR = DATA_DIR / "wikidata_list"
 
 TYPE_DIRS = {
         "artwork": ARTWORK_DIR,
@@ -67,6 +70,9 @@ def load_all_entries(type_name: str):
     folder = TYPE_DIRS[type_name]
     notices = []
 
+    if not os.path.isdir(folder):
+        return notices
+
     # Parcourir tous les fichiers JSON du dossier
     for filename in os.listdir(folder):
         if filename.endswith(".json"):
@@ -98,8 +104,7 @@ def load_all_notices():
     oeuvres = []
     filenames = []
 
-    if not os.path.exists(DATA_DIR):
-        os.makedirs(DATA_DIR)
+    DATA_DIR.mkdir(parents=True, exist_ok=True)
 
     # --- Chargement JSON ---
     for file in os.listdir(DATA_DIR):
