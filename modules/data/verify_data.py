@@ -1,3 +1,5 @@
+"""Vérification et corrections des notices JSON de l'application."""
+
 import json
 from pathlib import Path
 import re
@@ -5,9 +7,9 @@ import re
 from modules.data.load import load_all_entries, load_list_form, save_list_to_list_form
 
 DATA_DIRS = [
-    Path("data") / "entry_building",
-    Path("data") / "entry_artwork",
-    Path("data") / "entry_ensemble"
+    Path(__file__).resolve().parents[2] / "data" / "entry_building",
+    Path(__file__).resolve().parents[2] / "data" / "entry_artwork",
+    Path(__file__).resolve().parents[2] / "data" / "entry_ensemble",
 ]
 
 
@@ -83,6 +85,10 @@ def verify_json_entries(data_dirs=DATA_DIRS):
     valid_pattern = re.compile(r"^[A-Za-z0-9]+$")
 
     for data_dir in data_dirs:
+        if not data_dir.exists():
+            errors.append(f"[DOSSIER ABSENT] {data_dir}")
+            continue
+
         for json_file in data_dir.glob("*.json"):
             try:
                 data = json.loads(json_file.read_text(encoding="utf-8"))

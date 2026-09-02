@@ -104,7 +104,7 @@ if st.sidebar.button("👥 Synchroniser l'index XML des personnes"):
         else:
             st.sidebar.success("L’index XML est à jour")
 
-    except FileNotFoundError as e:
+    except (FileNotFoundError, ValueError) as e:
         st.sidebar.error(str(e))
 
 if st.sidebar.button("👥 Synchroniser l'index XML des lieux"):
@@ -123,7 +123,7 @@ if st.sidebar.button("👥 Synchroniser l'index XML des lieux"):
         else:
             st.sidebar.success("L’index lieux est à jour")
 
-    except FileNotFoundError as e:
+    except (FileNotFoundError, ValueError) as e:
         st.sidebar.error(str(e))
 
 if st.sidebar.button("🎨 Synchroniser Index XML des œuvres"):
@@ -131,11 +131,14 @@ if st.sidebar.button("🎨 Synchroniser Index XML des œuvres"):
         ids = sync_oeuvres_from_json()
 
         st.sidebar.success(f"Index XML reconstruit avec succès : {len(ids)} notices indexées dans l'indexOeuvres.xml")
-        total_notices = len(load_all_entries("artwork")) + len(load_all_entries("building"))
+        total_notices = sum(
+            len(load_all_entries(type_name))
+            for type_name in ("artwork", "building", "ensemble")
+        )
         if len(ids) != total_notices:
             st.sidebar.error(f"Attention, {total_notices - len(ids)} notices semblent corrompues, vérifier grâce à l'outil ci-dessous")
 
-    except FileNotFoundError as e:
+    except (FileNotFoundError, ValueError) as e:
         st.sidebar.error(str(e))
 
 st.sidebar.title("Vérification")
