@@ -1,0 +1,50 @@
+{
+  "id": "OttoVanVeenPortraitAlbertDAutricheIsabelleClaireEugenieDAutricheGloucestershire",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q134988935",
+  "entry_type": "artwork",
+  "title": "Portrait de l'archiduc Albert VII d'Autriche et de l'infante Isabelle Claire Eugenie d'Autriche",
+  "creator": [
+    {
+      "xml_id": "OttoVanVeen",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1615,
+    "endYear": 1615,
+    "text": "1615"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Collection privée de Monsieurs le comte de Wemyss et March, K.T.",
+      "place": null,
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Landvoogden_Albrecht_en_Isabella_van_Oostenrijk.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, Conscious, (https://commons.wikimedia.org/wiki/File:Landvoogden_Albrecht_en_Isabella_van_Oostenrijk.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-09-02T13:38:56.034604",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Peinture",
+  "materialsAndTechniques": "huile sur bois",
+  "contained_by_ensemble": {}
+}
