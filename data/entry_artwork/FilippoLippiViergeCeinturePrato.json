@@ -18,8 +18,8 @@
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": "Musée civique",
-      "place": null,
+      "name": "Palazzo Pretorio Museum",
+      "place": "Prato",
       "inventory_number": "",
       "url": ""
     }
