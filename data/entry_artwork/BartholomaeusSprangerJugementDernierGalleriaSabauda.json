@@ -1,0 +1,50 @@
+{
+  "id": "BartholomaeusSprangerJugementDernierGalleriaSabauda",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Jugement dernier",
+  "creator": [
+    {
+      "xml_id": "BartholomaeusSpranger",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1570,
+    "endYear": 1571,
+    "text": "1570-1571"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Galleria Sabauda, Musei Reali",
+      "place": "Turin",
+      "inventory_number": "inv. 6",
+      "url": "https://museireali.beniculturali.it/catalogo-galleria-sabauda/#/dettaglio/59967_Giudizio%20Universale"
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Spranger_-_Giudizio_Universale%2C_1570_-_1571%2C_6_-_Galleria_Sabauda.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, Maltaper, (https://commons.wikimedia.org/wiki/File:Spranger_-_Giudizio_Universale,_1570_-_1571,_6_-_Galleria_Sabauda.png)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-09-02T10:35:40.140473",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Peinture",
+  "materialsAndTechniques": "Huile sur cuivre",
+  "contained_by_ensemble": {}
+}
