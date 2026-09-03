@@ -1,5 +1,5 @@
 {
-  "id": "LeonardIsabelleEste",
+  "id": "LeonardoDaVinciPortraitIsabelleEsteLouvre",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q591128",
   "entry_type": "artwork",
   "title": "Portrait d'Isabelle d'Este",
@@ -18,9 +18,9 @@
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": null,
-      "place": null,
-      "inventory_number": "",
+      "name": "Musée du Louvre",
+      "place": "Paris",
+      "inventory_number": "inv.MI 753",
       "url": ""
     }
   },

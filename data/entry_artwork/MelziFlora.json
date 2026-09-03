@@ -1,5 +1,5 @@
 {
-  "id": "MelziFlora",
+  "id": "FrancescoMelziFloraHermitageSaintPetersbourg",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q21716903",
   "entry_type": "artwork",
   "title": "Flora",
@@ -18,8 +18,8 @@
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": null,
-      "place": null,
+      "name": "Hermitage",
+      "place": "SaintPetersbourg",
       "inventory_number": "",
       "url": ""
     }

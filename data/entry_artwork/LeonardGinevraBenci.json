@@ -1,6 +1,6 @@
 {
-  "id": "LeonardGinevraBenci",
-  "QID_wikidata": "",
+  "id": "LeonardoDaVinciPortraitGinevraBenciNGWashington",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1267893",
   "entry_type": "artwork",
   "title": "Portrait de Ginevra Benci",
   "creator": [
@@ -18,9 +18,9 @@
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": null,
-      "place": null,
-      "inventory_number": "",
+      "name": "National Gallery of Art",
+      "place": "Washington",
+      "inventory_number": "inv. 1967.6.1.a",
       "url": ""
     }
   },

@@ -1,5 +1,5 @@
 {
-  "id": "LeonardAdorationMages",
+  "id": "LeonardoDaVinciAdorationMagesOfficesFlorence",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q1638622",
   "entry_type": "artwork",
   "title": "Adoration des Mages",
@@ -18,8 +18,8 @@
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": null,
-      "place": null,
+      "name": "Offices",
+      "place": "Florence",
       "inventory_number": "",
       "url": ""
     }

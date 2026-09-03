@@ -1,5 +1,5 @@
 {
-  "id": "MantegnaChapelleOvetari",
+  "id": "AndreaMantegnaChapelleOvetariEgliseDesEremitiquesPadoue",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q3087562",
   "entry_type": "artwork",
   "title": "Fresques de la chapelle Ovetari",
@@ -9,8 +9,10 @@
       "role": "peintre"
     },
     {
-      "xml_id": "NiccolòPizzolo",
+      "xml_id": "NiccoloPizzolo",
       "role": "peintre"
+
+
     },
     {
       "xml_id": "AntonioVivarini",

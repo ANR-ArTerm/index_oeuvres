@@ -1,5 +1,5 @@
 {
-  "id": "LEnlevementdesSabines",
+  "id": "GiambolognaEnlevementSabinesLoggiaDeiLanziFlorence",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q3545179",
   "entry_type": "artwork",
   "title": "L'Enlèvement des Sabines",
@@ -15,14 +15,13 @@
     "text": "1579–1583"
   },
   "location": {
-    "type": "place",
-    "place": {
-      "city": "Florence",
-      "country": "Italie",
-      "coordinates": {
-        "latitude": "",
-        "longitude": ""
-      }
+    "type": "holding_institution",
+    "institution": {
+      "name": "Loggia dei Lanzi",
+      "place": "Florence",
+      "inventory_number": "",
+      "url":""
+    
     }
   },
   "related_works": [],
