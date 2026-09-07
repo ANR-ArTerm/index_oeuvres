@@ -1,5 +1,5 @@
 {
-  "id": "RaphaelSibyllesProphetesChigi",
+  "id": "RaphaelSibyllesProphetesChigiSantaMariaDellaPaceRome",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q1639900",
   "entry_type": "artwork",
   "title": "Les Sibylles et les Prophètes (Raphaël)\r",
@@ -18,7 +18,7 @@
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": "Église Sainte-Marie-de-la-Paix",
+      "name": "Église Santa Maria della Pace",
       "place": "Rome",
       "inventory_number": "",
       "url": ""

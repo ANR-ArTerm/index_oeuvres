@@ -1,11 +1,15 @@
 {
-  "id": "RaimondiMadeleineMarie",
+  "id": "MarcantonioRaimondiRaphaelNotreDameEscalier",
   "QID_wikidata": "",
-  "title": "Notre Dame de l'escalier",
+  "title": "Notre Dame à l'escalier",
   "creator": [
     {
       "xml_id": "MarcantonioRaimondi",
       "role": "graveur"
+    },
+    {
+      "xml_id": "Raphael",
+      "role": "auteur du modèle"
     }
   ],
   "entry_type": "artwork",

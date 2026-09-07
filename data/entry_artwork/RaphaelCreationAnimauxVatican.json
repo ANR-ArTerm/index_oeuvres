@@ -17,8 +17,8 @@
   "location": {
     "type": "holding_institution",
     "institution": {
-      "name": null,
-      "place": null,
+      "name": "",
+      "place": "Rome",
       "inventory_number": "",
       "url": ""
     }
