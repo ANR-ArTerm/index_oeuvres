@@ -1,5 +1,5 @@
 {
-  "id": "BasiliqueSantaMariaDelPopolo",
+  "id": "AndreaBregnoGiovanninoDeDolciBasiliqueSantaMariaDelPopoloRome",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q869513",
   "entry_type": "building",
   "title": "Basilique Santa Maria del Popolo",
@@ -9,7 +9,7 @@
       "role": "architecte"
     },
     {
-      "xml_id": "GiovanninoDe'Dolci",
+      "xml_id": "GiovanninoDeDolci",
       "role": "architecte"
     }
   ],
