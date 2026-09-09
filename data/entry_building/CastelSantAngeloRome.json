@@ -1,13 +1,9 @@
 {
-  "id": "CastelSantAngeloRome",
+  "id": "AntonioDaSangalloIlGiovaneCastelSantAngeloRome",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q486382",
   "entry_type": "building",
   "title": "Château Saint-Ange Rome",
   "creator": [
-    {
-      "xml_id": null,
-      "role": "architecte"
-    },
     {
       "xml_id": "Pinturicchio",
       "role": "peintre"
@@ -15,14 +11,6 @@
     {
       "xml_id": "AntonioDaSangalloIlGiovane",
       "role": "architecte"
-    },
-    {
-      "xml_id": null,
-      "role": "peintre"
-    },
-    {
-      "xml_id": null,
-      "role": "peintre"
     }
   ],
   "dateCreated": {

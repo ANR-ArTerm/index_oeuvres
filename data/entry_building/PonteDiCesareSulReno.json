@@ -1,5 +1,5 @@
 {
-  "id": "PonteDiCesareSulReno",
+  "id": "PonteDiCesareSulRenoNeuwied",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q320210",
   "entry_type": "building",
   "title": "Pont sur le Rhin",
@@ -12,7 +12,7 @@
   "location": {
     "type": "place",
     "place": {
-      "city": null,
+      "city": "Neuwied",
       "country": "Allemagne",
       "coordinates": {
         "latitude": "50.413333333",

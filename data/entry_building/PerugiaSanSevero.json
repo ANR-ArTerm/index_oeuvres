@@ -1,5 +1,5 @@
 {
-  "id": "PerugiaSanSevero",
+  "id": "GiovanFrancescoDiSangroAlessandroDiSangroChapelleSanSeveroPerouse",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q2957143",
   "entry_type": "building",
   "title": "Chapelle Saint Severe",
@@ -22,7 +22,7 @@
   "location": {
     "type": "place",
     "place": {
-      "city": "Naples",
+      "city": "Perouse",
       "country": "Italie",
       "coordinates": {
         "latitude": "",

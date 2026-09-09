@@ -1,11 +1,11 @@
 {
-  "id": "CathedraleSaintBavonGand",
+  "id": "AdrienDeCroyCathedraleSaintBavonGand",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q938154",
   "entry_type": "building",
   "title": "Cathédrale Saint-Bavon",
   "creator": [
     {
-      "xml_id": "AdrienDeCroÿ",
+      "xml_id": "AdrienDeCroy",
       "role": "architecte"
     }
   ],

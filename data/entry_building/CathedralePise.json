@@ -1,5 +1,5 @@
 {
-  "id": "CathedralePise",
+  "id": "BuschettoRainaldoCathedralePise",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q1754247",
   "entry_type": "building",
   "title": "Cathédrale Notre-Dame-de-l'Assomption de Pise",
@@ -9,7 +9,7 @@
       "role": "architecte"
     },
     {
-      "xml_id": " Rainaldo",
+      "xml_id": "Rainaldo",
       "role": "architecte"
     }
   ],

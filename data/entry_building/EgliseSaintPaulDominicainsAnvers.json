@@ -1,15 +1,11 @@
 {
-  "id": "EgliseSaintPaulDominicainsAnvers",
+  "id": "FransStuyckDominikusDeWaghemakereEgliseSaintPaulDominicainsAnvers",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q2272511",
   "entry_type": "building",
   "title": "Église Saint-Paul d'Anvers",
   "creator": [
     {
       "xml_id": "DominikusDeWaghemakere",
-      "role": "architecte"
-    },
-    {
-      "xml_id": null,
       "role": "architecte"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "id": "BibliothequeAmbrosienneMilan",
+  "id": "FabioMangoneGiacomoMoragliaFrancescoMariaRichiniBibliothequeAmbrosienneMilan",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q815611",
   "entry_type": "building",
   "title": "Bibliothèque Ambrosienne",
@@ -9,7 +9,7 @@
       "role": "architecte"
     },
     {
-      "xml_id": "FabioMangone ",
+      "xml_id": "FabioMangone",
       "role": "architecte"
     },
     {

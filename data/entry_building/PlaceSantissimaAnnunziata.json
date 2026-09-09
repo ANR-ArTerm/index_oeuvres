@@ -1,5 +1,5 @@
 {
-  "id": "PlaceSantissimaAnnunziata",
+  "id": "BrunelleschiPlaceSantissimaAnnunziataFlorence",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q866192",
   "entry_type": "building",
   "title": "Place de la Santissima Annunziata",
@@ -13,7 +13,7 @@
       "role": "architecte"
     },
     {
-      "xml_id": "AntonioDaSangalloIl Vecchio",
+      "xml_id": "AntonioDaSangalloIlVecchio",
       "role": "architecte"
     },
     {
