@@ -1,5 +1,5 @@
 {
-  "id": "SanDomenicoMaggioreNaples",
+  "id": "PierreDAngicourtPierreDeChaulEgliseSanDomenicoMaggioreNaples",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q897603",
   "entry_type": "building",
   "title": "Église San Domenico Maggiore",
@@ -9,7 +9,7 @@
       "role": "architecte"
     },
     {
-      "xml_id": " PierreD'Angicourt",
+      "xml_id": "PierreDAngicourt",
       "role": "architecte"
     }
   ],

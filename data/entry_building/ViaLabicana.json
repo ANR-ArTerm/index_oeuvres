@@ -1,5 +1,5 @@
 {
-  "id": "ViaLabicana",
+  "id": "ViaLabicanaRome",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q763100",
   "entry_type": "building",
   "title": "Voie Labicana",
@@ -12,7 +12,7 @@
   "location": {
     "type": "place",
     "place": {
-      "city": null,
+      "city": "Rome",
       "country": "Italie",
       "coordinates": {
         "latitude": "",

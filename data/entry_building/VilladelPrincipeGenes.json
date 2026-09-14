@@ -1,11 +1,11 @@
 {
-  "id": "VilladelPrincipeGenes",
+  "id": "PerinDelVagaVillaDelPrincipeGenes",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q3558847",
   "entry_type": "building",
   "title": "Villa del Principe ou palazzo di Andrea Doria",
   "creator": [
     {
-      "xml_id": "PerinDelVaga ",
+      "xml_id": "PerinDelVaga",
       "role": "architecte"
     }
   ],
