@@ -1,0 +1,56 @@
+{
+  "id": "GiovanniPaoloLomazzoChapelleFoppa",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q27985723",
+  "entry_type": "building",
+  "title": "Chapelle Foppa, église de San Marco à Milan",
+  "creator": [
+    {
+      "xml_id": "GiovanniPaoloLomazzo",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1400,
+    "endYear": 1600,
+    "text": "édifiée au XVe siècle, décorée au XVIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Milan",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "EgliseSanMarcoMilan"
+    }
+  ],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/San_Marco%2C_Milano_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Parsifall (https://commons.wikimedia.org/wiki/File:San_Marco,_Milano_08.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-09-15T12:14:45.439458",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Chapelle",
+  "contained_by_ensemble": {}
+}
