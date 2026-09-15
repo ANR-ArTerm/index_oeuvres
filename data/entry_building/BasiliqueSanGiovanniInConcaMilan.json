@@ -1,0 +1,46 @@
+{
+  "id": "BasiliqueSanGiovanniInConcaMilan",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q549977",
+  "entry_type": "building",
+  "title": "Basilique de San Giovanni in Conca à Milan",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1200,
+    "endYear": 1948,
+    "text": ""
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Milan",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Milano%2C_piazza_Missori_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, public domain, SkyScraperCity - Milano Sparita (https://commons.wikimedia.org/wiki/File:Milano,_piazza_Missori_01.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "La basilique remonte au IVéme siècle, fut reconstruite au XIéme siècle et puis détruite en 1162. Elle fut de nouveau rebatie au XIIIéme siècle et enfin démolie en 1948.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-09-15T11:28:39.557894",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {}
+}
