@@ -1,0 +1,46 @@
+{
+  "id": "EgliseSanMarcoMilan",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q839168",
+  "entry_type": "building",
+  "title": "Eglise de San Marco à Milan",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1245,
+    "endYear": 1800,
+    "text": "entre XIIe et XIXe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Milan",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Chiesa_di_San_Marco_-_Milano.JPG?utm_source=it.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Stefano Stabile (https://commons.wikimedia.org/wiki/File:Chiesa_di_San_Marco_-_Milano.JPG)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-09-15T12:09:48.112958",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "église",
+  "contained_by_ensemble": {}
+}
