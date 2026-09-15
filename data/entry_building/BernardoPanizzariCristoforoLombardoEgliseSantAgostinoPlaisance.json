@@ -1,0 +1,59 @@
+{
+  "id": "BernardoPanizzariCristoforoLombardoEgliseSantAgostinoPlaisance",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q19893837",
+  "entry_type": "building",
+  "title": "Eglise de Sant'Agostino à Plaisance",
+  "creator": [
+    {
+      "xml_id": "BernardoPanizzari",
+      "role": "créateur du projet"
+    },
+    {
+      "xml_id": "CristoforoLombardo",
+      "role": "créateur du projet"
+    },
+    {
+      "xml_id": "CamilloMorigia",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1569,
+    "endYear": 1792,
+    "text": "entre XVIe et XVIIIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Plaisance",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Chiesa_di_Sant%27Agostino_%28Piacenza%29_-_facciata_2022-08-08.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Parma1983 (https://commons.wikimedia.org/wiki/File:Chiesa_di_Sant%27Agostino_(Piacenza)_-_facciata_2022-08-08.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "Bernardo Panizzari et Cristoforo Lombardo sont les auteurs du projet original au XVIe siècle. Camillo Morigia a créé la façade en 1786.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-09-15T12:29:13.893810",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "église",
+  "contained_by_ensemble": {}
+}
