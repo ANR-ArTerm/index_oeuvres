@@ -22,14 +22,14 @@
   "illustrations": [
     {
       "id": 0,
-      "url": "https://gallica.bnf.fr/ark:/12148/bpt6k1518672p/f7.highres",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k1518672p/f7/full/full/0/native.jpg",
       "storage": "online",
-      "copyright": "",
-      "caption": ""
+      "copyright": "Gallica, bibliothèque Nationale de France, Domaine public, (https://gallica.bnf.fr/view3if/ga/ark:/12148/bpt6k1518672p/f7) ",
+      "caption": "Frontispice"
     }
   ],
   "description": "",
-  "commentary": "https://gallica.bnf.fr/ark:/12148/bpt6k1518672p/f7.item lien gallica pas de notice wikidata",
+  "commentary": "\n",
   "history": [
     {
       "date": "2026-01-26T17:05:59.166892",
@@ -45,6 +45,11 @@
       "date": "2026-07-06T09:57:47.901479",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-09-16T18:45:30.111918",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
   "typology": "suite d'estampes",
