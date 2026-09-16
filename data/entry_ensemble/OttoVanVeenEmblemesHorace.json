@@ -24,7 +24,7 @@
       "id": 0,
       "url": "https://ia902805.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/qhoratiflacciemb00veen/qhoratiflacciemb00veen_jp2.zip&file=qhoratiflacciemb00veen_jp2/qhoratiflacciemb00veen_0007.jp2&id=qhoratiflacciemb00veen&scale=4&rotate=0",
       "storage": "online",
-      "copyright": "",
+      "copyright": "Internet Archive, domaine public, (https://archive.org/details/qhoratiflacciemb00veen/page/n5/mode/2up)",
       "caption": ""
     }
   ],
@@ -40,6 +40,11 @@
       "date": "2026-07-03T16:46:30.039244",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-09-16T18:32:11.645771",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
   "typology": "suite d'estampes",
