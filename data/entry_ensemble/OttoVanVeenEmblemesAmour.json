@@ -2,7 +2,7 @@
   "id": "OttoVanVeenEmblemesAmour",
   "QID_wikidata": "",
   "entry_type": "ensemble",
-  "title": "Emblèmes des Amours divins et profanes ou Quinti Horatii Flacci Emblemata, imaginibus in æs incisis, notisque illustrata",
+  "title": "Emblèmes des Amours divins et profanes ",
   "creator": [
     {
       "xml_id": "OttoVanVeen",
@@ -12,7 +12,7 @@
   "dateCreated": {
     "startYear": 1607,
     "endYear": 1607,
-    "text": "1607"
+    "text": "?"
   },
   "location": {
     "type": "multiple_locations"
@@ -22,9 +22,9 @@
   "illustrations": [
     {
       "id": 0,
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Zinnebeelden%2C_getrokken_uit_Horatius_Flaccus_%28IA_zinnebeeldengetr00veen%29.pdf/page13-500px-Zinnebeelden%2C_getrokken_uit_Horatius_Flaccus_%28IA_zinnebeeldengetr00veen%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
-      "copyright": "Wikimedia Commons, domaine public, Fæ, (https://commons.wikimedia.org/w/index.php?title=File:Zinnebeelden,_getrokken_uit_Horatius_Flaccus_(IA_zinnebeeldengetr00veen).pdf&page=13#bodyContent) ",
-      "caption": "Virtus Inconcussa ou la vertu inébranlable",
+      "url": "",
+      "copyright": "",
+      "caption": "",
       "storage": "online"
     }
   ],
@@ -48,6 +48,11 @@
     },
     {
       "date": "2026-09-16T18:21:26.885649",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-09-16T18:33:10.385152",
       "type": "modified",
       "author": "Carla"
     }
