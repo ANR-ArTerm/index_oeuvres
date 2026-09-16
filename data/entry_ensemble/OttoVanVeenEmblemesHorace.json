@@ -2,7 +2,7 @@
   "id": "OttoVanVeenEmblemesHorace",
   "QID_wikidata": "",
   "entry_type": "ensemble",
-  "title": "Les emblèmes d'Horace",
+  "title": "Les emblèmes d'Horace ou ou Quinti Horatii Flacci Emblemata, imaginibus in æs incisis, notisque illustrata",
   "creator": [
     {
       "xml_id": "OttoVanVeen",
@@ -43,6 +43,11 @@
     },
     {
       "date": "2026-09-16T18:32:11.645771",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-09-16T18:33:48.625442",
       "type": "modified",
       "author": "Carla"
     }
