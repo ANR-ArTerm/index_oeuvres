@@ -2,19 +2,32 @@
   "id": "OttoVanVeenEmblemesAmour",
   "QID_wikidata": "",
   "entry_type": "ensemble",
-  "title": "Emblèmes des Amours divins et profanes",
-  "creator": [],
+  "title": "Emblèmes des Amours divins et profanes ou Quinti Horatii Flacci Emblemata, imaginibus in æs incisis, notisque illustrata",
+  "creator": [
+    {
+      "xml_id": "OttoVanVeen",
+      "role": "auteur du texte"
+    }
+  ],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": "?"
+    "startYear": 1607,
+    "endYear": 1607,
+    "text": "1607"
   },
   "location": {
     "type": "multiple_locations"
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Zinnebeelden%2C_getrokken_uit_Horatius_Flaccus_%28IA_zinnebeeldengetr00veen%29.pdf/page13-500px-Zinnebeelden%2C_getrokken_uit_Horatius_Flaccus_%28IA_zinnebeeldengetr00veen%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+      "copyright": "Wikimedia Commons, domaine public, Fæ, (https://commons.wikimedia.org/w/index.php?title=File:Zinnebeelden,_getrokken_uit_Horatius_Flaccus_(IA_zinnebeeldengetr00veen).pdf&page=13#bodyContent) ",
+      "caption": "Virtus Inconcussa ou la vertu inébranlable",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "trouver de laquelle des suites il est question ou Amoris divini emblemata, 1615.",
   "history": [
@@ -32,6 +45,11 @@
       "date": "2026-07-06T10:15:44.113299",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-09-16T18:21:26.885649",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
   "typology": "suite d'estampes",
