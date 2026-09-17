@@ -1,0 +1,46 @@
+{
+  "id": "BasiliqueSainteMarieMajeureRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q186282",
+  "entry_type": "building",
+  "title": "Basilique Sainte-Marie-Majeure de Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 432,
+    "endYear": 1864,
+    "text": "entre Ve et XIXe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Basilica_di_Santa_Maria_Maggiore_-_Roma.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, NikonZ7II (https://commons.wikimedia.org/wiki/File:Basilica_di_Santa_Maria_Maggiore_-_Roma.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-09-17T08:35:57.899459",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "basilique",
+  "contained_by_ensemble": {}
+}
