@@ -1,0 +1,45 @@
+{
+  "id": "RaphaelSaintGeorgesEtLeDragonNGWashington",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2622161",
+  "entry_type": "artwork",
+  "title": "Saint Georges et le dragon (Washington)",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1506,
+    "endYear": 1506,
+    "text": "1506"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "National Galerie washington",
+      "place": "Washington",
+      "inventory_number": "1937.1.26",
+      "url": "https://www.nga.gov/artworks/28-saint-george-and-dragon"
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Raphael_-_Saint_George_and_the_Dragon_-_Google_Art_Project.jpg?utm_source=it.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, public domain (https://commons.wikimedia.org/wiki/File:Raphael_-_Saint_George_and_the_Dragon_-_Google_Art_Project.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-09-17T09:34:51.093590",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Peinture",
+  "materialsAndTechniques": "huile sur bois",
+  "contained_by_ensemble": {}
+}
