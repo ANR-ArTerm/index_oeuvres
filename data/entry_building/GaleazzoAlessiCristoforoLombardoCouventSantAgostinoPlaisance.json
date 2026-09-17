@@ -1,0 +1,52 @@
+{
+  "id": "GaleazzoAlessiCristoforoLombardoCouventSantAgostinoPlaisance",
+  "QID_wikidata": "",
+  "entry_type": "building",
+  "title": "Couvent de l'église de Sant'Agostino à Plaisance",
+  "creator": [
+    {
+      "xml_id": "GaleazzoAlessi",
+      "role": "créateur du projet"
+    },
+    {
+      "xml_id": "CristoforoLombardo",
+      "role": "créateur du projet"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1570,
+    "endYear": null,
+    "text": "XVIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Plaisance",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "BernardoPanizzariEgliseSantAgostinoPlaisance"
+    }
+  ],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-09-17T08:21:12.543049",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "couvent",
+  "contained_by_ensemble": {}
+}
