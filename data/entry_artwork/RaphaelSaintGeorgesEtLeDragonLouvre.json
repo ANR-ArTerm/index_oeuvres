@@ -1,0 +1,50 @@
+{
+  "id": "RaphaelSaintGeorgesEtLeDragonLouvre",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2529918",
+  "entry_type": "artwork",
+  "title": "Saint Georges et le dragon (Louvre)",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1503,
+    "endYear": 1505,
+    "text": "entre 1503 et 1505"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Musée du Louvre",
+      "place": "Paris",
+      "inventory_number": "INV609 MR440",
+      "url": "https://collections.louvre.fr/ark:/53355/cl010060772"
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Saint_Georges_luttant_avec_le_dragon_-_Rapha%C3%ABl_-_Mus%C3%A9e_du_Louvre_Peintures_INV_609_%3B_MR_440.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, public domain (https://commons.wikimedia.org/wiki/File:Saint_Georges_luttant_avec_le_dragon_-_Rapha%C3%ABl_-_Mus%C3%A9e_du_Louvre_Peintures_INV_609_;_MR_440.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-09-17T12:00:16.653450",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Peinture",
+  "materialsAndTechniques": "huile sur bois",
+  "contained_by_ensemble": {}
+}
