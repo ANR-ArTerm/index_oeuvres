@@ -1,0 +1,46 @@
+{
+  "id": "StadeOlympie",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q4357227",
+  "entry_type": "building",
+  "title": "Stade Olympe",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -800,
+    "endYear": -700,
+    "text": "VIIe siècle qv. J.-C-"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Olympie",
+      "country": "Grece",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/OlympicRaceTrackOlympia.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, public domain, \tDwaipayanc (https://commons.wikimedia.org/wiki/File:OlympicRaceTrackOlympia.JPG)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-09-17T13:03:57.914281",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Stade",
+  "contained_by_ensemble": {}
+}
