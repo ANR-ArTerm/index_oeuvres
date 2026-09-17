@@ -1,0 +1,45 @@
+{
+  "id": "SalusPopuliRomaniBasiliqueSainteMarieMajeureRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1391933",
+  "entry_type": "artwork",
+  "title": "Salus Populi Romani",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1000,
+    "endYear": 1100,
+    "text": "XIe siècle"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "BasiliqueSaintMarieMajeure",
+      "place": "Rome",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Salus_Populi_Romani_after_restoration.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, public domain, LossRom (https://commons.wikimedia.org/wiki/File:Salus_Populi_Romani_after_restoration.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "Selon la Tradition, elle est attribuée à l'évangéliste saint Luc.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-09-17T08:46:01.303215",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Peinture",
+  "materialsAndTechniques": "tempera sur bois",
+  "contained_by_ensemble": {}
+}
