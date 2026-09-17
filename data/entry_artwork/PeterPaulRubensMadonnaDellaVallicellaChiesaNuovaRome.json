@@ -1,0 +1,42 @@
+{
+  "id": "PeterPaulRubensMadonnaDellaVallicellaChiesaNuovaRome",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Madonna della Vallicella",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": null,
+      "place": null,
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [
+    {
+      "link_type": null,
+      "xml_id_work": null
+    }
+  ],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-09-17T14:35:05.079642",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Peinture",
+  "materialsAndTechniques": null,
+  "contained_by_ensemble": {}
+}
