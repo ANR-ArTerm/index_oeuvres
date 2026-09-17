@@ -1,0 +1,46 @@
+{
+  "id": "TempleZeusOlympie",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q197019",
+  "entry_type": "building",
+  "title": "Temple Zeus à Olympie",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -470,
+    "endYear": -470,
+    "text": "Ve siècle av. J.-C-"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Olympie",
+      "country": "Grece",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Zeustempel_Olympia.PNG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, public domain (https://commons.wikimedia.org/wiki/File:Zeustempel_Olympia.PNG)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-09-17T12:57:54.474695",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {}
+}
