@@ -1,5 +1,5 @@
 {
-  "id": "BernardoPanizzariCristoforoLombardoEgliseSantAgostinoPlaisance",
+  "id": "BernardoPanizzariEgliseSantAgostinoPlaisance",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q19893837",
   "entry_type": "building",
   "title": "Eglise de Sant'Agostino à Plaisance",
@@ -9,16 +9,12 @@
       "role": "créateur du projet"
     },
     {
-      "xml_id": "CristoforoLombardo",
-      "role": "créateur du projet"
-    },
-    {
       "xml_id": "CamilloMorigia",
-      "role": "architecte"
+      "role": "créateur du projet"
     }
   ],
   "dateCreated": {
-    "startYear": 1569,
+    "startYear": 1570,
     "endYear": 1792,
     "text": "entre XVIe et XVIIIe siècle"
   },
@@ -44,12 +40,17 @@
       "caption": ""
     }
   ],
-  "description": "Bernardo Panizzari et Cristoforo Lombardo sont les auteurs du projet original au XVIe siècle. Camillo Morigia a créé la façade en 1786.",
+  "description": "Bernardo Panizzari est l'auteur du projet original au XVIe siècle. Camillo Morigia a créé la façade en 1786.",
   "commentary": "",
   "history": [
     {
       "date": "2026-09-15T12:29:13.893810",
       "type": "created",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-09-17T08:15:18.521703",
+      "type": "modified",
       "author": "Nicolo"
     }
   ],
