@@ -1,0 +1,50 @@
+{
+  "id": "RaphaelSaintMichelTerrassantLeDemonLouvre",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q594470",
+  "entry_type": "artwork",
+  "title": "Saint Michel Terrassant le démon de Raphael",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1518,
+    "endYear": 1518,
+    "text": "1518"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Musée du Louvre",
+      "place": "Paris",
+      "inventory_number": "INV 610 ; MR 431",
+      "url": "https://collections.louvre.fr/en/ark:/53355/cl010060771"
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Le_Grand_Saint_Michel%2C_by_Raffaello_Sanzio%2C_from_C2RMF_retouched.jpg?utm_source=it.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, public domain (https://commons.wikimedia.org/wiki/File:Le_Grand_Saint_Michel,_by_Raffaello_Sanzio,_from_C2RMF_retouched.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-09-17T09:27:42.476903",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Peinture",
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {}
+}
