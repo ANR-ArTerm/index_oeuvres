@@ -1,0 +1,31 @@
+{
+  "id": "ColosseNeroneRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1570519",
+  "entry_type": "artwork",
+  "title": "Colosse de Néron Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 64,
+    "endYear": 68,
+    "text": "Ie siècle"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-09-21T17:05:52.682806",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Œuvre imaginaire ou disparue",
+  "materialsAndTechniques": "sculpture en bronze",
+  "contained_by_ensemble": {}
+}
