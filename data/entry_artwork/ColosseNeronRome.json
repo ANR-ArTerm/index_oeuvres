@@ -1,5 +1,5 @@
 {
-  "id": "ColosseNeroneRome",
+  "id": "ColosseNeronRome",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q1570519",
   "entry_type": "artwork",
   "title": "Colosse de Néron Rome",
@@ -21,6 +21,11 @@
     {
       "date": "2026-09-21T17:05:52.682806",
       "type": "created",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-09-21T17:06:32.657219",
+      "type": "modified",
       "author": "Nicolo"
     }
   ],
