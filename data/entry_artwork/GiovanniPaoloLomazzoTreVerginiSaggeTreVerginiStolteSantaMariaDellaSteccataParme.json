@@ -1,0 +1,50 @@
+{
+  "id": "GiovanniPaoloLomazzoTreVerginiSaggeTreVerginiStolteSantaMariaDellaSteccataParme",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3998164",
+  "entry_type": "artwork",
+  "title": "Tre vergini sagge e tre vergini stolte à la Basilique Santa Maria della Steccata à Parme",
+  "creator": [
+    {
+      "xml_id": "Parmigianino",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1531,
+    "endYear": 1539,
+    "text": "XVIe siècle"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Basilique Santa Maria della Steccata",
+      "place": "Parme",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Parmigianino_-_Decoration_of_the_under-arch_above_the_main_altar_-_WGA17042.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, public domain (https://commons.wikimedia.org/wiki/File:Parmigianino_-_Decoration_of_the_under-arch_above_the_main_altar_-_WGA17042.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-09-21T18:25:08.091911",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Peinture",
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {}
+}
