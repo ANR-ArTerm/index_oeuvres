@@ -40,9 +40,14 @@
       "date": "2026-06-09T11:36:30.550357",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-09-21T11:42:38.076177",
+      "type": "modified",
+      "author": "Nicolo"
     }
   ],
-  "typology": "Temple",
+  "typology": "monument imaginaire ou disparu",
   "contained_by_ensemble": {},
   "status_entry": 1
 }
