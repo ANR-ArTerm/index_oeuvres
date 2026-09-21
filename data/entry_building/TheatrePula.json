@@ -1,6 +1,6 @@
 {
   "id": "TheatrePula",
-  "QID_wikidata": "https://www.wikidata.org/wiki/Q474998",
+  "QID_wikidata": "",
   "entry_type": "building",
   "title": "Theatre de Pula",
   "creator": [],
@@ -22,15 +22,7 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [
-    {
-      "id": 0,
-      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Anfiteatro_de_Pula%2C_Croacia%2C_2017-04-17%2C_DD_58-63_HDR_PAN.jpg",
-      "copyright": "Wikimedia Commons, CC BY-SA 4.0 ,Diego Delso (https://commons.wikimedia.org/wiki/File:Anfiteatro_de_Pula,_Croacia,_2017-04-17,_DD_58-63_HDR_PAN.jpg)",
-      "caption": "",
-      "storage": "online"
-    }
-  ],
+  "illustrations": [],
   "description": "",
   "commentary": "",
   "history": [
@@ -43,6 +35,11 @@
       "date": "2026-06-09T11:57:11.077640",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-09-21T16:19:53.436884",
+      "type": "modified",
+      "author": "Nicolo"
     }
   ],
   "typology": "Theatre",
