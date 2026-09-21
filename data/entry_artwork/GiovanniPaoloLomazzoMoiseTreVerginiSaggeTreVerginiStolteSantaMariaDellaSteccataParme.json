@@ -1,0 +1,55 @@
+{
+  "id": "GiovanniPaoloLomazzoMoiseTreVerginiSaggeTreVerginiStolteSantaMariaDellaSteccataParme",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Moise, détail de la fresque à la Basilique Santa Maria della Steccata à Parme",
+  "creator": [
+    {
+      "xml_id": "Parmigianino",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1531,
+    "endYear": 1539,
+    "text": "XVIe siècle"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Basilique Santa Maria della Steccata",
+      "place": "Parme",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "GiovanniPaoloLomazzoTreVerginiSaggeTreVerginiStolteSantaMariaDellaSteccataParme"
+    }
+  ],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Parmigianino_-_Three_Foolish_Virgins_Flanked_by_Adam_and_Eve_-_WGA17043.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, public domain (https://commons.wikimedia.org/wiki/File:Parmigianino_-_Three_Foolish_Virgins_Flanked_by_Adam_and_Eve_-_WGA17043.jpg)",
+      "caption": "Détail de la fresque qui raprésente Moise à gauche."
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-09-21T18:31:57.955101",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Peinture",
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {}
+}
