@@ -23,7 +23,7 @@
   "related_works": [],
   "bibliography": [],
   "illustrations": [],
-  "description": "",
+  "description": "Le temple a été détruit en 44 av. J.-C.",
   "commentary": "",
   "history": [
     {
@@ -43,6 +43,11 @@
     },
     {
       "date": "2026-09-21T11:42:38.076177",
+      "type": "modified",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-09-21T11:43:36.058225",
       "type": "modified",
       "author": "Nicolo"
     }
