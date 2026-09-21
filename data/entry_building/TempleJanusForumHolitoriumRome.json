@@ -1,0 +1,46 @@
+{
+  "id": "TempleJanusForumHolitoriumRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3983253",
+  "entry_type": "building",
+  "title": "Temple de Janus à Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -300,
+    "endYear": -200,
+    "text": "IIIe siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/San_Nicola_Giano.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, public domain, Zanner (https://commons.wikimedia.org/wiki/File:San_Nicola_Giano.JPG)",
+      "caption": "Vestiges du temple de Janus en partie inclus dans l'église San Nicola in Carcere."
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-09-21T11:21:01.610129",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {}
+}
