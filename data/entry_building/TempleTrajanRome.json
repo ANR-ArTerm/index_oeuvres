@@ -1,0 +1,38 @@
+{
+  "id": "TempleTrajanRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3074203",
+  "entry_type": "building",
+  "title": "Temple de Trajan à Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 125,
+    "endYear": 138,
+    "text": "IIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-09-21T15:46:17.886887",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 2,
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {}
+}
