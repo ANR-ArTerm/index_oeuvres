@@ -1,7 +1,7 @@
 {
   "id": "OttoVanVeenEmblemesAmour",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q61984569",
-  "entry_type": "ensemble",
+  "entry_type": "artwork",
   "title": "Emblèmes de l'Amour ou Amorum Emblemata",
   "creator": [
     {
@@ -10,7 +10,7 @@
     }
   ],
   "dateCreated": {
-    "startYear": 1606,
+    "startYear": 1608,
     "endYear": 1608,
     "text": "1608"
   },
