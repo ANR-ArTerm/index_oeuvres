@@ -1,18 +1,18 @@
 {
   "id": "OttoVanVeenEmblemesAmour",
-  "QID_wikidata": "",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q61984569",
   "entry_type": "ensemble",
-  "title": "Emblèmes des Amours divins et profanes ",
+  "title": "Emblèmes de l'Amour ou Amorum Emblemata",
   "creator": [
     {
       "xml_id": "OttoVanVeen",
-      "role": "auteur du texte"
+      "role": "auteur du modèle"
     }
   ],
   "dateCreated": {
-    "startYear": 1607,
-    "endYear": 1607,
-    "text": "?"
+    "startYear": 1606,
+    "endYear": 1608,
+    "text": "1608"
   },
   "location": {
     "type": "multiple_locations"
@@ -22,14 +22,14 @@
   "illustrations": [
     {
       "id": 0,
-      "url": "",
-      "copyright": "",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Otto_van_Veen_-_Amorum_emblemata_025-cupido-ok-94-38.jpg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+      "copyright": "Wikimedia Commons, domaine public, Jane023 (https://commons.wikimedia.org/wiki/File:Otto_van_Veen_-_Amorum_emblemata_025-cupido-ok-94-38.jpg?uselang=fr)",
       "caption": "",
       "storage": "online"
     }
   ],
   "description": "",
-  "commentary": "trouver de laquelle des suites il est question ou Amoris divini emblemata, 1615.",
+  "commentary": "",
   "history": [
     {
       "date": "2026-01-26T17:31:57.392614",
@@ -53,6 +53,11 @@
     },
     {
       "date": "2026-09-16T18:33:10.385152",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-09-22T12:01:39.333253",
       "type": "modified",
       "author": "Carla"
     }
