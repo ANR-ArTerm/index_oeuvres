@@ -38,9 +38,25 @@
       "date": "2026-09-22T16:56:43.152025",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-09-22T17:08:03.383038",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
   "status_entry": 0,
   "typology": "retable",
-  "contains_works": []
+  "contains_works": [
+    {
+      "link_type": "appartient à l'ensemble",
+      "xml_id_work": "PeterPaulRubensRetableSainteHeleneEtLaVraieCroixNotreDameDuPuyGrasse",
+      "link_types_contained": null
+    },
+    {
+      "link_type": "appartient à l'ensemble",
+      "xml_id_work": "PeterPaulRubensRetableSainteHeleneCouronnementDEpinesNotreDameDuPuyGrasse",
+      "link_types_contained": null
+    }
+  ]
 }
