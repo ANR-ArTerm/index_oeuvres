@@ -1,5 +1,5 @@
 {
-  "id": "RubensRetableSainteHeleneCathedraleNotreDameDuPuyGrasse",
+  "id": "PeterPaulRubensRetableSainteHeleneCathedraleNotreDameDuPuyGrasse",
   "QID_wikidata": "",
   "entry_type": "ensemble",
   "title": "Retable à trois panneaux de la chapelle Sainte-Hélène pour l'église Sainte-Croix de Jérusalem à Rome",
@@ -32,6 +32,11 @@
     {
       "date": "2026-09-22T16:25:34.424795",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-09-22T16:56:43.152025",
+      "type": "modified",
       "author": "Carla"
     }
   ],
