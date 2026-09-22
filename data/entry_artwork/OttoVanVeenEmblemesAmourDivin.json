@@ -1,0 +1,44 @@
+{
+  "id": "OttoVanVeenEmblemesAmourDivin",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Emblèmes de l'Amour divin ou Amoris divini emblemata",
+  "creator": [
+    {
+      "xml_id": "OttoVanVeen",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1615,
+    "endYear": 1615,
+    "text": "1615"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Otto_van_Veen_-_Amoris_divini_emblemata_%281615%29_-_Title_page.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, domaine public, Odecalchi, (https://commons.wikimedia.org/wiki/File:Otto_van_Veen_-_Amoris_divini_emblemata_(1615)_-_Title_page.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-09-22T12:23:07.622811",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Estampe",
+  "materialsAndTechniques": "gravure sur cuivre",
+  "contained_by_ensemble": {}
+}
