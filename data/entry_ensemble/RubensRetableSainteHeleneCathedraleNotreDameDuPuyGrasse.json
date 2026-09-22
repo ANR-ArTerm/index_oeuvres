@@ -1,0 +1,41 @@
+{
+  "id": "RubensRetableSainteHeleneCathedraleNotreDameDuPuyGrasse",
+  "QID_wikidata": "",
+  "entry_type": "ensemble",
+  "title": "Retable à trois panneaux de la chapelle Sainte-Hélène pour l'église Sainte-Croix de Jérusalem à Rome",
+  "creator": [
+    {
+      "xml_id": "PeterPaulRubens",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1601,
+    "endYear": 1602,
+    "text": "1601-1602"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Cathédrale Notre-Dame-du-Puy",
+      "place": "Grasse",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-09-22T16:25:34.424795",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "retable",
+  "contains_works": []
+}
