@@ -60,9 +60,16 @@
       "date": "2026-09-22T12:01:39.333253",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-09-22T12:32:41.577324",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
-  "typology": "suite d'estampes",
+  "typology": "Estampe",
   "status_entry": 3,
-  "contains_works": []
+  "contains_works": [],
+  "materialsAndTechniques": "gravure sur cuivre",
+  "contained_by_ensemble": {}
 }
