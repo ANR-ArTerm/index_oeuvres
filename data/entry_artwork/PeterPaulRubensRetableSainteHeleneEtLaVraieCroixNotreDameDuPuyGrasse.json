@@ -23,7 +23,12 @@
       "url": ""
     }
   },
-  "related_works": [],
+  "related_works": [
+    {
+      "link_type": "appartient au même ensemble",
+      "xml_id_work": "PeterPaulRubensRetableSainteHeleneCouronnementDEpinesNotreDameDuPuyGrasse"
+    }
+  ],
   "bibliography": [],
   "illustrations": [
     {
@@ -44,6 +49,11 @@
     },
     {
       "date": "2026-09-22T16:57:56.458565",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-09-22T17:06:55.068915",
       "type": "modified",
       "author": "Carla"
     }
