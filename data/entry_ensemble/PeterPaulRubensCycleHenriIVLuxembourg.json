@@ -1,0 +1,44 @@
+{
+  "id": "PeterPaulRubensCycleHenriIVLuxembourg",
+  "QID_wikidata": "",
+  "entry_type": "ensemble",
+  "title": "Cycle de la vie d'Henri IV au palais du Luxembourg",
+  "creator": [
+    {
+      "xml_id": "PeterPaulRubens",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "merledubourgRapportsRubensAvec2004",
+      "location": "p. 15-90"
+    },
+    {
+      "zotero_key": "gallettiRubensGalerieHenri2008",
+      "location": "p. 43-51"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-09-23T16:56:55.559518",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "cycle de peintures",
+  "contains_works": []
+}
