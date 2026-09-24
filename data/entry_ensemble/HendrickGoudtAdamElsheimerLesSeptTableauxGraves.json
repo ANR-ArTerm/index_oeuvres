@@ -1,0 +1,39 @@
+{
+  "id": "HendrickGoudtAdamElsheimerLesSeptTableauxGraves",
+  "QID_wikidata": "",
+  "entry_type": "ensemble",
+  "title": "Série de sept tableaux gravés",
+  "creator": [
+    {
+      "xml_id": "HendrickGoudt",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "AdamElsheimer",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1608,
+    "endYear": 1613,
+    "text": "1608-1613"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-09-24T19:21:16.021972",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "suite d'estampes",
+  "contains_works": []
+}
