@@ -1,0 +1,56 @@
+{
+  "id": "PeterPaulRubensCycleHenriIVLuxembourgSiegeVilleNormandie",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q111357800",
+  "entry_type": "artwork",
+  "title": "Le Siège d’une ville de Normandie, peut-être Caen ",
+  "creator": [
+    {
+      "xml_id": "PeterPaulRubens",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1628,
+    "endYear": 1630,
+    "text": "1628-1630"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "merledubourgRapportsRubensAvec2004",
+      "location": "p. 15-90"
+    },
+    {
+      "zotero_key": "gallettiRubensGalerieHenri2008",
+      "location": "p. 43-51"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Peter_Paul_Rubens_Henry_IV_at_the_Siege_of_Amiens.jpg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons,  domaine public, Andrzej O, (https://fr.wikipedia.org/wiki/Fichier:Peter_Paul_Rubens_Henry_IV_at_the_Siege_of_Amiens.jpg)",
+      "caption": "Esquisse, huile sur toile, inv. GKM 1380, Musée des Beaux-Arts, Göteborg, (https://fr.wikipedia.org/wiki/Fichier:Peter_Paul_Rubens_Henry_IV_at_the_Siege_of_Amiens.jpg)"
+    }
+  ],
+  "description": "Selon l'identification de la ville représentée dans le tableau de Göteborg est problématique. Alexis Merle du Bourg conforte l'hypothèse d'Ingrid Jost et penche en faveur de la ville de Caen tout en rejetant l’hypothèse de Michael Jaffé selon qui la ville représentée serait Amiens. ",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-09-24T11:53:47.628693",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Œuvre imaginaire ou disparue",
+  "materialsAndTechniques": null,
+  "contained_by_ensemble": {
+    "link_type": "appartient à l'ensemble",
+    "xml_id_work": "PeterPaulRubensCycleHenriIVLuxembourg"
+  }
+}
