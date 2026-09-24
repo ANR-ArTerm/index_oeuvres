@@ -1,0 +1,51 @@
+{
+  "id": "HuisTenBoschLaHaye",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1072284",
+  "entry_type": "building",
+  "title": "La Huis ten Bosch ",
+  "creator": [
+    {
+      "xml_id": "PieterPost",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1645,
+    "endYear": 1645,
+    "text": "1645"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "LaHaye",
+      "country": "PaysBas",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Huis_ten_Bosch.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0 NL, PeteBobb (https://commons.wikimedia.org/wiki/File:Huis_ten_Bosch.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-09-24T16:23:53.916978",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Palais",
+  "contained_by_ensemble": {}
+}
