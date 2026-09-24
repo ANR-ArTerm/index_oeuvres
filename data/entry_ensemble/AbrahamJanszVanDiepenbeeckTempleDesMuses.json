@@ -1,0 +1,47 @@
+{
+  "id": "AbrahamJanszVanDiepenbeeckTempleDesMuses",
+  "QID_wikidata": "",
+  "entry_type": "ensemble",
+  "title": "Tableaux du Temple des Muses",
+  "creator": [
+    {
+      "xml_id": "CornelisIIBloemaert",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "AbrahamJanszVanDiepenbeeck",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1655,
+    "endYear": 1655,
+    "text": " 1655"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://media.britishmuseum.org/media/Repository/Documents/2015_3/23_10/8f8c0b96_1bfd_4427_bd03_a46400b398f8/mid_ppa252882.jpg",
+      "storage": "online",
+      "copyright": "Londres, British Museum, inv. 1983,1001.12.1, 1612973302, © The Trustees of the British Museum. Shared under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) licence.(https://www.britishmuseum.org/collection/object/P_1983-1001-12-1)",
+      "caption": "Frontispice"
+    }
+  ],
+  "description": "Ces estampes viennent illustrer l'ouvrage écrit par Michel de Marolles.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-09-24T19:59:42.969238",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "suite d'estampes",
+  "contains_works": []
+}
