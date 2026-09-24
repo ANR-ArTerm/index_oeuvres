@@ -1,0 +1,63 @@
+{
+  "id": "PeterPaulRubensCycleHenriIVLuxembourgBatailleDIvry",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q111584930",
+  "entry_type": "artwork",
+  "title": "La Bataille d’Ivry, 14 mars 1590",
+  "creator": [
+    {
+      "xml_id": "PeterPaulRubens",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1628,
+    "endYear": 1630,
+    "text": "1628-1630 "
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "merledubourgRapportsRubensAvec2004",
+      "location": "p. 15-90"
+    },
+    {
+      "zotero_key": "gallettiRubensGalerieHenri2008",
+      "location": "p. 43-51"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Pieter_Paul_Rubens%2C_Enrico_IV_alla_battaglia_di_Ivry%2C_1635-40_%28assemblaggio_di_immagini%29_-FG.jpg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC0 1.0, Fabrizio Garrisi, (https://commons.wikimedia.org/wiki/File:Pieter_Paul_Rubens,_Enrico_IV_alla_battaglia_di_Ivry,_1635-40_(assemblaggio_di_immagini)_-FG.jpg?uselang=fr)",
+      "caption": "Esquisse, huile sur toile, Florence, Musée des Offices, inv. 722, (https://research.rkd.nl/nl/detail/https%3A%2F%2Fdata.rkd.nl%2Fimages%2F60906?image=0&imageId=https%253A%252F%252Fdata.rkd.nl%252Fdigital-objects%252F10902785&itemUri=https%253A%252F%252Fdata.rkd.nl%252Fdigital-objects%252F10902785)"
+    },
+    {
+      "id": 1,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Rubens_-_Henri_IV_%C3%A0_la_bataille_d%E2%80%99Ivry.jpg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, domaine public, Guise, (https://commons.wikimedia.org/wiki/File:Rubens_-_Henri_IV_%C3%A0_la_bataille_d%E2%80%99Ivry.jpg?uselang=fr)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-09-24T14:25:27.505330",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Œuvre imaginaire ou disparue",
+  "materialsAndTechniques": null,
+  "contained_by_ensemble": {
+    "link_type": "appartient à l'ensemble",
+    "xml_id_work": "PeterPaulRubensCycleHenriIVLuxembourg"
+  }
+}
