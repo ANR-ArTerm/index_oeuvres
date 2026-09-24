@@ -17,13 +17,13 @@
   "illustrations": [
     {
       "id": 0,
-      "url": "data\\images\\Galleria_giustiniana_del_marchese_Vincenzo_[...]_btv1b73003561_165.jpeg",
-      "copyright": "Gallica BNF, Consultable en ligne (https://gallica.bnf.fr/ark:/12148/btv1b73003561/f165.item.zoom#)",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Liggende_vrouw_met_putto_Galleria_Giustiniana_del_Marchese_Vincenzo_Giustiniani_I_%28serietitel%29%2C_RP-P-2015-3-89.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "copyright": "Wikimedia Commons, CC0 1.0, Mr.Nostalgic, (https://commons.wikimedia.org/wiki/File:Liggende_vrouw_met_putto_Galleria_Giustiniana_del_Marchese_Vincenzo_Giustiniani_I_(serietitel),_RP-P-2015-3-89.jpg)",
       "caption": "Galleria giustiniana del marchese Vincenzo Giustiniani",
       "storage": "online"
     }
   ],
-  "description": "",
+  "description": "Gallica BNF, Consultable en ligne (https://gallica.bnf.fr/ark:/12148/btv1b73003561/f165.item.zoom#)",
   "commentary": "",
   "history": [
     {
@@ -50,6 +50,11 @@
       "date": "2026-07-06T10:03:59.589102",
       "type": "modified",
       "author": "Nicolo"
+    },
+    {
+      "date": "2026-09-24T20:27:05.626101",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
   "typology": "collection d'œuvres",
