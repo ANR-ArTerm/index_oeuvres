@@ -11,14 +11,23 @@
   ],
   "dateCreated": {
     "startYear": 1628,
-    "endYear": 1628,
-    "text": "1628"
+    "endYear": 1630,
+    "text": "1628-1630"
   },
   "location": {
     "type": "unlocated"
   },
   "related_works": [],
-  "bibliography": [],
+  "bibliography": [
+    {
+      "zotero_key": "merledubourgRapportsRubensAvec2004",
+      "location": "p. 15-90"
+    },
+    {
+      "zotero_key": "gallettiRubensGalerieHenri2008",
+      "location": "p. 43-51"
+    }
+  ],
   "illustrations": [
     {
       "id": 0,
@@ -34,6 +43,11 @@
     {
       "date": "2026-09-24T11:27:16.832505",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-09-24T11:56:23.416942",
+      "type": "modified",
       "author": "Carla"
     }
   ],
