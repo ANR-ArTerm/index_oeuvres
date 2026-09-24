@@ -1,0 +1,44 @@
+{
+  "id": "TitienVieDouzeCesar",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q4004621",
+  "entry_type": "artwork",
+  "title": "Vie des douze Césars",
+  "creator": [
+    {
+      "xml_id": "Titien",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1537,
+    "endYear": 1537,
+    "text": "1537"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Titien_12empereurs.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, domaine public, Maltaper (https://commons.wikimedia.org/wiki/File:Titien_12empereurs.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "Les tableaux ont été détruits en 1734 lors de l'incendie du palais de l'Alcazar à Madrid.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-09-24T20:23:36.727434",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Œuvre imaginaire ou disparue",
+  "materialsAndTechniques": null,
+  "contained_by_ensemble": {}
+}
