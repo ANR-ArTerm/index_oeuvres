@@ -1,5 +1,5 @@
 {
-  "id": "TitienVieDouzeCesar",
+  "id": "TitienVieDouzeCesars",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q4004621",
   "entry_type": "artwork",
   "title": "Vie des douze Césars",
@@ -34,6 +34,11 @@
     {
       "date": "2026-09-24T20:23:36.727434",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-09-24T20:24:08.965005",
+      "type": "modified",
       "author": "Carla"
     }
   ],
