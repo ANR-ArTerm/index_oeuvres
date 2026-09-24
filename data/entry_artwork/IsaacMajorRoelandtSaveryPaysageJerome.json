@@ -23,21 +23,18 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [
-    {
-      "id": 0,
-      "url": "",
-      "storage": "online",
-      "copyright": "",
-      "caption": ""
-    }
-  ],
+  "illustrations": [],
   "description": "",
-  "commentary": "",
+  "commentary": "https://www.mahmah.ch/sites/default/files/styles/scale_w1148/public/image/2024-02/409068.jpg image ne fonctionne pas c le MAH de genève. ",
   "history": [
     {
       "date": "2026-09-24T18:23:50.873921",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-09-24T18:26:40.217095",
+      "type": "modified",
       "author": "Carla"
     }
   ],
