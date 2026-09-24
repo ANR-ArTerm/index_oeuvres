@@ -14,15 +14,7 @@
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [
-    {
-      "id": 0,
-      "url": "",
-      "copyright": "",
-      "caption": "Galleria giustiniana del marchese Vincenzo Giustiniani",
-      "storage": "online"
-    }
-  ],
+  "illustrations": [],
   "description": "",
   "commentary": "",
   "history": [
@@ -58,6 +50,11 @@
     },
     {
       "date": "2026-09-24T20:35:07.394406",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-09-24T20:36:55.723224",
       "type": "modified",
       "author": "Carla"
     }
