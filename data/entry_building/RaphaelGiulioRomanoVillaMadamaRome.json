@@ -1,5 +1,5 @@
 {
-  "id": "RaphaelGiulioRomanoVillaMadama",
+  "id": "RaphaelGiulioRomanoVillaMadamaRome",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q1267485",
   "entry_type": "building",
   "title": "Villa Madama",
@@ -36,7 +36,7 @@
   "related_works": [
     {
       "link_type": "appartient au même ensemble",
-      "xml_id_work": "GiulioRomanoPolypheme"
+      "xml_id_work": null
     }
   ],
   "bibliography": [
@@ -76,6 +76,11 @@
       "date": "2026-07-21T15:45:26.989249",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-09-24T18:28:23.641002",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
   "typology": "Villa",
