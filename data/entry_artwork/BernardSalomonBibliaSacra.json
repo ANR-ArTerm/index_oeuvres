@@ -26,14 +26,14 @@
   "illustrations": [
     {
       "id": 0,
-      "url": "https://www.mahmah.ch/sites/default/files/styles/scale_w1148/public/image/2026-02/2575490.jpeg",
+      "url": "",
       "storage": "online",
       "copyright": "Genève, Musée d'art et d'histoire (https://www.mahmah.ch/collection/oeuvres/tour-de-babel-gen-xi/em-0344)",
       "caption": "La tour de Babel"
     }
   ],
   "description": "",
-  "commentary": "",
+  "commentary": "https://www.mahmah.ch/sites/default/files/styles/scale_w1148/public/image/2026-02/2575490.jpeg image ne fonctionne pas",
   "history": [
     {
       "date": "2026-03-09T15:33:33.164577",
@@ -49,6 +49,11 @@
       "date": "2026-06-10T15:13:47.481976",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-09-24T18:25:30.310557",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
   "materialsAndTechniques": "livre illustré de gravures sur bois",
