@@ -1,0 +1,56 @@
+{
+  "id": "PeterPaulRubensCycleHenriIVLuxembourgUnionDHenriIVEtDeMarieDeMedicis",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q62274367",
+  "entry_type": "artwork",
+  "title": "L’Union d’Henri IV et de Marie de Médicis",
+  "creator": [
+    {
+      "xml_id": "PeterPaulRubens",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1628,
+    "endYear": 1630,
+    "text": "1628-1630 "
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "gallettiRubensGalerieHenri2008",
+      "location": "p. 43-51"
+    },
+    {
+      "zotero_key": "merledubourgRapportsRubensAvec2004",
+      "location": "p. 15-90"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://d3d00swyhr67nd.cloudfront.net/w1200h1200/collection/WLC/WLC/WLC_WLC_P524-001.jpg",
+      "storage": "online",
+      "copyright": "Londres, Wallace Collection, CC BY-NC-ND, (https://artuk.org/discover/artworks/the-union-of-henri-iv-and-marie-de-medicis-209556/view_as/grid/search/2026--keyword:henri-iv--actor:rubens-peter-paul-15771640/page/1)",
+      "caption": "Esquisse, huile sur bois, Londres, Wallace Collection,  inv. P524, (https://artuk.org/discover/artworks/the-union-of-henri-iv-and-marie-de-medicis-209556/view_as/grid/search/2026--keyword:henri-iv--actor:rubens-peter-paul-15771640/page/1)"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-09-24T15:06:37.760375",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Peinture",
+  "materialsAndTechniques": null,
+  "contained_by_ensemble": {
+    "link_type": "appartient à l'ensemble",
+    "xml_id_work": "PeterPaulRubensCycleHenriIVLuxembourg"
+  }
+}
