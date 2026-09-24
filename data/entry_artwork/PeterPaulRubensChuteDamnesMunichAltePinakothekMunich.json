@@ -1,0 +1,50 @@
+{
+  "id": "PeterPaulRubensChuteDamnesMunichAltePinakothekMunich",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q203259",
+  "entry_type": "artwork",
+  "title": "La Chute des damnés ou la Chute des anges rebelles ou le Jugement Dernier",
+  "creator": [
+    {
+      "xml_id": "PeterPaulRubens",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1620,
+    "endYear": 1620,
+    "text": "1620"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Alte Pinakothek",
+      "place": "Munich",
+      "inventory_number": "inv. 320",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Peter_Paul_Rubens_-_Fall_of_the_damned.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, domaine public, Odecalchi, (https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_Fall_of_the_damned.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-09-24T16:03:52.776523",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Peinture",
+  "materialsAndTechniques": "huile sur bois",
+  "contained_by_ensemble": {}
+}
