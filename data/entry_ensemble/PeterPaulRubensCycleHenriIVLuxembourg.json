@@ -10,9 +10,9 @@
     }
   ],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1628,
+    "endYear": 1630,
+    "text": "1628-1630"
   },
   "location": {
     "type": "unlocated"
@@ -36,9 +36,50 @@
       "date": "2026-09-23T16:56:55.559518",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-09-24T15:39:29.115842",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
   "status_entry": 0,
   "typology": "cycle de peintures",
-  "contains_works": []
+  "contains_works": [
+    {
+      "link_type": "appartient à l'ensemble",
+      "xml_id_work": "PeterPaulRubensCycleHenriIVLuxembourgNaissanceDuRoi",
+      "link_types_contained": null
+    },
+    {
+      "link_type": "appartient à l'ensemble",
+      "xml_id_work": "PeterPaulRubensCycleHenriIVLuxembourgSiegeVilleNormandie",
+      "link_types_contained": null
+    },
+    {
+      "link_type": "appartient à l'ensemble",
+      "xml_id_work": "PeterPaulRubensCycleHenriIVLuxembourgBatailleDArques",
+      "link_types_contained": null
+    },
+    {
+      "link_type": "appartient à l'ensemble",
+      "xml_id_work": "PeterPaulRubensCycleHenriIVLuxembourgBatailleDIvry",
+      "link_types_contained": null
+    },
+    {
+      "link_type": "appartient à l'ensemble",
+      "xml_id_work": "PeterPaulRubensCycleHenriIVLuxembourgTriompheDHenriIV",
+      "link_types_contained": null
+    },
+    {
+      "link_type": "appartient à l'ensemble",
+      "xml_id_work": "PeterPaulRubensCycleHenriIVLuxembourgUnionDHenriIVEtDeMarieDeMedicis",
+      "link_types_contained": null
+    },
+    {
+      "link_type": "appartient à l'ensemble",
+      "xml_id_work": "PeterPaulRubensCycleHenriIVLuxembourgCouronnementDHenriIV",
+      "link_types_contained": null
+    }
+  ]
 }
