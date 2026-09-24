@@ -1,0 +1,47 @@
+{
+  "id": "PeterPaulRubensCycleHenriIVLuxembourgNaissanceDuRoi",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "La Naissance du roi à Pau le 13 décembre 1553",
+  "creator": [
+    {
+      "xml_id": "PeterPaulRubens",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1628,
+    "endYear": 1628,
+    "text": "1628"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://d3d00swyhr67nd.cloudfront.net/w1200h1200/collection/WLC/WLC/WLC_WLC_P523-001.jpg",
+      "storage": "online",
+      "copyright": "Londres, Wallace Collection, CC BY-NC-ND, inv. P523, (https://artuk.org/discover/artworks/the-birth-of-henri-iv-209555/view_as/grid/search/2026--keyword:henri-iv--actor:rubens-peter-paul-15771640/page/1)",
+      "caption": "Esquisse,  huile sur bois,  inv. P523, Wallace Collection, Londres, (https://artuk.org/discover/artworks/the-birth-of-henri-iv-209555/view_as/grid/search/2026--keyword:henri-iv--actor:rubens-peter-paul-15771640/page/1)"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-09-24T11:27:16.832505",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Œuvre imaginaire ou disparue",
+  "materialsAndTechniques": null,
+  "contained_by_ensemble": {
+    "link_type": "appartient à l'ensemble",
+    "xml_id_work": "PeterPaulRubensCycleMedicisLuxembourgLouvre"
+  }
+}
