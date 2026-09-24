@@ -1,0 +1,44 @@
+{
+  "id": "JohannWilhelmBaurMetamorphosesOvide",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Métamorphoses d'Ovide, Bellissimum Ovidii Theatrum seu ",
+  "creator": [
+    {
+      "xml_id": "JohannWilhelmBaur",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1639,
+    "endYear": 1641,
+    "text": "1639-1641"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP880641.jpg",
+      "storage": "online",
+      "copyright": "New York, Metropolitan Museum of Arts, inv. 62.557.220, (https://www.metmuseum.org/art/collection/search/773285)",
+      "caption": "Estampe de Céphale et Procris, planche n°70 du recueil des Métamorphoses d'Ovide. "
+    }
+  ],
+  "description": "Il existe un recueil complet conservé au Cabinet des Estampes et des Dessins du musée de Strasbourg (inv. 77.009.0.142 BM 2873)",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-09-24T19:14:09.544929",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Estampe",
+  "materialsAndTechniques": "eau-forte",
+  "contained_by_ensemble": {}
+}
