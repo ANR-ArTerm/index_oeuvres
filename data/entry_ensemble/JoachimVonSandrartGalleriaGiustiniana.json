@@ -7,6 +7,10 @@
     {
       "xml_id": "JoachimVonSandrart",
       "role": "graveur"
+    },
+    {
+      "xml_id": "CornelisIIBloemaert",
+      "role": "graveur"
     }
   ],
   "dateCreated": {
@@ -24,7 +28,15 @@
     }
   ],
   "bibliography": [],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "",
+      "copyright": "",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
@@ -37,6 +49,11 @@
       "date": "2026-07-06T10:09:17.312099",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-09-24T20:33:57.366517",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
   "status_entry": 1,
