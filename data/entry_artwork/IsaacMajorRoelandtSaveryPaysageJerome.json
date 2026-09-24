@@ -1,0 +1,48 @@
+{
+  "id": "IsaacMajorRoelandtSaveryPaysageJerome",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Paysage avec Saint Jérôme",
+  "creator": [
+    {
+      "xml_id": "RoelandtSavery",
+      "role": "auteur du modèle"
+    },
+    {
+      "xml_id": "IsaacMajor",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1622,
+    "endYear": 1622,
+    "text": "1622"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "",
+      "storage": "online",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-09-24T18:23:50.873921",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Estampe",
+  "materialsAndTechniques": "gravure sur cuivre",
+  "contained_by_ensemble": {}
+}
