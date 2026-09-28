@@ -1,0 +1,50 @@
+{
+  "id": "FransVanMierisBoutiqueEtoffeKunstHistorischesMuseumVienne",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q27982747",
+  "entry_type": "artwork",
+  "title": "Cavalier dans une boutique d'étoffes",
+  "creator": [
+    {
+      "xml_id": "FransVanMieris",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1660,
+    "endYear": 1660,
+    "text": "1660"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Kunsthistorisches Museum",
+      "place": "Vienne",
+      "inventory_number": "inv. GG_586",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Franz_van_Mieris_the_Elder_-_Cavalier_in_the_Shop_-_Google_Art_Project.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, domaine public, DcoetzeeBot, (https://commons.wikimedia.org/wiki/File:Franz_van_Mieris_the_Elder_-_Cavalier_in_the_Shop_-_Google_Art_Project.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-09-28T14:33:30.571712",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Peinture",
+  "materialsAndTechniques": "huile sur bois",
+  "contained_by_ensemble": {}
+}
