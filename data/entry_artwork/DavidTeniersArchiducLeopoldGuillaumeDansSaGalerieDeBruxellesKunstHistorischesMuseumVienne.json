@@ -1,0 +1,50 @@
+{
+  "id": "DavidTeniersArchiducLeopoldGuillaumeDansSaGalerieDeBruxellesKunstHistorischesMuseumVienne",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q19960950",
+  "entry_type": "artwork",
+  "title": "L'Archiduc Léopold-Guillaume dans sa galerie à Bruxelles",
+  "creator": [
+    {
+      "xml_id": "DavidTeniers",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1651,
+    "endYear": 1651,
+    "text": "1651"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Kunsthistorisches Museum",
+      "place": "Vienne",
+      "inventory_number": "inv. GG_739",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/David_Teniers_the_Younger_-_Archduke_Leopold_William_in_his_Gallery_at_Brussels_-_Google_Art_Project.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, domaine public, DcoetzeeBot, (https://commons.wikimedia.org/wiki/File:David_Teniers_the_Younger_-_Archduke_Leopold_William_in_his_Gallery_at_Brussels_-_Google_Art_Project.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-09-28T14:18:55.433312",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Peinture",
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {}
+}
