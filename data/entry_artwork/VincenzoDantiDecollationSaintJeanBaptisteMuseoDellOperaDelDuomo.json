@@ -16,14 +16,6 @@
   },
   "location": {
     "type": "holding_institution",
-    "place": {
-      "city": "Florence",
-      "country": "Italie",
-      "coordinates": {
-        "latitude": "",
-        "longitude": ""
-      }
-    },
     "institution": {
       "name": "Museo dell'Opera del Duomo",
       "place": "Florence",
