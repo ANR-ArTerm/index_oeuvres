@@ -418,6 +418,27 @@ def save_to_list_form_git(key: str, value: str):
 
     return True, "Déjà présent, aucune modification"
 
+def save_person_wikidata(xml_id: str, source: str):
+    """Enregistre le lien Wikidata associé à un xml:id de personne."""
+    xml_id = xml_id.strip() if isinstance(xml_id, str) else ""
+    source = source.strip() if isinstance(source, str) else ""
+    if not xml_id or not source:
+        return
+
+    path = Path(LIST_FORM_DIR) / "persons_wikidata.json"
+    if path.exists():
+        with open(path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+    else:
+        data = {}
+
+    if not isinstance(data, dict):
+        raise ValueError("persons_wikidata.json doit contenir un objet JSON")
+
+    data[xml_id] = source
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
 def save_list_to_list_form(key: str, values: list[str], *, sort: bool = True):
     if key not in LIST_FORM:
         raise ValueError(f"Clé inconnue : {key}")

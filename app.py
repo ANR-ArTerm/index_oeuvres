@@ -99,8 +99,8 @@ if st.sidebar.button("👥 Synchroniser l'index XML des personnes"):
             st.sidebar.info("Aucune nouvelle personne ajoutée au JSON")
 
         if json_only_ids:
-            st.sidebar.subheader("⚠️ Personnes à ajouter dans l’index XML")
-            st.sidebar.warning(json_only_ids)
+            st.sidebar.subheader("🆕 Personnes ajoutées à l’index XML")
+            st.sidebar.success(json_only_ids)
         else:
             st.sidebar.success("L’index XML est à jour")
 

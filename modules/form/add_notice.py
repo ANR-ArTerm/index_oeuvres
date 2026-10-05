@@ -4,7 +4,7 @@ import time
 import uuid
 import re
 
-from modules.data.load import save_notice, exist_notice, save_image, load_list_form, index_username, save_to_list_form_git, get_all_objects_ids_flat_sorted
+from modules.data.load import save_notice, exist_notice, save_image, load_list_form, index_username, save_to_list_form_git, save_person_wikidata, get_all_objects_ids_flat_sorted
 from modules.git_tools import git_commit_and_push
 from modules.wikidata.queries import get_monument_data
 
@@ -39,19 +39,36 @@ def add_creator(xml_id, creator, idx, type_entry):
     st.subheader(f"Artiste {idx + 1}")
     col1, col2 = st.columns(2)
     with col1:
+        person_ids = load_list_form("persons")
         creator["xml_id"] = st.selectbox("Artiste :*",
-                                     load_list_form("persons"),
+                                     person_ids,
                                      accept_new_options=True,
                                      index=None,
                                      key=f"{xml_id}_creator_xmlid_{idx}"
                                      )
-        if creator["xml_id"] is not None and creator["xml_id"] not in load_list_form("persons"):
+        selected_id = creator["xml_id"]
+        previous_wikidata_id = creator.get("_wikidata_person_id")
+        if previous_wikidata_id and previous_wikidata_id != selected_id:
+            creator.pop("wikidata", None)
+            creator.pop("_wikidata_person_id", None)
+
+        is_new_person = selected_id is not None and selected_id not in person_ids
+        if is_new_person:
+            creator["_wikidata_person_id"] = selected_id
             with st.spinner("Sauvegarde du nouvel identifiant"):
-                success, message = save_to_list_form_git("persons", creator["xml_id"])
+                success, message = save_to_list_form_git("persons", selected_id)
                 if success:
                     st.success(message)
                 else:
                     st.error(message)
+
+        if selected_id and creator.get("_wikidata_person_id") == selected_id:
+            creator["wikidata"] = st.text_input(
+                "Lien Wikidata (facultatif)",
+                value=creator.get("wikidata", ""),
+                key=f"{xml_id}_creator_wikidata_{idx}",
+                placeholder="https://www.wikidata.org/wiki/Q...",
+            )
 
     with col2:
         if type_entry == "artwork":
@@ -955,8 +972,24 @@ def add_notice():
             "author": entry_editor
         })
 
+        notice_to_save = {**notice}
+        notice_to_save["creator"] = []
+        for creator in notice["creator"]:
+            creator_to_save = {
+                key: value
+                for key, value in creator.items()
+                if key not in {"wikidata", "_wikidata_person_id"}
+            }
+            notice_to_save["creator"].append(creator_to_save)
+            wikidata_source = creator.get("wikidata", "").strip()
+            if (
+                wikidata_source
+                and creator.get("_wikidata_person_id") == creator.get("xml_id")
+            ):
+                save_person_wikidata(creator["xml_id"], wikidata_source)
+
         with st.spinner("Enregistement de la notice et ajout sur github"):
-            path = save_notice(notice)
+            path = save_notice(notice_to_save)
             message = f"ajout notice {xml_id} par {entry_editor} {datetime.now().isoformat()}"
             git_commit_and_push(message)
             st.success(f"✅ Notice ajoutée avec succès sur github !\n\n📁 Fichier créé : `{path}`")
