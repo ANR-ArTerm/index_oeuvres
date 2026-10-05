@@ -1,7 +1,7 @@
 {
   "id": "GiovanniJacopoCaraglioViergeJBRaphael",
   "QID_wikidata": "",
-  "title": "",
+  "title": "Vierge de Raphaël",
   "creator": [
     {
       "xml_id": "GiovanniJacopoCaraglio",
@@ -42,6 +42,11 @@
       "date": "2026-06-15T16:43:47.125983",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-10-05T16:05:41.234552",
+      "type": "modified",
+      "author": "Emma"
     }
   ],
   "status_entry": 1,
