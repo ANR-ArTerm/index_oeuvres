@@ -53,8 +53,10 @@ def add_creator(xml_id, creator, idx, type_entry):
             creator.pop("_wikidata_person_id", None)
 
         is_new_person = selected_id is not None and selected_id not in person_ids
-        if is_new_person:
+        if is_new_person and type_entry == "artwork":
             creator["_wikidata_person_id"] = selected_id
+
+        if is_new_person:
             with st.spinner("Sauvegarde du nouvel identifiant"):
                 success, message = save_to_list_form_git("persons", selected_id)
                 if success:
@@ -62,7 +64,11 @@ def add_creator(xml_id, creator, idx, type_entry):
                 else:
                     st.error(message)
 
-        if selected_id and creator.get("_wikidata_person_id") == selected_id:
+        if (
+            type_entry == "artwork"
+            and selected_id
+            and creator.get("_wikidata_person_id") == selected_id
+        ):
             creator["wikidata"] = st.text_input(
                 "Lien Wikidata (facultatif)",
                 value=creator.get("wikidata", ""),
@@ -983,6 +989,8 @@ def add_notice():
             notice_to_save["creator"].append(creator_to_save)
             wikidata_source = creator.get("wikidata", "").strip()
             if (
+                entry_type == "artwork"
+                and
                 wikidata_source
                 and creator.get("_wikidata_person_id") == creator.get("xml_id")
             ):

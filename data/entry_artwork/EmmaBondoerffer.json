@@ -1,0 +1,44 @@
+{
+  "id": "EmmaBondoerffer",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q77522",
+  "entry_type": "artwork",
+  "title": "Emma Bond",
+  "creator": [
+    {
+      "xml_id": "EmmaBondoerffer",
+      "role": "orifice"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": "chui pas encore morte wsh"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/it/e/e3/Winx_2.jpg?utm_source=it.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "tqt",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "à suppr",
+  "history": [
+    {
+      "date": "2026-10-05T17:27:52.082021",
+      "type": "created",
+      "author": "Emma"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Œuvre imaginaire ou disparue",
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {}
+}

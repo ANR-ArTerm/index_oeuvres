@@ -9,7 +9,8 @@ from modules.data.load import (load_notice,
                                index_username, 
                                get_all_objects_ids_flat_sorted, 
                                save_image,  
-                               save_to_list_form_git)
+                               save_to_list_form_git,
+                               save_person_wikidata)
 
 from modules.git_tools import git_commit_and_push
 from modules.status_entry import STATUS_ENTRY_OPTIONS
@@ -21,12 +22,38 @@ def edit_creator(xml_id, creator, idx, type_entry):
     st.subheader(f"Artiste {idx + 1}")
     col1, col2 = st.columns(2)
     with col1:
+        person_ids = load_list_form("persons")
         creator["xml_id"] = st.selectbox("Artiste :",
-                                     load_list_form("persons"),
+                                     person_ids,
                                      index=index_list_form(creator.get("xml_id", ""), "persons"),
                                      accept_new_options=True,
                                      key=f"{xml_id}_creator_xmlid_{idx}"
                                      )
+        selected_id = creator["xml_id"]
+        previous_wikidata_id = creator.get("_wikidata_person_id")
+        if previous_wikidata_id and previous_wikidata_id != selected_id:
+            creator.pop("wikidata", None)
+            creator.pop("_wikidata_person_id", None)
+
+        is_new_person = selected_id is not None and selected_id not in person_ids
+        if is_new_person and type_entry == "artwork":
+            creator["_wikidata_person_id"] = selected_id
+
+        if is_new_person:
+            success, message = save_to_list_form_git("persons", selected_id)
+            st.success(message) if success else st.error(message)
+
+        if (
+            type_entry == "artwork"
+            and selected_id
+            and creator.get("_wikidata_person_id") == selected_id
+        ):
+            creator["wikidata"] = st.text_input(
+                "Lien Wikidata (facultatif)",
+                value=creator.get("wikidata", ""),
+                key=f"{xml_id}_creator_wikidata_{idx}",
+                placeholder="https://www.wikidata.org/wiki/Q...",
+            )
     with col2:
         if type_entry == "artwork":
             creator["role"] = st.selectbox("Rôle :",
@@ -766,7 +793,28 @@ def edit_json_notice(json_path=None, data=None):
                     if location_type == "holding_institution":
                         notice["location"].pop("place", None)
 
-                    saved_path = save_notice(notice, path=json_path, old_id=st.session_state.original_id)
+                    notice_to_save = {**notice}
+                    notice_to_save["creator"] = []
+                    for creator in notice.get("creator", []):
+                        creator_to_save = {
+                            key: value
+                            for key, value in creator.items()
+                            if key not in {"wikidata", "_wikidata_person_id"}
+                        }
+                        notice_to_save["creator"].append(creator_to_save)
+                        wikidata_source = creator.get("wikidata", "").strip()
+                        if (
+                            entry_type == "artwork"
+                            and wikidata_source
+                            and creator.get("_wikidata_person_id") == creator.get("xml_id")
+                        ):
+                            save_person_wikidata(creator["xml_id"], wikidata_source)
+
+                    saved_path = save_notice(
+                        notice_to_save,
+                        path=json_path,
+                        old_id=st.session_state.original_id,
+                    )
                     st.success(f"✅ Modifications sauvegardées dans : {saved_path}")
                     st.session_state.original_id = notice["id"]        # maj pour renommages successifs
                     st.session_state.editing_path = str(saved_path)
