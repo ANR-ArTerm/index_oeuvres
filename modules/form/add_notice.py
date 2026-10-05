@@ -304,7 +304,7 @@ def add_notice():
     st.title("➕ Ajouter une notice")
 
     entry_editor = st.selectbox(
-        "Créateur de la notice : *",
+        "Créateur·rice de la notice : *",
         load_list_form("usernames"),
         index=index_username()
     )
