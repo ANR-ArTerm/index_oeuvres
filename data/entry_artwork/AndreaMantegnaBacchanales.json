@@ -22,14 +22,18 @@
     {
       "zotero_key": "martineauAndreaMantegna1992",
       "location": "p. 278"
+    },
+    {
+      "zotero_key": "lightbrownMantegnaCompleteCatalogue1986",
+      "location": "n° 208-209"
     }
   ],
   "illustrations": [
     {
       "id": 0,
-      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Mantegna%2C_baccanale_con_un_tino.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Mantegna%2C_baccanale_con_un_tino.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
       "storage": "online",
-      "copyright": "Public Domain",
+      "copyright": "Wikimedia Commons, Public Domain (https://commons.wikimedia.org/wiki/File:Mantegna,_baccanale_con_un_tino.jpg)",
       "caption": ""
     }
   ],
@@ -37,8 +41,13 @@
   "commentary": "",
   "history": [
     {
-      "date": "2026-06-11T18:30:19.609014",
+      "date": "2026-03-06T14:48:18.466330",
       "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-06-11T18:30:19.609014",
+      "type": "modified",
       "author": "Elisa"
     },
     {

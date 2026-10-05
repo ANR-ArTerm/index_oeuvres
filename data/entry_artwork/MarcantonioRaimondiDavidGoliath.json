@@ -1,7 +1,7 @@
 {
   "id": "MarcantonioRaimondiDavidGoliath",
   "QID_wikidata": "",
-  "title": "",
+  "title": "David et Goliath",
   "creator": [
     {
       "xml_id": "MarcantonioRaimondi",
@@ -51,6 +51,11 @@
       "date": "2026-06-24T17:24:57.563580",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-10-05T16:18:02.887959",
+      "type": "modified",
+      "author": "Emma"
     }
   ],
   "contained_by_ensemble": {},
