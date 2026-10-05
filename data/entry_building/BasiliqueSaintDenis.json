@@ -1,0 +1,55 @@
+{
+  "id": "BasiliqueSaintDenis",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q184407",
+  "entry_type": "building",
+  "title": "La Basilique de Saint Denis ",
+  "creator": [
+    {
+      "xml_id": "AbbeSuger",
+      "role": "architecte"
+    },
+    {
+      "xml_id": null,
+      "role": null
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "SaintDenis",
+      "country": "France",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Basilique_St_Denis_fa%C3%A7ade_ouest_St_Denis_Seine_St_Denis_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0,  Chabe01 (https://commons.wikimedia.org/wiki/File:Basilique_St_Denis_fa%C3%A7ade_ouest_St_Denis_Seine_St_Denis_20.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "La date de construction est à chercher en bibliothèque",
+  "history": [
+    {
+      "date": "2026-10-05T14:12:10.351240",
+      "type": "created",
+      "author": "Emma"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "basilique",
+  "contained_by_ensemble": {}
+}
