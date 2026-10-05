@@ -1,5 +1,5 @@
 {
-  "id": "GiuseppeArcimboldoVertumneChâteauDeSkoklosteBalsta",
+  "id": "GiuseppeArcimboldoVertumneChateauDeSkoklosteBalsta",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q16333797",
   "entry_type": "artwork",
   "title": "Vertumne",
@@ -56,6 +56,11 @@
       "date": "2026-07-21T16:48:44.910257",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-10-05T16:07:32.005551",
+      "type": "modified",
+      "author": "Emma"
     }
   ],
   "status_entry": 0,
