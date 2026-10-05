@@ -394,9 +394,9 @@ def add_notice():
     )
 
     # =========================
-    # CRÉATEURS (LOGIQUE ÉDITEUR)
+    # CRÉATEUR·RICE·S (LOGIQUE ÉDITEUR)
     # =========================
-    st.header("👥 Créateurs")
+    st.header("👥 Créateur·rice·s")
 
     if "creator" not in notice:
         notice["creator"] = []
@@ -406,13 +406,13 @@ def add_notice():
             notice["id"], creator, idx, entry_type
         )
         if st.button(
-            f"Supprimer créateur {idx + 1}",
+            f"Supprimer créateur·rice {idx + 1}",
             key=f"del_creator_create_{idx}"
         ):
             notice["creator"].pop(idx)
             st.rerun()
 
-    if st.button("➕ Ajouter un créateur"):
+    if st.button("➕ Ajouter un·e créateur·rice"):
         notice["creator"].append({"xml_id": "", "role": ""})
         st.rerun()
 

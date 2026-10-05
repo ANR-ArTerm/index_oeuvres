@@ -302,7 +302,7 @@ def edit_illustration(xml_id, illus, idx):
 
 def edit_json_notice(json_path=None, data=None):
 
-    st.title("Éditeur de Notice JSON")
+    st.title("Éditeur·ice de Notice JSON")
     
     # 1. Charger les données depuis le fichier
     if data is None and json_path:
@@ -362,18 +362,18 @@ def edit_json_notice(json_path=None, data=None):
                 success, message = save_to_list_form_git("typologies_ensemble", notice["typology"])
                 st.success(message) if success else st.error(message)
 
-    # Section Créateurs
-    st.header("👥 Créateurs")
+    # Section Créateur·rice·s
+    st.header("👥 Créateur·rice·s")
     if "creator" not in notice or not isinstance(notice["creator"], list):
         notice["creator"] = []
     
     for idx, creator in enumerate(notice["creator"]):
         notice["creator"][idx] = edit_creator(id_entry, creator, idx, entry_type)
-        if st.button(f"Supprimer créateur {idx + 1}", key=f"{id_entry}_del_creator_{idx}"):
+        if st.button(f"Supprimer créateur·rice {idx + 1}", key=f"{id_entry}_del_creator_{idx}"):
             notice["creator"].pop(idx)
             st.rerun()
     
-    if st.button("➕ Ajouter un créateur"):
+    if st.button("➕ Ajouter un·e créateur·rice"):
         notice["creator"].append({"xml_id": "", "role": ""})
         st.rerun()
 

@@ -32,14 +32,14 @@ def normalize_notice_artwork(o):
     o_display['URL'] = holding_institution.get('URL') or "AUCUN URL"
 
 
-    # Créateurs
+    # Créateur·rice·s
     creators = o.get('creator', [])
     if not creators:
-        o_display['creators_display'] = ["AUCUN CRÉATEUR"]
+        o_display['creators_display'] = ["AUCUN CRÉATEUR·RICE"]
     else:
         display_list = []
         for c in creators:
-            nom = c.get('xml_id', 'Créateur inconnu')
+            nom = c.get('xml_id', 'Créateur·rice inconnu')
             role = c.get('role')
             display_list.append(f"{nom} ({role})" if role else nom)
         o_display['creators_display'] = display_list
@@ -125,7 +125,7 @@ def render_search_entries_artwork():
                 # Titre principal
                 st.text(o_display['title'])
                 
-                # Créateurs en italique
+                # Créateur·rice·s en italique
                 st.markdown(f"*{creators_str}*")
                 
                 # Informations secondaires

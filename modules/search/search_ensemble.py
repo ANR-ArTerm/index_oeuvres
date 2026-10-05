@@ -62,14 +62,14 @@ def normalize_notice_ensemble(o):
         o_display["location_url"] = institution.get("url") or "AUCUNE URL"
 
 
-    # Créateurs
+    # Créateur·rice·s
     creators = o.get("creator", [])
     if not creators:
-        o_display["creators_display"] = ["AUCUN CRÉATEUR"]
+        o_display["creators_display"] = ["AUCUN CRÉATEUR·RICE"]
     else:
         display_list = []
         for c in creators:
-            nom = c.get("xml_id") or "CRÉATEUR INCONNU"
+            nom = c.get("xml_id") or "CRÉATEUR·RICE INCONNU"
             role = c.get("role")
             display_list.append(f"{nom} ({role})" if role else nom)
         o_display["creators_display"] = display_list

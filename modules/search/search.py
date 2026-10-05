@@ -47,7 +47,7 @@ def normalize_notice(o, entry_type):
     d.setdefault("location_display", "AUCUNE LOCALISATION")
     d.setdefault("secondary", "")
     d.setdefault("illustrations_display", [])
-    d.setdefault("creators_display", ["AUCUN CRÉATEUR"])
+    d.setdefault("creators_display", ["AUCUN CRÉATEUR·RICE"])
     d.setdefault("biblio_display", ["AUCUNE BIBLIOGRAPHIE"])
 
     return d

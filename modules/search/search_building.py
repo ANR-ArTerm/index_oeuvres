@@ -31,14 +31,14 @@ def normalize_notice_architecture(o):
     o_display['city'] = place.get('city') or "AUCUNE VILLE"
     o_display['country'] = place.get('country') or "AUCUN PAYS"
     
-    # Créateurs
+    # Créateur·rice·s
     creators = o.get('creator', [])
     if not creators:
-        o_display['creators_display'] = ["AUCUN CRÉATEUR"]
+        o_display['creators_display'] = ["AUCUN CRÉATEUR·RICE"]
     else:
         display_list = []
         for c in creators:
-            nom = c.get('xml_id', 'Créateur inconnu')
+            nom = c.get('xml_id', 'Créateur·rice inconnu')
             role = c.get('role')
             display_list.append(f"{nom} ({role})" if role else nom)
         o_display['creators_display'] = display_list
@@ -176,7 +176,7 @@ def render_search_entries_architecture():
                 # Titre principal
                 st.text(o_display['title'])
                 
-                # Créateurs en italique
+                # Créateur·rice·s en italique
                 st.markdown(f"*{creators_str}*")
                 
                 # Informations secondaires
