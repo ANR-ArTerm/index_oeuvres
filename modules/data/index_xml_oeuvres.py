@@ -6,15 +6,16 @@ import xml.etree.ElementTree as ET
 from pathlib import Path
 
 
-BASE_DIR = Path(__file__).resolve().parents[3]
+APP_DIR = Path(__file__).resolve().parents[2]
+REPO_DIR = APP_DIR.parent
 
 DATA_DIRS = [
-    BASE_DIR / "data" / "entry_building",
-    BASE_DIR / "data" / "entry_artwork",
-    BASE_DIR / "data" / "entry_ensemble",
+    APP_DIR / "data" / "entry_building",
+    APP_DIR / "data" / "entry_artwork",
+    APP_DIR / "data" / "entry_ensemble",
 ]
 
-XML_PATH = BASE_DIR / "corpus" / "IndexOeuvres.xml"
+XML_PATH = REPO_DIR / "corpus" / "IndexOeuvres.xml"
 
 TEI_NS = "http://www.tei-c.org/ns/1.0"
 ET.register_namespace("", TEI_NS)
@@ -39,7 +40,7 @@ def sync_oeuvres_from_json():
         )
 
     oeuvres = []
-    seen_ids = set()
+    seen_ids = {}
 
     for data_dir in DATA_DIRS:
         if not data_dir.exists():
@@ -56,35 +57,31 @@ def sync_oeuvres_from_json():
                 raise ValueError(f"La notice doit être un objet JSON : {json_file}")
 
             xml_id = data.get("id")
-            title = data.get("title")
-
-            creators = data.get("creator", [])
-            creator_name = "Inconnu"
-            if isinstance(creators, list) and creators:
-                first_creator = creators[0]
-                if isinstance(first_creator, dict):
-                    creator_name = first_creator.get("xml_id") or "Inconnu"
+            source = data.get("QID_wikidata")
 
             if not isinstance(xml_id, str) or not xml_id.strip():
                 raise ValueError(f"ID manquant ou invalide dans {json_file}")
-            if not isinstance(title, str) or not title.strip():
-                raise ValueError(f"Titre manquant ou invalide dans {json_file}")
+            xml_id = xml_id.strip()
+            if source is not None and not isinstance(source, str):
+                raise ValueError(f"QID_wikidata invalide dans {json_file}")
             if xml_id in seen_ids:
-                raise ValueError(f"ID dupliqué dans les notices : {xml_id}")
+                raise ValueError(
+                    f"ID dupliqué dans les notices : {xml_id} "
+                    f"({seen_ids[xml_id]} et {json_file})"
+                )
 
-            seen_ids.add(xml_id)
-            label = f"{creator_name}, {title.strip()}".strip(", ")
-            oeuvres.append((xml_id, label))
+            seen_ids[xml_id] = json_file
+            oeuvres.append((xml_id, source.strip() if source else ""))
 
     # Le corpus conserve un élément racine TEI non qualifié et un listObject TEI.
     root = ET.Element("TEI")
     list_object = ET.SubElement(root, f"{{{TEI_NS}}}listObject")
 
-    for xml_id, label in sorted(oeuvres, key=lambda x: x[0]):
+    for xml_id, source in sorted(oeuvres, key=lambda x: x[0]):
         obj = ET.SubElement(list_object, f"{{{TEI_NS}}}object")
         obj.set("{http://www.w3.org/XML/1998/namespace}id", xml_id)
-        paragraph = ET.SubElement(obj, f"{{{TEI_NS}}}p")
-        paragraph.text = label
+        if source:
+            obj.set("source", source)
 
     ET.indent(root, space="  ")
     temporary_path = XML_PATH.with_suffix(XML_PATH.suffix + ".tmp")

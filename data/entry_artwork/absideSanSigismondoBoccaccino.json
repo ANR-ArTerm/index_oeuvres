@@ -26,7 +26,7 @@
   "related_works": [
     {
       "link_type": "fait partie de",
-      "xml_id_work": "EgliseSanSigismondoCremona"
+      "xml_id_work": null
     }
   ],
   "bibliography": [
@@ -70,6 +70,11 @@
       "date": "2026-07-21T17:25:31.113047",
       "type": "modified",
       "author": "Elisa"
+    },
+    {
+      "date": "2026-10-05T15:54:29.249849",
+      "type": "modified",
+      "author": "Emma"
     }
   ],
   "status_entry": 0,
