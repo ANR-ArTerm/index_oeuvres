@@ -1,7 +1,7 @@
 {
   "id": "ParmigianinoTombeau",
   "QID_wikidata": "",
-  "title": "",
+  "title": "Tombeau",
   "creator": [
     {
       "xml_id": "Parmigianino",
@@ -46,6 +46,11 @@
       "date": "2026-06-23T17:33:14.438090",
       "type": "modified",
       "author": "Jules"
+    },
+    {
+      "date": "2026-10-05T16:19:31.362290",
+      "type": "modified",
+      "author": "Emma"
     }
   ],
   "status_entry": 1,
