@@ -1,6 +1,6 @@
 {
   "id": "ApelleCalomnie",
-  "QID_wikidata": "https://www.wikidata.org/wiki/Q3207003",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q58370982",
   "entry_type": "artwork",
   "title": "Calomnie",
   "creator": [
@@ -12,36 +12,48 @@
   "dateCreated": {
     "startYear": null,
     "endYear": null,
-    "text": ""
+    "text": "IVe siècle av. J.-C."
   },
-  "materialsAndTechniques": "œuvre imaginaire ou disparue",
   "location": {
-    "type": "holding_institution",
-    "institution": {
-      "name": null,
-      "place": null,
-      "inventory_number": "",
-      "url": ""
-    }
+    "type": "unlocated"
   },
   "related_works": [],
-  "bibliography": [],
-  "illustrations": [],
-  "description": "",
-  "commentary": "Peinture d'Apelle connue uniquement par une description de Lucien de Samosate",
-  "history": [
+  "bibliography": [
     {
-      "date": "2026-01-15T12:21:39.296040",
-      "type": "created",
-      "author": "Pierre"
-    },
-    {
-      "date": "2026-06-10T12:03:32.560076",
-      "type": "modified",
-      "author": "Jules"
+      "zotero_key": "castCalumnyApellesStudy1981",
+      "location": ""
     }
   ],
-  "status_entry": 1,
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Sandro_Botticelli_La_calumnia_de_Apeles.jpg/1920px-Sandro_Botticelli_La_calumnia_de_Apeles.jpg",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": "Cette œuvre s'inspire du tableau perdu d'Appelle, décrit par l'écrivain grec Lucien dans son ouvrage \"De Calumnia\""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-12T15:33:43.687743",
+      "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-15T16:41:51.402274",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-07-21T16:53:21.488371",
+      "type": "modified",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "fresque",
   "contained_by_ensemble": {},
-  "typology": "Œuvre imaginaire ou disparue"
+  "typology": "Peinture"
 }
