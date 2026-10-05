@@ -1,0 +1,46 @@
+{
+  "id": "EgliseAbbatialeSaintAntoineSaintAntoineLAbbaye",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q41706422",
+  "entry_type": "building",
+  "title": "Eglise Abbatiale Saint-Antoine de Saint-Antoine-l'Abbaye",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1280,
+    "endYear": 1280,
+    "text": "vers 1280"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "SaintAntoineLAbbaye",
+      "country": "France",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Abbatiale_de_Saint-Antoine-l%27Abbaye_-_Parvis%2C_fa%C3%A7ade_occidentale%2C_portails_et_porte.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, MOSSOT (https://commons.wikimedia.org/wiki/File:Abbatiale_de_Saint-Antoine-l%27Abbaye_-_Parvis,_fa%C3%A7ade_occidentale,_portails_et_porte.JPG)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-10-05T12:18:29.346940",
+      "type": "created",
+      "author": null
+    }
+  ],
+  "status_entry": 0,
+  "typology": "église",
+  "contained_by_ensemble": {}
+}
