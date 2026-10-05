@@ -1,0 +1,51 @@
+{
+  "id": "CathedraleSaintEtienneMeaux",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q586471",
+  "entry_type": "building",
+  "title": "La Cathedrale de Saint Etienne de Meaux",
+  "creator": [
+    {
+      "xml_id": null,
+      "role": null
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Meaux",
+      "country": "France",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Cath%C3%A9drale_Saint-Etienne_de_Meaux..JPG?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Toine77 (https://commons.wikimedia.org/wiki/File:Cath%C3%A9drale_Saint-Etienne_de_Meaux..JPG)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-10-05T15:12:54.260755",
+      "type": "created",
+      "author": "Emma"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "cathédrale",
+  "contained_by_ensemble": {}
+}
