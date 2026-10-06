@@ -15,11 +15,11 @@ if exist ".env" (
 )
 
 :: Si USERNAME existe déjà → on ne demande rien
-if defined CURRENT_USER (
-    echo USERNAME deja defini : !CURRENT_USER!
-    set "USERNAME=!CURRENT_USER!"
-    goto END_USERNAME
-)
+: if defined CURRENT_USER (
+:    echo USERNAME deja defini : !CURRENT_USER!
+:    set "USERNAME=!CURRENT_USER!"
+:    goto END_USERNAME
+: )
 
 :: Sinon → demander le nom
 :ASK_USERNAME

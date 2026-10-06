@@ -1,0 +1,57 @@
+{
+  "id": "PierredeMontreuilSainteChapelleParis",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q193193",
+  "entry_type": "building",
+  "title": "Sainte Chapelle Paris",
+  "creator": [
+    {
+      "xml_id": "PierreDeMontreuil",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1241,
+    "endYear": 1248,
+    "text": ""
+  },
+  "location": {
+    "type": "holding_institution",
+    "place": {
+      "city": null,
+      "country": null,
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    },
+    "institution": {
+      "name": "Sainte Chapelle",
+      "place": "Paris",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Sainte-Chapelle_de_Paris_vue_du_Palais_de_justice.JPG?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 1.2,Mathae (https://commons.wikimedia.org/wiki/File:Szensapel.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-10-06T15:24:21.859179",
+      "type": "created",
+      "author": "JuliaV"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Chapelle",
+  "contained_by_ensemble": {}
+}

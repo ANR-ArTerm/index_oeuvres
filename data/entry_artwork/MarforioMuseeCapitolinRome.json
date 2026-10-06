@@ -1,0 +1,53 @@
+{
+  "id": "MarforioMuseeCapitolinRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q831467",
+  "entry_type": "artwork",
+  "title": "Maforio",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1,
+    "endYear": 99,
+    "text": "1er siècle"
+  },
+  "location": {
+    "type": "place",
+    "institution": {
+      "name": null,
+      "place": null,
+      "inventory_number": "",
+      "url": ""
+    },
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Marforio_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Jbribeiro1 (https://commons.wikimedia.org/wiki/File:Marforio_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016_(2).jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-10-06T15:01:55.225791",
+      "type": "created",
+      "author": "JuliaV"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Sculpture",
+  "materialsAndTechniques": null,
+  "contained_by_ensemble": {}
+}
