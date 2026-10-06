@@ -7,6 +7,7 @@ import re
 from modules.data.load import save_notice, exist_notice, save_image, load_list_form, index_username, save_to_list_form_git, save_person_wikidata, save_place_wikidata, get_all_objects_ids_flat_sorted
 from modules.git_tools import git_commit_and_push
 from modules.wikidata.queries import get_monument_data
+from modules.wikidata.artwork_queries import get_artwork_data
 
 from modules.form.components import exemple_desc_image, wikidata_link_for_new_id
 
@@ -400,17 +401,59 @@ def add_notice():
             url_wikidata = notice.get("QID_wikidata", "")
             if not url_wikidata:
                 st.warning("Veuillez entrer un QID.")
-            if entry_type == "building":
+            elif entry_type == "building":
                 wikidata_data = get_monument_data(notice["QID_wikidata"])
                 st.session_state["wikidata_dic"] = wikidata_data
-            if entry_type == "ensemble":
+            elif entry_type == "ensemble":
                 st.warning("La fonction n'existe pas encore")
-            if entry_type == "artwork":
-                st.warning("La fonction n'existe pas encore")
+            elif entry_type == "artwork":
+                try:
+                    artwork_data = get_artwork_data(url_wikidata)
+                except Exception as error:
+                    st.error(f"Erreur lors de la recherche Wikidata : {error}")
+                else:
+                    if artwork_data["title"] and not notice.get("title", "").strip():
+                        notice["title"] = artwork_data["title"]
+                        st.session_state[f"{xml_id}_title"] = artwork_data["title"]
+
+                    date_created = notice.setdefault("dateCreated", {})
+                    if artwork_data["year"] is not None:
+                        if date_created.get("startYear") in (None, ""):
+                            date_created["startYear"] = artwork_data["year"]
+                            st.session_state[f"{xml_id}_start_year"] = artwork_data["year"]
+                        if date_created.get("endYear") in (None, ""):
+                            date_created["endYear"] = artwork_data["year"]
+                            st.session_state[f"{xml_id}_end_year"] = artwork_data["year"]
+                        if not date_created.get("text"):
+                            date_created["text"] = str(artwork_data["year"])
+                            st.session_state[f"{xml_id}_date_text"] = str(artwork_data["year"])
+
+                    if (
+                        artwork_data["materialsAndTechniques"]
+                        and not notice.get("materialsAndTechniques", "").strip()
+                    ):
+                        notice["materialsAndTechniques"] = artwork_data["materialsAndTechniques"]
+                        st.session_state[f"{xml_id}_materials_techniques"] = artwork_data[
+                            "materialsAndTechniques"
+                        ]
+
+                    illustrations = notice.setdefault("illustrations", [])
+                    known_images = {item.get("url") for item in illustrations}
+                    for image_url in artwork_data["images"]:
+                        if image_url not in known_images:
+                            illustrations.append({
+                                "id": len(illustrations),
+                                "url": image_url,
+                                "storage": "online",
+                                "copyright": "",
+                                "caption": "",
+                            })
+                    st.success("Informations Wikidata récupérées.")
 
     notice["title"] = st.text_input(
         "Titre *",
-        notice.get("title", "")
+        notice.get("title", ""),
+        key=f"{xml_id}_title",
     )
 
     # =========================
@@ -466,13 +509,19 @@ def add_notice():
         # Matériaux et techniques
         with col_materials:
 
+            techniques = load_list_form("techniques")
+            selected_technique = notice.get("materialsAndTechniques")
+            if selected_technique and selected_technique not in techniques:
+                techniques = [selected_technique, *techniques]
+
             st.header("🎨 Matériaux & Techniques")
 
             notice["materialsAndTechniques"] = st.selectbox(
                         "Matériaux et techniques",
-                        load_list_form("techniques"),
-                        index=None,
-                        accept_new_options=True
+                        techniques,
+                        index=techniques.index(selected_technique) if selected_technique in techniques else None,
+                        accept_new_options=True,
+                        key=f"{xml_id}_materials_techniques",
                         )
             if notice["materialsAndTechniques"] is not None and notice["materialsAndTechniques"] not in load_list_form("techniques"):
                 st.write("Sauvegarde de la technique")
@@ -538,7 +587,8 @@ def add_notice():
             max_value=3000,
             value = int(start_year) if start_year not in ("", None) else None,
             step=1,
-            format="%d"
+            format="%d",
+            key=f"{xml_id}_start_year",
         )
 
     with col2:
@@ -548,12 +598,14 @@ def add_notice():
             max_value=3000,
             value=int(end_year) if end_year not in ("", None) else None,
             step=1,
-            format="%d"
+            format="%d",
+            key=f"{xml_id}_end_year",
         )
     with col3:
         notice["dateCreated"]["text"] = st.text_input(
             "Texte",
-            notice["dateCreated"].get("text", "")
+            notice["dateCreated"].get("text", ""),
+            key=f"{xml_id}_date_text"
         )
 
     # =========================
