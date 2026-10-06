@@ -46,6 +46,7 @@ def add_creator(xml_id, creator, idx, type_entry):
                                      index=None,
                                      key=f"{xml_id}_creator_xmlid_{idx}"
                                      )
+
         selected_id = creator["xml_id"]
         previous_wikidata_id = creator.get("_wikidata_person_id")
         if previous_wikidata_id and previous_wikidata_id != selected_id:
@@ -53,7 +54,7 @@ def add_creator(xml_id, creator, idx, type_entry):
             creator.pop("_wikidata_person_id", None)
 
         is_new_person = selected_id is not None and selected_id not in person_ids
-        if is_new_person and type_entry == "artwork":
+        if is_new_person:
             creator["_wikidata_person_id"] = selected_id
 
         if is_new_person:
@@ -64,11 +65,7 @@ def add_creator(xml_id, creator, idx, type_entry):
                 else:
                     st.error(message)
 
-        if (
-            type_entry == "artwork"
-            and selected_id
-            and creator.get("_wikidata_person_id") == selected_id
-        ):
+        if selected_id and creator.get("_wikidata_person_id") == selected_id:
             creator["wikidata"] = st.text_input(
                 "Lien Wikidata (facultatif)",
                 value=creator.get("wikidata", ""),
@@ -987,10 +984,9 @@ def add_notice():
                 if key not in {"wikidata", "_wikidata_person_id"}
             }
             notice_to_save["creator"].append(creator_to_save)
+
             wikidata_source = creator.get("wikidata", "").strip()
             if (
-                entry_type == "artwork"
-                and
                 wikidata_source
                 and creator.get("_wikidata_person_id") == creator.get("xml_id")
             ):
