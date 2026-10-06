@@ -3,15 +3,41 @@ from datetime import datetime
 import time
 import uuid
 import re
+from urllib.error import HTTPError
 
 from modules.data.load import save_notice, exist_notice, save_image, load_list_form, index_username, save_to_list_form_git, save_person_wikidata, save_place_wikidata, get_all_objects_ids_flat_sorted
 from modules.git_tools import git_commit_and_push
 from modules.wikidata.queries import get_monument_data
-from modules.wikidata.artwork_queries import get_artwork_data
+from modules.wikidata.artwork_queries import get_artwork_data, match_existing_label
+from modules.wikidata.matching_data import wikidata_to_xml_ids_or_qid
 
 from modules.form.components import exemple_desc_image, wikidata_link_for_new_id
 
 from modules.status_entry import STATUS_ENTRY_OPTIONS
+
+
+@st.fragment(run_every="1s")
+def _render_wikidata_retry_timer():
+    retry_at = st.session_state.get("wikidata_retry_at", 0)
+    remaining = max(0, int(retry_at - time.time() + 0.999))
+    if remaining:
+        st.warning(
+            f"Attendre {remaining // 60:02d}:{remaining % 60:02d} "
+            "avant de relancer la requête Wikidata."
+        )
+    else:
+        st.session_state.pop("wikidata_retry_at", None)
+        st.success("Vous pouvez relancer la recherche Wikidata.")
+
+
+def _start_wikidata_cooldown(error: HTTPError) -> None:
+    retry_after = error.headers.get("Retry-After") if error.headers else None
+    try:
+        delay = max(1, int(float(retry_after)))
+    except (TypeError, ValueError):
+        delay = 60
+    st.session_state["wikidata_retry_at"] = time.time() + delay
+
 
 def init_empty_notice(xml_id, entry_type):
     return {
@@ -321,6 +347,103 @@ def add_illustration(xml_id, illus, idx):
             Pour précisier des informations sur l'image, en particulier si l'image ne correspond pas exactement à l'œuvre décrite dans la notice (une copie, un dessin préparatoire,...) """
         )
 
+def _apply_artwork_data(xml_id, notice, artwork_data):
+    if artwork_data["title"] and not (notice.get("title") or "").strip():
+        notice["title"] = artwork_data["title"]
+        st.session_state[f"{xml_id}_title"] = artwork_data["title"]
+
+    date_created = notice.setdefault("dateCreated", {})
+    if artwork_data["year"] is not None:
+        if date_created.get("startYear") in (None, ""):
+            date_created["startYear"] = artwork_data["year"]
+            st.session_state[f"{xml_id}_start_year"] = artwork_data["year"]
+        if date_created.get("endYear") in (None, ""):
+            date_created["endYear"] = artwork_data["year"]
+            st.session_state[f"{xml_id}_end_year"] = artwork_data["year"]
+        if not date_created.get("text"):
+            date_created["text"] = str(artwork_data["year"])
+            st.session_state[f"{xml_id}_date_text"] = str(artwork_data["year"])
+
+    persons = load_list_form("persons")
+    creator_ids = wikidata_to_xml_ids_or_qid(
+        artwork_data["creator_qids"],
+        key="people",
+    )
+    selected_creator_ids = {
+        creator.get("xml_id")
+        for creator in notice.get("creator", [])
+        if creator.get("xml_id")
+    }
+    creator_entries = notice.setdefault("creator", [])
+    missing_creators = []
+    for creator_id, creator_label in zip(creator_ids, artwork_data["creator_labels"]):
+        if creator_id not in persons:
+            missing_creators.append(creator_label)
+            continue
+        if creator_id in selected_creator_ids:
+            continue
+
+        empty_entry = next(
+            (creator for creator in creator_entries if not creator.get("xml_id")),
+            None,
+        )
+        if empty_entry is None:
+            creator_entries.append({"xml_id": creator_id, "role": ""})
+            creator_idx = len(creator_entries) - 1
+        else:
+            empty_entry["xml_id"] = creator_id
+            empty_entry.setdefault("role", "")
+            creator_idx = creator_entries.index(empty_entry)
+
+        st.session_state[f"{xml_id}_creator_xmlid_{creator_idx}"] = creator_id
+        selected_creator_ids.add(creator_id)
+
+    if missing_creators:
+        names = ", ".join(dict.fromkeys(missing_creators))
+        st.warning(
+            "Ces artistes Wikidata ne sont pas encore dans la liste des artistes : "
+            f"{names}. Ajoutez-les à la liste pour pouvoir les associer à la notice."
+        )
+
+    location = notice.get("location")
+    if not isinstance(location, dict):
+        location = {}
+    institution = location.get("institution", {})
+    location_type = location.get("type") or "holding_institution"
+    if location_type == "holding_institution" and not institution.get("name"):
+        institutions = load_list_form("institutions")
+        institution_name = next(
+            (
+                match
+                for institution_label in artwork_data["institutions"]
+                if (match := match_existing_label(institution_label, institutions))
+            ),
+            None,
+        )
+        if institution_name:
+            institution["name"] = institution_name
+            location["type"] = "holding_institution"
+            location["institution"] = institution
+            notice["location"] = location
+            st.session_state[f"{xml_id}_institution"] = institution_name
+
+    illustrations = notice.setdefault("illustrations", [])
+    known_images = {item.get("url") for item in illustrations}
+    for image in artwork_data["images"]:
+        image_url = image["url"]
+        if image_url not in known_images:
+            illustrations.append({
+                "id": len(illustrations),
+                "url": image_url,
+                "storage": "online",
+                "copyright": image["copyright"],
+                "caption": "",
+            })
+            known_images.add(image_url)
+
+    st.success("Informations Wikidata récupérées.")
+
+
 def add_notice():
     st.title("➕ Ajouter une notice")
 
@@ -397,65 +520,81 @@ def add_notice():
         )
     
     with colWiki2:
+        retry_at = st.session_state.get("wikidata_retry_at", 0)
+        if retry_at > time.time():
+            _render_wikidata_retry_timer()
+        elif retry_at:
+            st.session_state.pop("wikidata_retry_at", None)
+
         if st.button("Recherche Wikidata"):
-            url_wikidata = notice.get("QID_wikidata", "")
-            if not url_wikidata:
-                st.warning("Veuillez entrer un QID.")
-            elif entry_type == "building":
-                wikidata_data = get_monument_data(notice["QID_wikidata"])
-                st.session_state["wikidata_dic"] = wikidata_data
-            elif entry_type == "ensemble":
-                st.warning("La fonction n'existe pas encore")
-            elif entry_type == "artwork":
-                try:
-                    artwork_data = get_artwork_data(url_wikidata)
-                except Exception as error:
-                    st.error(f"Erreur lors de la recherche Wikidata : {error}")
-                else:
-                    if artwork_data["title"] and not (notice.get("title") or "").strip():
-                        notice["title"] = artwork_data["title"]
-                        st.session_state[f"{xml_id}_title"] = artwork_data["title"]
+            retry_at = st.session_state.get("wikidata_retry_at", 0)
+            if retry_at > time.time():
+                _render_wikidata_retry_timer()
+            else:
+                url_wikidata = notice.get("QID_wikidata", "")
+                if not url_wikidata:
+                    st.warning("Veuillez entrer un QID.")
+                elif entry_type == "building":
+                    try:
+                        wikidata_data = get_monument_data(url_wikidata)
+                    except HTTPError as error:
+                        if error.code == 429:
+                            _start_wikidata_cooldown(error)
+                            st.error("Wikidata limite temporairement les requêtes.")
+                            _render_wikidata_retry_timer()
+                        else:
+                            st.error(f"Erreur lors de la recherche Wikidata : {error}")
+                    except Exception as error:
+                        st.error(f"Erreur lors de la recherche Wikidata : {error}")
+                    else:
+                        st.session_state["wikidata_data"] = wikidata_data
+                        place_ids = load_list_form("places")
+                        location = notice.get("location")
+                        if not isinstance(location, dict):
+                            location = {"type": "place", "place": {}}
+                        elif not location.get("type"):
+                            location["type"] = "place"
 
-                    date_created = notice.setdefault("dateCreated", {})
-                    if artwork_data["year"] is not None:
-                        if date_created.get("startYear") in (None, ""):
-                            date_created["startYear"] = artwork_data["year"]
-                            st.session_state[f"{xml_id}_start_year"] = artwork_data["year"]
-                        if date_created.get("endYear") in (None, ""):
-                            date_created["endYear"] = artwork_data["year"]
-                            st.session_state[f"{xml_id}_end_year"] = artwork_data["year"]
-                        if not date_created.get("text"):
-                            date_created["text"] = str(artwork_data["year"])
-                            st.session_state[f"{xml_id}_date_text"] = str(artwork_data["year"])
+                        if location.get("type") == "place":
+                            place = location.setdefault("place", {})
+                            unmatched_places = []
+                            for field, session_key in (
+                                ("city", "place_city"),
+                                ("country", "place_country"),
+                            ):
+                                label = wikidata_data.get(field)
+                                if not label:
+                                    continue
+                                known_place = match_existing_label(label, place_ids)
+                                if known_place:
+                                    if not place.get(field):
+                                        place[field] = known_place
+                                        st.session_state[session_key] = known_place
+                                else:
+                                    unmatched_places.append(label)
 
-                    if (
-                        artwork_data["materialsAndTechniques"]
-                        and not (notice.get("materialsAndTechniques") or "").strip()
-                    ):
-                        notice["materialsAndTechniques"] = artwork_data["materialsAndTechniques"]
-                        st.session_state[f"{xml_id}_materials_techniques"] = artwork_data[
-                            "materialsAndTechniques"
-                        ]
-                        if artwork_data["materialsAndTechniques"] not in load_list_form("techniques"):
-                            success, message = save_to_list_form_git(
-                                "techniques",
-                                artwork_data["materialsAndTechniques"],
-                            )
-                            if not success:
-                                st.warning(message)
+                            coordinates = place.setdefault("coordinates", {})
+                            for coordinate in ("latitude", "longitude"):
+                                coordinate_value = wikidata_data.get(coordinate)
+                                if coordinate_value is not None and not coordinates.get(coordinate):
+                                    coordinates[coordinate] = coordinate_value
+                            notice["location"] = location
 
-                    illustrations = notice.setdefault("illustrations", [])
-                    known_images = {item.get("url") for item in illustrations}
-                    for image_url in artwork_data["images"]:
-                        if image_url not in known_images:
-                            illustrations.append({
-                                "id": len(illustrations),
-                                "url": image_url,
-                                "storage": "online",
-                                "copyright": "",
-                                "caption": "",
-                            })
-                    st.success("Informations Wikidata récupérées.")
+                            if unmatched_places:
+                                unknown_names = ", ".join(dict.fromkeys(unmatched_places))
+                                st.warning(
+                                    "Ces lieux Wikidata ne sont pas encore dans la liste des lieux : "
+                                    f"{unknown_names}. Créez-les dans le sélecteur Ville/Pays."
+                                )
+                elif entry_type == "ensemble":
+                    st.warning("La fonction n'existe pas encore")
+                elif entry_type == "artwork":
+                    try:
+                        artwork_data = get_artwork_data(url_wikidata)
+                    except Exception as error:
+                        st.error(f"Erreur lors de la recherche Wikidata : {error}")
+                    else:
+                        _apply_artwork_data(xml_id, notice, artwork_data)
 
     notice["title"] = st.text_input(
         "Titre *",

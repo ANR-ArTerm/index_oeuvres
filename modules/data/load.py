@@ -47,7 +47,7 @@ LIST_FORM = {
 }
 
 LIST_CSV_QID = {
-    "people": "people.csv",
+    "people": "persname.csv",
     "typologies": "typologies.csv",
     "techniques": "techniques.csv",
     "institutions": "institutions.csv",
