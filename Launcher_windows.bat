@@ -24,7 +24,7 @@ if defined CURRENT_USER (
 :: Sinon → demander le nom
 :ASK_USERNAME
 color 0A
-set /p USERNAME="Entrez votre nom d'utilisateur·rice (Pierre, Julia, Anna, Emma, Carla, Nicolo, Elisa, Hortense, Jules, JuliaV) : "
+set /p USERNAME="Entrez votre nom d'utilisateurice (Pierre, Julia, Anna, Emma, Carla, Nicolo, Elisa, Hortense, Jules, JuliaV) : "
 color 07
 
 set FOUND=0
@@ -33,7 +33,7 @@ for %%u in (%VALID_USERS%) do (
 )
 
 if !FOUND!==0 (
-    echo Utilisateur·rice invalide.
+    echo Utilisateurice invalide.
     goto ASK_USERNAME
 )
 
@@ -42,7 +42,7 @@ echo USERNAME=!USERNAME!>>.env
 echo USERNAME ajoute au fichier .env
 
 :END_USERNAME
-echo Utilisateur·rice actif : !USERNAME!
+echo Utilisateurice actif : !USERNAME!
 echo.
 
 echo.
