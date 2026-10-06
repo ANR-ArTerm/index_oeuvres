@@ -10,12 +10,13 @@ from modules.data.load import (load_notice,
                                get_all_objects_ids_flat_sorted, 
                                save_image,  
                                save_to_list_form_git,
-                               save_person_wikidata)
+                               save_person_wikidata,
+                               save_place_wikidata)
 
 from modules.git_tools import git_commit_and_push
 from modules.status_entry import STATUS_ENTRY_OPTIONS
 from modules.utils.functions import safe_int
-from modules.form.components import exemple_desc_image
+from modules.form.components import exemple_desc_image, wikidata_link_for_new_id
 
 def edit_creator(xml_id, creator, idx, type_entry):
     """Édite un artiste"""
@@ -482,6 +483,7 @@ def edit_json_notice(json_path=None, data=None):
         institution.setdefault("inventory_number", "")
         institution.setdefault("url", "")
 
+        place_ids = load_list_form("places")
         col1, col2 = st.columns(2)
 
         with col1:
@@ -508,14 +510,21 @@ def edit_json_notice(json_path=None, data=None):
         with col2:
             institution["place"] = st.selectbox(
                 "Ville de l'institution",
-                load_list_form("places"),
+                place_ids,
                 index=index_list_form(institution["place"], "places"),
                 accept_new_options=True,
                 key=f"{id_entry}_institution_city"
             )
-            if institution["place"] and institution["place"] not in load_list_form("places"):
+            institution_city = institution["place"]
+            if institution_city and institution_city not in place_ids:
                 success, message = save_to_list_form_git("places", institution["place"])
                 st.success(message) if success else st.error(message)
+
+            institution_source = wikidata_link_for_new_id(
+                id_entry, "institution_city", institution_city, place_ids
+            )
+            if institution_source is not None:
+                save_place_wikidata(institution_city, institution_source)
 
             institution["url"] = st.text_input(
                     "URL de l'institution",
@@ -533,12 +542,13 @@ def edit_json_notice(json_path=None, data=None):
         place["coordinates"].setdefault("latitude", "")
         place["coordinates"].setdefault("longitude", "")
 
+        place_ids = load_list_form("places")
         colVille, colPays = st.columns(2)
 
         with colVille:
             place["city"] = st.selectbox(
                 "Ville",
-                load_list_form("places"),
+                place_ids,
                 index=index_list_form(
                     place["city"],
                     "places"
@@ -546,10 +556,17 @@ def edit_json_notice(json_path=None, data=None):
                 accept_new_options=True
             )
 
-            if place["city"] and place["city"] not in load_list_form("places"):
+            city_id = place["city"]
+            if city_id and city_id not in place_ids:
                 with st.spinner("sauvegarde de la ville"):
-                    success, message = save_to_list_form_git("places", place["city"])
+                    success, message = save_to_list_form_git("places", city_id)
                     st.success(message) if success else st.error(message)
+
+            city_source = wikidata_link_for_new_id(
+                id_entry, "place_city", city_id, place_ids
+            )
+            if city_source is not None:
+                save_place_wikidata(city_id, city_source)
 
             place["coordinates"]["latitude"] = st.text_input(
                     "Latitude",
@@ -560,7 +577,7 @@ def edit_json_notice(json_path=None, data=None):
         with colPays:
             place["country"] = st.selectbox(
                 "Pays",
-                load_list_form("places"),
+                place_ids,
                 index=index_list_form(
                     place["country"],
                     "places"
@@ -568,10 +585,17 @@ def edit_json_notice(json_path=None, data=None):
                 accept_new_options=True
             )
             
-            if place["country"] and place["country"] not in load_list_form("places"):
+            country_id = place["country"]
+            if country_id and country_id not in place_ids:
                 with st.spinner("sauvegarde du pays"):
-                    success, message = save_to_list_form_git("places", place["country"])
+                    success, message = save_to_list_form_git("places", country_id)
                     st.success(message) if success else st.error(message)
+
+            country_source = wikidata_link_for_new_id(
+                id_entry, "place_country", country_id, place_ids
+            )
+            if country_source is not None:
+                save_place_wikidata(country_id, country_source)
 
 
             place["coordinates"]["longitude"] = st.text_input(

@@ -118,8 +118,8 @@ if st.sidebar.button("👥 Synchroniser l'index XML des lieux"):
             st.sidebar.info("Aucun nouveau lieu ajouté au JSON")
 
         if json_only_ids:
-            st.sidebar.subheader("⚠️ Lieux à ajouter dans l’index XML")
-            st.sidebar.warning(json_only_ids)
+            st.sidebar.subheader("🆕 Lieux ajoutés à l’index XML")
+            st.sidebar.success(json_only_ids)
         else:
             st.sidebar.success("L’index lieux est à jour")
 

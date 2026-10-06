@@ -4,11 +4,11 @@ import time
 import uuid
 import re
 
-from modules.data.load import save_notice, exist_notice, save_image, load_list_form, index_username, save_to_list_form_git, save_person_wikidata, get_all_objects_ids_flat_sorted
+from modules.data.load import save_notice, exist_notice, save_image, load_list_form, index_username, save_to_list_form_git, save_person_wikidata, save_place_wikidata, get_all_objects_ids_flat_sorted
 from modules.git_tools import git_commit_and_push
 from modules.wikidata.queries import get_monument_data
 
-from modules.form.components import exemple_desc_image
+from modules.form.components import exemple_desc_image, wikidata_link_for_new_id
 
 from modules.status_entry import STATUS_ENTRY_OPTIONS
 
@@ -617,47 +617,62 @@ def add_notice():
         if "place_country" not in st.session_state:
             st.session_state["place_country"] = place.get("country", None)
 
+        place_ids = load_list_form("places")
         colVille, colPays = st.columns([1, 1])
 
         with colVille:
             st.selectbox(
                 "Ville",
-                load_list_form("places"),
+                place_ids,
                 index=None,
                 accept_new_options=True,
                 key="place_city"
             )
             
             # Sauvegarder nouvelle valeur si inconnue
-            if st.session_state["place_city"] and st.session_state["place_city"] not in load_list_form("places"):
+            city_id = st.session_state["place_city"]
+            if city_id and city_id not in place_ids:
                 with st.spinner("Sauvegarde de la nouvelle ville"):
-                    success_ville, message_ville = save_to_list_form_git("places", st.session_state["place_city"])
+                    success_ville, message_ville = save_to_list_form_git("places", city_id)
                     if success_ville:
                         st.success(message_ville)
                     else:
                         st.error(message_ville)
 
+            city_source = wikidata_link_for_new_id(
+                xml_id, "place_city", city_id, place_ids
+            )
+            if city_source is not None:
+                save_place_wikidata(city_id, city_source)
+
             # Sauvegarder dans le json temporaire
-            place["city"] = st.session_state["place_city"]
+            place["city"] = city_id
 
         with colPays:
             st.selectbox(
                 "Pays",
-                load_list_form("places"),
+                place_ids,
                 index=None,
                 accept_new_options=True,
                 key="place_country"
             )
 
-            if st.session_state["place_country"] and st.session_state["place_country"] not in load_list_form("places"):
+            country_id = st.session_state["place_country"]
+            if country_id and country_id not in place_ids:
                 with st.spinner("Sauvegarde du nouveau pays"):
-                    success_pays, message_pays = save_to_list_form_git("places", st.session_state["place_country"])
+                    success_pays, message_pays = save_to_list_form_git("places", country_id)
                     if success_pays:
                         st.success(message_pays)
                     else:
                         st.error(message_pays)
 
-            place["country"] = st.session_state["place_country"]
+            country_source = wikidata_link_for_new_id(
+                xml_id, "place_country", country_id, place_ids
+            )
+            if country_source is not None:
+                save_place_wikidata(country_id, country_source)
+
+            place["country"] = country_id
 
 
         coordinates = place.get("coordinates", {})
@@ -710,22 +725,30 @@ def add_notice():
                 else:
                     st.error(message_institution)
 
+        place_ids = load_list_form("places")
         institution["place"] = st.selectbox(
                 "Ville de l'institution",
-                load_list_form("places"),
+            place_ids,
                 index=None,
                 accept_new_options=True,
                 key="institution_city"
             )
             
         # Sauvegarder nouvelle valeur si inconnue
-        if st.session_state["institution_city"] and st.session_state["institution_city"] not in load_list_form("places"):
+        institution_city = st.session_state["institution_city"]
+        if institution_city and institution_city not in place_ids:
                 with st.spinner("Sauvegarde de la nouvelle ville"):
-                    success_inst_ville, message_inst_ville = save_to_list_form_git("places", st.session_state["institution_city"])
+                    success_inst_ville, message_inst_ville = save_to_list_form_git("places", institution_city)
                     if success_inst_ville:
                         st.success(message_inst_ville)
                     else:
                         st.error(message_inst_ville)
+
+        institution_source = wikidata_link_for_new_id(
+            xml_id, "institution_city", institution_city, place_ids
+        )
+        if institution_source is not None:
+            save_place_wikidata(institution_city, institution_source)
 
 
         institution["inventory_number"] = st.text_input(

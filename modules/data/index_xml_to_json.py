@@ -125,6 +125,7 @@ def sync_place_ids():
 
     XML_PATH = BASE_DIR / "corpus" / "IndexLieux.xml"
     JSON_PATH = APP_DIR / "data" / "list_form" / "places.json"
+    WIKIDATA_PATH = APP_DIR / "data" / "list_form" / "places_wikidata.json"
     
     # --- Vérification XML ---
     if not XML_PATH.exists():
@@ -137,22 +138,52 @@ def sync_place_ids():
     tree = ET.parse(XML_PATH)
     root = tree.getroot()
 
-    xml_ids = {
-        place.attrib.get("{http://www.w3.org/XML/1998/namespace}id")
-        for place in root.findall(".//tei:place", TEI_NS)
-        if place.attrib.get("{http://www.w3.org/XML/1998/namespace}id")
+    place_elements = root.findall(".//tei:place", TEI_NS)
+    places_by_id = {
+        place.get(XML_ID_ATTRIBUTE): place
+        for place in place_elements
+        if place.get(XML_ID_ATTRIBUTE)
     }
+    xml_ids = set(places_by_id)
+
+    list_place = root.find(".//tei:listPlace", TEI_NS)
+    if list_place is None:
+        raise ValueError("IndexLieux.xml ne contient pas de <listPlace>")
 
     # --- Lecture JSON ---
     if JSON_PATH.exists():
         with open(JSON_PATH, "r", encoding="utf-8") as f:
-            json_ids = set(json.load(f))
+            places_data = json.load(f)
+        if not isinstance(places_data, list):
+            raise ValueError("places.json doit contenir une liste d'identifiants")
+        json_ids = {place_id for place_id in places_data if isinstance(place_id, str)}
     else:
         json_ids = set()
+
+    if WIKIDATA_PATH.exists():
+        with open(WIKIDATA_PATH, "r", encoding="utf-8") as f:
+            wikidata_by_id = json.load(f)
+        if not isinstance(wikidata_by_id, dict):
+            raise ValueError("places_wikidata.json doit contenir un objet JSON")
+    else:
+        wikidata_by_id = {}
 
     # --- Différences intelligentes ---
     new_json_ids = sorted(xml_ids - json_ids)     # 🆕 à ajouter au JSON
     json_only_ids = sorted(json_ids - xml_ids)    # ⚠️ à ajouter au XML
+
+    for place_id in json_only_ids:
+        place = ET.SubElement(list_place, f"{{{TEI_NAMESPACE}}}place")
+        place.set(XML_ID_ATTRIBUTE, place_id)
+        source = wikidata_by_id.get(place_id)
+        if isinstance(source, str) and source.strip():
+            place.set("source", source.strip())
+        places_by_id[place_id] = place
+
+    for place_id, place in places_by_id.items():
+        source = wikidata_by_id.get(place_id)
+        if isinstance(source, str) and source.strip() and not place.get("source"):
+            place.set("source", source.strip())
 
     # --- Mise à jour du JSON ---
     updated_json = sorted(json_ids | xml_ids)
@@ -160,5 +191,14 @@ def sync_place_ids():
     JSON_PATH.parent.mkdir(parents=True, exist_ok=True)
     with open(JSON_PATH, "w", encoding="utf-8") as f:
         json.dump(updated_json, f, ensure_ascii=False, indent=2)
+
+    ET.indent(tree, space="  ")
+    temporary_path = XML_PATH.with_suffix(XML_PATH.suffix + ".tmp")
+    try:
+        tree.write(temporary_path, encoding="utf-8", xml_declaration=True)
+        ET.parse(temporary_path)
+        os.replace(temporary_path, XML_PATH)
+    finally:
+        temporary_path.unlink(missing_ok=True)
 
     return new_json_ids, json_only_ids
