@@ -1,0 +1,39 @@
+{
+  "id": "EmmaBondoerffer",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q77522",
+  "entry_type": "artwork",
+  "title": "test 3",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Ingwiller",
+      "country": "France",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-10-06T11:24:48.358752",
+      "type": "created",
+      "author": "Emma"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Peinture",
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {}
+}
