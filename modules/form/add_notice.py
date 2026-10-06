@@ -412,7 +412,7 @@ def add_notice():
                 except Exception as error:
                     st.error(f"Erreur lors de la recherche Wikidata : {error}")
                 else:
-                    if artwork_data["title"] and not notice.get("title", "").strip():
+                    if artwork_data["title"] and not (notice.get("title") or "").strip():
                         notice["title"] = artwork_data["title"]
                         st.session_state[f"{xml_id}_title"] = artwork_data["title"]
 
@@ -430,12 +430,19 @@ def add_notice():
 
                     if (
                         artwork_data["materialsAndTechniques"]
-                        and not notice.get("materialsAndTechniques", "").strip()
+                        and not (notice.get("materialsAndTechniques") or "").strip()
                     ):
                         notice["materialsAndTechniques"] = artwork_data["materialsAndTechniques"]
                         st.session_state[f"{xml_id}_materials_techniques"] = artwork_data[
                             "materialsAndTechniques"
                         ]
+                        if artwork_data["materialsAndTechniques"] not in load_list_form("techniques"):
+                            success, message = save_to_list_form_git(
+                                "techniques",
+                                artwork_data["materialsAndTechniques"],
+                            )
+                            if not success:
+                                st.warning(message)
 
                     illustrations = notice.setdefault("illustrations", [])
                     known_images = {item.get("url") for item in illustrations}
