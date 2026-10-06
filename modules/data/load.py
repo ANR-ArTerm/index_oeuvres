@@ -439,6 +439,31 @@ def save_person_wikidata(xml_id: str, source: str):
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
+def save_place_wikidata(xml_id: str, source: str):
+    """Enregistre ou retire le lien Wikidata associé à un xml:id de lieu."""
+    xml_id = xml_id.strip() if isinstance(xml_id, str) else ""
+    source = source.strip() if isinstance(source, str) else ""
+    if not xml_id:
+        return
+
+    path = Path(LIST_FORM_DIR) / "places_wikidata.json"
+    if path.exists():
+        with open(path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+    else:
+        data = {}
+
+    if not isinstance(data, dict):
+        raise ValueError("places_wikidata.json doit contenir un objet JSON")
+
+    if source:
+        data[xml_id] = source
+    else:
+        data.pop(xml_id, None)
+
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
 def save_list_to_list_form(key: str, values: list[str], *, sort: bool = True):
     if key not in LIST_FORM:
         raise ValueError(f"Clé inconnue : {key}")
