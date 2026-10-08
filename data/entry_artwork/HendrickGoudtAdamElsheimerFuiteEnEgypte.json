@@ -1,0 +1,51 @@
+{
+  "id": "HendrickGoudtAdamElsheimerFuiteEnEgypte",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q64957619",
+  "entry_type": "artwork",
+  "title": "La fuite en Égypte",
+  "creator": [
+    {
+      "xml_id": "HendrickGoudt",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "AdamElsheimer",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1613,
+    "endYear": 1613,
+    "text": "1613"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Hendrik_Goudt_after_Adam_Elsheimer%2C_The_Flight_into_Egypt%2C_1613%2C_NGA_737.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC0, Brwz (https://commons.wikimedia.org/wiki/File:Hendrik_Goudt_after_Adam_Elsheimer,_The_Flight_into_Egypt,_1613,_NGA_737.jpg?lang=fr)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-10-08T17:31:33.887075",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Estampe",
+  "materialsAndTechniques": "gravure sur cuivre",
+  "contained_by_ensemble": {
+    "link_type": "appartient à l'ensemble",
+    "xml_id_work": "HendrickGoudtAdamElsheimerLesSeptTableauxGraves"
+  }
+}
