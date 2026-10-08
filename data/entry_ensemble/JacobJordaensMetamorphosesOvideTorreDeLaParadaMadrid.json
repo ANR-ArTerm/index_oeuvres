@@ -1,0 +1,40 @@
+{
+  "id": "JacobJordaensMetamorphosesOvideTorreDeLaParadaMadrid",
+  "QID_wikidata": "",
+  "entry_type": "ensemble",
+  "title": "Carton de tapisserie Métamorphoses d'Ovide Torre de la Parada ",
+  "creator": [
+    {
+      "xml_id": "JacobJordaens",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1636,
+    "endYear": 1638,
+    "text": "1636-1638"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "alpersDecorationTorreParada1971",
+      "location": ""
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-10-08T15:39:03.788393",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "cartons de tapisserie",
+  "contains_works": []
+}
