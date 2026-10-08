@@ -25,12 +25,17 @@
     }
   ],
   "illustrations": [],
-  "description": "",
+  "description": "Jordaens aurait peint à la détrempe les cartons pour les scènes représentant Diane et Actéon, La chute des géants et la mort de Sémélé. Ils sont aujourd'hui non identifiés.",
   "commentary": "",
   "history": [
     {
       "date": "2026-10-08T15:39:03.788393",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-10-08T15:44:37.570205",
+      "type": "modified",
       "author": "Carla"
     }
   ],
