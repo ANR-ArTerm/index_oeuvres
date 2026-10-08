@@ -1,0 +1,51 @@
+{
+  "id": "HendrickGoudtAdamElsheimerJupiterEtMercureChezPhilemonEtBaucis",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q64957622",
+  "entry_type": "artwork",
+  "title": "Jupiter et Mercure chez Philémon et Baucis",
+  "creator": [
+    {
+      "xml_id": "HendrickGoudt",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "AdamElsheimer",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1612,
+    "endYear": 1612,
+    "text": "1612"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Hendrik_Goudt_after_Adam_Elsheimer%2C_Jupiter_and_Mercury_in_the_House_of_Philemon_and_Baucis%2C_1612%2C_NGA_740.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC0, Brwz (https://commons.wikimedia.org/wiki/File:Hendrik_Goudt_after_Adam_Elsheimer,_Jupiter_and_Mercury_in_the_House_of_Philemon_and_Baucis,_1612,_NGA_740.jpg?lang=fr)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-10-08T17:33:10.509140",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Estampe",
+  "materialsAndTechniques": "gravure sur cuivre",
+  "contained_by_ensemble": {
+    "link_type": "appartient à l'ensemble",
+    "xml_id_work": "HendrickGoudtAdamElsheimerLesSeptTableauxGraves"
+  }
+}
