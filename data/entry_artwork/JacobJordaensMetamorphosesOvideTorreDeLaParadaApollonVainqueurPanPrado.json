@@ -1,0 +1,62 @@
+{
+  "id": "JacobJordaensMetamorphosesOvideTorreDeLaParadaApollonVainqueurPanPrado",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q27701409",
+  "entry_type": "artwork",
+  "title": "Apollon vainqueur de Pan ou Le jugement de Midas",
+  "creator": [
+    {
+      "xml_id": "JacobJordaens",
+      "role": "peintre"
+    },
+    {
+      "xml_id": "PeterPaulRubens",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1636,
+    "endYear": 1638,
+    "text": "1636-1638"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Musée du Prado",
+      "place": "Madrid",
+      "inventory_number": "inv. P001551",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "alpersDecorationTorreParada1971",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Jacob_Jordaens_-_Apollo_as_Victor_over_Pan%2C_1637.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Public domain, Shuishouyue (https://commons.wikimedia.org/wiki/File:Jacob_Jordaens_-_Apollo_as_Victor_over_Pan,_1637.jpg?lang=fr)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-10-08T16:38:25.655837",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Esquisse",
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {
+    "link_type": "appartient à l'ensemble",
+    "xml_id_work": "JacobJordaensMetamorphosesOvideTorreDeLaParadaMadrid"
+  }
+}
