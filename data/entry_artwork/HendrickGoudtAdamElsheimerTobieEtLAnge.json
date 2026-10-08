@@ -1,0 +1,51 @@
+{
+  "id": "HendrickGoudtAdamElsheimerTobieEtLAnge",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q64957616",
+  "entry_type": "artwork",
+  "title": "Tobie et l'Ange ",
+  "creator": [
+    {
+      "xml_id": "HendrickGoudt",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "AdamElsheimer",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1613,
+    "endYear": 1613,
+    "text": "1613"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Hendrik_Goudt_after_Adam_Elsheimer%2C_Tobias_and_the_Angel_%28The_Large_Tobias%29%2C_1613%2C_NGA_736.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC0, Brwz (https://commons.wikimedia.org/wiki/File:Hendrik_Goudt_after_Adam_Elsheimer,_Tobias_and_the_Angel_(The_Large_Tobias),_1613,_NGA_736.jpg?lang=fr)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-10-08T17:34:22.459847",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Estampe",
+  "materialsAndTechniques": "gravure sur cuivre",
+  "contained_by_ensemble": {
+    "link_type": "appartient à l'ensemble",
+    "xml_id_work": "HendrickGoudtAdamElsheimerLesSeptTableauxGraves"
+  }
+}
