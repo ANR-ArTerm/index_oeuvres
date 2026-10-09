@@ -74,8 +74,11 @@ def sync_oeuvres_from_json():
             oeuvres.append((xml_id, source.strip() if source else ""))
 
     # Le corpus conserve un élément racine TEI non qualifié et un listObject TEI.
+    # on ne met pas xmlns car il est dans l'élement listObject
     root = ET.Element("TEI")
     list_object = ET.SubElement(root, f"{{{TEI_NS}}}listObject")
+# ajouter l'attribut  xmlns="http://www.tei-c.org/ns/1.0" dans l'élément listObject
+    list_object.set("xmlns", TEI_NS)
 
     for xml_id, source in sorted(oeuvres, key=lambda x: x[0]):
         obj = ET.SubElement(list_object, f"{{{TEI_NS}}}object")
