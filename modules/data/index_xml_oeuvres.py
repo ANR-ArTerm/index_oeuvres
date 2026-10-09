@@ -4,6 +4,7 @@ import json
 import os
 import xml.etree.ElementTree as ET
 from pathlib import Path
+from xml.sax.saxutils import quoteattr
 
 
 APP_DIR = Path(__file__).resolve().parents[2]
@@ -18,7 +19,6 @@ DATA_DIRS = [
 XML_PATH = REPO_DIR / "corpus" / "IndexOeuvres.xml"
 
 TEI_NS = "http://www.tei-c.org/ns/1.0"
-ET.register_namespace("", TEI_NS)
 
 
 def sync_oeuvres_from_json():
@@ -74,26 +74,30 @@ def sync_oeuvres_from_json():
             oeuvres.append((xml_id, source.strip() if source else ""))
 
     # Le corpus conserve un élément racine TEI non qualifié et un listObject TEI.
-    # on ne met pas xmlns car il est dans l'élement listObject
-    root = ET.Element("TEI")
-    list_object = ET.SubElement(root, f"{{{TEI_NS}}}listObject")
-# ajouter l'attribut  xmlns="http://www.tei-c.org/ns/1.0" dans l'élément listObject
-    list_object.set("xmlns", TEI_NS)
+    # Le namespace doit rester sur listObject, pas sur TEI.
+    # ElementTree remonte la déclaration de namespace au niveau racine ;
+    # on écrit donc le document XML de façon explicite pour respecter la structure voulue.
+    temporary_path = XML_PATH.with_suffix(XML_PATH.suffix + ".tmp")
+    lines = [
+        '<?xml version="1.0" encoding="utf-8"?>',
+        "<TEI>",
+        f'  <listObject xmlns="{TEI_NS}">',
+    ]
 
     for xml_id, source in sorted(oeuvres, key=lambda x: x[0]):
-        obj = ET.SubElement(list_object, f"{{{TEI_NS}}}object")
-        obj.set("{http://www.w3.org/XML/1998/namespace}id", xml_id)
+        attributes = [f"xml:id={quoteattr(xml_id)}"]
         if source:
-            obj.set("source", source)
+            attributes.append(f"source={quoteattr(source)}")
+        lines.append(f"    <object {' '.join(attributes)} />")
 
-    ET.indent(root, space="  ")
-    temporary_path = XML_PATH.with_suffix(XML_PATH.suffix + ".tmp")
+    lines.extend([
+        "  </listObject>",
+        "</TEI>",
+    ])
+
     try:
-        ET.ElementTree(root).write(
-            temporary_path,
-            encoding="utf-8",
-            xml_declaration=True,
-        )
+        with open(temporary_path, "w", encoding="utf-8", newline="") as handle:
+            handle.write("\n".join(lines) + "\n")
         ET.parse(temporary_path)
         os.replace(temporary_path, XML_PATH)
     finally:
