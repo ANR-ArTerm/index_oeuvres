@@ -143,6 +143,16 @@ def _entity_value(claim: dict):
     return claim.get("mainsnak", {}).get("datavalue", {}).get("value")
 
 
+def _claim_year(claims: list[dict]) -> int | None:
+    for claim in claims:
+        if claim.get("rank") == "deprecated":
+            continue
+        value = _entity_value(claim)
+        if isinstance(value, dict) and (year := _extract_year(value.get("time", ""))) is not None:
+            return year
+    return None
+
+
 def _get_entity_labels(qids: list[str]) -> dict[str, str]:
     if not qids:
         return {}
@@ -205,9 +215,8 @@ def get_artwork_data(url: str) -> dict:
             "",
         )
 
-    inception_claims = claims.get("P571", [])
-    inception_value = _entity_value(inception_claims[0]) if inception_claims else ""
-    year = _extract_year(inception_value.get("time", "")) if isinstance(inception_value, dict) else None
+    year = _claim_year(claims.get("P571", []))
+    end_year = _claim_year(claims.get("P1326", []))
 
     creator_claims = [
         claim
@@ -241,6 +250,7 @@ def get_artwork_data(url: str) -> dict:
     return {
         "title": title,
         "year": year,
+        "end_year": end_year,
         "creator_qids": creator_qids,
         "creator_labels": [entity_labels.get(creator_qid, creator_qid) for creator_qid in creator_qids],
         "institutions": list(dict.fromkeys(

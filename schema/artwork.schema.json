@@ -75,6 +75,7 @@
                 "required": ["name"],
                 "properties": {
                     "name": { "type": "string" },
+                    "country": { "type": "string" },
                     "place": { "type": "string" },
                     "inventory_number": { "type": "string" },
                     "url": { "type": "string", "format": "uri" }

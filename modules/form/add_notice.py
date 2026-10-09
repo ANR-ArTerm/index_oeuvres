@@ -35,6 +35,7 @@ from modules.data.load import (
     exist_notice,
     get_all_objects_ids_flat_sorted,
     index_username,
+    load_institution_records,
     load_list_form,
     save_image,
     save_notice,
@@ -110,17 +111,29 @@ def _public(item: dict, exclude=()) -> dict:
     return {k: v for k, v in item.items() if not k.startswith("_") and k not in exclude}
 
 
-def _save_if_new(list_key, value, known=None, saving_msg="Sauvegarde de la nouvelle valeur"):
+def _save_if_new(
+    list_key, value, known=None, saving_msg="Sauvegarde de la nouvelle valeur", country=None
+):
     """Ajoute `value` à la liste de formulaire `list_key` si elle n'y figure pas encore.
 
     `known` permet de réutiliser une liste déjà chargée (évite un second appel à
     `load_list_form`). Affiche le message de succès ou d'erreur de la sauvegarde git.
     """
     known = load_list_form(list_key) if known is None else known
-    if not value or value in known:
+    if not value:
         return
+    if value in known:
+        if list_key != "institutions" or not country:
+            return
+        current = next(
+            (record for record in load_institution_records()
+             if record["institution"] == value),
+            None,
+        )
+        if current and current.get("country") == country:
+            return
     with st.spinner(saving_msg):
-        success, message = save_to_list_form_git(list_key, value)
+        success, message = save_to_list_form_git(list_key, value, country=country)
     (st.success if success else st.error)(message)
 
 
@@ -237,17 +250,18 @@ def _prefill_title_and_date(xml_id, notice, data):
         notice["title"] = data["title"]
         st.session_state[f"{xml_id}_title"] = data["title"]
 
-    year = data["year"]
-    if year is None:
+    year = data.get("year")
+    end_year = data.get("end_year")
+    if year is None and end_year is None:
         return
     date = notice.setdefault("dateCreated", {})
     # (champ de la notice, suffixe de la clé du widget, valeur)
     for field, key_suffix, value in (
         ("startYear", "start_year", year),
-        ("endYear", "end_year", year),
-        ("text", "date_text", str(year)),
+        ("endYear", "end_year", end_year if end_year is not None else year),
+        ("text", "date_text", str(year if year is not None else end_year)),
     ):
-        if date.get(field) in (None, ""):
+        if value is not None and date.get(field) in (None, ""):
             date[field] = value
             st.session_state[f"{xml_id}_{key_suffix}"] = value
 
@@ -297,24 +311,39 @@ def _prefill_institution(xml_id, notice, data):
         location = {}
     institution = location.get("institution", {})
     location_type = location.get("type") or "holding_institution"
-    if location_type != "holding_institution" or institution.get("name"):
+    if location_type != "holding_institution":
         return
 
-    known = load_list_form("institutions")
-    name = next(
+    records = load_institution_records()
+    selected_record = next(
         (
-            match
+            record
             for label in data["institutions"]
-            if (match := match_existing_label(label, known))
+            if (name := match_existing_label(
+                label, [record["institution"] for record in records]
+            ))
+            and (record := next(
+                item for item in records if item["institution"] == name
+            ))
         ),
         None,
     )
-    if name:
-        institution["name"] = name
+    if institution.get("name"):
+        selected_record = next(
+            (record for record in records if record["institution"] == institution["name"]),
+            selected_record,
+        )
+
+    if selected_record:
+        if not institution.get("name"):
+            institution["name"] = selected_record["institution"]
+            st.session_state[f"{xml_id}_institution"] = institution["name"]
+        if selected_record.get("country") and not institution.get("country"):
+            institution["country"] = selected_record["country"]
+            st.session_state[f"{xml_id}_institution_country"] = selected_record["country"]
         location["type"] = "holding_institution"
         location["institution"] = institution
         notice["location"] = location
-        st.session_state[f"{xml_id}_institution"] = name
 
 
 def _prefill_images(notice, data):
@@ -814,8 +843,27 @@ def _location_institution(notice, xml_id):
         accept_new_options=True,
         key=f"{xml_id}_institution",
     )
+    institution_record = next(
+        (record for record in load_institution_records()
+         if record["institution"] == institution["name"]),
+        None,
+    )
+    country_key = f"{xml_id}_institution_country"
+    selected_name_key = f"{xml_id}_institution_country_name"
+    if st.session_state.get(selected_name_key) != institution["name"]:
+        institution["country"] = (
+            institution_record.get("country")
+            if institution_record
+            else institution.get("country", "")
+        ) or ""
+        st.session_state[country_key] = institution["country"]
+        st.session_state[selected_name_key] = institution["name"]
+    institution["country"] = st.text_input(
+        "Pays de l'institution",
+        key=country_key,
+    )
     _save_if_new("institutions", institution["name"], institutions,
-                 "Sauvegarde de la nouvelle institution")
+                 "Sauvegarde de la nouvelle institution", country=institution["country"])
 
     institution["place"] = _place_select(
         xml_id, "Ville de l'institution", f"{xml_id}_institution_city", "institution_city",

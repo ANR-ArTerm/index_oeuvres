@@ -348,6 +348,24 @@ def _save_json(path, data):
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
 
+
+def load_institution_records():
+    """Charge les institutions en normalisant aussi l'ancien format (chaînes)."""
+    records = {}
+    path = os.path.join(LIST_FORM_DIR, LIST_FORM["institutions"])
+    for item in _load_json(path):
+        if isinstance(item, dict):
+            name = item.get("institution")
+            country = item.get("country")
+        else:
+            name, country = item, None
+        if isinstance(name, str) and name.strip():
+            record = records.setdefault(name, {"institution": name, "country": country})
+            if not record.get("country") and country:
+                record["country"] = country
+    return list(records.values())
+
+
 def load_list_form(*keys: str):
     seen = set()
     merged = []
@@ -357,7 +375,12 @@ def load_list_form(*keys: str):
             raise ValueError(f"Clé inconnue : {key}")
 
         path = os.path.join(LIST_FORM_DIR, LIST_FORM[key])
-        for item in _load_json(path):
+        items = (
+            [record["institution"] for record in load_institution_records()]
+            if key == "institutions"
+            else _load_json(path)
+        )
+        for item in items:
             if item not in seen:
                 seen.add(item)
                 merged.append(item)
@@ -385,7 +408,7 @@ def save_to_list_form(key: str, value: str):
             json.dump(data, f, ensure_ascii=False, indent=2)
 """
 
-def save_to_list_form_git(key: str, value: str):
+def save_to_list_form_git(key: str, value: str, *, country: str | None = None):
     if key not in LIST_FORM:
         raise ValueError(f"Clé inconnue : {key}")
 
@@ -400,23 +423,34 @@ def save_to_list_form_git(key: str, value: str):
     path = os.path.join(LIST_FORM_DIR, LIST_FORM[key])
     data = _load_json(path)
 
-    if value not in data:
+    if key == "institutions":
+        records = {record["institution"]: record for record in load_institution_records()}
+        country = country.strip() if isinstance(country, str) else None
+        if value not in records:
+            records[value] = {"institution": value, "country": country or None}
+        else:
+            if country and records[value].get("country") != country:
+                records[value]["country"] = country
+            else:
+                return True, "Déjà présent, aucune modification"
+        data = list(records.values())
+    elif value not in data:
         data.append(value)
+    else:
+        return True, "Déjà présent, aucune modification"
 
-        with open(path, "w", encoding="utf-8") as f:
-            json.dump(data, f, ensure_ascii=False, indent=2)
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
 
-        # 🚀 2. Commit + push après modif
-        success_push, output_push = git_commit_and_push(
-            message=f"Ajout de {value} dans {key}"
-        )
+    # 🚀 2. Commit + push après modif
+    success_push, output_push = git_commit_and_push(
+        message=f"Ajout de {value} dans {key}"
+    )
 
-        if not success_push:
-            return False, f"Erreur git push:\n{output_push}"
+    if not success_push:
+        return False, f"Erreur git push:\n{output_push}"
 
-        return True, f"Ajout OK\n{output_pull}\n{output_push}"
-
-    return True, "Déjà présent, aucune modification"
+    return True, f"Ajout OK\n{output_pull}\n{output_push}"
 
 def save_person_wikidata(xml_id: str, source: str):
     """Enregistre le lien Wikidata associé à un xml:id de personne."""
@@ -472,6 +506,20 @@ def save_list_to_list_form(key: str, values: list[str], *, sort: bool = True):
         return
 
     path = os.path.join(LIST_FORM_DIR, LIST_FORM[key])
+
+    if key == "institutions":
+        records = {record["institution"]: record for record in load_institution_records()}
+        for value in values:
+            if value is not None:
+                name = str(value).strip()
+                if name:
+                    records.setdefault(name, {"institution": name, "country": None})
+        result = list(records.values())
+        if sort:
+            result.sort(key=lambda record: record["institution"].casefold())
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(result, f, ensure_ascii=False, indent=2)
+        return
 
     # Charger les données existantes
     existing = _load_json(path)

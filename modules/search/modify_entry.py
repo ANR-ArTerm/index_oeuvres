@@ -11,7 +11,8 @@ from modules.data.load import (load_notice,
                                save_image,  
                                save_to_list_form_git,
                                save_person_wikidata,
-                               save_place_wikidata)
+                               save_place_wikidata,
+                               load_institution_records)
 
 from modules.git_tools import git_commit_and_push
 from modules.status_entry import STATUS_ENTRY_OPTIONS
@@ -479,6 +480,7 @@ def edit_json_notice(json_path=None, data=None):
 
         institution = notice["location"]["institution"]
         institution.setdefault("name", "")
+        institution.setdefault("country", "")
         institution.setdefault("place", "")
         institution.setdefault("inventory_number", "")
         institution.setdefault("url", "")
@@ -496,9 +498,42 @@ def edit_json_notice(json_path=None, data=None):
                     ),
                     accept_new_options=True
                 )
+
+            country_key = f"{id_entry}_institution_country"
+            selected_name_key = f"{id_entry}_institution_country_name"
+            if st.session_state.get(selected_name_key) != institution["name"]:
+                institution_record = next(
+                    (record for record in load_institution_records()
+                     if record["institution"] == institution["name"]),
+                    None,
+                )
+                institution["country"] = (
+                    institution_record.get("country")
+                    if institution_record
+                    else institution.get("country", "")
+                ) or ""
+                st.session_state[country_key] = institution["country"]
+                st.session_state[selected_name_key] = institution["name"]
         
-            if institution["name"] and institution["name"] not in load_list_form("institutions"):
-                success, message = save_to_list_form_git("institutions", institution["name"])
+            institution["country"] = st.text_input(
+                "Pays de l'institution",
+                key=country_key,
+            )
+            institution_record = next(
+                (record for record in load_institution_records()
+                 if record["institution"] == institution["name"]),
+                None,
+            )
+            if institution["name"] and (
+                institution_record is None
+                or (
+                    institution["country"]
+                    and institution_record.get("country") != institution["country"]
+                )
+            ):
+                success, message = save_to_list_form_git(
+                    "institutions", institution["name"], country=institution["country"]
+                )
                 st.success(message) if success else st.error(message)
 
             institution["inventory_number"] = st.text_input(

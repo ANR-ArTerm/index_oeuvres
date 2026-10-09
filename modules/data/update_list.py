@@ -11,11 +11,11 @@ def update_list_institutions():
     institutions = set()
 
     for data, _ in ENTRIES:
-        name = (
+        institution = (
             data.get("location", {})
                 .get("institution", {})
-                .get("name")
         )
+        name = institution.get("name")
 
         if name:
             institutions.add(name.strip())
