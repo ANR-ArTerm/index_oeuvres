@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <settingDesc>
+<TEI>
+  <settingDesc xmlns="http://www.tei-c.org/ns/1.0">
     <listPlace>
       <place xml:id="Calidonia" />
       <place xml:id="Adee" />

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <particDesc>
+<TEI>
+  <particDesc xmlns="http://www.tei-c.org/ns/1.0">
     <listPerson>
       <person xml:id="HansVonAachen" role="peintre allemand (1552–1615)" source="http://www.wikidata.org/entity/Q152835">
         <persName ref="https://www.getty.edu/vow/ULANFullDisplay?find=Joseph+Hains&amp;role=&amp;nation=&amp;page=1&amp;subjectid=500127905">
