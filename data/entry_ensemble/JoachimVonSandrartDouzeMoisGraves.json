@@ -9,8 +9,28 @@
       "role": "auteur du modèle"
     },
     {
-      "xml_id": null,
-      "role": null
+      "xml_id": "CornelisVanDalenII",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "JeremiasFalck",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "AlbertHaelwegh",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "TheodorMatham",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "ReinierVanPersijn",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "JonasSuyderhoef",
+      "role": "graveur"
     }
   ],
   "dateCreated": {
@@ -29,7 +49,7 @@
       "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/De_twaalf_maanden%2C_RP-P-2007-152.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
       "storage": "online",
       "copyright": "Wikimedia Commons, Domaine public, Mr.Nostalgic, (https://commons.wikimedia.org/wiki/File:De_twaalf_maanden,_RP-P-2007-152.jpg 1687)",
-      "caption": "Amsterdam, Rijksmuseum, inv. RP-P-2007-152, (https://www.rijksmuseum.nl/nl/collectie/object/De-twaalf-maanden--98d5643a86bb0e2ba62e2a8606346637?tab=data)"
+      "caption": "Amsterdam, Rijksmuseum, inv. RP-P-2007-152, (https://id.rijksmuseum.nl/200490404)"
     }
   ],
   "description": "",
@@ -38,6 +58,11 @@
     {
       "date": "2026-10-14T18:34:25.169611",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-10-14T18:41:05.236629",
+      "type": "modified",
       "author": "Carla"
     }
   ],
