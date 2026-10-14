@@ -1,0 +1,54 @@
+{
+  "id": "JoachimVonSandrartDouzeMoisAvril",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q29903386",
+  "entry_type": "artwork",
+  "title": "Allégorie du mois de avril",
+  "creator": [
+    {
+      "xml_id": "JoachimVonSandrart",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1643,
+    "endYear": 1643,
+    "text": "1643"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Bayerische Staatsgemäldesammlungen",
+      "country": "Allemagne",
+      "place": "Munich",
+      "inventory_number": "inv. 359",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Joachim_von_Sandrart_-_Der_Monat_April.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Public domain, Trzęsacz (https://commons.wikimedia.org/wiki/File:Joachim_von_Sandrart_-_Der_Monat_April.jpg?lang=fr)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-10-14T17:45:33.077325",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Peinture",
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {
+    "link_type": "appartient à l'ensemble",
+    "xml_id_work": "JoachimVonSandrartDouzeMois"
+  }
+}
