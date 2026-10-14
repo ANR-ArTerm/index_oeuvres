@@ -41,7 +41,12 @@
   "location": {
     "type": "multiple_locations"
   },
-  "related_works": [],
+  "related_works": [
+    {
+      "link_type": "copié d'après",
+      "xml_id_work": "JoachimVonSandrartDouzeMois"
+    }
+  ],
   "bibliography": [],
   "illustrations": [
     {
@@ -62,6 +67,11 @@
     },
     {
       "date": "2026-10-14T18:41:05.236629",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-10-14T18:41:32.543131",
       "type": "modified",
       "author": "Carla"
     }
