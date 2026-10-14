@@ -1,179 +1,714 @@
 [
-  {"institution": "Académie de Saint-Luc", "country": "Italie"},
-  {"institution": "Baptistère Saint-Jean-Baptiste", "country": "Italie"},
-  {"institution": "Basilique Saint Pierre, Vatican", "country": "Vatican"},
-  {"institution": "Basilique Saint-Paul hors les murs", "country": "Italie"},
-  {"institution": "Campo Santo", "country": "Italie"},
-  {"institution": "Cathédrale d'Orvieto", "country": "Italie"},
-  {"institution": "Collegio Borromeo", "country": "Italie"},
-  {"institution": "KBR museum", "country": "Belgique"},
-  {"institution": "Kupferstichkabinett", "country": "Allemagne"},
-  {"institution": "Libreria Piccolomini, Cathédrale de Sienne.", "country": "Italie"},
-  {"institution": "Musée civique", "country": "Italie"},
-  {"institution": "Musée des Offices", "country": "Italie"},
-  {"institution": "Musée du Louvre", "country": "France"},
-  {"institution": "National Gallery", "country": "Royaume-Uni"},
-  {"institution": "Palais Barberini", "country": "Italie"},
-  {"institution": "Pinacothèque Nationale", "country": "Italie"},
-  {"institution": "Pinacothèque vaticane", "country": "Vatican"},
-  {"institution": "Royal Collection de Hampton Court Palace", "country": "Royaume-Uni"},
-  {"institution": "The Metropolitan Museum of Art", "country": "États-Unis"},
-  {"institution": "Vatican", "country": "Vatican"},
-  {"institution": "Vatican, Chapelle Sixtine", "country": "Vatican"},
-  {"institution": "Vatican, Musée Pio-Clementino", "country": "Vatican"},
-  {"institution": "Vatican, Musées du Vatican", "country": "Vatican"},
-  {"institution": "Vatican, Palais apostolique", "country": "Vatican"},
-  {"institution": "Vatican, bibliothèque apostolique", "country": "Vatican"},
-  {"institution": "Vienne", "country": "Autriche"},
-  {"institution": "Villa Farnesina", "country": "Italie"},
-  {"institution": "musée de Capodimonte", "country": "Italie"},
-  {"institution": "Église des Érémitiques", "country": "Italie"},
-  {"institution": "Musée du Prado", "country": "Espagne"},
-  {"institution": "Église Sainte-Marie-de-la-Paix", "country": "Italie"},
-  {"institution": "Victoria and Albert Museum", "country": "Royaume-Uni"},
-  {"institution": "Galeries de l’Académie", "country": "Italie"},
-  {"institution": "Ashmolean Museum", "country": "Royaume-Uni"},
-  {"institution": "Gemäldegalerie Alte Meister", "country": "Allemagne"},
-  {"institution": "Château de Fontainebleau", "country": "France"},
-  {"institution": "Cathédrale Santa Maria Assunta de Sienne", "country": "Italie"},
-  {"institution": "Basilique Santa Croce", "country": "Italie"},
-  {"institution": "Basilique San Lorenzo", "country": "Italie"},
-  {"institution": "Isabella Steward", "country": "États-Unis"},
-  {"institution": "Isabella Stewart Gardner Museum", "country": "États-Unis"},
-  {"institution": "Musée du Louvre, Département des Antiquités grecques, étrusques et romaines", "country": "France"},
-  {"institution": "Musée de l'Ermitage", "country": "Russie"},
-  {"institution": "Musée Capitolin", "country": "Italie"},
-  {"institution": "Basilique Saint-Dominique", "country": "Italie"},
-  {"institution": "Royal Collection", "country": "Royaume-Uni"},
-  {"institution": "Cathédrale Saint-Jean-Baptiste", "country": "Italie"},
-  {"institution": "National Galerie washington", "country": "États-Unis"},
-  {"institution": "Musée national du Bargello", "country": "Italie"},
-  {"institution": "Ca' d'Oro", "country": "Italie"},
-  {"institution": "Galleria Giorgio Franchetti alla Ca' d'Oro", "country": "Italie"},
-  {"institution": "Bibliothèque nationale France", "country": "France"},
-  {"institution": "Scuola del Santo", "country": "Italie"},
-  {"institution": "Fondation Bemberg", "country": "France"},
-  {"institution": "Collection Heinz Kisters", "country": "Suisse"},
-  {"institution": "Alte Pinakothek", "country": "Allemagne"},
-  {"institution": "Basilique Santa Maria della Salute", "country": "Italie"},
-  {"institution": "Église San Salvador", "country": "Italie"},
-  {"institution": "Église San Lio", "country": "Italie"},
-  {"institution": "Église Santa Maria Assunta", "country": "Italie"},
-  {"institution": "Musée archéologique de Naples", "country": "Italie"},
-  {"institution": "Scuola Grande de San Rocco", "country": "Italie"},
-  {"institution": "Église San Pietro in Montorio", "country": "Italie"},
-  {"institution": "Basilique San Pietro in Montorio", "country": "Italie"},
-  {"institution": "Basilique de San Pietro in Montorio", "country": "Italie"},
-  {"institution": "Église Santa Maria Formosa.", "country": "Italie"},
-  {"institution": "Église Santa Maria Formosa", "country": "Italie"},
-  {"institution": "Église San Gregorio al Celio", "country": "Italie"},
-  {"institution": "Eglise Sant'Andrea della Valle", "country": "Italie"},
-  {"institution": "Cathédrale de Parme", "country": "Italie"},
-  {"institution": "Palais de Sanssouci", "country": "Allemagne"},
-  {"institution": "Cathédrale Saint-Jean", "country": "Italie"},
-  {"institution": "NationalGalleryofScotland", "country": "Royaume-Uni"},
-  {"institution": "Cathédrale Saint-Bavon de Gand", "country": "Belgique"},
-  {"institution": "Cathédrale Saint-Bavon", "country": "Belgique"},
-  {"institution": "Place du Capitole", "country": "France"},
-  {"institution": "Palazzo Vecchio", "country": "Italie"},
-  {"institution": "BasiliqueSantaMariadelleGrazie", "country": "Italie"},
-  {"institution": "KunstHistorischesMuseum", "country": "Autriche"},
-  {"institution": "Cathédrale de Pise", "country": "Italie"},
-  {"institution": "Basilique du Santo Spirito", "country": "Italie"},
-  {"institution": "Gallerie degli Uffizi", "country": "Italie"},
-  {"institution": "PinacothèqueDeBrera", "country": "Italie"},
-  {"institution": "WellingtonMuseum", "country": "Royaume-Uni"},
-  {"institution": "Metropolitan Museum of Arts", "country": "États-Unis"},
-  {"institution": "British Museum", "country": "Royaume-Uni"},
-  {"institution": "EgliseSantaMariadelleGrazie", "country": "Italie"},
-  {"institution": "EgliseSanGiorgio", "country": "Italie"},
-  {"institution": "Église Saint-Gervais-Saint-Protais", "country": "France"},
-  {"institution": "OratoireDeSaintROch", "country": "France"},
-  {"institution": "OratoireDeSaintRoch", "country": "France"},
-  {"institution": "Musée des Beaux-Art de Reims", "country": "France"},
-  {"institution": "Église Saint-Joseph des Carmes", "country": "France"},
-  {"institution": "Cathédrale Notre-Dame de Paris", "country": "France"},
-  {"institution": "Église Saint-Pancrace de Sterrebeek", "country": "Belgique"},
-  {"institution": "NationalGalleryLondon", "country": "Royaume-Uni"},
-  {"institution": "Hôtel de Toulouse", "country": "France"},
-  {"institution": "MonastereSanLorenzoEscurial", "country": "Espagne"},
-  {"institution": "PalaisPoggi", "country": "Italie"},
-  {"institution": "NationalMuseum", "country": null},
-  {"institution": "PrivateCollection", "country": null},
-  {"institution": "Château de Skokloster", "country": "Suède"},
-  {"institution": "ChâteauDeSkokloste", "country": "Suède"},
-  {"institution": "Palais du Luxembourg,  actuel siège du Sénat", "country": "France"},
-  {"institution": "Musée des Beaux-Arts de Dijon", "country": "France"},
-  {"institution": "Musée de Grenoble-J.L. Lacroix", "country": "France"},
-  {"institution": "Chancellerie des Universités", "country": "France"},
-  {"institution": "Chancellerie des Universités, Sorbonne", "country": "France"},
-  {"institution": "Musée national de Varsovie", "country": "Pologne"},
-  {"institution": "Musée Condé", "country": "France"},
-  {"institution": "Musée des Beaux-arts de Strasbourg", "country": "France"},
-  {"institution": "Château de Nottingham", "country": "Royaume-Uni"},
-  {"institution": "Residenzgalerie", "country": "Autriche"},
-  {"institution": "Bristol City Museum and Art Gallery", "country": "Royaume-Uni"},
-  {"institution": "Château de Vaux-le-Vicomte", "country": "France"},
-  {"institution": "Pavillon de l'Aurore", "country": "France"},
-  {"institution": "Château de Versailles", "country": "France"},
-  {"institution": "Église Saint-Nicolas du Chardonnet", "country": "France"},
-  {"institution": "Musée royal des Beaux-Arts d'Anvers", "country": "Belgique"},
-  {"institution": "National Gallery of Canada", "country": "Canada"},
-  {"institution": "Église Sainte-Marie-des-Prés de Soest", "country": "Allemagne"},
-  {"institution": "Burlington House", "country": "Royaume-Uni"},
-  {"institution": "Kunstmuseum", "country": null},
-  {"institution": "Dome de Milan", "country": "Italie"},
-  {"institution": "Museo dell'Opera del Duomo", "country": "Italie"},
-  {"institution": "Chapelle Médicis", "country": "Italie"},
-  {"institution": "EgliseSantaMariaAnnunciataCamposantoMilan", "country": "Italie"},
-  {"institution": "EgliseDeSanSigismondo", "country": "Italie"},
-  {"institution": "EgliseDeSantaMariaDeiCarmini", "country": "Italie"},
-  {"institution": "EgliseSantaMariaCelana", "country": "Italie"},
-  {"institution": "EgliseSantaMaria", "country": "Italie"},
-  {"institution": "GalerieSabauda", "country": "Italie"},
-  {"institution": "EglideDeSantaMariaDell'Orto", "country": "Italie"},
-  {"institution": "CathédraleDeNovare", "country": "Italie"},
-  {"institution": "Basilique Santa Giustina Padova", "country": "Italie"},
-  {"institution": "Basilique Santa Giustina", "country": "Italie"},
-  {"institution": "Basilique de Santa Maria Novella", "country": "Italie"},
-  {"institution": "Galleria Borromeo", "country": "Italie"},
-  {"institution": "Galérie Borromeo", "country": "Italie"},
-  {"institution": "Galérie Sabauda", "country": "Italie"},
-  {"institution": "Basilique de San Giacomo Maggiore", "country": "Italie"},
-  {"institution": "Kunsthistorisches Museum, Gemäldegalerie", "country": "Autriche"},
-  {"institution": "Museum Hof van Busleyden", "country": "Belgique"},
-  {"institution": "Fundation Casa de Alba, Palais Liria", "country": "Espagne"},
-  {"institution": "Église Saint-Martin", "country": null},
-  {"institution": "Museum Boijmans Van Beuningen", "country": "Pays-Bas"},
-  {"institution": "EgliseSanPietroInVincoli", "country": "Italie"},
-  {"institution": "Basilique Saint Pierre", "country": "Vatican"},
-  {"institution": "GalleriaDell'Accademia", "country": "Italie"},
-  {"institution": "BasiliqueSantissimaAnnunziata", "country": "Italie"},
-  {"institution": "EgliseSantaFelicita", "country": "Italie"},
-  {"institution": "GalleriaPalatina", "country": "Italie"},
-  {"institution": "EgliseSantaMariaSopraMinerva", "country": "Italie"},
-  {"institution": "BasiliqueSanMarcoVenise", "country": "Italie"},
-  {"institution": "BasiliqueSanMarco", "country": "Italie"},
-  {"institution": "Cathédrale Santa Maria del Fiore", "country": "Italie"},
-  {"institution": "Palazzo della Cancelleria", "country": "Italie"},
-  {"institution": "Národní Galerie", "country": "République tchèque"},
-  {"institution": "Palazzo Medici Riccardi", "country": "Italie"},
-  {"institution": "Chapelles Médicis", "country": "Italie"},
-  {"institution": "EgliseSanGiovanniDecollato", "country": "Italie"},
-  {"institution": "EgliseSanMatteo", "country": "Italie"},
-  {"institution": "Gemäldegalerie", "country": "Allemagne"},
-  {"institution": "Cathédrale Santa Maria Assunta", "country": "Italie"},
-  {"institution": "PalaisFarnese", "country": "Italie"},
-  {"institution": "Galleria Sabauda, Musei Reali", "country": "Italie"},
-  {"institution": "Musées royaux des Beaux-Arts de Bruxelles", "country": "Belgique"},
-  {"institution": "Collection privée de la famille royale anglaise.  ", "country": "Royaume-Uni"},
-  {"institution": "Collection privée de Monsieurs le comte de Wemyss et March, K.T.", "country": "Royaume-Uni"},
-  {"institution": "BasiliqueSaintMarieMajeure", "country": "Italie"},
-  {"institution": "Basilique Santa Maria della Steccata", "country": "Italie"},
-  {"institution": "Chiesa Nuova", "country": "Italie"},
-  {"institution": "Église Santa Maria in Vallicella Chiesa Nuova", "country": "Italie"},
-  {"institution": "Cathédrale Notre-Dame-du-Puy", "country": "France"},
-  {"institution": "Wallace Collection", "country": "Royaume-Uni"},
-  {"institution": "Kunsthistorisches Museum", "country": "Autriche"},
-  {"institution": "Sainte Chapelle", "country": "France"}
+  {
+    "institution": "Académie de Saint-Luc",
+    "country": "Italie"
+  },
+  {
+    "institution": "Baptistère Saint-Jean-Baptiste",
+    "country": "Italie"
+  },
+  {
+    "institution": "Basilique Saint Pierre, Vatican",
+    "country": "Vatican"
+  },
+  {
+    "institution": "Basilique Saint-Paul hors les murs",
+    "country": "Italie"
+  },
+  {
+    "institution": "Campo Santo",
+    "country": "Italie"
+  },
+  {
+    "institution": "Cathédrale d'Orvieto",
+    "country": "Italie"
+  },
+  {
+    "institution": "Collegio Borromeo",
+    "country": "Italie"
+  },
+  {
+    "institution": "KBR museum",
+    "country": "Belgique"
+  },
+  {
+    "institution": "Kupferstichkabinett",
+    "country": "Allemagne"
+  },
+  {
+    "institution": "Libreria Piccolomini, Cathédrale de Sienne.",
+    "country": "Italie"
+  },
+  {
+    "institution": "Musée civique",
+    "country": "Italie"
+  },
+  {
+    "institution": "Musée des Offices",
+    "country": "Italie"
+  },
+  {
+    "institution": "Musée du Louvre",
+    "country": "France"
+  },
+  {
+    "institution": "National Gallery",
+    "country": "Royaume-Uni"
+  },
+  {
+    "institution": "Palais Barberini",
+    "country": "Italie"
+  },
+  {
+    "institution": "Pinacothèque Nationale",
+    "country": "Italie"
+  },
+  {
+    "institution": "Pinacothèque vaticane",
+    "country": "Vatican"
+  },
+  {
+    "institution": "Royal Collection de Hampton Court Palace",
+    "country": "Royaume-Uni"
+  },
+  {
+    "institution": "The Metropolitan Museum of Art",
+    "country": "États-Unis"
+  },
+  {
+    "institution": "Vatican",
+    "country": "Vatican"
+  },
+  {
+    "institution": "Vatican, Chapelle Sixtine",
+    "country": "Vatican"
+  },
+  {
+    "institution": "Vatican, Musée Pio-Clementino",
+    "country": "Vatican"
+  },
+  {
+    "institution": "Vatican, Musées du Vatican",
+    "country": "Vatican"
+  },
+  {
+    "institution": "Vatican, Palais apostolique",
+    "country": "Vatican"
+  },
+  {
+    "institution": "Vatican, bibliothèque apostolique",
+    "country": "Vatican"
+  },
+  {
+    "institution": "Vienne",
+    "country": "Autriche"
+  },
+  {
+    "institution": "Villa Farnesina",
+    "country": "Italie"
+  },
+  {
+    "institution": "musée de Capodimonte",
+    "country": "Italie"
+  },
+  {
+    "institution": "Église des Érémitiques",
+    "country": "Italie"
+  },
+  {
+    "institution": "Musée du Prado",
+    "country": "Espagne"
+  },
+  {
+    "institution": "Église Sainte-Marie-de-la-Paix",
+    "country": "Italie"
+  },
+  {
+    "institution": "Victoria and Albert Museum",
+    "country": "Royaume-Uni"
+  },
+  {
+    "institution": "Galeries de l’Académie",
+    "country": "Italie"
+  },
+  {
+    "institution": "Ashmolean Museum",
+    "country": "Royaume-Uni"
+  },
+  {
+    "institution": "Gemäldegalerie Alte Meister",
+    "country": "Allemagne"
+  },
+  {
+    "institution": "Château de Fontainebleau",
+    "country": "France"
+  },
+  {
+    "institution": "Cathédrale Santa Maria Assunta de Sienne",
+    "country": "Italie"
+  },
+  {
+    "institution": "Basilique Santa Croce",
+    "country": "Italie"
+  },
+  {
+    "institution": "Basilique San Lorenzo",
+    "country": "Italie"
+  },
+  {
+    "institution": "Isabella Steward",
+    "country": "États-Unis"
+  },
+  {
+    "institution": "Isabella Stewart Gardner Museum",
+    "country": "États-Unis"
+  },
+  {
+    "institution": "Musée du Louvre, Département des Antiquités grecques, étrusques et romaines",
+    "country": "France"
+  },
+  {
+    "institution": "Musée de l'Ermitage",
+    "country": "Russie"
+  },
+  {
+    "institution": "Musée Capitolin",
+    "country": "Italie"
+  },
+  {
+    "institution": "Basilique Saint-Dominique",
+    "country": "Italie"
+  },
+  {
+    "institution": "Royal Collection",
+    "country": "Royaume-Uni"
+  },
+  {
+    "institution": "Cathédrale Saint-Jean-Baptiste",
+    "country": "Italie"
+  },
+  {
+    "institution": "National Galerie washington",
+    "country": "États-Unis"
+  },
+  {
+    "institution": "Musée national du Bargello",
+    "country": "Italie"
+  },
+  {
+    "institution": "Ca' d'Oro",
+    "country": "Italie"
+  },
+  {
+    "institution": "Galleria Giorgio Franchetti alla Ca' d'Oro",
+    "country": "Italie"
+  },
+  {
+    "institution": "Bibliothèque nationale France",
+    "country": "France"
+  },
+  {
+    "institution": "Scuola del Santo",
+    "country": "Italie"
+  },
+  {
+    "institution": "Fondation Bemberg",
+    "country": "France"
+  },
+  {
+    "institution": "Collection Heinz Kisters",
+    "country": "Suisse"
+  },
+  {
+    "institution": "Alte Pinakothek",
+    "country": "Allemagne"
+  },
+  {
+    "institution": "Basilique Santa Maria della Salute",
+    "country": "Italie"
+  },
+  {
+    "institution": "Église San Salvador",
+    "country": "Italie"
+  },
+  {
+    "institution": "Église San Lio",
+    "country": "Italie"
+  },
+  {
+    "institution": "Église Santa Maria Assunta",
+    "country": "Italie"
+  },
+  {
+    "institution": "Musée archéologique de Naples",
+    "country": "Italie"
+  },
+  {
+    "institution": "Scuola Grande de San Rocco",
+    "country": "Italie"
+  },
+  {
+    "institution": "Église San Pietro in Montorio",
+    "country": "Italie"
+  },
+  {
+    "institution": "Basilique San Pietro in Montorio",
+    "country": "Italie"
+  },
+  {
+    "institution": "Basilique de San Pietro in Montorio",
+    "country": "Italie"
+  },
+  {
+    "institution": "Église Santa Maria Formosa.",
+    "country": "Italie"
+  },
+  {
+    "institution": "Église Santa Maria Formosa",
+    "country": "Italie"
+  },
+  {
+    "institution": "Église San Gregorio al Celio",
+    "country": "Italie"
+  },
+  {
+    "institution": "Eglise Sant'Andrea della Valle",
+    "country": "Italie"
+  },
+  {
+    "institution": "Cathédrale de Parme",
+    "country": "Italie"
+  },
+  {
+    "institution": "Palais de Sanssouci",
+    "country": "Allemagne"
+  },
+  {
+    "institution": "Cathédrale Saint-Jean",
+    "country": "Italie"
+  },
+  {
+    "institution": "NationalGalleryofScotland",
+    "country": "Royaume-Uni"
+  },
+  {
+    "institution": "Cathédrale Saint-Bavon de Gand",
+    "country": "Belgique"
+  },
+  {
+    "institution": "Cathédrale Saint-Bavon",
+    "country": "Belgique"
+  },
+  {
+    "institution": "Place du Capitole",
+    "country": "France"
+  },
+  {
+    "institution": "Palazzo Vecchio",
+    "country": "Italie"
+  },
+  {
+    "institution": "BasiliqueSantaMariadelleGrazie",
+    "country": "Italie"
+  },
+  {
+    "institution": "KunstHistorischesMuseum",
+    "country": "Autriche"
+  },
+  {
+    "institution": "Cathédrale de Pise",
+    "country": "Italie"
+  },
+  {
+    "institution": "Basilique du Santo Spirito",
+    "country": "Italie"
+  },
+  {
+    "institution": "Gallerie degli Uffizi",
+    "country": "Italie"
+  },
+  {
+    "institution": "PinacothèqueDeBrera",
+    "country": "Italie"
+  },
+  {
+    "institution": "WellingtonMuseum",
+    "country": "Royaume-Uni"
+  },
+  {
+    "institution": "Metropolitan Museum of Arts",
+    "country": "États-Unis"
+  },
+  {
+    "institution": "British Museum",
+    "country": "Royaume-Uni"
+  },
+  {
+    "institution": "EgliseSantaMariadelleGrazie",
+    "country": "Italie"
+  },
+  {
+    "institution": "EgliseSanGiorgio",
+    "country": "Italie"
+  },
+  {
+    "institution": "Église Saint-Gervais-Saint-Protais",
+    "country": "France"
+  },
+  {
+    "institution": "OratoireDeSaintROch",
+    "country": "France"
+  },
+  {
+    "institution": "OratoireDeSaintRoch",
+    "country": "France"
+  },
+  {
+    "institution": "Musée des Beaux-Art de Reims",
+    "country": "France"
+  },
+  {
+    "institution": "Église Saint-Joseph des Carmes",
+    "country": "France"
+  },
+  {
+    "institution": "Cathédrale Notre-Dame de Paris",
+    "country": "France"
+  },
+  {
+    "institution": "Église Saint-Pancrace de Sterrebeek",
+    "country": "Belgique"
+  },
+  {
+    "institution": "NationalGalleryLondon",
+    "country": "Royaume-Uni"
+  },
+  {
+    "institution": "Hôtel de Toulouse",
+    "country": "France"
+  },
+  {
+    "institution": "MonastereSanLorenzoEscurial",
+    "country": "Espagne"
+  },
+  {
+    "institution": "PalaisPoggi",
+    "country": "Italie"
+  },
+  {
+    "institution": "NationalMuseum",
+    "country": null
+  },
+  {
+    "institution": "PrivateCollection",
+    "country": null
+  },
+  {
+    "institution": "Château de Skokloster",
+    "country": "Suède"
+  },
+  {
+    "institution": "ChâteauDeSkokloste",
+    "country": "Suède"
+  },
+  {
+    "institution": "Palais du Luxembourg,  actuel siège du Sénat",
+    "country": "France"
+  },
+  {
+    "institution": "Musée des Beaux-Arts de Dijon",
+    "country": "France"
+  },
+  {
+    "institution": "Musée de Grenoble-J.L. Lacroix",
+    "country": "France"
+  },
+  {
+    "institution": "Chancellerie des Universités",
+    "country": "France"
+  },
+  {
+    "institution": "Chancellerie des Universités, Sorbonne",
+    "country": "France"
+  },
+  {
+    "institution": "Musée national de Varsovie",
+    "country": "Pologne"
+  },
+  {
+    "institution": "Musée Condé",
+    "country": "France"
+  },
+  {
+    "institution": "Musée des Beaux-arts de Strasbourg",
+    "country": "France"
+  },
+  {
+    "institution": "Château de Nottingham",
+    "country": "Royaume-Uni"
+  },
+  {
+    "institution": "Residenzgalerie",
+    "country": "Autriche"
+  },
+  {
+    "institution": "Bristol City Museum and Art Gallery",
+    "country": "Royaume-Uni"
+  },
+  {
+    "institution": "Château de Vaux-le-Vicomte",
+    "country": "France"
+  },
+  {
+    "institution": "Pavillon de l'Aurore",
+    "country": "France"
+  },
+  {
+    "institution": "Château de Versailles",
+    "country": "France"
+  },
+  {
+    "institution": "Église Saint-Nicolas du Chardonnet",
+    "country": "France"
+  },
+  {
+    "institution": "Musée royal des Beaux-Arts d'Anvers",
+    "country": "Belgique"
+  },
+  {
+    "institution": "National Gallery of Canada",
+    "country": "Canada"
+  },
+  {
+    "institution": "Église Sainte-Marie-des-Prés de Soest",
+    "country": "Allemagne"
+  },
+  {
+    "institution": "Burlington House",
+    "country": "Royaume-Uni"
+  },
+  {
+    "institution": "Kunstmuseum",
+    "country": null
+  },
+  {
+    "institution": "Dome de Milan",
+    "country": "Italie"
+  },
+  {
+    "institution": "Museo dell'Opera del Duomo",
+    "country": "Italie"
+  },
+  {
+    "institution": "Chapelle Médicis",
+    "country": "Italie"
+  },
+  {
+    "institution": "EgliseSantaMariaAnnunciataCamposantoMilan",
+    "country": "Italie"
+  },
+  {
+    "institution": "EgliseDeSanSigismondo",
+    "country": "Italie"
+  },
+  {
+    "institution": "EgliseDeSantaMariaDeiCarmini",
+    "country": "Italie"
+  },
+  {
+    "institution": "EgliseSantaMariaCelana",
+    "country": "Italie"
+  },
+  {
+    "institution": "EgliseSantaMaria",
+    "country": "Italie"
+  },
+  {
+    "institution": "GalerieSabauda",
+    "country": "Italie"
+  },
+  {
+    "institution": "EglideDeSantaMariaDell'Orto",
+    "country": "Italie"
+  },
+  {
+    "institution": "CathédraleDeNovare",
+    "country": "Italie"
+  },
+  {
+    "institution": "Basilique Santa Giustina Padova",
+    "country": "Italie"
+  },
+  {
+    "institution": "Basilique Santa Giustina",
+    "country": "Italie"
+  },
+  {
+    "institution": "Basilique de Santa Maria Novella",
+    "country": "Italie"
+  },
+  {
+    "institution": "Galleria Borromeo",
+    "country": "Italie"
+  },
+  {
+    "institution": "Galérie Borromeo",
+    "country": "Italie"
+  },
+  {
+    "institution": "Galérie Sabauda",
+    "country": "Italie"
+  },
+  {
+    "institution": "Basilique de San Giacomo Maggiore",
+    "country": "Italie"
+  },
+  {
+    "institution": "Kunsthistorisches Museum, Gemäldegalerie",
+    "country": "Autriche"
+  },
+  {
+    "institution": "Museum Hof van Busleyden",
+    "country": "Belgique"
+  },
+  {
+    "institution": "Fundation Casa de Alba, Palais Liria",
+    "country": "Espagne"
+  },
+  {
+    "institution": "Église Saint-Martin",
+    "country": null
+  },
+  {
+    "institution": "Museum Boijmans Van Beuningen",
+    "country": "Pays-Bas"
+  },
+  {
+    "institution": "EgliseSanPietroInVincoli",
+    "country": "Italie"
+  },
+  {
+    "institution": "Basilique Saint Pierre",
+    "country": "Vatican"
+  },
+  {
+    "institution": "GalleriaDell'Accademia",
+    "country": "Italie"
+  },
+  {
+    "institution": "BasiliqueSantissimaAnnunziata",
+    "country": "Italie"
+  },
+  {
+    "institution": "EgliseSantaFelicita",
+    "country": "Italie"
+  },
+  {
+    "institution": "GalleriaPalatina",
+    "country": "Italie"
+  },
+  {
+    "institution": "EgliseSantaMariaSopraMinerva",
+    "country": "Italie"
+  },
+  {
+    "institution": "BasiliqueSanMarcoVenise",
+    "country": "Italie"
+  },
+  {
+    "institution": "BasiliqueSanMarco",
+    "country": "Italie"
+  },
+  {
+    "institution": "Cathédrale Santa Maria del Fiore",
+    "country": "Italie"
+  },
+  {
+    "institution": "Palazzo della Cancelleria",
+    "country": "Italie"
+  },
+  {
+    "institution": "Národní Galerie",
+    "country": "République tchèque"
+  },
+  {
+    "institution": "Palazzo Medici Riccardi",
+    "country": "Italie"
+  },
+  {
+    "institution": "Chapelles Médicis",
+    "country": "Italie"
+  },
+  {
+    "institution": "EgliseSanGiovanniDecollato",
+    "country": "Italie"
+  },
+  {
+    "institution": "EgliseSanMatteo",
+    "country": "Italie"
+  },
+  {
+    "institution": "Gemäldegalerie",
+    "country": "Allemagne"
+  },
+  {
+    "institution": "Cathédrale Santa Maria Assunta",
+    "country": "Italie"
+  },
+  {
+    "institution": "PalaisFarnese",
+    "country": "Italie"
+  },
+  {
+    "institution": "Galleria Sabauda, Musei Reali",
+    "country": "Italie"
+  },
+  {
+    "institution": "Musées royaux des Beaux-Arts de Bruxelles",
+    "country": "Belgique"
+  },
+  {
+    "institution": "Collection privée de la famille royale anglaise.  ",
+    "country": "Royaume-Uni"
+  },
+  {
+    "institution": "Collection privée de Monsieurs le comte de Wemyss et March, K.T.",
+    "country": "Royaume-Uni"
+  },
+  {
+    "institution": "BasiliqueSaintMarieMajeure",
+    "country": "Italie"
+  },
+  {
+    "institution": "Basilique Santa Maria della Steccata",
+    "country": "Italie"
+  },
+  {
+    "institution": "Chiesa Nuova",
+    "country": "Italie"
+  },
+  {
+    "institution": "Église Santa Maria in Vallicella Chiesa Nuova",
+    "country": "Italie"
+  },
+  {
+    "institution": "Cathédrale Notre-Dame-du-Puy",
+    "country": "France"
+  },
+  {
+    "institution": "Wallace Collection",
+    "country": "Royaume-Uni"
+  },
+  {
+    "institution": "Kunsthistorisches Museum",
+    "country": "Autriche"
+  },
+  {
+    "institution": "Sainte Chapelle",
+    "country": "France"
+  },
+  {
+    "institution": "Bayerische Staatsgemäldesammlungen",
+    "country": null
+  }
 ]
