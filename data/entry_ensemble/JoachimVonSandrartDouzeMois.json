@@ -1,0 +1,35 @@
+{
+  "id": "JoachimVonSandrartDouzeMois",
+  "QID_wikidata": "",
+  "entry_type": "ensemble",
+  "title": "Série des Douze mois",
+  "creator": [
+    {
+      "xml_id": "JoachimVonSandrart",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1645,
+    "endYear": 1645,
+    "text": "1645"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-10-14T16:56:45.803103",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "suite d'estampes",
+  "contains_works": []
+}
