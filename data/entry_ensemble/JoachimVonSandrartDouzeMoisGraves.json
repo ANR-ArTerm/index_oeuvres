@@ -1,0 +1,47 @@
+{
+  "id": "JoachimVonSandrartDouzeMoisGraves",
+  "QID_wikidata": "",
+  "entry_type": "ensemble",
+  "title": "Série gravée des Douze mois ",
+  "creator": [
+    {
+      "xml_id": "JoachimVonSandrart",
+      "role": "auteur du modèle"
+    },
+    {
+      "xml_id": null,
+      "role": null
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1687,
+    "endYear": 1687,
+    "text": "1687"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/De_twaalf_maanden%2C_RP-P-2007-152.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, Mr.Nostalgic, (https://commons.wikimedia.org/wiki/File:De_twaalf_maanden,_RP-P-2007-152.jpg 1687)",
+      "caption": "Amsterdam, Rijksmuseum, inv. RP-P-2007-152, (https://www.rijksmuseum.nl/nl/collectie/object/De-twaalf-maanden--98d5643a86bb0e2ba62e2a8606346637?tab=data)"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-10-14T18:34:25.169611",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "suite d'estampes",
+  "contains_works": []
+}
