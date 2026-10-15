@@ -1,0 +1,68 @@
+{
+  "id": "PetiteGalerieDuLouvre",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q107556270",
+  "entry_type": "building",
+  "title": "Petite Galerie du Louvre",
+  "creator": [
+    {
+      "xml_id": "PierreIIChambiges",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "PierreLescot",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "LouisLeVau",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "FelixDuban",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1566,
+    "endYear": 1849,
+    "text": "1566-1849"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Paris",
+      "country": "France",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "bresc-bautierLouvreArchitecturalHistory1995",
+      "location": "p. 36, 219."
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Petite_Galerie%2C_Louvre_Museum%2C_Paris_February_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 2.0, Paris 16 (https://commons.wikimedia.org/wiki/File:Petite_Galerie,_Louvre_Museum,_Paris_February_2016.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-10-15T16:33:55.555858",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Palais",
+  "contained_by_ensemble": {}
+}
