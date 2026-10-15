@@ -1,0 +1,44 @@
+{
+  "id": "PeterPaulRubensDecorEphemereJoyeuseEntreeDuCardinalInfantFerdinand",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q111261635",
+  "entry_type": "artwork",
+  "title": "Gravures du décor éphémère de la joyeuse entrée du Cardinal Infant Ferdinand à Anvers",
+  "creator": [
+    {
+      "xml_id": "PeterPaulRubens",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1635,
+    "endYear": 1635,
+    "text": "Vers 1635"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/0_Arc_de_tromphe_de_Philippe_-_T._van_Tulden_-_BNF_%C3%A0_Paris_%282%29.JPG?utm_source=es.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Jean-Pol GRANDMONT, (https://commons.wikimedia.org/wiki/File:0_Arc_de_tromphe_de_Philippe_-_T._van_Tulden_-_BNF_%C3%A0_Paris_(2).JPG)",
+      "caption": "Oeuvre d'illustration, eau-forte et burin réalisée en 1642 par Theodoor van Thulden d'après les modèles donnés par Peter Paul Rubens, conservée à Bibliothèque Nationale de France à Paris"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-10-15T15:11:10.603839",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Œuvre imaginaire ou disparue",
+  "materialsAndTechniques": null,
+  "contained_by_ensemble": {}
+}
