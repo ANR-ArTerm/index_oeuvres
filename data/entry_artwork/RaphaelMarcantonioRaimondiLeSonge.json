@@ -1,0 +1,53 @@
+{
+  "id": "RaphaelMarcantonioRaimondiLeSonge",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q47533764",
+  "entry_type": "artwork",
+  "title": "Le songe de Raphael",
+  "creator": [
+    {
+      "xml_id": "MarcantonioRaimondi",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "Raphael",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1505,
+    "endYear": 1510,
+    "text": "Entre 1505 et 1510"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "Chastel2000FablesFormesFigures",
+      "location": "t.I, p 136-148. \"La tentation de saint Antoine ou le Songe du mélancolique\", Gazette des Beaux-Arts, 1936."
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Marcantonio_Raimondi_possibly_after_Raphael%2C_Raphael%27s_Dream%2C_c._1508-1509%2C_NGA_649.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC0, Brwz (https://commons.wikimedia.org/wiki/File:Marcantonio_Raimondi_possibly_after_Raphael,_Raphael%27s_Dream,_c._1508-1509,_NGA_649.jpg?lang=fr)",
+      "caption": ""
+    }
+  ],
+  "description": "L'iconographie de la tentation de saint Antoine et du Songe de Raphaël se confondent souvent, aussi l'œuvre apparaît-elle sous différents titres. André Chastel a mis en évidence cette confusion dans son article éponyme en 1936.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-10-15T15:32:37.285140",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Estampe",
+  "materialsAndTechniques": "gravure sur cuivre",
+  "contained_by_ensemble": {}
+}
