@@ -1,0 +1,39 @@
+{
+  "id": "PavillonDesPoelesFontainebleau",
+  "QID_wikidata": "",
+  "entry_type": "building",
+  "title": "Pavillon des Poêles à Fontainebleau",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1537,
+    "endYear": 1539,
+    "text": "1537-1539 ou 1538-1539"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "clouetFontainebleau154115472012",
+      "location": "p. 198. "
+    },
+    {
+      "zotero_key": "boudonFontainebleauAvant15412013",
+      "location": "p. 149. "
+    }
+  ],
+  "illustrations": [],
+  "description": "Le Pavillon des Poêles aurait été décoré successivement par Rosso Fiorentino et le Primatice. Ange-Jacques Gabriel fit raser le pavillon en 1750 pour construire à sa place le Gros pavillon, il est donc aujourd'hui perdu.\n",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-10-15T16:10:13.340380",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {}
+}
