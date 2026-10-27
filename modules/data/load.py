@@ -2,6 +2,7 @@
 
 import json
 import os
+import re
 from dotenv import load_dotenv
 from pathlib import Path
 import shutil
@@ -85,6 +86,27 @@ def load_all_entries(type_name: str):
                 print(f"Erreur JSON dans le fichier {filename}, ignoré.")
 
     return notices
+
+
+def find_notice_by_wikidata(qid: str):
+    """Renvoie la première notice associée au QID Wikidata, quel que soit son type."""
+    if not isinstance(qid, str):
+        return None
+    match = re.search(r"Q\d+", qid or "")
+    if not match:
+        return None
+    target_qid = match.group(0)
+
+    for type_name in TYPE_DIRS:
+        for notice, _path in load_all_entries(type_name):
+            if not isinstance(notice, dict):
+                continue
+            existing_qid = notice.get("QID_wikidata")
+            if isinstance(existing_qid, str):
+                existing_match = re.search(r"Q\d+", existing_qid)
+                if existing_match and existing_match.group(0) == target_qid:
+                    return notice
+    return None
 
 
 def load_all_notices():

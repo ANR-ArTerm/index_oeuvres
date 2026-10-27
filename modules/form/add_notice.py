@@ -33,6 +33,7 @@ import streamlit as st
 
 from modules.data.load import (
     exist_notice,
+    find_notice_by_wikidata,
     get_all_objects_ids_flat_sorted,
     index_username,
     load_institution_records,
@@ -242,6 +243,12 @@ def _fetch_wikidata(entry_type: str, qid: str) -> dict:
     return fetch(qid)
 
 
+@st.cache_data(ttl=10)
+def _cached_notice_by_wikidata(qid: str):
+    """Évite de relire tous les fichiers à chaque saisie dans le champ Wikidata."""
+    return find_notice_by_wikidata(qid)
+
+
 # --- 3.3 Préremplissage : œuvre ---------------------------------------------
 
 def _prefill_title_and_date(xml_id, notice, data):
@@ -333,6 +340,14 @@ def _prefill_institution(xml_id, notice, data):
             (record for record in records if record["institution"] == institution["name"]),
             selected_record,
         )
+
+    inventory_number = data.get("inventory_number")
+    if inventory_number and not institution.get("inventory_number"):
+        institution["inventory_number"] = inventory_number
+        location["type"] = "holding_institution"
+        location["institution"] = institution
+        notice["location"] = location
+        st.session_state[f"{xml_id}_inventory_number"] = inventory_number
 
     if selected_record:
         if not institution.get("name"):
@@ -696,11 +711,19 @@ def _section_general(notice, entry_type, xml_id):
             "QID Wikidata", notice.get("QID_wikidata", ""), key=f"{xml_id}_qid"
         )
 
+    duplicate_notice = _cached_notice_by_wikidata(notice["QID_wikidata"])
+    if duplicate_notice:
+        st.error(
+            "Ce lien Wikidata est déjà utilisé par la notice "
+            f"« {duplicate_notice.get('id', 'sans XML:ID')} ». "
+            "Il est impossible de créer une nouvelle notice avec ce lien."
+        )
+
     with col_btn:
         on_cooldown = _wikidata_cooldown_state()["retry_at"] > time.time()
         if on_cooldown:
             _render_wikidata_retry_timer()
-        if st.button("Recherche Wikidata") and not on_cooldown:
+        if st.button("Recherche Wikidata", disabled=bool(duplicate_notice)) and not on_cooldown:
             _run_wikidata_search(notice, entry_type, xml_id)
 
     notice["title"] = st.text_input("Titre *", notice.get("title", ""), key=f"{xml_id}_title")
@@ -1062,7 +1085,22 @@ def _save_new_persons_wikidata(creators):
 
 
 def _save_button(notice, xml_id, entry_editor):
-    if not st.button("💾 Créer la notice", type="primary", key=f"{xml_id}_save"):
+    duplicate_notice = _cached_notice_by_wikidata(notice.get("QID_wikidata", ""))
+    if not st.button(
+        "💾 Créer la notice",
+        type="primary",
+        key=f"{xml_id}_save",
+        disabled=bool(duplicate_notice),
+    ):
+        return
+
+    duplicate_notice = find_notice_by_wikidata(notice.get("QID_wikidata", ""))
+    if duplicate_notice:
+        st.error(
+            "Ce lien Wikidata est déjà utilisé par la notice "
+            f"« {duplicate_notice.get('id', 'sans XML:ID')} ». "
+            "Il est impossible de créer une nouvelle notice avec ce lien."
+        )
         return
 
     if not notice["id"] or not notice["title"] or not notice.get("typology"):

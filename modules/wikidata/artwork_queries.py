@@ -218,6 +218,20 @@ def get_artwork_data(url: str) -> dict:
     year = _claim_year(claims.get("P571", []))
     end_year = _claim_year(claims.get("P1326", []))
 
+    inventory_claims = [
+        claim for claim in claims.get("P217", [])
+        if claim.get("rank") != "deprecated"
+    ]
+    inventory_claims.sort(key=lambda claim: claim.get("rank") != "preferred")
+    inventory_number = next(
+        (
+            value.strip()
+            for claim in inventory_claims
+            if isinstance((value := _entity_value(claim)), str) and value.strip()
+        ),
+        "",
+    )
+
     creator_claims = [
         claim
         for claim in claims.get("P170", [])
@@ -251,6 +265,7 @@ def get_artwork_data(url: str) -> dict:
         "title": title,
         "year": year,
         "end_year": end_year,
+        "inventory_number": inventory_number,
         "creator_qids": creator_qids,
         "creator_labels": [entity_labels.get(creator_qid, creator_qid) for creator_qid in creator_qids],
         "institutions": list(dict.fromkeys(
