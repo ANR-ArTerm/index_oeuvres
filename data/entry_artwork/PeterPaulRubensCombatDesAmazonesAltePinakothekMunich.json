@@ -1,0 +1,51 @@
+{
+  "id": "PeterPaulRubensCombatDesAmazonesAltePinakothekMunich",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3636299",
+  "entry_type": "artwork",
+  "title": "Le Combat des Amazones",
+  "creator": [
+    {
+      "xml_id": "PeterPaulRubens",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1618,
+    "endYear": 1618,
+    "text": "1618"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Alte Pinakothek",
+      "country": "Allemagne",
+      "place": "Munich",
+      "inventory_number": "inv. 324",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Peter_Paul_Rubens_-_The_Battle_of_the_Amazons.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Public domain, Moltopulciano (https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_The_Battle_of_the_Amazons.JPG?lang=fr)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-10-28T17:05:26.446299",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Peinture",
+  "materialsAndTechniques": "huile sur bois",
+  "contained_by_ensemble": {}
+}
