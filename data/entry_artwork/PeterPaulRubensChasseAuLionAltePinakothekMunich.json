@@ -1,0 +1,51 @@
+{
+  "id": "PeterPaulRubensChasseAuLionAltePinakothekMunich",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q16364714",
+  "entry_type": "artwork",
+  "title": "La Chasse au lion",
+  "creator": [
+    {
+      "xml_id": "PeterPaulRubens",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1621,
+    "endYear": 1621,
+    "text": "1621"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Alte Pinakothek",
+      "country": "Allemagne",
+      "place": "Munich",
+      "inventory_number": "inv. 602",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/L%C3%B6wenjagd_%281621%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Public domain, MrArifnajafov (https://commons.wikimedia.org/wiki/File:L%C3%B6wenjagd_(1621).JPG?lang=fr)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-10-28T17:18:45.701822",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Peinture",
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {}
+}
