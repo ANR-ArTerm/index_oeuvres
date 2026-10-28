@@ -1,0 +1,51 @@
+{
+  "id": "PeterPaulRubensEnlevementDesSabinesNGLondres",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q26509395",
+  "entry_type": "artwork",
+  "title": "L'Enlèvement des Sabines",
+  "creator": [
+    {
+      "xml_id": "PeterPaulRubens",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1635,
+    "endYear": 1640,
+    "text": "1635-1640"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "National Gallery",
+      "country": "Royaume-Uni",
+      "place": "Londres",
+      "inventory_number": "inv. NG38",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Peter_Paul_Rubens_-_The_Rape_of_the_Sabine_Women_-_WGA20310.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Public domain, Arts639 (https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_The_Rape_of_the_Sabine_Women_-_WGA20310.jpg?lang=fr)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "La description qu'en fait de Piles est HORRIBLE !!!!!! Culture du viol 10000%, le mec dit, je cite \"Il y en a qui paroissent resister de bonne foy, et d'autres qui dans le fond n'estant pas faschées qu'on les enleve, taschent seulement à sauver les apparences. Il y en a une qui estant en haut, et faisant semblant de se cacher, retourne la teste de peur qu'on ne l'oublie\". Voilà en deux phrases comment on peut résumer la culture du viol. NON les femmes ne prennent jamais \"plaisir\" à se faire enlever de force, violenter ou violer. POINT. ",
+  "history": [
+    {
+      "date": "2026-10-28T17:02:24.010489",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Peinture",
+  "materialsAndTechniques": "huile sur bois",
+  "contained_by_ensemble": {}
+}
