@@ -1,0 +1,55 @@
+{
+  "id": "EgliseSainteMarieDesMiraclesAupresDeLEgliseSaintCelseMilan",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q734515",
+  "entry_type": "building",
+  "title": "Église Sainte-Marie des Miracles auprès de l'église Saint-Celse",
+  "creator": [
+    {
+      "xml_id": " GianGiacomoDolcebuono",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "GiovanniBattagio",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1493,
+    "endYear": null,
+    "text": "1493"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": null,
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Milano_Santa_Maria_dei_Miracoli_-_facciata_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Saggittarius A, (https://commons.wikimedia.org/wiki/File:Milano_Santa_Maria_dei_Miracoli_-_facciata_1.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-11-09T18:34:05.913745",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "église",
+  "contained_by_ensemble": {}
+}
