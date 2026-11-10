@@ -1,0 +1,46 @@
+{
+  "id": "PontRomainVienne",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3396706",
+  "entry_type": "building",
+  "title": "Pont Romain reliant Vienne à Saint-Colombe-lès-Vienne",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -50,
+    "endYear": 350,
+    "text": "Ier avJ.-C. -  IVe "
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Vienne ",
+      "country": "France",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Sainte-Colombe_1.JPG?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC0 1.0 Universal, PHILDIC~commonswiki (https://commons.wikimedia.org/wiki/File:Sainte-Colombe_1.JPG)",
+      "caption": ""
+    }
+  ],
+  "description": "Le pont romain de Vienne reliait Vienne à Sainte-Colombe-lès-Vienne. Construit durant l’époque gallo-romaine, il fut détruit en 1682.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-11-10T15:37:08.879568",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Pont",
+  "contained_by_ensemble": {}
+}
