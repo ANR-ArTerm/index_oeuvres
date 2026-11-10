@@ -1,0 +1,46 @@
+{
+  "id": "ChateauDeGaillon",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1989567",
+  "entry_type": "building",
+  "title": "Château de Gaillon",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1192,
+    "endYear": 1810,
+    "text": "1192, 1453, 1810"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Gaillon",
+      "country": "France",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Ch%C3%A2teau_de_Gaillon_2023_004.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Chatsam (https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_de_Gaillon_2023_004.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-11-10T16:11:37.123513",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Chateau",
+  "contained_by_ensemble": {}
+}
