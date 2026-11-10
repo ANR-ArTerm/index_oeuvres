@@ -1,0 +1,52 @@
+{
+  "id": "FontaineMonumentaleChateauGaillon",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Fontaine monumentale du Château de Gaillon",
+  "creator": [
+    {
+      "xml_id": "Tamagnino",
+      "role": "sculpteur"
+    },
+    {
+      "xml_id": "PasioGaggini",
+      "role": "sculpteur"
+    },
+    {
+      "xml_id": "AgostinoSolari",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1506,
+    "endYear": 1506,
+    "text": "1506"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Bastiments_v1_%28Gregg_1972_p92%29_-_Gaillon_Marble_Fountain.jpg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, Robert.Allen, (https://fr.wikipedia.org/wiki/Fichier:Bastiments_v1_%28Gregg_1972_p92%29_-_Gaillon_Marble_Fountain.jpg)",
+      "caption": "Illustration de la fontaine, estampe, Jacques Ier Androuet du Cerceau, 1517."
+    }
+  ],
+  "description": "\n\n\n\n",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-11-10T16:33:11.348502",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Œuvre imaginaire ou disparue",
+  "materialsAndTechniques": "Sculpture en marbre",
+  "contained_by_ensemble": {}
+}
