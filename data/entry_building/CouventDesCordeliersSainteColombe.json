@@ -1,0 +1,46 @@
+{
+  "id": "CouventDesCordeliersSainteColombe",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q22968191",
+  "entry_type": "building",
+  "title": "Ancien Couvent des Cordeliers, actuellement Institution Robin",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1200,
+    "endYear": 1799,
+    "text": "XIIIe-XVIIIe"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "SainteColombe",
+      "country": "Paris",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://en.geneanet.org/public/img/gallery/pictures/cartes_postales/6c/6358102/large.jpg",
+      "storage": "online",
+      "copyright": "Geneanet, CC BY-NC-SA 2.0,  (https://www.geneanet.org/cartes-postales/view/6358102#0)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-11-10T15:18:53.035377",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "couvent",
+  "contained_by_ensemble": {}
+}
