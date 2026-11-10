@@ -1,0 +1,39 @@
+{
+  "id": "ColosseSaintChristopheNotreDameParis",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Colosse de Saint-Christophe ",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1413,
+    "endYear": 1413,
+    "text": "1413"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Vue_int%C3%A9rieure_de_Notre-Dame_avec_la_statue_de_Saint-Christophe_-_dessin_-_A._Dts_%28Adrien_Dauzats%29_-_btv1b10303306b.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, Gzen92Bot (https://commons.wikimedia.org/wiki/File:Vue_int%C3%A9rieure_de_Notre-Dame_avec_la_statue_de_Saint-Christophe_-_dessin_-_A._Dts_(Adrien_Dauzats)_-_btv1b10303306b.jpg)",
+      "caption": "Estampe illustrant la statue aujourd'hui détruite"
+    }
+  ],
+  "description": "La statue, qui se trouvait à l’entrée de la nef de la cathédrale Notre Dame de Paris, mesurait 28 pieds (plus de 8,5 mètres) de hauteur. Elle fut abattue en 1785.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-11-10T16:04:37.532669",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Œuvre imaginaire ou disparue",
+  "materialsAndTechniques": "Pierre",
+  "contained_by_ensemble": {}
+}
