@@ -1,0 +1,46 @@
+{
+  "id": "HospicesDeBeaune",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1284848",
+  "entry_type": "building",
+  "title": "Hospices de Beaune",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1443,
+    "endYear": 1457,
+    "text": "1443-1457"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Beaune",
+      "country": "France",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Hostel_Dieu_Beaune.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 2.5, Ferras (https://commons.wikimedia.org/wiki/File:Hostel_Dieu_Beaune.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-11-10T15:43:01.606733",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Hopital",
+  "contained_by_ensemble": {}
+}
