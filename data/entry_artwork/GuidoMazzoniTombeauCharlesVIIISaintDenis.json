@@ -1,0 +1,44 @@
+{
+  "id": "GuidoMazzoniTombeauCharlesVIIISaintDenis",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Tombeau de Charles VIII ",
+  "creator": [
+    {
+      "xml_id": "GuidoMazzoni",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1507,
+    "endYear": 1507,
+    "text": "1507"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Portrait_de_Charles_VIII_sur_son_tombeau_%C3%A0_Saint-Denis_-_estampe_-_btv1b8400209g.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, Gzen92Bot, (https://commons.wikimedia.org/wiki/File:Portrait_de_Charles_VIII_sur_son_tombeau_%C3%A0_Saint-Denis_-_estampe_-_btv1b8400209g.jpg)",
+      "caption": "Œuvre d'illustration."
+    }
+  ],
+  "description": "Cette estampe est le seul témoignage visuel du tombeau dans la mesure où il fut détruit en 1792.\n",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-11-16T17:47:39.813769",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Œuvre imaginaire ou disparue",
+  "materialsAndTechniques": "Sculpture en cuivre émaillé et doré",
+  "contained_by_ensemble": {}
+}
