@@ -7,16 +7,12 @@
     {
       "xml_id": "AbbeSuger",
       "role": "architecte"
-    },
-    {
-      "xml_id": null,
-      "role": null
     }
   ],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1135,
+    "endYear": 1260,
+    "text": "XIIe-XIIIe siècle"
   },
   "location": {
     "type": "place",
@@ -41,12 +37,17 @@
     }
   ],
   "description": "",
-  "commentary": "La date de construction est à chercher en bibliothèque",
+  "commentary": "",
   "history": [
     {
       "date": "2026-10-05T14:12:10.351240",
       "type": "created",
       "author": "JuliaV"
+    },
+    {
+      "date": "2026-11-16T17:27:46.483391",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
   "status_entry": 0,
