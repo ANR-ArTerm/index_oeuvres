@@ -1,8 +1,8 @@
 {
-  "id": "MarforioMuseeCapitolinRome",
+  "id": "ColosseMarforioMuseeCapitolinRome",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q831467",
   "entry_type": "artwork",
-  "title": "Maforio",
+  "title": "Colosse Maforio",
   "creator": [],
   "dateCreated": {
     "startYear": 1,
@@ -10,20 +10,13 @@
     "text": "1er siècle"
   },
   "location": {
-    "type": "place",
+    "type": "holding_institution",
     "institution": {
-      "name": null,
-      "place": null,
+      "name": "Musée Capitolin",
+      "place": "Rome",
       "inventory_number": "",
-      "url": ""
-    },
-    "place": {
-      "city": "Rome",
-      "country": "Italie",
-      "coordinates": {
-        "latitude": "",
-        "longitude": ""
-      }
+      "url": "",
+      "country": "Italie"
     }
   },
   "related_works": [],
@@ -44,10 +37,15 @@
       "date": "2026-10-06T15:01:55.225791",
       "type": "created",
       "author": "JuliaV"
+    },
+    {
+      "date": "2026-11-16T14:58:13.915808",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
   "status_entry": 0,
   "typology": "Sculpture",
-  "materialsAndTechniques": null,
+  "materialsAndTechniques": "Sculpture en marbre",
   "contained_by_ensemble": {}
 }
