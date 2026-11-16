@@ -30,7 +30,7 @@
   "illustrations": [
     {
       "id": 0,
-      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Bastiments_v1_%28Gregg_1972_p92%29_-_Gaillon_Marble_Fountain.jpg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+      "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/12_18/35e5ad85_fea1_48fa_8c65_a3e1012cec70/mid_00121268_001.jpg",
       "storage": "online",
       "copyright": "Wikimedia Commons, Domaine public, Robert.Allen, (https://fr.wikipedia.org/wiki/Fichier:Bastiments_v1_%28Gregg_1972_p92%29_-_Gaillon_Marble_Fountain.jpg)",
       "caption": "Illustration de la fontaine, estampe, Jacques Ier Androuet du Cerceau, 1517."
@@ -46,6 +46,11 @@
     },
     {
       "date": "2026-11-16T11:22:48.344903",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-11-16T12:07:59.159982",
       "type": "modified",
       "author": "Carla"
     }
