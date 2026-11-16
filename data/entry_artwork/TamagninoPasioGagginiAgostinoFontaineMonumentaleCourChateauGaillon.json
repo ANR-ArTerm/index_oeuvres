@@ -1,5 +1,5 @@
 {
-  "id": "FontaineMonumentaleChateauGaillon",
+  "id": "TamagninoPasioGagginiAgostinoFontaineMonumentaleCourChateauGaillon",
   "QID_wikidata": "",
   "entry_type": "artwork",
   "title": "Fontaine monumentale du Château de Gaillon",
@@ -42,6 +42,11 @@
     {
       "date": "2026-11-10T16:33:11.348502",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-11-16T11:22:48.344903",
+      "type": "modified",
       "author": "Carla"
     }
   ],
