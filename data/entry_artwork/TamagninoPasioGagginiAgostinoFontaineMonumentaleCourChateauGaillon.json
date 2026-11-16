@@ -19,8 +19,8 @@
   ],
   "dateCreated": {
     "startYear": 1506,
-    "endYear": 1506,
-    "text": "1506"
+    "endYear": 1509,
+    "text": "1506-1509"
   },
   "location": {
     "type": "unlocated"
@@ -56,6 +56,11 @@
     },
     {
       "date": "2026-11-16T12:11:01.178578",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-11-16T14:12:06.955436",
       "type": "modified",
       "author": "Carla"
     }
