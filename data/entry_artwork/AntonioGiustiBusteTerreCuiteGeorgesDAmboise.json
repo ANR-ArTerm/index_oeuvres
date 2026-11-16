@@ -1,0 +1,49 @@
+{
+  "id": "AntonioGiustiBusteTerreCuiteGeorgesDAmboise",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Buste de Georges d'Amboise",
+  "creator": [
+    {
+      "xml_id": "AntonioGiusti",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1508,
+    "endYear": 1509,
+    "text": "Avant 1509"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "bresc-bautierItaliensFranceSculptures2012",
+      "location": "p. 110-117"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Louvre-Lens_-_Renaissance_-_038_-_RF_2574.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons,  licence GNU GPL v2, Jérémy-Günther-Heinz Jähnick  (https://commons.wikimedia.org/wiki/File:Louvre-Lens_-_Renaissance_-_038_-_RF_2574.JPG)",
+      "caption": "Œuvre d'illustration représentant le buste en terre cuite d'un apôtre. Elle est du même artiste ayant fait le buste de Georges d'Amboise."
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-11-16T14:53:48.941304",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Sculpture",
+  "materialsAndTechniques": "terre cuite",
+  "contained_by_ensemble": {}
+}
