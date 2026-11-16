@@ -1,0 +1,30 @@
+{
+  "id": "CouventDesCarmesNantes",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q15149915",
+  "entry_type": "building",
+  "title": "Couvent des Carmes",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1318,
+    "endYear": 1318,
+    "text": "XIVe siècle"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "le couvent fut vendu à la Révolution puis progressivement détruit jusqu'à son démantèlement complet en 1975.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-11-16T18:05:10.423130",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {}
+}
