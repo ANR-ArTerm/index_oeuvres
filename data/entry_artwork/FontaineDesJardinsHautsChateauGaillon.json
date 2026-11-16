@@ -5,29 +5,35 @@
   "title": "Fontaine des Jardins Hauts du Château de Gaillon",
   "creator": [],
   "dateCreated": {
-    "startYear": null,
-    "endYear": null,
-    "text": ""
+    "startYear": 1509,
+    "endYear": 1509,
+    "text": "Vers 1509"
   },
   "location": {
-    "type": "holding_institution",
-    "institution": {
-      "name": null,
-      "country": "",
-      "place": null,
-      "inventory_number": "",
-      "url": ""
-    }
+    "type": "unlocated"
   },
   "related_works": [],
   "bibliography": [],
-  "illustrations": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/12_18/35e5ad85_fea1_48fa_8c65_a3e1012cec70/mid_00121268_001.jpg",
+      "copyright": "Londres, British Museum, © The Trustees of the British Museum. Shared under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) licence,  inv. 1973,U.1353 (https://www.britishmuseum.org/collection/object/P_1973-U-1353)",
+      "caption": "Illustration de gauche, estampe de Jacques Ier Androuet du Cerceau, 1517.",
+      "storage": "online"
+    }
+  ],
   "description": "",
   "commentary": "",
   "history": [
     {
       "date": "2026-11-16T14:08:23.317878",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-11-16T14:13:48.352259",
+      "type": "modified",
       "author": "Carla"
     }
   ],
