@@ -1,0 +1,51 @@
+{
+  "id": "PacelloDaMercoglianoJardinsHautsChateauDeGaillon",
+  "QID_wikidata": "",
+  "entry_type": "building",
+  "title": "Jardins Hauts du Château de Gaillon",
+  "creator": [
+    {
+      "xml_id": "PacelloDaMercogliano",
+      "role": "Architecte paysagiste"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1506,
+    "endYear": 1506,
+    "text": "1506"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Gaillon",
+      "country": "France",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/SchlossGaillonAndrouetduCerceau1576.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, Sir Gawain (https://commons.wikimedia.org/wiki/File:SchlossGaillonAndrouetduCerceau1576.jpg)",
+      "caption": "Vue perspective du château de Gaillon et de ses jardins en leur état de 1576 gravée par Jacques Ier Androuet du Cerceau."
+    }
+  ],
+  "description": "Les jardins dans leur état de 1506 ont disparus.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-11-16T12:03:53.441879",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "jardin",
+  "contained_by_ensemble": {}
+}
