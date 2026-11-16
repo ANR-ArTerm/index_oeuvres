@@ -1,0 +1,63 @@
+{
+  "id": "JeanPerrealMichelColombeTombeauFrancoisIIDeBretagneMargueriteDeFoixCathedraleSaintPierreSaintPaulNantes",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1026644",
+  "entry_type": "artwork",
+  "title": "Tombeau de François II de Bretagne et de Marguerite de Foix",
+  "creator": [
+    {
+      "xml_id": "JeanPerreal",
+      "role": "peintre"
+    },
+    {
+      "xml_id": "MichelColombe",
+      "role": "sculpteur"
+    },
+    {
+      "xml_id": "GuillaumeRegnault",
+      "role": "sculpteur"
+    },
+    {
+      "xml_id": "JeromePacherot",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1499,
+    "endYear": 1507,
+    "text": "1499-1507"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Cathédrale Saint-Pierre-et-Saint-Paul",
+      "country": "France",
+      "place": "Nantes",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/C%C3%A9notaphe_du_duc_Fran%C3%A7ois_II_%C3%A0_Nantes.JPG?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Loïc LLH  (https://commons.wikimedia.org/wiki/File:C%C3%A9notaphe_du_duc_Fran%C3%A7ois_II_%C3%A0_Nantes.JPG)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-11-16T18:15:15.325040",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Sculpture",
+  "materialsAndTechniques": "Sculpture en marbre",
+  "contained_by_ensemble": {}
+}
