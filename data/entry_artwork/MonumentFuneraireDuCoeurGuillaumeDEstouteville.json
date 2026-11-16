@@ -1,0 +1,31 @@
+{
+  "id": "MonumentFuneraireDuCoeurGuillaumeDEstouteville",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Monument funeraire du cœur de Guillaume d'Estouteville",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1474,
+    "endYear": 1474,
+    "text": "1474"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "Le monument composé d'une dalle de marbre noir surmontée d'un gisant en albâtre a été détruit par les calvinistes en 1562.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-11-16T11:52:20.064304",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Œuvre imaginaire ou disparue",
+  "materialsAndTechniques": "Sculpture en marbre",
+  "contained_by_ensemble": {}
+}
