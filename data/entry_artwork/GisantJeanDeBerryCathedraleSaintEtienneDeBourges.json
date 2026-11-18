@@ -1,0 +1,51 @@
+{
+  "id": "GisantJeanDeBerryCathedraleSaintEtienneDeBourges",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q29158893",
+  "entry_type": "artwork",
+  "title": "Gisant du duc Jean de Berry",
+  "creator": [
+    {
+      "xml_id": "JeanDeCambrai ",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1404,
+    "endYear": 1404,
+    "text": "1404f"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Cathédrale Saint-Etienne de Bourges",
+      "country": "France",
+      "place": "Bourges",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Tombeau_du_Duc_Jean_de_Berry..JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Penelily (https://commons.wikimedia.org/wiki/File:Tombeau_du_Duc_Jean_de_Berry..JPG)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-11-18T16:59:56.387614",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Sculpture",
+  "materialsAndTechniques": "Sculpture en marbre",
+  "contained_by_ensemble": {}
+}
