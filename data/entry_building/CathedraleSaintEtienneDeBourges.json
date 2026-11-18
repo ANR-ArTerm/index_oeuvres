@@ -1,0 +1,46 @@
+{
+  "id": "CathedraleSaintEtienneDeBourges",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q207985",
+  "entry_type": "building",
+  "title": "Cathédrale Saint-Étienne de Bourges",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1195,
+    "endYear": 1195,
+    "text": "1195"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Bourges",
+      "country": "France",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Cath%C3%A9drale_Saint-%C3%89tienne_7SC2336CFP.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": " Wikimedia Commons, CC BY-SA 3.0, JPRoche  (https://commons.wikimedia.org/wiki/File:Cath%C3%A9drale_Saint-%C3%89tienne_7SC2336CFP.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-11-18T15:14:08.664093",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "cathédrale",
+  "contained_by_ensemble": {}
+}
