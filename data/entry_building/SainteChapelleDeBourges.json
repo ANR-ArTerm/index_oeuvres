@@ -2,7 +2,7 @@
   "id": "SainteChapelleDeBourges",
   "QID_wikidata": "https://www.wikidata.org/wiki/Q3464204",
   "entry_type": "building",
-  "title": "Sainte-Chapelle de Bourges",
+  "title": "Sainte-Chapelle ou chapelle Saint-Sauveur de Bourges",
   "creator": [
     {
       "xml_id": "DrouetDeDammartin",
@@ -14,9 +14,9 @@
     }
   ],
   "dateCreated": {
-    "startYear": 1391,
-    "endYear": 1392,
-    "text": "1391-1392"
+    "startYear": 1404,
+    "endYear": 1405,
+    "text": "1404-1405"
   },
   "location": {
     "type": "place",
@@ -46,6 +46,11 @@
     {
       "date": "2026-11-18T15:30:26.543726",
       "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-11-18T15:37:04.817517",
+      "type": "modified",
       "author": "Carla"
     }
   ],
