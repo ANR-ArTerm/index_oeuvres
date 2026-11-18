@@ -1,0 +1,55 @@
+{
+  "id": "SainteChapelleDeBourges",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3464204",
+  "entry_type": "building",
+  "title": "Sainte-Chapelle de Bourges",
+  "creator": [
+    {
+      "xml_id": "DrouetDeDammartin",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "GuyDeDammartin",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1391,
+    "endYear": 1392,
+    "text": "1391-1392"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Bourges",
+      "country": "France",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Sainte-Chapelle_de_Bourges.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, Ancalagon, (https://commons.wikimedia.org/wiki/File:Sainte-Chapelle_de_Bourges.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "Après qu'un incendie a fragilisé la toiture en 1693, la chapelle s'écroula puis fut rasée en 1757.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-11-18T15:30:26.543726",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {}
+}
