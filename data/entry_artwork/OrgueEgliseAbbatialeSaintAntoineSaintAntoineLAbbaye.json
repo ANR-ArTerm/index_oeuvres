@@ -1,0 +1,51 @@
+{
+  "id": "OrgueEgliseAbbatialeSaintAntoineSaintAntoineLAbbaye",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Orgue de l'église abbatiale Saint-Antoine",
+  "creator": [
+    {
+      "xml_id": null,
+      "role": null
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1639,
+    "endYear": 1903,
+    "text": "1639 ; 1748 ; 1903"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": null,
+      "country": "France",
+      "place": "SaintAntoineLAbbaye",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Abbatiale_de_Saint-Antoine-l%27Abbaye_-_Orgue_-1.jpg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, MOSSOT, (https://fr.wikipedia.org/wiki/Fichier:Abbatiale_de_Saint-Antoine-l%27Abbaye_-_Orgue_-1.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-11-18T17:36:48.472182",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "orgue",
+  "materialsAndTechniques": null,
+  "contained_by_ensemble": {}
+}
