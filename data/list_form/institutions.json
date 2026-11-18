@@ -714,5 +714,9 @@
   {
     "institution": "Cathédrale Saint-Pierre-et-Saint-Paul",
     "country": "France"
+  },
+  {
+    "institution": "Cathédrale Saint-Etienne de Bourges",
+    "country": null
   }
 ]
