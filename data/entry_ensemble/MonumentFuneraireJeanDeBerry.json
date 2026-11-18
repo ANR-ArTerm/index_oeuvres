@@ -1,0 +1,51 @@
+{
+  "id": "MonumentFuneraireJeanDeBerry",
+  "QID_wikidata": "",
+  "entry_type": "ensemble",
+  "title": "Monument funéraire Jean de Berry",
+  "creator": [
+    {
+      "xml_id": "JeanDeCambrai ",
+      "role": "sculpteur"
+    },
+    {
+      "xml_id": "EtienneBobillet",
+      "role": "sculpteur"
+    },
+    {
+      "xml_id": "PaulMosselman",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1404,
+    "endYear": 1457,
+    "text": "1ère campagne de création : 1404 ; 2nde campagne de création : 1450-1457"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/BOYER_262_-_Tombeau_du_duc_Jean_de_Berry_-_restitution_de_P._Gauchery.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, domaine public, VIGNERON en résidence, (https://commons.wikimedia.org/wiki/File:BOYER_262_-_Tombeau_du_duc_Jean_de_Berry_-_restitution_de_P._Gauchery.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-11-18T16:46:53.318852",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Monument funéraire",
+  "contains_works": []
+}
