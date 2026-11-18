@@ -1,0 +1,51 @@
+{
+  "id": "CortegePleurantsJeanDeBerryLouvre",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q115575416",
+  "entry_type": "artwork",
+  "title": "Cortège des pleurants du tombeau du duc Jean de Berry",
+  "creator": [
+    {
+      "xml_id": "EtienneBobillet",
+      "role": "sculpteur"
+    },
+    {
+      "xml_id": "PaulMosselman",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1450,
+    "endYear": 1457,
+    "text": "1450-1457"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Etienne_bobillet_e_paul_mosselmann%2C_coppia_di_dolenti_in_alabastro_da_tomba_di_jean_de_berry_alla_sainte_chapelle_di_bourges_%281416_ca.%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Sailko (https://commons.wikimedia.org/wiki/File:Etienne_bobillet_e_paul_mosselmann,_coppia_di_dolenti_in_alabastro_da_tomba_di_jean_de_berry_alla_sainte_chapelle_di_bourges_(1416_ca.).JPG)",
+      "caption": ""
+    }
+  ],
+  "description": "Le monument funéraire de Jean de Berry était composé du gisant et d'un soubassement démantelé en 1793 : la partie basse, les arcatures et les pleurants ont été dispersés ou détruits. Ce cortège, disposé dans des niches, comprenait 40 pleurants posés sur de petits socles. À ce jour, on comptabilise 29 pleurants retrouvés, exposés à Bourges, mais aussi à Paris, New York, Saint-Pétersbourg et dans d’autres collections. Cinq sont en marbre, issus de la première campagne et l’œuvre de Jean de Cambrai ; 24 pleurants sont en albâtre et attribués à Étienne Bobillet et Paul Mosselman.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-11-18T17:11:13.115555",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Sculpture",
+  "materialsAndTechniques": "Sculpture en marbre et en albâtre",
+  "contained_by_ensemble": {
+    "link_type": "appartient à l'ensemble",
+    "xml_id_work": "MonumentFuneraireJeanDeBerry"
+  }
+}
