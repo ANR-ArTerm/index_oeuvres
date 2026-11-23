@@ -1,0 +1,46 @@
+{
+  "id": "PalaisDesPapesAvignon",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q143463",
+  "entry_type": "building",
+  "title": "Palais des papes",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1317,
+    "endYear": 1317,
+    "text": "1317"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Avignon",
+      "country": "France",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/00_0711_Avignon_%28Frankreich%29_-_Kathetrale_und_Papstpalast.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, W. Bulach (https://commons.wikimedia.org/wiki/File:00_0711_Avignon_(Frankreich)_-_Kathetrale_und_Papstpalast.jpg?lang=fr)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-11-23T17:45:14.185152",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Palais",
+  "contained_by_ensemble": {}
+}
