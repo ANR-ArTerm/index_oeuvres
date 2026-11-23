@@ -1,0 +1,47 @@
+{
+  "id": "PontSaintEspritEntrePontSaintEspritLamotteDuRhone",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3397494",
+  "entry_type": "building",
+  "title": "Pont du Saint-Esprit",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1265,
+    "endYear": 1309,
+    "text": "1265-1309"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Chiaravalle",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Pont_m%C3%A9di%C3%A9val_Pont-Saint-Esprit_FRA_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Ignis (https://commons.wikimedia.org/wiki/File:Pont_m%C3%A9di%C3%A9val_Pont-Saint-Esprit_FRA_001.jpg?lang=fr)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-11-23T17:32:43.882107",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "pont",
+  "materialsAndTechniques": "Pierre",
+  "contained_by_ensemble": {}
+}
