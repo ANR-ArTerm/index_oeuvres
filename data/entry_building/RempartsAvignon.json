@@ -1,0 +1,46 @@
+{
+  "id": "RempartsAvignon",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1516274",
+  "entry_type": "building",
+  "title": "Remparts d'Avignon",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1,
+    "endYear": 1488,
+    "text": "Ier - XVe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Avignon",
+      "country": "France",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Remparts_%C3%A0_Avignon.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original&uselang=fr",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, Marianne Casamance (https://commons.wikimedia.org/wiki/File:Remparts_%C3%A0_Avignon.JPG?uselang=fr#Conditions%20d%E2%80%99utilisation)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-11-23T17:38:11.039948",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Murailles",
+  "contained_by_ensemble": {}
+}
