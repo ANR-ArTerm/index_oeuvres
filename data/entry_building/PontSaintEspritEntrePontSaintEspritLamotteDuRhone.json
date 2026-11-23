@@ -12,8 +12,8 @@
   "location": {
     "type": "place",
     "place": {
-      "city": "Chiaravalle",
-      "country": "Italie",
+      "city": "PontSaintEsprit",
+      "country": "France",
       "coordinates": {
         "latitude": "",
         "longitude": ""
@@ -38,10 +38,15 @@
       "date": "2026-11-23T17:32:43.882107",
       "type": "created",
       "author": "Carla"
+    },
+    {
+      "date": "2026-11-23T18:37:43.773353",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
   "status_entry": 0,
-  "typology": "pont",
+  "typology": "Pont",
   "materialsAndTechniques": "Pierre",
   "contained_by_ensemble": {}
 }
