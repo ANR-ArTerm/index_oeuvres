@@ -1,7 +1,14 @@
 from SPARQLWrapper import SPARQLWrapper, JSON
 import csv
+from urllib.parse import quote
 
 from modules.wikidata.data_treatment import extract_wikidata_id, get_first_or_none, parse_group_concat, get_first_and_last_year
+from modules.wikidata.artwork_queries import (
+    _commons_image_metadata,
+    _extract_year,
+    _get_entity,
+    _get_entity_labels,
+)
 
 def get_monument_data(url):
     qid = extract_wikidata_id(url)
@@ -49,7 +56,28 @@ def get_monument_data(url):
     sparql.setReturnFormat(JSON)
     results = sparql.query().convert()
 
-    row = results["results"]["bindings"][0]
+    bindings = results["results"]["bindings"]
+    if not bindings:
+        return {
+            "title": "",
+            "year": None,
+            "end_year": None,
+            "creator_qids": [],
+            "creator_labels": [],
+            "institutions": [],
+            "images": [],
+            "instance_of": [],
+            "instance_of_labels": [],
+            "first_year": None,
+            "last_year": None,
+            "image": None,
+            "country": None,
+            "city": None,
+            "latitude": None,
+            "longitude": None,
+            "architects": [],
+        }
+    row = bindings[0]
 
     # Lecture des variables brutes
     inception_list = parse_group_concat(row.get("inception", {}).get("value"))
@@ -74,9 +102,60 @@ def get_monument_data(url):
     first_country = get_first_or_none(country_list)
     first_year, last_year = get_first_and_last_year(inception_list)
 
+    entity = _get_entity(qid)
+    claims = entity.get("claims", {})
+    labels = entity.get("labels", {})
+
+    title = next(
+        (labels[language]["value"] for language in ("fr", "it", "en") if language in labels),
+        "",
+    )
+
+    end_year = None
+    for claim in claims.get("P576", []):
+        if claim.get("rank") == "deprecated":
+            continue
+        value = claim.get("mainsnak", {}).get("datavalue", {}).get("value")
+        if isinstance(value, dict):
+            end_year = _extract_year(value.get("time", ""))
+            if end_year is not None:
+                break
+
+    creator_qids = list(dict.fromkeys(
+        value["id"]
+        for claim in claims.get("P84", [])
+        if isinstance((value := claim.get("mainsnak", {}).get("datavalue", {}).get("value")), dict)
+        and value.get("id")
+    ))
+    entity_labels = _get_entity_labels(list(dict.fromkeys(
+        creator_qids + instance_of_list
+    )))
+
+    image_urls = []
+    for claim in claims.get("P18", []):
+        filename = claim.get("mainsnak", {}).get("datavalue", {}).get("value")
+        if isinstance(filename, str) and filename:
+            image_urls.append(
+                f"https://commons.wikimedia.org/wiki/Special:FilePath/{quote(filename)}"
+            )
+    images = _commons_image_metadata(image_urls)
 
     # Variables finales
     monument_data = {
+        "title": title,
+        "year": first_year,
+        "end_year": end_year,
+        "creator_qids": creator_qids,
+        "creator_labels": [
+            entity_labels.get(creator_qid, creator_qid)
+            for creator_qid in creator_qids
+        ],
+        "institutions": [],
+        "images": images,
+        "instance_of_labels": [
+            entity_labels.get(qid_value, qid_value)
+            for qid_value in instance_of_list
+        ],
         "first_year": first_year,
         "last_year": last_year,
         "instance_of": instance_of_list,

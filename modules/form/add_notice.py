@@ -273,7 +273,7 @@ def _prefill_title_and_date(xml_id, notice, data):
             st.session_state[f"{xml_id}_{key_suffix}"] = value
 
 
-def _prefill_creators(xml_id, notice, data):
+def _prefill_creators(xml_id, notice, data, missing_label="artistes"):
     """Ajoute les créateurs Wikidata déjà connus dans la liste des personnes."""
     persons = load_list_form("persons")
     creator_ids = wikidata_to_xml_ids_or_qid(data["creator_qids"], key="people")
@@ -306,7 +306,7 @@ def _prefill_creators(xml_id, notice, data):
     if missing:
         names = ", ".join(dict.fromkeys(missing))
         st.warning(
-            "Ces artistes Wikidata ne sont pas encore dans la liste des artistes : "
+            f"Ces {missing_label} Wikidata ne sont pas encore dans la liste correspondante : "
             f"{names}. Ajoutez-les à la liste pour pouvoir les associer à la notice."
         )
 
@@ -388,7 +388,25 @@ def _apply_artwork_data(xml_id, notice, data):
 # --- 3.4 Préremplissage : bâtiment ------------------------------------------
 
 def _apply_building_data(xml_id, notice, data):
-    """Ville, pays (si connus dans la liste des lieux) et coordonnées."""
+    """Titre, dates, architectes, typologie, lieux et illustrations."""
+    _prefill_title_and_date(xml_id, notice, data)
+    _prefill_creators(xml_id, notice, data, missing_label="architectes")
+    _prefill_images(notice, data)
+
+    if not notice.get("typology"):
+        typologies = load_list_form("typologies_architecture")
+        typology = next(
+            (
+                match_existing_label(label, typologies)
+                for label in data.get("instance_of_labels", [])
+                if match_existing_label(label, typologies)
+            ),
+            None,
+        )
+        if typology:
+            notice["typology"] = typology
+            st.session_state[f"{xml_id}_building_typology"] = typology
+
     location = notice.get("location")
     if not isinstance(location, dict):
         location = {"type": "place", "place": {}}
