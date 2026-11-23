@@ -1,0 +1,51 @@
+{
+  "id": "PalaisDuVatican",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q145093",
+  "entry_type": "building",
+  "title": "Palais du Vatican",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1589,
+    "endYear": 1589,
+    "text": "1589"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "œuvre associée",
+      "xml_id_work": "BasiliqueSaintPierreRome"
+    }
+  ],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Saint_Peter%27s_Square_-_Vatican_City_-_DSC00638.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC0 1.0, Daderot (https://commons.wikimedia.org/wiki/File:Saint_Peter%27s_Square_-_Vatican_City_-_DSC00638.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-11-23T18:19:59.436460",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Palais",
+  "contained_by_ensemble": {}
+}
