@@ -1,0 +1,46 @@
+{
+  "id": "PontSaintBenezetAvignon",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q284444 ",
+  "entry_type": "building",
+  "title": "Pont d'Avignon",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1177,
+    "endYear": 1177,
+    "text": "1177"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Avignon",
+      "country": "France",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Le_pont_d%27Avignon_depuis_l%27%C3%AEle_de_la_Barthelasse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 2.0 fr, Chimigi (https://commons.wikimedia.org/wiki/File:Le_pont_d%27Avignon_depuis_l%27%C3%AEle_de_la_Barthelasse.jpg?lang=fr)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-11-23T17:41:55.630148",
+      "type": "created",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Pont",
+  "contained_by_ensemble": {}
+}
