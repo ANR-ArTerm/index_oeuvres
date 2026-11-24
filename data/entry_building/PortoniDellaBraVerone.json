@@ -1,0 +1,46 @@
+{
+  "id": "PortoniDellaBraVerone",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3909325",
+  "entry_type": "building",
+  "title": "Portoni della Bra à Verone",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1485,
+    "endYear": 1515,
+    "text": "entre XVe et XVIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Verone",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Portoni_della_Bra.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Didier Descouens (https://commons.wikimedia.org/wiki/File:Portoni_della_Bra.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-11-24T16:42:02.114030",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Porte",
+  "contained_by_ensemble": {}
+}
