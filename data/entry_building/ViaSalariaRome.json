@@ -1,0 +1,46 @@
+{
+  "id": "ViaSalariaRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q549998",
+  "entry_type": "building",
+  "title": "Via Salaria entre Rome et Ascoli",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": null,
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Viae_Flaminia_Salaria_Tiburtina.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, EH101, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Viae_Flaminia_Salaria_Tiburtina.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-11-26T11:41:23.410274",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Voie",
+  "contained_by_ensemble": {}
+}
