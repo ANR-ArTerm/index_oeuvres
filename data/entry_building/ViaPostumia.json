@@ -1,0 +1,46 @@
+{
+  "id": "ViaPostumia",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q786254",
+  "entry_type": "building",
+  "title": "Via Postumia",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -200,
+    "endYear": -100,
+    "text": "IIe siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": null,
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Postumia.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, PentiiH, CC BY-SA 3.0, (https://commons.wikimedia.org/wiki/File:Postumia.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-11-26T12:01:11.676862",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Voie",
+  "contained_by_ensemble": {}
+}
