@@ -1,0 +1,46 @@
+{
+  "id": "ViaLatinaRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1230599",
+  "entry_type": "building",
+  "title": "Via Latina entre Rome et Capoue",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -300,
+    "endYear": -200,
+    "text": "entre IVe et III siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": null,
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Parco_Tombe_della_Via_Latina_06.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Crocerto68, public domain (https://commons.wikimedia.org/wiki/File:Parco_Tombe_della_Via_Latina_06.JPG)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-11-26T11:46:19.828529",
+      "type": "created",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "Voie",
+  "contained_by_ensemble": {}
+}
